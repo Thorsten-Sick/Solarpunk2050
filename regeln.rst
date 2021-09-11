@@ -20,4 +20,4 @@ Fundamentalisten: Freund/Feind Schema: Ein klares Freund Feind Schema. Erst wenn
 
 Fertigkeiten
 ------------
-Biohacking, Kochen (oder größer), Technik Hacking (Sachen mit Geräten machen, für die diese nicht vorgesehen waren), Logistik (Dinge herbekommen, verschicken, Nomaden Routen)
+Biohacking, Kochen (oder größer), Technik Hacking (Sachen mit Geräten machen, für die diese nicht vorgesehen waren), Logistik (Dinge herbekommen, verschicken, Nomaden Routen), Bushcraft

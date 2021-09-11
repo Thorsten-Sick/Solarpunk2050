@@ -19,3 +19,6 @@ Abenteuer
 * Terror Anschlag auf Solarzellen Gigafactory (verhindern, aufklären, ...)
 * ??? Mutanten Jagd: Eine Gruppe Mutanten hat eine benachbarte Community überfallen und sich dort festgesetzt. Die Bewohner sind vermutlich tot ???
 * Eine Firma will ein Auto-Typ aus Recycling Material fertigen. Ein paar Tausend Fahrzeuge. Jetzt muss man ein großes Lager aus historischem Material gefunden werden um es zu recyclen. Das können bestimmte Güter eines Typs sein (500 Trabis, weil sie aus dem richtigen Plastik für das Handschuhfach gefertigt sind, ...)
+* Für eine bereundete Gruppe Verlorener "Echte Tiere zum grillen" aus einem Naturschutz Gebiet stehlen
+* In einem Naturschutz Gebiet (in dem eine aufgegebene Stadt ist) soll es "Schätze" geben. Evtl. ein nicht geleerter Bank Tresor. Oder etwas im ALger des Museums, das vor 20 Jahren dort vergessen wurde. Inzwischen ist natürlich die Natur zurück.
+* Um eine natürliche Balance in einem Naturschutz Gebiet wieder herzustellen sind Wölfe auszuwildern. Gefällt aber nicht allen.

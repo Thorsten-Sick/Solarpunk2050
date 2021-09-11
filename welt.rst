@@ -133,6 +133,34 @@ Beispiel: Ben hat seine Augen-Cyberware gehackt. Er hat die morgendliche Werbeei
 
 Zitat: "Kannst du mir mal deine Hand leihen ?"
 
+Wildnis
+-------
+
+Zwischen den Jahren 2020 und 2050 wurden viele Gebiete Deutschlands zu Wildnis erklärt. Doch hier gibt es viele Varianten und Kombinationen davon:
+
+Zugänglichkeit
+~~~~~~~~~~~~~~
+
+* Kommerzieller Natur Erlebnis Park mit Fahrgeschäften
+* Wanderpfade mit Rangern. Nationalpark Charakter
+* Teil-bewirtschaftet (Holz, Heilkräuter)
+* Betreten nur mit Einladung und Führer
+* Kein Betreten für Unbefugte, vom Aussterben bedrohte Pflanzen und Tiere
+* Kein Betreten. Lebensgefahr
+
+Typen
+~~~~~
+
+* Renaturierung zur CO2 Speicherung
+* Renaturierung zur Erhaltung der Biodiversität (bedrohte Tiere und Pflanzen)
+* Neuansiedlung ehemals heimischer Tiere und Pflanzen
+* Experimentelle Ansiedlung von Tieren und Pflanzen ( Bisons, ...). Oft als Experiment wie die jeweils mit Klimawandel klar kommen
+* Überschwemmungsfläche
+
+Ein häufiger Grund für das Ausrufen eines Schutzgebietes war nach 2020 in Überflutungsbereichen. Wurde eine Stadt mehrfach durch Katastrophen überflutet und hatte eine schlechte Prognose, war es einfacher Risiko Materialien zu entfernen (Heizöl Tanks !), die Leute umzusiedeln und die Natur den Bereich übernehmen zu lassen.
+
+
+
 Technologie
 -----------
 
@@ -169,7 +197,7 @@ Lasercutter/3D Drucker/CNC Maschinen: Haben es im Jahr 2020 bereits aus den Fabr
 
 CCS: Damals dachte man, die Verpressung von CO2 in unterirdische Kavernen würden einen großen Beitrag zur CO2 Reduzierung liefern. Aber einen größeren Anteil hatten die vielen dezentralen Biochar Zentren. Die Technologie, aus organischen Abfällen Kohle herzustellen, die dann als Dünger auf Felder aufgrbacht wird - und damit der Atmosphäre entzieht. Die technologie ist uralt und relativ simpel. Viele Communities nutzen das heute um einen regelmäßigen Finanzmittel Fluß von der EU zu garantieren.
 
-Fleisch: Farmen produzieren tierisches Fleisch. Dafür werden Tiere gezüchtet und in kleinen Gruppen perfekt artgerecht gehalten. Das Fleisch selbst wird aber in angeschlossenen Fabriken in Laboren gezüchtet. Hierfür werden den Tieren einige Zellen abgenommen und diese in Brutschalen zu Fleisch stücken vermehrt. Das ist extrem Wasser und Energieeffizient. CO2 wird praktisch keines emmitiert. Die perfekte Einstellung der Brutschalen ist oft Betreibsgeheimnis. Diese bestimmt Zähigkeit, Geschmack, saftigkeit und Fett-durchwuchs des Fleischs. Die Tierhaltung als Roh-quelle für die Zellen ist ebenfalls vom Können der Bauern abhängig. Ebenso die schlaue Zucht der Tiere - diese müssen endlich nicht mehr auf "Fleischertrag pro Tier" optimiert werden sondern auf Geschmack und andere tierfreundliche Parameter (Verhalten, ...). Tierhaltung und Fleischproduktion müssen nicht am selben Ort stattfinden. Der handel mit Röhrchen voller gekühlter Hoch-qualitäts Zellen ist sehr lukrativ. 2020 war das alles noch am Anfang (https://www.golem.de/news/labor-edelfleisch-forscher-praesentieren-wagyu-steak-aus-dem-3d-drucker-2108-159187.html).
+Fleisch: Farmen produzieren tierisches Fleisch. Dafür werden Tiere gezüchtet und in kleinen Gruppen perfekt artgerecht gehalten. Das Fleisch selbst wird aber in angeschlossenen Fabriken in Laboren gezüchtet. Hierfür werden den Tieren einige Zellen abgenommen und diese in Brutschalen zu Fleisch stücken vermehrt. Das ist extrem Wasser und Energieeffizient. CO2 wird praktisch keines emmitiert. Die perfekte Einstellung der Brutschalen ist oft Betreibsgeheimnis. Diese bestimmt Zähigkeit, Geschmack, saftigkeit und Fett-durchwuchs des Fleischs. Die Tierhaltung als Roh-quelle für die Zellen ist ebenfalls vom Können der Bauern abhängig. Ebenso die schlaue Zucht der Tiere - diese müssen endlich nicht mehr auf "Fleischertrag pro Tier" optimiert werden sondern auf Geschmack und andere tierfreundliche Parameter (Verhalten, ...). Tierhaltung und Fleischproduktion müssen nicht am selben Ort stattfinden. Der handel mit Röhrchen voller gekühlter Hoch-qualitäts Zellen ist sehr lukrativ. 2020 war das alles noch am Anfang (https://www.golem.de/news/labor-edelfleisch-forscher-praesentieren-wagyu-steak-aus-dem-3d-drucker-2108-159187.html ) . Ein weiterer Job der entstanden ist ist Fleisch Designer. Am Computer werden Fleisch stücke (Muskelfasern, Bindegewebe, Fett) je nach Verwenduingszweck zusammengestellt und kann danach ausgeliefert werden. Für Zwecke wie Grillen gibt es dadurch äußerst schmackhafte Varianten, die nicht durch die Natur beschränkt werden.
 
 Milch: Milch wird ähnlich wie Fleisch in technischen Prozessen produziert. Von speziell gezüchteten Tieren wird genetisches Material entnommen und in einem kleinen Gen-Labor (gibt es für wenig Geld) in Hefe Zellen integriert. Die Zuch der Hefe Zellen ist jedem Kind bekannt. Und mit etwas Zucker, Engergie und Wärme kann man in Stahl tanks diese vermehren und schon nach einigen Stunden die ersten Milch abschöpfen, filtern und trinken. Sauberer und reiner als direkt von Tieren. Standardmäßig setzen Landwirt auf nicht exotische Milch. Von Kühen, Schafen, Ziegen. Natürlich gibt es auch genügend Bauern, die die Herausforderung gerne annehmen, andere Milch zu produzieren. Und wieder einmal hat die Hefezelle als eine der ersten Nahrungsmittel Verarbeitungs-Technologien ihren Dienst erwiesen (man denke hier an Bier und Brot).
 
@@ -180,3 +208,9 @@ Presse: Blogs und Video haben oft klassische Presse ersetzt. Auch Wikis für Fak
 Bildung: Im Jahr 2020 war Frontalunterricht, wie ihn bei uns die Norms genießen weit verbreitet. Projekt orientierter Unterricht war im Entstehen aber nicht weit etabliert. Im Zuge der Seuchen der 20er wurde vermehrt zum Frontalunterricht und der Online Variante Video-Konferenz 1:n gewechselt. Damals gab es aber bereits in weniger etablierten Bereichen von Bürgern organisierte Bildung. Dies war hauptsächlich im technischen Bereich. https://media.ccc.de und  https://www.ccc.de/schule
 
 Datenverbindung: Im Jahr 2020 war es im allgemeinen nicht üblich, Glasfaser Kabel zu verlegen. Über die Kupferkabel waren weit weniger als die 1 GBit/s schaffbar, die heute Mindeststandard sind. Funknetzwerke hatten eine sehr schlechte Abdeckung und waren (wie heute) von Großkonzernen zur Verfügung gestellt. Aber damals gabe es bereits Anfänge der Solarpunk Projekte, die uns heute unabhängig von den Konzernen Netzwerkzugang sichern. Freifunk war die Keimzelle: https://freifunk.net/ . Sie bauten damals nur Funk WLANs auf. Damals dachte niemand, dass sie wild Glasfaser legen würden oder Satelliten betreiben. In 30 Jahren ist viel passiert.
+
+Insekten: Insekten sind eine großartige Proteinquelle mit der schon im Jahr 2020 vorsichtig experimentert wurde. Was damals noch als abenteuerliches Spezialessen im Supermarkt verkauft wurde ist heute in drei Formen zu erhalten:
+* Als Tierfutter für Schweine und Fische.
+* Als "getarnte" Proteinquelle in hochverarbeiteten Lebensmitteln für Norms ("Protein Pudding mit tierischen Proteinen", "Kraft Riegel"). Eigentlich weiss es jeder, steht auch im Kleingedruckten, aber man redet unter Norms weniger darüber. Lecker sind die Dinger allemal. Kein Wunder. Da steht auch Food-Forschung der ganz großen Unternehmen dahinter
+* Als Spezialität. Wird besonders von Solarpunks geschätzt, die keine Berührungsängste haben. Süßkartoffeln mit scharfen Heuschrecken machten einen Koch der Nomaden berühmt. Es lohnt sich, herauszufinden, wo dieser gerade unterwegs ist.
+Die Zucht der Insekten kann durch Konzerne in Lagerhallen großen Komplexen erfolgen. Oft aber auch direkt durch Solarpunks in umrüstbaren Containern. "Hat heute mal wer Lust, ein paar hundert Kilo Heuschrecken zu züchten ?". Problematisch ist das alles nicht. Nur leider sind die Zuchtanlagen häufig Ziele von Angriffen von Verlorenen oder Fundamentalisten, die denken die Idee "Eine biblische Heuschreckenplage über der Stadt" ist doch ein tolles und vor allem originelles Symbol.
