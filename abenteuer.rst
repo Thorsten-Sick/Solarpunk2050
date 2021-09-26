@@ -2,7 +2,7 @@ Abenteuer
 =========
 
 * Mit den Nomaden durch die Pampa, etwas abholen
-* Disaster Recover: Zoo geflutet. Tiere jagen
+* Disaster Recovery: Zoo geflutet. Tiere jagen
 * Disaster Recovery: Man versucht an einem Unglücksort zu helfen. Gleichzeitig kommen Verlorene um zu Plündern
 * Wettrennen um Patente: Ein Prototyp muss gebaut werden bevor ein Patent von einem Konzern angemeldet wird. Der spielt nicht fair
 * Deal mit dem Feind: Man beötigt etwas von einem Verlorenen (Hilfe, alte Technik wieder zum laufen zu bekommen)
@@ -11,14 +11,19 @@ Abenteuer
 * Jährlicher freundschaftlicher Wettkampf zwischen zwei Communities. Ziel wäre etwas produktives zu Gestalten. Wie der eigenen Stadt in möglichst kurzer Zeit einen Fußballplatz zu bauen und eine Mannschaft aus Straßenkindern zu trainieren, damit die gegeneinander antreten können. Hinterher gibt es ein gemeinsames Fest.
 * Als Kampagne: Eine Community aufbauen
 * Einen illegalen Cyberware tuning Service aufmachen
-* Dumpster diving für essentielles oderSpezielle Ware. Kann eine Art Shadowrun zum Mülleimer werden. Planung, Ablenkung, Security
+* Dumpster diving für essentielles oder spezielle Ware. Kann eine Art Shadowrun zum Mülleimer werden. Planung, Ablenkung, Security
 * Spezielle Tiere finden/entführen für die Zucht. Daraus wird Labor Fleisch und Milch hergestellt....Wale geben Milch....
 * Ein Priester braucht Unterschlupf. Die Inquisition verfolgt ihn wohl. Doch warum ?
 * Ein Judge braucht Unterstützung. Eigentlich ist sie sehr erfahren im schlichten. Aber hier sind gewalttätige Elemente beteiligt....
 * Eine externe Gruppe, die eindeutig im Unrecht ist, erkennt das Urteil eines Judges nicht an
 * Terror Anschlag auf Solarzellen Gigafactory (verhindern, aufklären, ...)
-* ??? Mutanten Jagd: Eine Gruppe Mutanten hat eine benachbarte Community überfallen und sich dort festgesetzt. Die Bewohner sind vermutlich tot ???
-* Eine Firma will ein Auto-Typ aus Recycling Material fertigen. Ein paar Tausend Fahrzeuge. Jetzt muss man ein großes Lager aus historischem Material gefunden werden um es zu recyclen. Das können bestimmte Güter eines Typs sein (500 Trabis, weil sie aus dem richtigen Plastik für das Handschuhfach gefertigt sind, ...)
-* Für eine bereundete Gruppe Verlorener "Echte Tiere zum grillen" aus einem Naturschutz Gebiet stehlen
+* Mutanten Jagd: Eine Gruppe Mutanten hat eine benachbarte Community überfallen und sich dort festgesetzt. Die Bewohner sind vermutlich tot
+* Eine Firma will ein Auto-Typ aus recycling Material fertigen. Ein paar Tausend Fahrzeuge. Jetzt muss man ein großes Lager aus historischem Material gefunden werden um es zu recyclen. Das können bestimmte Güter eines Typs sein (500 Trabis, weil sie aus dem richtigen Plastik für das Handschuhfach gefertigt sind, ...)
+* Für eine befreundete Gruppe Verlorener "Echte Tiere zum grillen" aus einem Naturschutz Gebiet stehlen
 * In einem Naturschutz Gebiet (in dem eine aufgegebene Stadt ist) soll es "Schätze" geben. Evtl. ein nicht geleerter Bank Tresor. Oder etwas im ALger des Museums, das vor 20 Jahren dort vergessen wurde. Inzwischen ist natürlich die Natur zurück.
 * Um eine natürliche Balance in einem Naturschutz Gebiet wieder herzustellen sind Wölfe auszuwildern. Gefällt aber nicht allen.
+* Der Bruder eines der Charaktere ist nicht bei den Solarpunks, sondern bei einer anderen Gruppe (Normale, Verlorene). Solange es nicht um Politik geht, versteht man sich aber prima. Das kann neue Abenteuer im Dienst dieser Gruppe eröffnen.
+* Einer der Verlorenen will einen Themen Park aufbauen. "Die Goldenen 1990er". Mit Videothek, Staus, Diesel, ... alles was damals gut war. Er braucht Hilfe
+* Mentor der Verlorenen: Ein Verlorener will den "Alten Weg" lehren. Wie es damals war, die guten Sachen. Diesel Autos reparieren, Tiere ausnehmen. Nicht fein, aber maybe akzeptabel. Nur kommen viele seiner Schüler auf Abwege und nähern sich der dunken Seite. Er braucht Hilfe
+* Anonymous macht Aktionen gegen böse Menschen und braucht physische Hilfe (während sie ja um anonym zu bleiben nur online agieren)
+* Goldgräberstimmung: In einem Schutzgebiet um eine ehemalige Stadt liegt eine Müllhalde. Dort sind besonders viele Elektronik Produkte. Gerade entsteht dort in einer rechtlichen Grauzone eine fast schon klassische Goldgräberstadt. Mit den klassischen Persönlichkeiten und Problemen.
