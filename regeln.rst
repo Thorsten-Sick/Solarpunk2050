@@ -1,11 +1,7 @@
 Regeln
 ======
 
-Im Regelfall spielen Spieler Solarpunks oder Nomaden. Die anderen Gruppen sind eher für Antagonisten gedacht.
-
-Jeder Charakter sollte Verbindung zu 2 anderen Communities haben, die andere "Themen" beackern. Diese Verbindungen können als technische Unterstützung bei Problemen genutzt werden.
-
-Es hilft für die Spieler eine Community auszuarbeiten und ihr einen eigenen Charakterbogen zu gönnen. NSCs können nach der Erschaffung der Spielercharaktere die Ränge füllen.
+Im Regelfall spielen Spieler Solarpunks oder Nomaden. Die anderen Gruppen sind eher für Antagonisten gedacht. Jeder Charakter sollte Verbindung zu 2 anderen Communities haben, die andere "Themen" beackern. Diese Verbindungen können als technische Unterstützung bei Problemen genutzt werden. Es hilft für die Spieler eine Community auszuarbeiten und ihr einen eigenen Charakterbogen zu gönnen. NSCs können nach der Erschaffung der Spielercharaktere die Ränge füllen.
 
 Fate Accelerated wird genutzt. Damit fehlen zwar Fertigkeiten, es ist aber passender für ein schnelles, launiges Spiel. Evtl. bringe ich irgendwann die Fate Core Erweiterung mit eine sauberen Fertigkeitenliste.
 
@@ -16,9 +12,9 @@ Spezielle Aspekte
 
 Bei der Erschaffung von Charakteren wird der letzte Aspekt etwas zweckentfremdet. Je nach Grupierung ist der aus einer bestimmten Kategorie zu nehmen. Plus: Dieser Aspekt ist erfüllbar/erreichbar. Sollte der Charakter dieses Ziel erreichen, wird die Spielleitung mit der Spielerin zusammen einen neuen setzen.
 
-**Solarpunk**: Aspekt "Nächstes Projekt". Ein Projekt zum umsetzen. Dies ist eines der aktuellen Hauptziele des Charakters. Er wird mehrere Schritte benötigen, um den zu erreichen. Das können neue Bekanntschaften mit speziellen fErtigkeiten, Werkzeuge oder Bauteile sein. Beispiel: "Vollautomatische Bierbrau Anlage aufstellen um Stadt zu versorgen", "Mittel Bio Hacking Chillies züchten, die zuerst fruchtig schmecken und nach 10 Sekunden extra scharf werden", "Video Studio in Dachboden einbauen".
+**Solarpunk**: Aspekt "Nächstes Projekt". Ein Projekt zum umsetzen. Dies ist eines der aktuellen Hauptziele des Charakters. Er wird mehrere Schritte benötigen, um den zu erreichen. Das können neue Bekanntschaften mit speziellen Fertigkeiten, Werkzeuge oder Bauteile sein. Beispiel: "Vollautomatische Bierbrau Anlage aufstellen um Stadt zu versorgen", "Mittels Bio Hacking Chillies züchten, die zuerst fruchtig schmecken und nach 10 Sekunden extra scharf werden", "Video Studio in Dachboden einbauen".
 
-**Nomade**: Sehnsuchtsziel. Ein Ort, ein Ereignis, eine PErson als nächstes Sehnsuchtsziel des Nomaden. Über verschlungene Wege wird die Reise dorthin führen
+**Nomade**: Sehnsuchtsziel. Ein Ort, ein Ereignis, eine Person als nächstes Sehnsuchtsziel des Nomaden. Über verschlungene Wege wird die Reise dorthin führen
 
 **Norm**: Konsumziel. Etwas, was ihm die Werbung versprochen hat. Ist das Ziel erfüllt, gibt es ein paar Minuten ein emotionales Hoch. Und das Aspekt wird durch ein neues Konsum Ziel ersetzt.
 

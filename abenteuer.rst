@@ -4,7 +4,7 @@ Abenteuer
 90er Theme Park
 ---------------
 
-Einige der Verlorenen bauen einen 90er Theme Park um die tolle vergangenheit nachzuerleben:
+Einige der Verlorenen bauen einen 90er Theme Park um die tolle Vergangenheit nachzuerleben:
 
 * Im Auto Karten statt Navi verwenden (mit dem üblichen Gezank um die richtige Route)
 * Video Verleih statt digital Ausleihe

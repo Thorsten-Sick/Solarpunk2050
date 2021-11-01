@@ -1,26 +1,28 @@
 Menschen und Communities
 ========================
 
+Beispiele für Menschen und Communities in Solarpunk
+
 Bruno's und Rita's vollmechanisierte grüne Oase
 -----------------------------------------------
 
 Während der Kaffe auf dem Herd kocht zieht Bruno Hebel 3 und 6. Seilzüge und ein ausgeklügeltes Bewässerungssystem lenken Wasser zu den Erdbeeren. Er zieht den Wecker auf. In wenigen Minuten wird er die Bewässerung stoppen.
 
-Bruno und Rita leben auf dem Land. Sie sind eng vermascht mit den Nachbarn und leben vom regen Tauschhandel. Hühnereier gegen Chillies. Kräuter gegen Laufenten - die fressen Schnecken. Bruno hat um das Haus herum einen mechanisierten Garten erschaffen, den Rita erfolgreich bewirtschaftet.
+Bruno und Rita leben auf dem Land. Sie sind eng vermascht mit den Nachbarn und leben vom regen Tauschhandel. Hühnereier gegen Chillies. Kräuter gegen Laufenten - die fressen Schnecken und legen Eier. Bruno hat um das Haus herum einen mechanisierten Garten erschaffen, den Rita erfolgreich bewirtschaftet.
 
 * Konzept: Vollmechanisiertes Haus und Garten
 * Dilemma: Alle Tiere hier sind irgendwie komisch
 * Aspekt: Grüne Wohlfühloase ohne Stress
 
-So gut hier alles Läuft. Mit Tieren haben die beiden es nicht so. Obwohl sie es immer probieren. Der Hund ist etwas doof und nicht zu erziehen (aber nicht bösartig). Dafür sind das die beide Laufenten, die eigentlich nur die Schnecken jagen sollen... beide lieben die Tiere und haben hier einen etwas blinden Fleck.
+So gut hier alles Läuft. Mit Tieren haben die beiden es nicht so. Obwohl sie es immer probieren. Der Hund ist etwas doof und nicht zu erziehen aber nicht bösartig. Dafür sind das die beide Laufenten, die eigentlich nur die Schnecken jagen sollen... Bruno und Rita lieben die Tiere und haben hier einen etwas blinden Fleck.
 
 Bruno
 ~~~~~
 
 Ist dauernd am basteln. Projekte findet Rita genug für ihn. Er weigert sich nur ausdauernd, Technik mit Transistoren anzufassen. Vor Stahl, Schweißgeräten und Beton hat er aber keinerlei Respekt und setzt sie ein um Pizzaöfen, Lagerschuppen oder Hochbeete zu bauen. Jüngstes Projekt ist ein durch Hebel gesteuertes Bewässerungssystem für den gesamten Garten.
-Transistoren basierte Technologie (Mikrocontroller) misstraut er, Dank ausgeklügelten Mechaniken und vielen mechanischen Weckern fällt das aber (fast) nicht auf.
+Transistoren basierte Technologie (Mikrocontroller) misstraut er, dank ausgeklügelten Mechaniken und vielen mechanischen Weckern fällt das aber (fast) nicht auf.
 
-Warum ihm immer Werkzeuge fehlen ist nocht nicht geklärt. Er hat sich aber angewöhnt nach 5 Minuten suchen eines zu improvisieren.
+Warum ihm immer Werkzeuge fehlen ist noch nicht geklärt. Er hat sich aber angewöhnt nach 5 Minuten suchen eines zu improvisieren. Später werden die alten Werkzeuge wieder irgendwo gefunden. Könnte mit dem Hund zu tun haben.
 
 Werte:
 

@@ -16,11 +16,11 @@ Solarpunk 2050
 
    menschen_und_communities
 
-   solarpunk
+   .. solarpunk
 
    regeln
 
-   .. abenteuer
+   abenteuer
 
    konzept
 
