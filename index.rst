@@ -20,7 +20,7 @@ Solarpunk 2050
 
    regeln
 
-   abenteuer
+   .. abenteuer
 
    konzept
 
