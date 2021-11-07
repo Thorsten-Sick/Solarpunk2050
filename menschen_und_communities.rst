@@ -6,7 +6,7 @@ Beispiele für Menschen und Communities in Solarpunk
 Bruno's und Rita's vollmechanisierte grüne Oase
 -----------------------------------------------
 
-Während der Kaffe auf dem Herd kocht zieht Bruno Hebel 3 und 6. Seilzüge und ein ausgeklügeltes Bewässerungssystem lenken Wasser zu den Erdbeeren. Er zieht den Wecker auf. In wenigen Minuten wird er die Bewässerung stoppen.
+Während der Kaffee auf dem Herd kocht zieht Bruno Hebel 3 und 6. Seilzüge und ein ausgeklügeltes Bewässerungssystem lenken Wasser zu den Erdbeeren. Er zieht den Wecker auf. In wenigen Minuten wird er die Bewässerung stoppen.
 
 Bruno und Rita leben auf dem Land. Sie sind eng vermascht mit den Nachbarn und leben vom regen Tauschhandel. Hühnereier gegen Chillies. Kräuter gegen Laufenten - die fressen Schnecken und legen Eier. Bruno hat um das Haus herum einen mechanisierten Garten erschaffen, den Rita erfolgreich bewirtschaftet.
 
@@ -29,7 +29,7 @@ Werte:
 * Gruppe: Solarpunk
 * Konzept: Ruheloser Bastler
 * Dilemma: Immer wenn ich Werkzeug brauche fehlt es und ich muss erstmal das basteln
-* Aspekt: Früher ging das aucgh ohne Transistoren
+* Aspekt: Früher ging das auch ohne Transistoren
 * Projekt: Whirlpool für den Garten
 
 * Flink: 1
@@ -85,7 +85,7 @@ Sie nutzt gerne die Gelegenheiten vor Ort und baut Kontakte auf. Manche Institut
 * Würde gerne Isa genannt werden statt "Frau Ko-olb"
 * Kein Schloß hintert sie an ihrem Bildungsauftrag
 * Wissenschaft und Technik ist ihr Metier. MacGyver ist ihr nicht ebenbürtig
-* Alles ist eine Gelgenheit zu lernen und zu lehren. Alles.
+* Alles ist eine Gelegenheit zu lernen und zu lehren. Alles.
 
 
 Werte:
@@ -125,7 +125,7 @@ Werte:
 * Dilemma: Bekommt manchmal auch heisse Ware
 * Aspekt: Ich kenn da jemanden, der bekommt sowas sicher her
 * Aspekt: Mich kennt jeder - und das ist nicht immer gut
-* Projekt: Eine Lasershow auf einen Zeppelin projezieren
+* Projekt: Eine Lasershow auf einen Zeppelin Projizieren
 
 * Flink: 1
 * Kraftvoll: 1
@@ -137,3 +137,22 @@ Werte:
 Stunts:
 
 Weil ich viele Leute und ihre Geheimnisse kenne bekomme ich einen Bonus von +2, wenn ich verhandle und dabei tückisch einen Vorteil erschaffe
+
+Niels Bikes
+-----------
+
+Niels kümmert sich in der Community FH Schwarzwald um die E-Bikes. Jeder der Community (und manche Freunde) haben jederzeit Zugriff auf E-Mountainbikes, E-Lastenräder und eine Kreuzung aus E-Rad und Unimog. Der TÜV findet bei den geprüften Fahrzeugen auch nie irgendwelche Auffälligkeiten.
+
+Wer aber einen von Niels speziellen RFID Token nutzt um die Räder aufzuschließen schaltet seine spezielle Firmware frei. Keine Limitierung auf 26km/h mehr, smarte aktive Federung wird auf proaktiv/aggressiv umgestellt und die Fahrassistenzsystem werden in den "survival of the fittest" Modus geschaltet. Goldcaps unterstützen den Akku bei Beschleunigungen. Verfolgungsrennen mit dem Lastenrad auf Feldwegen bei weit über 60 km/h sollen vorgekommen sein.
+
+Guten Freunden bietet er auch eine anclipbare Waffenhalterung.
+
+
+Anselm und Hildegard
+--------------------
+
+Stellen in der FH Schwarzwald Kuckucksuhren für den weltweiten Export her. Die großen und gut bewirtschafteten Waldstücker der FH (Fichten Hain) Schwarzwald sind hier eine wichtige Ressource. Auch nutzen sie ihren vollautomatischen Shop um mittels Robotern diese Uhren herzustellen. Die Energie hierzu gewinnen sie mittels der Holz-Windräder, die am Baumwipfelpfad angebracht sind.
+
+Aus Liebe zu ihrem metier sind sie aber immer mit mindestens einer Uhr beschäftigt, die sie händisch schnitzen. Nur werden so nie mehr als 5 Uhren pro Jahr fertig. Reparaturen an bestehenden Uhren fressen den Rest ihrer Zeit.
+
+.. Technomancerin

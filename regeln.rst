@@ -10,7 +10,7 @@ Fate Accelerated wird genutzt. Damit fehlen zwar Fertigkeiten, es ist aber passe
 Spezielle Aspekte
 -----------------
 
-Bei der Erschaffung von Charakteren wird der letzte Aspekt etwas zweckentfremdet. Je nach Grupierung ist der aus einer bestimmten Kategorie zu nehmen. Plus: Dieser Aspekt ist erfüllbar/erreichbar. Sollte der Charakter dieses Ziel erreichen, wird die Spielleitung mit der Spielerin zusammen einen neuen setzen.
+Bei der Erschaffung von Charakteren wird der letzte Aspekt etwas zweckentfremdet. Je nach Gruppierung ist der aus einer bestimmten Kategorie zu nehmen. Plus: Dieser Aspekt ist erfüllbar/erreichbar. Sollte der Charakter dieses Ziel erreichen, wird die Spielleitung mit der Spielerin zusammen einen neuen setzen.
 
 **Solarpunk**: Aspekt "Nächstes Projekt". Ein Projekt zum umsetzen. Dies ist eines der aktuellen Hauptziele des Charakters. Er wird mehrere Schritte benötigen, um den zu erreichen. Das können neue Bekanntschaften mit speziellen Fertigkeiten, Werkzeuge oder Bauteile sein. Beispiel: "Vollautomatische Bierbrau Anlage aufstellen um Stadt zu versorgen", "Mittels Bio Hacking Chillies züchten, die zuerst fruchtig schmecken und nach 10 Sekunden extra scharf werden", "Video Studio in Dachboden einbauen".
 
@@ -32,5 +32,5 @@ In der Solarpunk Welt sind neue Fertigkeiten wichtig. Diese können durch Stunts
 * Biohacking (darunter fällt auch Medizin, Genetik, Biochemie)
 * Kochen, Feste organisieren
 * Technik Hacking (Sachen mit Geräten machen, für die diese nicht vorgesehen waren)
-* Logistik (Dinge herbekommen, verschicken, Nomaden Routen kennen)
-* Bushcraft (wichtig in den vielen Naturschutzgebieten)
+* Logistik (Dinge her bekommen, verschicken, Nomaden Routen kennen)
+* Bushcraft (wichtig in den vielen Naturschutzgebiete)

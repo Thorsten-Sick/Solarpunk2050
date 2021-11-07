@@ -1,0 +1,1 @@
+aspell --lang=DE_DE --word-list-path=./aspell -c abenteuer.rst

@@ -2,14 +2,18 @@ Die Solarpunk Welt
 ==================
 
 Solarpunk spielt im Jahr 2050. Die Klimakatastrophe war mit viele Unwetter und Toten. Die Menschheit hat spät gelernt. Der Co2 Ausstoß wurde stabilisiert. Und die Gesellschaft hat sich neu geformt. Um Technologie der Zukunft.
-Die Menschen können in modernen und grün durchwucherten Großstädten ein sehr angenehmes Leben führen. KI Algorithmen sorgen für die Optimierung nach höchstmöglicher Lebensqualität. Und so entstehen Lebensentwürfe, denen die meisten Menschen sehr gerne folgen. Aber nicht alle.
+Die Menschen können in modernen und grün durch wucherten Großstädten ein sehr angenehmes Leben führen. KI Algorithmen sorgen für die Optimierung nach höchstmöglicher Lebensqualität. Und so entstehen Lebensentwürfe, denen die meisten Menschen sehr gerne folgen. Aber nicht alle.
 Denn einige wollen sich nicht von einer KI ein schönes Leben entwerfen lassen. Manche von denen werden Solarpunks.
+
+Diese Solarpunks haben sich zusammen getan in kleinen selbst organisierten Communities. Dort haben sie mittels Kreativität und Wagemut (manche sagen Wahnsinn) neue Formen des Zusammenlebens und der Technologie ergründet um Menschheitsprobleme zu lösen. Als der Druck der Katastrophen auf die restliche Gesellschaft zunahm, hat die schnell die Technologie adaptiert und es tatsächlich geschafft bis 2040 CO2 neutral zu werden. Die Solarpunks haben die Menschheit gerettet. Die Menschheit war dankbar, glücklich und wollte ab jetzt in Ruhe gelassen werden. Doch nichts kann die Solarpunks von weiteren Experimenten und Innovationen abhalten. Und so leben sie weiter in chaotisch-kreativen Communities und es gibt Spannungen mit den Normalen.
+
+Sehr selten sie diese Spannungen gewalttätig. Und doch sind viele Solarpunk Communities bewaffnet. Aber eher um sich gegen die Verlorenen verteidigen zu können. Leute die dem Mythos nachhängen, im Jahr 1990 war alles besser und man möge mit Gewalt dorthin zurück kehren.
 
 
 Konzerne
 --------
 
-Im Jahr 2050 arbeiten die meisten Normalen für einen Konzern. Diese Struktur des Alltagslebens wurde von den meisten Gesellschafts-KIs als Lebensqualitätsfördernd bestimmt. Trotz allem scheinen einige Gewerkschaften sich für weniger Arbeit einzusetzen. Seit einigen Jahren ist die 20 Stundenwoche ein heisses Streitthema (die meisten Arbeiter sind aber noch bei der 25 Stunden Woche).
+Im Jahr 2050 arbeiten die meisten Normalen für einen Konzern. Diese Struktur des Alltagslebens wurde von den meisten Gesellschaft-KIs als Lebensqualitätsfördernd bestimmt. Trotz allem scheinen einige Gewerkschaften sich für weniger Arbeit einzusetzen. Seit einigen Jahren ist die 20 Stundenwoche ein heisses Streitthema (die meisten Arbeiter sind aber noch bei der 25 Stunden Woche).
 
 Konzerne wurden als Künstliche Personen definiert. Damit gelten erweiterte Gesetze und es gibt eine mögliche Todesstrafe für Konzerne. Wird ein Konzern als schädlich und un-kontrollierbar identifiziert, wird er abgewickelt und zerstört.
 Dabei bleiben (bewusst) kleine Reste wie Anlagen und Gelände übrig, die dann versteigert werden. Erlös geht an die lokalen Gemeinden. Die wichtigste Hauptsache ist: der Konzern entsteht nicht wieder neu.
@@ -20,24 +24,24 @@ Viele Konzerne spielen nach den neuen Regeln der Gesellschaft von 2050. Mache ab
 
 In diesem Fall wird der Konzern abgewickelt und die Assets versteigert:
 
-* Die lokale Behörde versteigert Güter, Resourcen und Gebäude
+* Die lokale Behörde versteigert Güter, Ressourcen und Gebäude
 * Teilnahme berechtigt ist jede Gruppe und Person. Außer Bestandteile des alten Konzerns
 * Man muß ein Projektvorschlag vorlegen, der hauptsächlich nach dem Kriterium bewertet wird "Wie nutzt er der lokalen Community"
 * Die Gruppen die bis hierher Erfolg hatten müssen dann darlegen, warum sie die Fähigkeiten haben, ihren Vorschlag auch umzusetzen. Am besten akzeptiert werden existierende Projekte
-* Der Gewinner erhält die Resource und muss diese aber in einem festgelegten Zeitrahmen wie geplant nutzen. Scheitert die Gruppe, kommt die nächste zum Zug.
+* Der Gewinner erhält die Ressource und muss diese aber in einem festgelegten Zeitrahmen wie geplant nutzen. Scheitert die Gruppe, kommt die nächste zum Zug.
 
 
 Kapitalismus
 ------------
 
-Das Ökonomische System ist weiterhin der Kapitalismus. Aber dank den beiden Haupt-Kriterien für die Gesellschaft (Ökologie und Lebensqualität) ist er neu ausgestaltet. Grenzeloses Wachstum ist nicht möglich. Recycling des alten Produkts ist teils in den Neukauf integriert. Arbeit ist Teil der Lebensqualität.
+Das Ökonomische System ist weiterhin der Kapitalismus. Aber dank den beiden Haupt-Kriterien für die Gesellschaft (Ökologie und Lebensqualität) ist er neu ausgestaltet. Grenzenloses Wachstum ist nicht möglich. Recycling des alten Produkts ist teils in den Neukauf integriert. Arbeit ist Teil der Lebensqualität.
 
 * Qualität statt Quantität
 * Leihen/Mieten statt besitzen. Viele Produkte nutzen Flatrates, wenn möglich (aktuell gibt es diese Verschiebung bei Musik/Filmen)
 * Sharing is Caring (Gruppen haben Maschinen und Expertise für einen Projekt Typ. Werden dann gezielt angefragt).
 * Konzerne setzen noch auf Patente. Communities eher auf Reputation durch Teilen der Infos und Pläne. Das kann zu Wettrennen führen (Abenteuer !) oder Sabotage/Spionage
 * Zwischen Communities ist eher der Austausch als Kapital interessant
-* Die EU steuert sehr viele Projekte über CO2 Preis. Das Geld eintreiben funktioniert prima bei CO2 Emmitenten (manche versuchen zu betrügen, sorgt für Firmen Todesstrafe). Andererseits kann man auch zuverläsig Geld verdienen durch CCS Technologien (Verkohlen von Bio Müll, dass dann als Terra Preta verbuddeln. O.Ä.)
+* Die EU steuert sehr viele Projekte über CO2 Preis. Das Geld eintreiben funktioniert prima bei CO2 Emittenten (manche versuchen zu betrügen, sorgt für Firmen Todesstrafe). Andererseits kann man auch zuverlässig Geld verdienen durch CCS Technologien (Verkohlen von Bio Müll, dass dann als Terra Preta verbuddeln. O.Ä.)
 
 Der Euro ist weiterhin Währung.
 
@@ -56,7 +60,7 @@ Der Wandel begann im Jahr 2035, als sich der neue Papst plakativ zu "Ratzinger I
 
 Diese Gewaltorgie der Inquisition zwang viele Katholiken eine Seite zu wählen.
 
-Die Wahl des nächsten Papstes fiel einfacher aus. Frederico - ein Reformer - wurde schnell zum Papst ernannt. Er ging als Magdalena I als erster Transsexueller Papst in die Geschichte ein. Ihre Regentschaft dauert weiterhin an und ist sehr erfolgreich. Obwohl sie die Kontrolle über die Inquisition (aka Kongretation für Glaubenslehre https://de.wikipedia.org/wiki/Kongregation_f%C3%BCr_die_Glaubenslehre) verloren zu haben scheint. Aber die Schweizer Garde konnte bisher alle Mordanschläge auf die Päpstin oder andere Kirchenvertreter verhindern.
+Die Wahl des nächsten Papstes fiel einfacher aus. Frederico - ein Reformer - wurde schnell zum Papst ernannt. Er ging als Magdalena I als erster Transsexueller Papst in die Geschichte ein. Ihre Regentschaft dauert weiterhin an und ist sehr erfolgreich. Obwohl sie die Kontrolle über die Inquisition (aka Kongregation für Glaubenslehre https://de.wikipedia.org/wiki/Kongregation_f%C3%BCr_die_Glaubenslehre) verloren zu haben scheint. Aber die Schweizer Garde konnte bisher alle Mordanschläge auf die Päpstin oder andere Kirchenvertreter verhindern.
 
 Die hier beschriebenen Ereignisse streckten sich über Jahrzehnte hinweg. Und fühlten sich für viele weniger unglaubwürdig an, als die Wahl eines Reality Stars zum US Präsidenten in den 2020ern.
 
@@ -65,9 +69,9 @@ Inquisitor: "Erdulde die Katastrophen - die berechtigte Strafe Gottes - wie ein 
 Architektur
 -----------
 
-Die Häuser der Normalen sind ökologisch nachgerüstet und angepasst. Soweit nötig: Solar auf Dach/Fassade, Dach/Fassade begrünt. Hochwasserschutz, Kühlung, Wassertonnen um Trockenzeiten zu überbrücken. Ladestation für E-Autos. Wärmepumpen als Heizung. Dank Solarenergie kann man es sich auch leisten die Solaranlagen auf dem Dach mittels Heizungen Schnee- und Eisfrei zu halten. Oft wird auch gleich die Garagenzufahrt mit der überschüssigen Energie mitgeheizt.
+Die Häuser der Normalen sind ökologisch nachgerüstet und angepasst. Soweit nötig: Solar auf Dach/Fassade, Dach/Fassade begrünt. Hochwasserschutz, Kühlung, Wassertonnen um Trockenzeiten zu überbrücken. Ladestation für E-Autos. Wärmepumpen als Heizung. Dank Solarenergie kann man es sich auch leisten die Solaranlagen auf dem Dach mittels Heizungen Schnee- und Eisfrei zu halten. Oft wird auch gleich die Garagenzufahrt mit der überschüssigen Energie mit geheizt.
 
-Solarpunks gehen weiter. Sie bauen ihre kleinen Häuser und Siedlungen gezielt nach ihren Ansprüchen. Holzbauweise, alles Solar betrieben, Kommunen-garten (Permakultur). Oft haben sie einen gemeinsamen Außenbereich (für Essen, Feiern, Musik und Kultur). Und die Gebäude sind in Form einer Siedlung um diesen kleinen zentralen Platz angeordnet. Ist es räumlich nicht möglich, stehen die Häuser einer Kommuner aber auch gerne verstreut in einer Siedlung von Norm Gebäuden, die langsam verschluckt werden und von den Pflanzen der Solarpunks langsam überwuchert werden. Das kann entweder zu Spannungen zwischen Norms und Solarpunks führen oder zu denkwürdigen gemeinsamen Festen.
+Solarpunks gehen weiter. Sie bauen ihre kleinen Häuser und Siedlungen gezielt nach ihren Ansprüchen. Holzbauweise, alles Solar betrieben, Kommunen-garten (Permakultur). Oft haben sie einen gemeinsamen Außenbereich (für Essen, Feiern, Musik und Kultur). Und die Gebäude sind in Form einer Siedlung um diesen kleinen zentralen Platz angeordnet. Ist es räumlich nicht möglich, stehen die Häuser einer Kommunen aber auch gerne verstreut in einer Siedlung von Norm Gebäuden, die langsam verschluckt werden und von den Pflanzen der Solarpunks langsam überwuchert werden. Das kann entweder zu Spannungen zwischen Norms und Solarpunks führen oder zu denkwürdigen gemeinsamen Festen.
 
 Es ist wie wenn man Hobbits Solaranlagen und LEDs gibt plus dem Spieltrieb von Zehnjährigen und der Kreativität von berauschten Kunststudenten.
 
@@ -105,14 +109,14 @@ Für SL:
 Diese Regeln haben absichtlich einige Unklarheiten. Damit lässt sich dann die Story aufhängen.
 1) Wer ist denn wahlberechtigt ? Kann man die Wahl sabotieren ?
 2) Was genau machen die Ämter ? Kann eine Person mehrere Ämter haben ?
-3) Und was wenn sich keine gute Nachfolgering findet ?
-4) Wieviel Spielraum ist ? Wieviele Geschlechter gibt es denn ?
+3) Und was wenn sich keine gute Nachfolgerin findet ?
+4) Wie viel Spielraum ist ? Wie viel Geschlechter gibt es denn ?
 5) Geflüchtet vor was ? Dem Gesetz ? Wie helfen ? Auch Geflüchteten verfeindeter Gruppen ?
 6) Rein theoretisch: Brennt man aus Notwehr eine böse Industrieanlage ab, muss man das CO2 kompensieren. Und ob andere diese Hilfe annehmen...
 7) Schutzausrüstung in der Werkstatt ist gut. Hier wurde aber vergessen, dass man mit den Geräten auch umgehen können muß. Insbesondere mit denen, die von der Community optimiert und angepasst wurden...
 8) Selbsterklärend. Aber was wenn man sich neue Bierhefen gezüchtet hat ? Ab wann sind die nicht mehr experimentell ?
-9) Wenn jemand beweisst, dass etwas getan werden kann. Hat er wohl Recht... kann aber zu Problemen mit sehr begeisterten Chaoten führen, die nicht zuhören können
-10) Communities können andere zu Wettstreits fordern. Der Gewinner erhält deutliche Reputation. Der Verlierer kann aber auch Punkte für eine Großartige Lobesrede auf die Gewinner erhalten. Beides wird in Annalen archiviert. Die genaue Form des Wettstreits wird zwischen den Communities definiert. => Start vieler Abenteuer
+9) Wenn jemand beweist, dass etwas getan werden kann. Hat er wohl Recht... kann aber zu Problemen mit sehr begeisterten Chaoten führen, die nicht zuhören können
+10) Communities können andere zu Wettstreits fordern. Der Gewinner erhält deutliche Reputation. Der Verlierer kann aber auch Punkte für eine Großartige Lobes rede auf die Gewinner erhalten. Beides wird in Annalen archiviert. Die genaue Form des Wettstreits wird zwischen den Communities definiert. => Start vieler Abenteuer
 
 Recht und Gesetz
 ----------------
@@ -124,7 +128,7 @@ Zusätzlich dazu können sich jederzeit themenorientierte Anonymous Gruppen bild
 Bildung
 -------
 
-Bei Norms ist weiterhin der Frontalunterricht etabliert. Seit den Seuchen in den 20er Jahren wird aber auch auf digitale Medien gesetzt. Für die Angestellten bieten Firmen Weiterbildungen an, die aber stark an den Bedürftnissen des Arbeitsplatzes orientert sind. Bildungsziele sind klar definiert und quantifizierbar. Freiwillige Weiterbildungen sind eher die Ausnahme. Viele Norm Eltern haben ein Problem damit, dass ihre Kinder zusätzlich zum normalen Schulunterricht zu Projekt-Aktionen bei Solarpunks gehen. Das hält aber nicht alle Kinder davon ab. Was gerne mal zu Problemen und Entführungs-Anschuldigungen führt.
+Bei Norms ist weiterhin der Frontalunterricht etabliert. Seit den Seuchen in den 20er Jahren wird aber auch auf digitale Medien gesetzt. Für die Angestellten bieten Firmen Weiterbildungen an, die aber stark an den Bedürftnissen des Arbeitsplatzes orientiert sind. Bildungsziele sind klar definiert und quantifizierbar. Freiwillige Weiterbildungen sind eher die Ausnahme. Viele Norm Eltern haben ein Problem damit, dass ihre Kinder zusätzlich zum normalen Schulunterricht zu Projekt-Aktionen bei Solarpunks gehen. Das hält aber nicht alle Kinder davon ab. Was gerne mal zu Problemen und Entführungs-Anschuldigungen führt.
 
 Bei Solarpunks ist lernen freier. Lebenslanges Lernen ist angesagt. Man tauscht Wissen zwischen Menschen und Communities. Nomaden-Lehrer reisen im Mehr-monatlichen Rhythmus durchs Land und bringen interessierten (Kindern wie Erwachsenen) Neues bei. Communities bieten Lehrveranstaltungen in ihrer Spezialisierung an ("Wasserstoff Synthese mittels Algen, 4 Wochenenden", "Bierbrauen, original Alt-Ägyptisches Rezept. Von einem Historiker/Bierbrauer").
 Es gibt keinen klaren Bildungsplan. Wissen und Kenntnisse werden sehr wertgeschätzt. Auch Norms sind gerne willkommen. Nehmen dieses Angebot aber selten wahr.
@@ -143,9 +147,9 @@ Diese bornierte Herangehensweise hat aber einige Vorteile für die abenteuerlich
 Man sollte sich nur nicht erwischen lassen.
 
 Regeln:
-- Jede Cyberware bietet Vorteile. Aber auch genau so viele Glitches - Hardware von der Stange modifiziert wird. Als Solarpunk kann man beständig daran herumbasteln. Aber man verändert immer nur die Vorteile/Glitches ohne wirklich Probleme endgültig zu beheben.
+- Jede Cyberware bietet Vorteile. Aber auch genau so viele Glitches - Hardware von der Stange modifiziert wird. Als Solarpunk kann man beständig daran herum basteln. Aber man verändert immer nur die Vorteile/Glitches ohne wirklich Probleme endgültig zu beheben.
 
-Beispiel: Ben hat seine Augen-Cyberware gehackt. Er hat die morgendliche Werbeeinblendung entfernt und 100xZoom hinzugefügt. Der Glitch ist, dass er zu zufälligen Zeiten den Wetterbericht eingeblendet bekommt. Von Nebraska. Wenn Jasmin die Augen einsetzt hat sie keinen Wetterbericht, aber ein schwarzes Feld dort wo der Wetterbericht bei Ben auftaucht. Evtl. Wechselwirkung mit dem Insulin Implantat, dass er gehackt hat, um verschiedene Drogen je nach Stimmung freizusetzen. So eines hat Jasmin nämlich nicht. Sie experimentieren aber weiter. Aber der Zoom ist cool.
+Beispiel: Ben hat seine Augen-Cyberware gehackt. Er hat die morgendliche Werbeeinblendung entfernt und 100xZoom hinzugefügt. Der Glitch ist, dass er zu zufälligen Zeiten den Wetterbericht eingeblendet bekommt. Von Nebraska. Wenn Jasmin die Augen einsetzt hat sie keinen Wetterbericht, aber ein schwarzes Feld dort wo der Wetterbericht bei Ben auftaucht. Evtl. Wechselwirkung mit dem Insulin Implantat, dass er gehackt hat, um verschiedene Drogen je nach Stimmung frei zusetzen. So eines hat Jasmin nämlich nicht. Sie experimentieren aber weiter. Aber der Zoom ist cool.
 
 Zitat: "Kannst du mir mal deine Hand leihen ?"
 
@@ -174,7 +178,7 @@ Typen
 * Überschwemmungsfläche
 * Katastrophengebiet. Aufgegeben. Lebensgefahr (Grund für Lebensgefahr ist nicht ausgewiesen)
 
-Ein häufiger Grund für das Ausrufen eines Schutzgebietes war nach 2020 in Überflutungsbereichen. Wurde eine Stadt mehrfach durch Katastrophen überflutet und hatte eine schlechte Prognose, war es einfacher, Risiko Materialien zu entfernen (Heizöl Tanks !), die Leute umzusiedeln und die Natur den Bereich übernehmen zu lassen. Ein weiterer Grund könnte innereuropäische Klimamigration sein, bei der die Bewohner langsam einen Bereich verlassen um in sichereren Städten zu siedeln. Manchmal können nicht alle Bewohner des neu entstehenden Wildnis Bereichs diesen verlassen. Oft weil ihnen das Geld für einen Umzug fehlt. Damit entstehen verwilderte Gebiete mit hoher Chance auf Klimakatastropen (Erdrutsche, Überflutungen, ...) und Einwohnern, die vor einem Jahrzehnt den Kontakt zur Zivilsation abgebrochen haben.
+Ein häufiger Grund für das Ausrufen eines Schutzgebiets war nach 2020 in Überflutungsbereichen. Wurde eine Stadt mehrfach durch Katastrophen überflutet und hatte eine schlechte Prognose, war es einfacher, Risiko Materialien zu entfernen (Heizöl Tanks !), die Leute umzusiedeln und die Natur den Bereich übernehmen zu lassen. Ein weiterer Grund könnte innereuropäische Klimamigration sein, bei der die Bewohner langsam einen Bereich verlassen um in sichereren Städten zu siedeln. Manchmal können nicht alle Bewohner des neu entstehenden Wildnis Bereichs diesen verlassen. Oft weil ihnen das Geld für einen Umzug fehlt. Damit entstehen verwilderte Gebiete mit hoher Chance auf Klimakatastrophen (Erdrutsche, Überflutungen, ...) und Einwohnern, die vor einem Jahrzehnt den Kontakt zur Zivilisation abgebrochen haben.
 
 
 .. TODO Klimaflüchtlinge
@@ -185,8 +189,8 @@ Wakanda
 In Entwicklungs-Ländern (gerade Afrika) traten die Folgen der Klima Katastrophe ca 10 Jahre früher ein. Doch einige glücklichen Umstände haben für eine äußerst positive Entwicklung gesorgt:
 
 * Es gab eine bereits existierend Do It Yourself Mentalität
-* Andere Länder haben Afrika mit Technologie unterstützt. Aber dabei gleich auf Leap-Frogging geachtet: Kohlekraft wurde übersprungen - man hat gleich auf Solar gesetzt. Dasselbe mit Funk-Internet statt Netzwerkkabeln
-* Die Bevölkerung war jünger und technologie-offener
+* Andere Länder haben Afrika mit Technologie unterstützt. Aber dabei gleich auf Leap-Frogging geachtet: Kohle kraft wurde übersprungen - man hat gleich auf Solar gesetzt. Dasselbe mit Funk-Internet statt Netzwerk kabeln
+* Die Bevölkerung war jünger und Technologie-offener
 
 Auf diese Grundlagen basierend haben die Länder sich schneller als nur durch die 10 Jahre Vorsprung entwickelt. Viele Solarpunk Konzepte wurde dort entwickelt und perfektioniert. In Europa sind reisende Solarpunks "Aus Wakanda" (wie man sagt) sehr gerne in den Communities gesehen. Sie bringen mit sich ein ausgezeichnetes Verständnis des Technologie-Einsatzes unter den neuen Umständen. Oft aber auch Musik, Kultur und Essens-Rezepte.
 
@@ -202,7 +206,7 @@ Unter den Verlorenen ist diese Solarpunk Vielfalt auf "Vater-Mutter-Kind" einges
 Technologie Almanach 2020
 -------------------------
 
-Damals im Jahr 2020 - vor 30 Jahren - wurde die technologische Grundlage für unsere Welt gelegt. Alles ware sehr roh und unfertig. Aber man kann bereits sehen, eie die Entwicklung zu uns führt.
+Damals im Jahr 2020 - vor 30 Jahren - wurde die technologische Grundlage für unsere Welt gelegt. Alles war sehr roh und unfertig. Aber man kann bereits sehen, wie die Entwicklung zu uns führt.
 
 **Beleuchtung**: Damals gab es keine OLED Folien. OLED Folien kann heute jedes Kind mit der Schere zuschneiden, biegen, aufkleben und verkabeln. Damit kann man die buntesten Licht Kunstwerke schaffen, die man sich vorstellen kann. Strom Verbrauch ist natürlich minimal.
 
@@ -210,26 +214,26 @@ Für Konsumenten sind weniger kreative OLED Leuchten verfügbar. Von der Stange.
 
 Es gab 2020 nur LED Leuchten (aber auch mit deutlich geringerem Stromverbrauch als die bis dahin existierende Technologie, Metall zum Glühen zu bringen um Licht zu haben). OLED wurden zuerst in Displays von Handys verbaut und wurden erst später als Leuchten Material verfügbar.
 
-**Stromgeneratoren**: Windkraftwerke und flexible Solarpanels sind günstig verfügbar. Heute setzen wir sie auf Häusern, Vordächern, Parkplätzen, Gehwegen und and Fahrzeugen ein. Im Jahr 2020 gab es die ersten experimentellen Solar Folien mit einem Wirkungsgrad > 20 %. Ausreichend aber natürlich weit von unserem "Solar Everywhere" entfernt.
+**Stromgeneratoren**: Windkraft werke und flexible Solarpaneele sind günstig verfügbar. Heute setzen wir sie auf Häusern, Vordächern, Parkplätze, Gehwegen und an Fahrzeugen ein. Im Jahr 2020 gab es die ersten experimentellen Solar Folien mit einem Wirkungsgrad > 20 %. Ausreichend aber natürlich weit von unserem "Solar Everywhere" entfernt.
 
-Im Jahr 2020 waren die Solarpanels noch starr und schwer. Kleinerer Wirkungsgrad. Aber wenigstens gab es schon Module für (partielle) Selbstversorgung, Inselversorgung, als Zusatzversorgung auf Campingmodulen und für kleinere Elektronik. Obwohl das alles sehr rückständig scheint, war Solar schon in den 2020ern eine der billigsten Stromquellen (Die verbrannten damals noch fossile Energieträger !)
+Im Jahr 2020 waren die Solarpaneele noch starr und schwer. Kleinerer Wirkungsgrad. Aber wenigstens gab es schon Module für (partielle) Selbstversorgung, Inselversorgung, als Zusatzversorgung auf Campingmodulen und für kleinere Elektronik. Obwohl das alles sehr rückständig scheint, war Solar schon in den 2020ern eine der billigsten Stromquellen (Die verbrannten damals noch fossile Energieträger !)
 
-**Stromspeicher**: In den 2020ern wurden Lithium Ionen Akkus genutzt. Zwar wurde das Lithium immer weiter reduziert und später auf billigere Grundstoffe umgestellt. Doch von den heutigen Akkus waren sie weit entfernt. Wenigstens reichte es damals für elektronische Geräte und die ersten Fahrzeuge. Auch tragbare Akku Packs für Camping waren verfügbar. Der Preis war (im Vergleich zu heute) hoch. Die Energiedichte gering. Dadurch waren sie klobig und schwer.
+**Strom speicher**: In den 2020ern wurden Lithium Ionen Akkus genutzt. Zwar wurde das Lithium immer weiter reduziert und später auf billigere Grundstoffe umgestellt. Doch von den heutigen Akkus waren sie weit entfernt. Wenigstens reichte es damals für elektronische Geräte und die ersten Fahrzeuge. Auch tragbare Akku Packs für Camping waren verfügbar. Der Preis war (im Vergleich zu heute) hoch. Die Energie dichte gering. Dadurch waren sie klobig und schwer.
 
-**Robotik**: Programmierbare Roboterarme waren in den 2020ern nicht für jedermann verfübar. Es gab aber erste einfach zu programmierende für die Industrie. Im privaten Umfeld war Automatisierung also stark auf Geräte beschränkt, die exakt eine Aufgabe übernahmen (Geschirrspüler, Waschmaschine, ...). Diese gibt es zwar heute noch. Aber Aufgaben, die etwas Flexibilität benötigten waren damals im privaten Umfeld gar nicht automatisierbar. Schwer vorzustellen.
+**Robotik**: Programmierbare Roboter arme waren in den 2020ern nicht für jedermann verfügbar. Es gab aber erste einfach zu programmierende für die Industrie. Im privaten Umfeld war Automatisierung also stark auf Geräte beschränkt, die exakt eine Aufgabe übernahmen (Geschirrspüler, Waschmaschine, ...). Diese gibt es zwar heute noch. Aber Aufgaben, die etwas Flexibilität benötigten waren damals im privaten Umfeld gar nicht automatisierbar. Schwer vorzustellen.
 
-**Fahrzeuge**: Damals gab es die ersten Elektrofahrzeuge (überraschenderweise teurer als Fossilienverbrenner !). Drohnen waren nicht fähig, Menschen zu tragen. Elektro Fahrräder gab es - aber nicht vergleichbar zu unseren sportlichen Leichtgewichten aus Karbon. Automonme Fahrzeuge waren damals nur ein Traum. Selbst bei denjenigen die ihn träumten war nicht allen bewusst, wie diese das Leben verändern. Niemand (außer den Verlorenen) will heute noch ein eigenes Auto. Bei Bedarf wählt man sich ein Modell aus der App und hat es ein paar Minuten später vor der Türe stehen. Ob man es danach selbst fährt oder sich fahren lässt ist einem selbst überlassen. Früher musste man das Auto besitzen (mit sehr hohen Kosten verbunden !) und manche hatten sogar mehrere um verschiedene Nutzungsszenarien abzudecken. Heute klickt man sich einfach einen Einsitzer oder einen Lieferwagen. Zahlt nach Zeit und kommt damit um riesige Faktoren billiger weg. Wenn damals etwas unverschuldet kaputt ging, musste man es selbst zahlen ! Die Kosten für ein solches Auto kann man sich heute gar nicht mehr vorstellen.
+**Fahrzeuge**: Damals gab es die ersten Elektrofahrzeuge (überraschenderweise teurer als Fossilienverbrenner !). Drohnen waren nicht fähig, Menschen zu tragen. Elektro Fahrräder gab es - aber nicht vergleichbar zu unseren sportlichen Leichtgewichten aus Karbon. Autonome Fahrzeuge waren damals nur ein Traum. Selbst bei denjenigen die ihn träumten war nicht allen bewusst, wie diese das Leben verändern. Niemand (außer den Verlorenen) will heute noch ein eigenes Auto. Bei Bedarf wählt man sich ein Modell aus der App und hat es ein paar Minuten später vor der Türe stehen. Ob man es danach selbst fährt oder sich fahren lässt ist einem selbst überlassen. Früher musste man das Auto besitzen (mit sehr hohen Kosten verbunden !) und manche hatten sogar mehrere um verschiedene Nutzungsszenarien abzudecken. Heute klickt man sich einfach einen Einsitzer oder einen Lieferwagen. Zahlt nach Zeit und kommt damit um riesige Faktoren billiger weg. Wenn damals etwas unverschuldet kaputt ging, musste man es selbst zahlen ! Die Kosten für ein solches Auto kann man sich heute gar nicht mehr vorstellen.
 
-**Pflanzenbau**: Permakultur war bekannt. Wurde aber kaum eingesetzt. Der Vorteil der Permakultur (also durch den Anbau mehrere Pflanzen in der biologisch perfekten Kombination, damit sie sich aus Nährstoffsicht und gegen Schädlinge unterstützen) wurde damals nicht wahrgenomen. Dafür gab es große Monokulturen auf dem Land. Über Schäden durch diese gibt es ausreichend Studien. Insbesondere durch den nötigen Dünger und Pestizid Einsatz. Bewirtschaftung fand auch durch große Landmaschinen statt und es wurden keine Drohnen und kleine Roboter eingesetzt um geziel Unkraut zu finden und mit Elektroschocks zu verbrennen.
+**Pflanzenbau**: Permakultur war bekannt. Wurde aber kaum eingesetzt. Der Vorteil der Permakultur (also durch den Anbau mehrere Pflanzen in der biologisch perfekten Kombination, damit sie sich aus Nährstoffsicht und gegen Schädlinge unterstützen) wurde damals nicht wahrgenommen. Dafür gab es große Monokulturen auf dem Land. Über Schäden durch diese gibt es ausreichend Studien. Insbesondere durch den nötigen Dünger und Pestizid Einsatz. Bewirtschaftung fand auch durch große Landmaschinen statt und es wurden keine Drohnen und kleine Roboter eingesetzt um gezielt Unkraut zu finden und mit Elektroschocks zu verbrennen.
 
-In den Städten gab es damals keine Landwirtschaft. Weder gemeinsam angebautes Urban Gardening, noch Kräutergärten am Wegesrand. In Städten gabe es nur Zierbäume ohne Früchte. Umnutzung von alten Industrieanlagen waren nicht bekannt. Heute gibt es da natürlich kombinierte Aquakulturen/Hydroponik die direkt in den Städten Salat und Fisch erzeugt. Wenigstens kamen aber bereits in den 2020ern die ersten auf die Idee, Abwärme von Serverfarmen zur Heizung der ersten Prototypen von Aquafarmen zu nutzen.
+In den Städten gab es damals keine Landwirtschaft. Weder gemeinsam angebautes Urban Gardening, noch Kräutergärten am Wegesrand. In Städten gab es nur Zierbäume ohne Früchte. Umnutzung von alten Industrieanlagen waren nicht bekannt. Heute gibt es da natürlich kombinierte Aquakulturen/Hydroponik die direkt in den Städten Salat und Fisch erzeugt. Wenigstens kamen aber bereits in den 2020ern die ersten auf die Idee, Abwärme von Serverfarmen zur Heizung der ersten Prototypen von Aquafarmen zu nutzen.
 
-**Lasercutter/3D Drucker/CNC Maschinen**: Haben es im Jahr 2020 bereits aus den Fabriken zu Hobbisten geschafft. Oft war der Bauraum sehr begrenzt (kleiner als 1 Kubikmeter !) und nur wenige konnten damit umgehen. Auch die Druckzeit und die Präzission ließ zu wünschen übrig. Heutige Maschinen (die man sich anhand von Anleitungen aus dem Internet aus einfachsten Teilen bauen kann) sind viel präziser und schneller.
+**Lasercutter/3D Drucker/CNC Maschinen**: Haben es im Jahr 2020 bereits aus den Fabriken zu Hobbisten geschafft. Oft war der Bauraum sehr begrenzt (kleiner als 1 Kubikmeter !) und nur wenige konnten damit umgehen. Auch die Druckzeit und die Präzision ließ zu wünschen übrig. Heutige Maschinen (die man sich anhand von Anleitungen aus dem Internet aus einfachsten Teilen bauen kann) sind viel präziser und schneller.
 
 **CCS**: Damals dachte man, die Verpressung von CO2 in unterirdische Kavernen würden einen großen Beitrag zur CO2 Reduzierung liefern. Aber einen größeren Anteil hatten die vielen dezentralen Biochar Zentren. Die Technologie, aus organischen Abfällen Kohle herzustellen, die dann als Dünger auf Felder aufgebracht wird - und damit der Atmosphäre entzieht. Die Technologie ist uralt und relativ simpel. Viele Communities nutzen das heute um einen regelmäßigen Finanzmittel Fluß von der EU zu garantieren.
 Eine Alternative ist es, Holz zu verarbeiten und nicht verrotten zu lassen. Für große Holz-Bauten bekommt man pro Kilo CO2 und Jahr die das steht Geld. Die Buchführung ist etwas aufwändig (durch Laser Gravuren oder RFID Chips inden den Balken vereinfacht). Es lohnt sich aber aus Holz zu bauen.
 
-**Fleisch**: Farmen produzieren tierisches Fleisch. Dafür werden Tiere gezüchtet und in kleinen Gruppen perfekt artgerecht gehalten. Das Fleisch selbst wird aber in angeschlossenen Fabriken in Laboren gezüchtet. Hierfür werden den Tieren einige Zellen abgenommen und diese in Brutschalen zu Fleischstücken vermehrt. Das ist extrem Wasser und Energieeffizient. CO2 wird praktisch keines emmitiert. Die perfekte Einstellung der Brutschalen ist oft Betreibsgeheimnis. Diese bestimmt Zähigkeit, Geschmack, saftigkeit und Fett-durchwuchs des Fleischs. Die Tierhaltung als Rohquelle für die Zellen ist ebenfalls vom Können der Bauern abhängig. Ebenso die schlaue Zucht der Tiere - diese müssen endlich nicht mehr auf "Fleischertrag pro Tier" optimiert werden sondern auf Geschmack und andere tierfreundliche Parameter (Verhalten, ...). Tierhaltung und Fleischproduktion müssen nicht am selben Ort stattfinden. Der Handel mit Röhrchen voller gekühlter Hoch-qualitäts Zellen ist sehr lukrativ. 2020 war das alles noch am Anfang (https://www.golem.de/news/labor-edelfleisch-forscher-praesentieren-wagyu-steak-aus-dem-3d-drucker-2108-159187.html ) . Ein weiterer Job der entstanden ist ist Fleisch Designer. Am Computer werden Fleischstücke (Muskelfasern, Bindegewebe, Fett) je nach Verwendungszweck zusammengestellt und kann danach ausgeliefert werden. Für Zwecke wie Grillen gibt es dadurch äußerst schmackhafte Varianten, die nicht durch die Natur beschränkt werden.
+**Fleisch**: Farmen produzieren tierisches Fleisch. Dafür werden Tiere gezüchtet und in kleinen Gruppen perfekt artgerecht gehalten. Das Fleisch selbst wird aber in angeschlossenen Fabriken in Laboren gezüchtet. Hierfür werden den Tieren einige Zellen abgenommen und diese in Brut schalen zu Fleischstücken vermehrt. Das ist extrem Wasser und Energieeffizient. CO2 wird praktisch keines emittiert. Die perfekte Einstellung der Brutschalen ist oft Betriebsgeheimnis. Diese bestimmt Zähigkeit, Geschmack, saftigkeit und Fett-durchwuchs des Fleisches. Die Tierhaltung als Rohquelle für die Zellen ist ebenfalls vom Können der Bauern abhängig. Ebenso die schlaue Zucht der Tiere - diese müssen endlich nicht mehr auf "Fleischertrag pro Tier" optimiert werden sondern auf Geschmack und andere tierfreundliche Parameter (Verhalten, ...). Tierhaltung und Fleischproduktion müssen nicht am selben Ort stattfinden. Der Handel mit Röhrchen voller gekühlter Hoch-qualitäts Zellen ist sehr lukrativ. 2020 war das alles noch am Anfang (https://www.golem.de/news/labor-edelfleisch-forscher-praesentieren-wagyu-steak-aus-dem-3d-drucker-2108-159187.html ) . Ein weiterer Job der entstanden ist ist Fleisch Designer. Am Computer werden Fleischstücke (Muskelfasern, Bindegewebe, Fett) je nach Verwendungszweck zusammengestellt und kann danach ausgeliefert werden. Für Zwecke wie Grillen gibt es dadurch äußerst schmackhafte Varianten, die nicht durch die Natur beschränkt werden.
 
 **Milch**: Milch wird ähnlich wie Fleisch in technischen Prozessen produziert. Von speziell gezüchteten Tieren wird genetisches Material entnommen und in einem kleinen Gen-Labor (gibt es für wenig Geld) in Hefe Zellen integriert. Die Zucht der Hefe Zellen ist jedem Kind bekannt. Und mit etwas Zucker, Engergie und Wärme kann man in Stahltanks diese vermehren und schon nach einigen Stunden die ersten Milch abschöpfen, filtern und trinken. Sauberer und reiner als direkt von Tieren. Standardmäßig setzen Landwirt auf nicht-exotische Milch. Von Kühen, Schafen, Ziegen. Natürlich gibt es auch genügend Bauern, die die Herausforderung gerne annehmen, andere Milch zu produzieren. Und wieder einmal hat die Hefezelle als eine der ersten Nahrungsmittel Verarbeitungs-Technologien ihren Dienst erwiesen (man denke hier an Bier und Brot).
 
