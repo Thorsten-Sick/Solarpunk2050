@@ -12,15 +12,17 @@ Solarpunk 2050
 
    welt
 
+   solarpunk_technologie
+
+   verlorenen_technologie
+
    gruppen
 
    menschen_und_communities
 
-   .. erfindungen
-
    regeln
 
-   .. abenteuer
+   abenteuer
 
    konzept
 
