@@ -31,18 +31,41 @@ Also muss man selber anpacken. Den Mörder finden, Gäste beschützen oder einfa
 
 Wenn der Mörder gestellt wird, wird er sich nicht wehren sondern auf die Spielregeln verweisen. Es gibt eine Belohnung.
 
+Change my KI
+------------
+
+Letztens bei den Solarpunks:
+
+"Ich fand Soy's Idee ja richtig cool den Norms auch einen Parcour Kinderspielplatz in die Stadt zu bauen. Wenn man die Kinder von denen so beobachtet: Die fallen ja im Stehen um. Ihr wisst ja, ich habe die Stadt gefragt, die Antwort war aber ein Desaster. Ich lese mal vor: 'Vielen Dank für Ihr Angebot, wir nehmen es gerne an und freuen uns schon. Bitte füllen sie folgende Formular aus, dann können wir fortfahren'. Formulare ! Das geht gar nicht !"
+
+
+"Aber wir könnten das in einer Nacht-Aktion machen. Ich denke mit den richtigen Leuten, einer Ablenkung und dann wenn die KI gerade ihre Modelle neu berechnet können wir denen heimlich einen Spielplatz hinstellen. Bagger haben wir genug."
+
+
+"Gute Idee, vor allem wenn die KI bei der nächsten Glücks-Faktoren Berechnung dann den Survival-Spieplatz und den Effekt auf die Happiness der Norms einbezieht, könnte es dann in ein paar Monaten dafür sorgen, dass diese Spielplätze zum Standard Repertoir der KI werden. Wir bauen einen Spielplatz und bekommen hunderte"
+
+
+So beginnt ein Abenteuer, dass noch Monate Nachwirkungen haben wird...
+
+
 Sauerteig
 ---------
 
-Es gibt eine weitere Solarpunk Community, mit der die eigene praktisch keine Verbindung hat. Die sind "definitiv Solarpunks, aber echt komisch". Evtl. setzen die zu viel Technik ein, oder zu wenig. Oder deren sozialen code ist zu geschlossen/zu offen. Halt genau das Gegenteil der eigenen Gruppe.
-Aber es sind Solarpunk. Und auch sie haben einen eigenen, geheimen Sauerteig, mit dem sie geniales Brot backen. Wie die eigene Gruppe. Ein Bote der anderen Community kommt mit einem Kofferraum frischer Sauerteig Brote. Man probiert gegenseitig die Brote (die eigenen und die fremden). Beide sind verschieden. Aber jeweils sehr schmackhaft. Evtl. eines für herzhaften Belag, eines für süßes. Ein neuer Pakt soll besiegelt werden. Durch Austausch der geheimen Sauerteig Kultur. Im Nirgendwo. In der Mitte.
+Ein kleines Abenteuer um die Welt kennen zu lernen.
+
+Es gibt eine weitere Solarpunk Community, mit der die eigene Community praktisch keine Verbindung hat. Die sind "definitiv Solarpunks, aber echt komisch". Evtl. setzen die zu viel Technik ein, oder zu wenig. Oder deren sozialen Code ist zu geschlossen/zu offen. Halt genau das Gegenteil der eigenen Gruppe.
+
+Aber es sind Solarpunk. Und auch sie haben einen eigenen, geheimen Sauerteig, mit dem sie geniales Brot backen. Wie die eigene Gruppe - nur eben mit anderem Aroma. Ein Bote der anderen Community kommt mit einem Lastenrad frischer Sauerteig Broten. Man probiert gegenseitig die Brote (die eigenen und die fremden) in einer kleinen Zeremonie. Beide sind Geschmacksrichtungen sind verschieden. Aber jeweils sehr schmackhaft. Eines passt für herzhaften Belag, eines für süßes. Ein neuer Pakt zwischen den Communities soll besiegelt werden. Durch Austausch der geheimen Sauerteig Kulturen. Im Nirgendwo. In der Mitte. Evtl. in der nächsten Norm Stadt.
 
 Das kann man jetzt schön aufziehen als:
 
 * Roadmovie
 * Kalter Krieg Gefangenen Austausch
 * Seltsames Abenteuer in eine andere Welt (der Community der anderen Solarpunks)
-* High Noon shootout ( eine dritte Gruppe beobachtet den gut bewachten Wagen Treck und kommt zu dem klaren Schluss, hier werden große Kostbarkeiten transportiert)
+* High Noon Shootout ( eine Verlorenen Gruppe beobachtet den gut bewachten Wagen Treck und kommt zu dem klaren Schluss, hier werden große Kostbarkeiten transportiert)
+
+Das Abenteuer wurde gespielt und hat sich als nettes Kennenlernen der Absurditäten der Solarpunk und Norm Gesellschaften entwickelt. Mit ein paar Angriffen der Verlorenen (die Schätze erwartet haben bei einem so geheimen und abgesicherten Treffen). Auch die nähere Umgebung und die nächste Stadt konnten so eingeführt werden.
+
 
 Glücksmission
 -------------
