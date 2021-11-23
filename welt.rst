@@ -2,13 +2,65 @@ Die Solarpunk Welt
 ==================
 
 Solarpunk spielt im Jahr 2050. Die Klimakatastrophe war mit viele Unwetter und Toten. Die Menschheit hat spät gelernt. Der Co2 Ausstoß wurde stabilisiert. Und die Gesellschaft hat sich neu geformt. Um Technologie der Zukunft.
-Die Menschen können in modernen und grün durch wucherten Großstädten ein sehr angenehmes Leben führen. KI Algorithmen sorgen für die Optimierung nach höchstmöglicher Lebensqualität. Und so entstehen Lebensentwürfe, denen die meisten Menschen sehr gerne folgen. Aber nicht alle.
-Denn einige wollen sich nicht von einer KI ein schönes Leben entwerfen lassen. Manche von denen werden Solarpunks.
+Die Menschen können in modernen und grün durchwucherten Großstädten ein sehr angenehmes Leben führen. KI Algorithmen sorgen für die Optimierung nach höchstmöglicher Lebensqualität. Und so entstehen Lebensentwürfe, denen die meisten Menschen sehr gerne folgen. Aber nicht alle. Denn einige wollen sich nicht von einer KI ein schönes Leben entwerfen lassen. Die Solarpunks.
 
 Diese Solarpunks haben sich zusammen getan in kleinen selbst organisierten Communities. Dort haben sie mittels Kreativität und Wagemut (manche sagen Wahnsinn) neue Formen des Zusammenlebens und der Technologie ergründet um Menschheitsprobleme zu lösen. Als der Druck der Katastrophen auf die restliche Gesellschaft zunahm, hat die schnell die Technologie adaptiert und es tatsächlich geschafft bis 2040 CO2 neutral zu werden. Die Solarpunks haben die Menschheit gerettet. Die Menschheit war dankbar, glücklich und wollte ab jetzt in Ruhe gelassen werden. Doch nichts kann die Solarpunks von weiteren Experimenten und Innovationen abhalten. Und so leben sie weiter in chaotisch-kreativen Communities und es gibt Spannungen mit den Normalen.
 
-Sehr selten sie diese Spannungen gewalttätig. Und doch sind viele Solarpunk Communities bewaffnet. Aber eher um sich gegen die Verlorenen verteidigen zu können. Leute die dem Mythos nachhängen, im Jahr 1990 war alles besser und man möge mit Gewalt dorthin zurück kehren.
+Sehr selten sie diese Spannungen gewalttätig. Und doch sind viele Solarpunk Communities bewaffnet. Aber eher um sich gegen die Verlorenen verteidigen zu können. Leute die dem Mythos nachhängen, im Jahr 1990 war alles besser und man möge mit Gewalt dorthin zurückkehren.
 
+Communities
+-----------
+
+Communities sind die Art, wie sich Solarpunks oft organisieren. Das sind selbstverwaltete Strukturen, die im besten Fall eine Art gemeinsames Dorf bilden. Doch auch örtlich zersplitterte Communities existieren und gedeihen.
+
+Eine Community lebt nach selbst festgelegten Regeln. Das Standard Solarpunk Regelwerk ist deren Grundlage.
+
+Das Basis Regelwerk für Communities:
+
+0) Be excellent to each other !
+1) Die Community ist demokratisch. Einmal jährlich finden Wahlen statt
+2) Diese Ämter sind zu besetzen:
+* Älteste*r
+* Streitschlichter*in
+* Logistiker*in
+* Quartiersmeister*in
+3) Niemand ist mehr als 3 Jahre im selben Amt
+4) Ziel muß es sein, die Geschlechter paritätisch zu besetzen
+5) Geflüchteten ist zu helfen
+6) Die Gemeinschaft muss innerhalb der natürlichen Limits leben und wirtschaften. Sie muss anderen helfen, dies ebenso zu tun.
+7) In gefährlichen Situationen ist Schutzausrüstung zu tragen
+8) Keine biologischen Experimente im Küchenbereich !
+9) Wer macht hat Recht
+10) Ein Wettstreit zwischen Communities ist Ehrensache
+11) Freitag ist Pfannkuchen Tag
+
+*Die eigene Community, in der die Charaktere leben ist selbst ein Protagonist und kann gerne ein Charakterblatt erhalten. Sie wachsen zu lassen und dafür zu sorgen, dass sie besser vernetzt ist ist ein mögliches Ziel der Spieler. Sie erhalten dafür aber auch direkt Nutzen von neuen Fähigkeiten/Ausstattungen der Community.*
+
+
+Zusätzlich gibt es auch regionale Bräuche zwischen Communities. Bekannt sind:
+
+* Austausch der eigenen Projekte als Vertrauensbeweis. So haben im Schwarzwald zwei Communities ihre über Jahre gezüchteten und optimierten Sauerteige ausgetauscht. Auf den ersten Blick ist das evtl. banal. Aber sie gaben der anderen Gruppe Jahrelange Arbeit sowie eine eigene kulturelle Einzigartigkeit in die Hand. Und dazu noch in einer vermehrungsfähigen Form.
+* Pflanzensamen als Begrüßungsgeschenk. Hier wird natürlich auf Besonderheit und Qualität geachtet. Aber ganz klar ist das auch verwurzelt im "Wachsen und Wachsen lassen" der Solarpunks.
+
+
+Für SL:
+Diese Regeln haben absichtlich einige Unklarheiten. Damit lässt sich dann die Story aufhängen.
+1) Wer ist denn wahlberechtigt ? Kann man die Wahl sabotieren ?
+2) Was genau machen die Ämter ? Kann eine Person mehrere Ämter haben ?
+3) Und was wenn sich keine gute Nachfolgerin findet ?
+4) Wie viel Spielraum ist ? Wie viel Geschlechter gibt es denn ?
+5) Geflüchtet vor was ? Dem Gesetz ? Wie helfen ? Auch Geflüchteten verfeindeter Gruppen ?
+6) Rein theoretisch: Brennt man aus Notwehr eine böse Industrieanlage ab, muss man das CO2 kompensieren. Und ob andere diese Hilfe annehmen...
+7) Schutzausrüstung in der Werkstatt ist gut. Hier wurde aber vergessen, dass man mit den Geräten auch umgehen können muß. Insbesondere mit denen, die von der Community optimiert und angepasst wurden...
+8) Selbsterklärend. Aber was wenn man sich neue Bierhefen gezüchtet hat ? Ab wann sind die nicht mehr experimentell ?
+9) Wenn jemand beweist, dass etwas getan werden kann. Hat er wohl Recht... kann aber zu Problemen mit sehr begeisterten Chaoten führen, die nicht zuhören können
+10) Communities können andere zu Wettstreits fordern. Der Gewinner erhält deutliche Reputation. Der Verlierer kann aber auch Punkte für eine Großartige Lobes rede auf die Gewinner erhalten. Beides wird in Annalen archiviert. Die genaue Form des Wettstreits wird zwischen den Communities definiert. => Start vieler Abenteuer
+
+Regierung
+---------
+
+In Deutschland haben sowohl Bundesregierung und Landesregierung durch mangelnde Effektivität beim Katastrophenmanagement viel Vertrauen verloren. Sie existieren weiter und sind in einem Zombie Zustand. Anders dagegen die lokalen Behörden. Diese haben oft und durch den direkten Kontakt besonders nachhaltig geholfen, wenn Not am Mann war. Viele Städte sind in den letzten Jahrzehnten gestärkt aus den Prüfungen hervorgegangen.
+Die EU hat auch eine gute Figur gemacht. Mittels gezielten Förderungen hat sie den Städten ermöglicht, helfend einzugreifen. Spezialisierte EU Katastrophenteams haben sogar eigene Fernsehserien und sind zu Recht als Helden angesehen.
 
 Konzerne
 --------
@@ -69,61 +121,13 @@ Inquisitor: "Erdulde die Katastrophen - die berechtigte Strafe Gottes - wie ein 
 Architektur
 -----------
 
-Die Häuser der Normalen sind ökologisch nachgerüstet und angepasst. Soweit nötig: Solar auf Dach/Fassade, Dach/Fassade begrünt. Hochwasserschutz, Kühlung, Wassertonnen um Trockenzeiten zu überbrücken. Ladestation für E-Autos. Wärmepumpen als Heizung. Dank Solarenergie kann man es sich auch leisten die Solaranlagen auf dem Dach mittels Heizungen Schnee- und Eisfrei zu halten. Oft wird auch gleich die Garagenzufahrt mit der überschüssigen Energie mit geheizt.
+Die Häuser der Normalen sind ökologisch nachgerüstet und angepasst. Soweit nötig: Solar auf Dach/Fassade, Dach/Fassade begrünt. Hochwasserschutz, Kühlung, Wassertonnen um Trockenzeiten zu überbrücken. Ladestation für E-Autos. Wärmepumpen als Heizung. Dank Solarenergie kann man es sich auch leisten die Solaranlagen auf dem Dach mittels Heizungen Schnee- und Eisfrei zu halten. Oft wird auch gleich die Garagenzufahrt mit der überschüssigen Energie mit geheizt und damit eisfrei gehalten.
 
 Solarpunks gehen weiter. Sie bauen ihre kleinen Häuser und Siedlungen gezielt nach ihren Ansprüchen. Holzbauweise, alles Solar betrieben, Kommunen-garten (Permakultur). Oft haben sie einen gemeinsamen Außenbereich (für Essen, Feiern, Musik und Kultur). Und die Gebäude sind in Form einer Siedlung um diesen kleinen zentralen Platz angeordnet. Ist es räumlich nicht möglich, stehen die Häuser einer Kommunen aber auch gerne verstreut in einer Siedlung von Norm Gebäuden, die langsam verschluckt werden und von den Pflanzen der Solarpunks langsam überwuchert werden. Das kann entweder zu Spannungen zwischen Norms und Solarpunks führen oder zu denkwürdigen gemeinsamen Festen.
 
 Es ist wie wenn man Hobbits Solaranlagen und LEDs gibt plus dem Spieltrieb von Zehnjährigen und der Kreativität von berauschten Kunststudenten.
 
 Diese Siedlungen werden Communities genannt. Die Spielercharaktere leben wahrscheinlich in genau so einer.
-
-Communities
------------
-
-Eine Community lebt nach selbst festgelegten Regeln
-
-Jede Community kann ihr eigenes Regelwerk haben. Grundsätzlich gilt aber das Standard Solarpunk Regelwerk.
-
-Das Basis Regelwerk für Communities:
-
-0) Be excellent to each other !
-1) Die Community ist demokratisch. Einmal jährlich finden Wahlen statt
-2) Diese Ämter sind zu besetzen:
-* Älteste*r
-* Streitschlichter*in
-* Logistiker*in
-* Quartiersmeister*in
-3) Niemand ist mehr als 3 Jahre im selben Amt
-4) Ziel muß es sein, die Geschlechter paritätisch zu besetzen
-5) Geflüchteten ist zu helfen
-6) Die Gemeinschaft muss innerhalb der natürlichen Limits leben und wirtschaften. Sie muss anderen helfen, dies ebenso zu tun.
-7) In gefährlichen Situationen ist Schutzausrüstung zu tragen
-8) Keine biologischen Experimente im Küchenbereich !
-9) Wer macht hat Recht
-10) Ein Wettstreit zwischen Communities ist Ehrensache
-11) Freitag ist Pfannkuchen Tag
-
-*Die eigene Community, in der die Charaktere leben ist selbst ein Protagonist und kann gerne ein Charakterblatt erhalten. Sie wachsen zu lassen und dafür zu sorgen, dass sie besser vernetzt ist ist ein mögliches Ziel der Spieler. Sie erhalten dafür aber auch direkt Nutzen von neuen Fähigkeiten/Ausstattungen der Community.*
-
-
-Zusätzlich gibt es auch regionale Bräuche zwischen Communities. Bekannt sind:
-
-* Austausch der eigenen Projekte als Vertrauensbeweis. So haben im Schwarzwald zwei Communities ihre über Jahre gezüchteten und optimierten Sauerteige ausgetauscht. Auf den ersten Blick ist das evtl. banal. Aber sie gaben der anderen Gruppe Jahrelange Arbeit sowie eine eigene kulturelle Einzigartigkeit in die Hand. Und dazu noch in einer vermehrungsfähigen Form.
-* Pflanzensamen als Begrüßungsgeschenk. Hier wird natürlich auf Besonderheit und Qualität geachtet. Aber ganz klar ist das auch verwurzelt im "Wachsen und Wachsen lassen" der Solarpunks.
-
-
-Für SL:
-Diese Regeln haben absichtlich einige Unklarheiten. Damit lässt sich dann die Story aufhängen.
-1) Wer ist denn wahlberechtigt ? Kann man die Wahl sabotieren ?
-2) Was genau machen die Ämter ? Kann eine Person mehrere Ämter haben ?
-3) Und was wenn sich keine gute Nachfolgerin findet ?
-4) Wie viel Spielraum ist ? Wie viel Geschlechter gibt es denn ?
-5) Geflüchtet vor was ? Dem Gesetz ? Wie helfen ? Auch Geflüchteten verfeindeter Gruppen ?
-6) Rein theoretisch: Brennt man aus Notwehr eine böse Industrieanlage ab, muss man das CO2 kompensieren. Und ob andere diese Hilfe annehmen...
-7) Schutzausrüstung in der Werkstatt ist gut. Hier wurde aber vergessen, dass man mit den Geräten auch umgehen können muß. Insbesondere mit denen, die von der Community optimiert und angepasst wurden...
-8) Selbsterklärend. Aber was wenn man sich neue Bierhefen gezüchtet hat ? Ab wann sind die nicht mehr experimentell ?
-9) Wenn jemand beweist, dass etwas getan werden kann. Hat er wohl Recht... kann aber zu Problemen mit sehr begeisterten Chaoten führen, die nicht zuhören können
-10) Communities können andere zu Wettstreits fordern. Der Gewinner erhält deutliche Reputation. Der Verlierer kann aber auch Punkte für eine Großartige Lobes rede auf die Gewinner erhalten. Beides wird in Annalen archiviert. Die genaue Form des Wettstreits wird zwischen den Communities definiert. => Start vieler Abenteuer
 
 Recht und Gesetz
 ----------------
@@ -206,7 +210,7 @@ Als Wakanda wird oft nicht nur Afrika sondern auch Länder mit ähnlicher Entwic
 Beziehungen
 -----------
 
-Beziehungen sind gerade unter Solarpunks in allen Varianten üblich. Von Hetero-Monogam bis zu Polyamourös. Die Eltern der Kinder fühlen sich für die Erziehung zuständig. In vielen Communities ist es aber ein so üblicher Brauch, dass sich alle für die Erziehung der Kinder verantwortlich fühlen, dass man irritierte Kinder mehrfach fragen muss "Wer denn deine WIRKLICHEN Eltern sind". Die eigene Geschlechter-Identität bestimmt das Individuum. Alles andere wäre ja auch seltsam.
+Beziehungen sind gerade unter Solarpunks in allen Varianten üblich. Von Hetero-Monogam bis zu Polyamourös. Die Eltern der Kinder fühlen sich für die Erziehung zuständig, auch wenn es 5 Elternteile sind. In vielen Communities ist es aber ein so üblicher Brauch, dass sich alle für die Erziehung der Kinder verantwortlich sind, dass man irritierte Kinder mehrfach fragen muss "Wer denn deine WIRKLICHEN Eltern sind". Die eigene Geschlechter-Identität bestimmt das Individuum. Alles andere wäre ja auch seltsam.
 
 Unter den Verlorenen ist diese Solarpunk Vielfalt auf "Vater-Mutter-Kind" eingeschränkt. Dies sorgt oft für Brüche und persönliches Unglück.
 

@@ -10,13 +10,15 @@ Solarpunk 2050
    :maxdepth: 2
    :caption: Contents:
 
+   genesis
+
    welt
+
+   gruppen
 
    solarpunk_technologie
 
    verlorenen_technologie
-
-   gruppen
 
    menschen_und_communities
 
