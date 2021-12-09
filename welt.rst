@@ -199,7 +199,7 @@ Wakanda
 
 In Entwicklungs-Ländern (gerade Afrika) traten die Folgen der Klima Katastrophe ca 10 Jahre früher ein. Doch einige glücklichen Umstände haben für eine äußerst positive Entwicklung gesorgt:
 
-* Es gab eine bereits existierend Do It Yourself Mentalität
+* Es gab eine bereits existierend Do It Yourself und Repair Mentalität da dort keine Wegwerfgesellschaft herrschte
 * Andere Länder haben Afrika mit Technologie unterstützt. Aber dabei gleich auf Leap-Frogging geachtet: Kohle kraft wurde übersprungen - man hat gleich auf Solar gesetzt. Dasselbe mit Funk-Internet statt Netzwerk kabeln
 * Die Bevölkerung war jünger und Technologie-offener
 

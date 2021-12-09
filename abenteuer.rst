@@ -102,6 +102,23 @@ Es entsteht dort in einer rechtlichen Grauzone eine fast schon klassische Goldgr
 
 So was zieht immer Solarpunks an. Es gilt anzupacken. Oder Probleme zu lösen. Oder einen verschuldeten alten Freund da raus zu holen "Ich habe den Verdampfer gemietet. Ausgerechnet, dass ich nur 100 Nokia Handys pro Tag brauche, um den abzuzahlen. Aber mein Claim grenzt an den von Bernd. Und ich höre ihn Seine Tunnels graben. Er ist sicher auf meiner Seite der Grenze !".
 
+Supraleitung
+------------
+
+"Ok, letzter Punkt für heute. Unser Bike-Zauberer Niels hat ein neues Verbesserungsprojekt für die Räder vor. Braucht dafür aber flüssigen Stickstoff. Wer hat also eine Idee, wo man den her bekommt ?"
+
+Job der Spieler ist es also einen Tanklaster flüssigen Stickstoff aufzutreiben. Oder eine regelmäßige Bezugsquelle. Je nach aufgebauten Connections, Spielstil oder Umgebung könnte das Abenteuer also anders laufen:
+
+* Shadowrun mäßig
+* Heist style
+* "Ich kann euch Stickstoff liefern, wenn ihr eines meiner Probleme löst: "
+* Ressourcen in die Hand nehmen und kaufen....
+
+Flüssiger Stickstoff ist unglaublich kalt (ca. -200°C) und doof zu transportieren. Der taut bei normalen Temperaturen langsam in seinem Thermosbehälter auf und wird diesen sprengen, wenn kein Überdruckventil existiert.
+https://de.wikipedia.org/wiki/Fl%C3%BCssigstickstoff
+
+Belohnung: Niels kann danach die Räder mit supraleitenden Spulen und Leitungen verbessern. Der Fahrer kann aus einem kleinen Stickstoff Tank Kühlung zuschießen und als Stunt +2 auf Geschwindigkeit erhalten. Der Tank enthält 3 Ladungen. Außen am Tank bilden sich Eiskristalle. Und hin und wieder entlässt das Überdruckventil am Rad zischend Dampfwolken. Sieht sehr cool aus. Besonders mit gezielt angebrachter LED Beleuchtung.
+
 Sammelsurium
 ------------
 
@@ -131,3 +148,4 @@ Sammelsurium
 * Organisieren eines Hilfs Paket Air drops in eine Katastrophen Zone. Zeit ist zentral ! Am besten mit kompletter Projekt Planung am Spieltisch.
 * Die Community der Spieler will eine Bier Manufaktur bauen und benötigt ein Gebäude. Glücklicherweise gibt es eines, in dem ein Konzern haust, der eh' Dreck am Stecken hat. Die Abenteurer bringen den Konzern zu Fall, das Gebäude wird von der lokalen Stadt versteigert. Die Gruppe kann dann den Vorschlag mit dem Öko Bier machen (mit den coolen Bio-engineerten Hefen, die sie haben). Als Beweis ihrer Fähigkeiten müssen sie Samples vorlegen. Gewinnen sie das dann auch, haben sie ein Jahr Zeit, das Gebäude zu entkernen, Maschinen und Leute anzuschaffen und das Business zu bauen.
 * Da die KI bei den Normalen alles aufgreift, was Lebensqualität steigert (selbst aber nicht kreativ ist !) ist es ein erfolgreicher Hack, direkt vor der Evaluierungsphase der KI in einer Nacht-und-Nebel Aktion in die Stadt zu integrieren. Die Leute sehen es, freuen sich daran. Die KI evaluiert. Und rollt es danach breit flächig aus. Timing und perfekte Umsetzung ist hier essentiell. Sollte man das Timing versauen, wird die KI Veranlassen, das störende Objekt zu entfernen, bevor die Evaluierung stattfindet, denn nach dem alten KI Modell ist es ja ein Störfaktor.
+* Dank Sabotage (Umstellung der Optimierungs Ziele) wird eine KI in einer Stadt immer bösartiger. Die Umgebung dort praktisch feindlich.

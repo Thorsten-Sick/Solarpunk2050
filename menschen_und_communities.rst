@@ -16,6 +16,16 @@ Bruno und Rita leben auf dem Land. Sie sind eng vermascht mit den Nachbarn und l
 
 So gut hier alles Läuft. Mit Tieren haben die beiden es nicht so. Obwohl sie es immer probieren. Der Hund ist etwas doof und nicht zu erziehen aber nicht bösartig. Dafür sind das die beide Laufenten, die eigentlich nur die Schnecken jagen sollen... Bruno und Rita lieben die Tiere und haben hier einen etwas blinden Fleck.
 
+Rita hat dazu jedes Jahr ein neues Projekt. So kamen bisher mindestens zusammen:
+
+* Brot backen
+* Käseherstellung
+* Seifenherstellung
+* Filzen
+* Nähen
+
+Nach einem initialen Begeisterungs-Feuer werden diese Projekte fortgeführt, aber ein neues Projekt wird direkt gestartet.
+
 Bruno
 ~~~~~
 
@@ -69,6 +79,14 @@ Stunts:
 
 Weil ich zwei grüne Daumen habe kann ich einmal pro Sitzung eine Pflanze retten.
 
+Bruder Anselm
+~~~~~~~~~~~~~
+
+Seelsorge, Ökumenische Gottesdienste, Nahkampf und Infiltration
+
+Der 50 jährige tauchte vor einiger Zeig in der Community auf. Da er ein sehr gutes Gefühl für Menschen und ihre Sorgen hat, wurde er schnell aufgenommen und sorgt sich seither um die geistigen Belange der Community Bewohner. Seine Andachten sind inzwischen auch für externe Gäste geöffnet und er hat das Angebot um Tai Chi (im Garten, nur bei schönem Wetter) und Ikebana erweitert.
+
+Einige wenige in der Community wissen, dass er eine etwas finstere Vergangenheit hat und von der Inquisition gesucht wird. Unter den Eingeweihten wird gemunkelt, dass er beim Team, dass den alten Papst ermordet hat involviert war. Dies könnte auch seine ausgefeilten Nahkampffähigkeiten und Social Engineering Erfahrungen erklären. Obwohl sie nicht genau wissen, was die Geschichte des freundlichen Priesters ist, halten sie zu ihm, wenn wieder seltsame Fremde nach ihm fragen. Die nächtlichen speziellen Trainingsstunden im mit Tüchern gegen Beobachtung verhängten Gemdeindesaal (Nahkampf, Ninjutsu, Social Engineering und Lockpicking) sind in der Community eine Art Geheimtip.
 
 Nomadenschule
 -------------

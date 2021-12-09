@@ -16,9 +16,17 @@ Solarpunk 2050
 
    gruppen
 
+   gruppe_solarpunks
+
+   gruppe_norms
+
+   gruppe_verlorene
+
    solarpunk_technologie
 
    verlorenen_technologie
+
+   norms_technologie
 
    menschen_und_communities
 
