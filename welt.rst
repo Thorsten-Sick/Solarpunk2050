@@ -83,8 +83,8 @@ In diesem Fall wird der Konzern abgewickelt und die Assets versteigert:
 * Der Gewinner erhält die Ressource und muss diese aber in einem festgelegten Zeitrahmen wie geplant nutzen. Scheitert die Gruppe, kommt die nächste zum Zug.
 
 
-Kapitalismus
-------------
+Wirtschaft
+----------
 
 Das Ökonomische System ist weiterhin der Kapitalismus. Aber dank den beiden Haupt-Kriterien für die Gesellschaft (Ökologie und Lebensqualität) ist er neu ausgestaltet. Grenzenloses Wachstum ist nicht möglich. Recycling des alten Produkts ist teils in den Neukauf integriert. Arbeit ist Teil der Lebensqualität.
 
@@ -95,9 +95,45 @@ Das Ökonomische System ist weiterhin der Kapitalismus. Aber dank den beiden Hau
 * Zwischen Communities ist eher der Austausch als Kapital interessant
 * Die EU steuert sehr viele Projekte über CO2 Preis. Das Geld eintreiben funktioniert prima bei CO2 Emittenten (manche versuchen zu betrügen, sorgt für Firmen Todesstrafe). Andererseits kann man auch zuverlässig Geld verdienen durch CCS Technologien (Verkohlen von Bio Müll, dass dann als Terra Preta verbuddeln. O.Ä.)
 
-Der Euro ist weiterhin Währung.
+Der **Euro** ist weiterhin Währung. Für den Handel zwischen den Gruppen ist der relevant.
 
-Tauschhandel hat aber unter Solarpunks einen größeren Stellenwert als Währung. Besondere und rare Güter werden im Tauschhandel besser bewertet als im Handel für Euros.
+Ressourcen Punkte
+~~~~~~~~~~~~~~~~~
+
+Ressourcen Punke (aka RPs, Respis, Ressis,...) sind eine weltweit verpflichtende Zweitwährung für den Austausch physischer Güter. Im Prinzip ist das ein zentrales **Pfandsystem für alles*.
+
+* Jedes physische Objekt kostet beim Handel zusätzlich Resourcen Punkte
+* Diese werden durch die Typen und Mengen der Materialien bestimmt, aus denen das Objekt besteht
+    * Beispiel: Pickup Truck: 1,5 Tonnen Stahl + 5 kg seltene Materialien (Gold, ...) = 5023 RPs
+* Jedem Menschen werden von der EU (oder dem lokalen Äquivalent) eine bestimmte Menge RPs gutgeschrieben
+* Durch Recycling an zertifizierten Stellen kann man RPs "zurückgewinnen"
+    * Das können Flaschen sein, zerschossene Pickups, Fabriken die keiner mehr will, ...
+* Mit RPs darf man nicht handeln (sie also gegen Euro an andere verkaufen)
+* RPs werden in einem Online Bankkonto gespeichert: In fünf Blockchains
+    * Eine bei der EU (oder ähnlicher Institution anderer Erdteile)
+    * Eine beim Land (Deutschland)
+    * Eine beim Bundesland
+    * Eine bei der Stadt
+    * Eine bei der Community (Solarpunk, ...)
+
+Ausgenommen sind natürlich nicht-physische Objekte: Konzertbesuche, Digitale Medien, Dienstleistungen, ... Diese verbrauchen keine Ressourcen. Nahrungsmittel sind auch nicht mit RPs belegt. Es geht ja schließlich um Recycling.
+
+Hintergrund:
+Ziel der Weltgemeinschaft war es, den Ressourcenverbrauch fair auf verträgliche Maße zu reduzieren. Jeder Mensch erhält Regelmäßig neue Ressourcen zugewiesen. Und da diese sich nicht verbrauchen, sondern entweder auf dem Konto oder als Objekte angelegt werden, wird der Mensch auch immer reicher.
+
+Es gibt genug Ressourcen pro Person, damit ein Norm gut leben kann. Großprojekte verschlingen aber schnell viele Ressourcen. Damit sind die RPs sehr relevant für Solarpunks.
+
+Die fünf Blockchains sind ein Artefakt der Entscheidungen des Gründer-Kommitees. Sollten die Einträge der Blockchain sich widersprechen, wird die Mehrheit entscheiden.
+
+*Im Spiel werden Resourcen Punkte eher grob gehandhabt. Ein Stressbalken wäre angebracht*
+
+Tauschhandel
+~~~~~~~~~~~~
+
+Tauschhandel hat aber unter Solarpunks und den Verlorenen einen größeren Stellenwert als Währung. Besondere und rare Güter werden im Tauschhandel besser bewertet als im Handel für Euros. Auch "Dienstleistungen" werden im Tauschhandel ausgetauscht. Die Norms kennen Tauschhandel praktisch nicht.
+
+Brownie Points
+~~~~~~~~~~~~~~
 
 Eine weitere "Währung" unter den Solarpunks sind "Brownie Points", eigentlich eine Art Anerkennung, Ruf und Ruhm. Wird eigentlich gar nicht in Zahlen ausgedrückt und es kann nicht genau nachvollzogen werden, durch welche Handlungen man genau wieviel verdient oder verliert.
 
