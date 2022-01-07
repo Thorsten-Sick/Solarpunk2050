@@ -19,6 +19,7 @@ Steckbrief
 * Klasse: Meritokratie.
 * Aufstieg in der Gesellschaft: Erfolgreiche und kreative Projekte und Aktionen
 * Politisches System: Holokratie
+* Gesellschaftsform: Großfamilie
 * Konflikte: Meritokratie bugs, Drang nach Veränderung
 * Aussehen: Selbst geschneiderte oder angepasste Kleidung. Sehr individuell. Während Projekten wird auf Praktikabilität Wert gelegt. Haare frei nach Geschmack.
 * Tabus: Müßiggang, Ruhm stehlen
@@ -28,7 +29,7 @@ Steckbrief
   * Richter: Die Gruppe
   * Strafen: Sozialstunden bis Verbannung aus allen Solarpunk Communities
 * Korruption: Kaum. Wenn, dann wird evtl. das eigene Projekt mit Ressourcen unterstützt.
-* Waffen: Elegante Waffen werden bevorzugt. Denn es wird als Sport betrieben: Schwerter, Bögen ( Hightech) und Schusswaffen, ...
+* Waffen: Elegante Waffen werden bevorzugt. Denn es wird als Sport betrieben: Schwerter, Bögen (Hightech) und Schusswaffen, ...
 * Architektur: Kreative Verschmelzung mit Natur und Technik. Auf Gemeinschaft ausgerichtet. Sehr individuell.
 * Fahrzeuge: Technologisch sehr modern und digital, Akku oder Wasserstoff getrieben. Leichtbau und klein. Also E-Bikes, E-Lastenräder, Quads, Exoskelette
 * Ressourcen: Güter der Großindustrie fehlen. Man jagt auch immer nach Technik, die man recyclen kann, weil man nichts neues kaufen will (aus ideologischen Gründen)
@@ -36,16 +37,20 @@ Steckbrief
 * Erfolg: Erfinder abgefahrener Technologie, Leute die eine riskante Aktion durchgeführt haben
 * Drogen: Werden eingesetzt, um kreativ, fröhlich und offen zu sein. Also unterstützend. Zudröhnen und langanhaltende Beeinflussung ist aber schwer verpönt. Da es Projekte lähmt. Experimente mit intelligent designten und gezüchteten Drogen sind willkommen.
 * Psychotherapie: Es gibt viele ausgebildete, weise und seelsorgerischen Leute. Therapie ist eher so ein nebenher laufendes Mentoren Ding und keiner nimmt es wirklich wahr.
-* Medien: Es gibt viele sehr Themen spezifische Podcasts/Video casts und ähnliches. Jeweils von den Fachexperten erstellt. Auch Vorträge werden gehalten und aufgezeichnet. Ein immenses Wissens-Archiv ist verfügbar. Kunst und Kultur wird ebenso dezentral von Communities aufgezeichnet und verbreitet.
+* Medien: Es gibt viele sehr themenspezifische Podcasts/Video casts und ähnliches. Jeweils von den eigenen Fachexperten erstellt. Auch Vorträge werden gehalten und aufgezeichnet. Ein immenses Wissens-Archiv ist verfügbar. Kunst und Kultur wird ebenso dezentral von Communities aufgezeichnet und verbreitet.
 * Bildung: Flipped Classroom, praktisches Lernen. Keinerlei Altersbeschränkung für Kurse, sondern bestenfalls benötigtes Vorwissen als Beschränkung. Vorwissen wird mittels eines Badge Systems verwaltet: https://support.mozilla.org/de/products/open-badges/introduction-open-badges .Lehrer sind für ihre Erklärfertigkeit in ihrem Bereich anerkannt. Aber nicht notwendigerweise Vollzeitlehrer.
 * Koordination: Engelsystem. Aufgaben werden in ein System eingetragen. Wenn jemand Zeit hat, ruft er die Aufgaben ab und sortiert nach seinen Fähigkeiten/Interessen. Macht dann und bekommt Punkte https://engelsystem.de/ Ein Auftrag im Engelsystem kann auch der praktische Teil einer Fortbildungsmaßnahme sein und mit einem Badge belohnt werden.
 * Ernährung: Selbst im Labor gezüchtetes Fleisch, Gemüse. Kreative Küche wird sehr gerne gesehen. Und gute Köche können zu Stars werden.
 
 
-Solarpunk Communities
----------------------
+Politik
+-------
 
-Communities sind die Art, wie sich Solarpunks oft organisieren. Das sind selbstverwaltete Strukturen, die im besten Fall eine Art gemeinsames Dorf bilden. Doch auch örtlich zersplitterte Communities existieren und gedeihen.
+Communities sind die Art, wie sich Solarpunks demokratisch organisieren. Das sind selbstverwaltete Strukturen, die im besten Fall eine Art gemeinsames Dorf bilden. Doch auch örtlich zersplitterte Communities existieren und gedeihen.
+
+Die Demokratie Form ist eine **Holokratie**(https://de.wikipedia.org/wiki/Holokratie). Alles ist in Zirkeln organisiert. Diese sind hierarchisch verbinden. Die unterste Ebene ist ein einzelnes Projekt. Danach kommt die Community, Der lokale Cluster der Communities, die EU Vertretung der Communities und danach der globale Zirkel.
+
+Die Mitglieder der Zirkel werden demokratisch gewählt. Zusätzlich wird jeweils ein gewähltes Mitglied an die angrenzenden Zirkel entsandt. Somit sind alle vernetzt. Ein weiterer wichtiger Grundsatz: Die Zirkel versuchen NICHT die beste Lösung eines Problems zu finden, sonder bevorzugen eher die am leichtesten korrigierbare Variante. Damit können eher Versuche angegangen werden.
 
 Eine Community lebt nach selbst festgelegten Regeln. Das Standard Solarpunk Regelwerk ist deren Grundlage.
 
@@ -90,6 +95,18 @@ Diese Regeln haben absichtlich einige Unklarheiten. Damit lässt sich dann die S
 9) Wenn jemand beweist, dass etwas getan werden kann. Hat er wohl Recht... kann aber zu Problemen mit sehr begeisterten Chaoten führen, die nicht zuhören können
 10) Communities können andere zu Wettstreits fordern. Der Gewinner erhält deutliche Reputation. Der Verlierer kann aber auch Punkte für eine Großartige Lobes rede auf die Gewinner erhalten. Beides wird in Annalen archiviert. Die genaue Form des Wettstreits wird zwischen den Communities definiert. => Start vieler Abenteuer
 
+Meritokratie
+------------
+
+Aufstieg unter den Solarpunks erreicht man durch erfolgreich durchgeführte Projekte. Diese Meritokratie ist eine auf Anerkennung basierte Hierarchie.
+
+Bugs bei der Meritokratie:
+
+* Neulinge können natürlich nicht nicht viele Erfolge vorweisen
+* Leute mit Mangel an Begabung (oder einer Behinderung) bleiben auf den untersten Stufen - solange die Gesellschaft nicht die Mühen anerkennt, unabhängig vom Erfolg
+* Ruhm kann gestohlen werden, fremde Projekte angeignet
+* Verschiedene Communities haben verschiedene Schwerpunkte (Kunst, Technologie oder Pflanzen) und es fällt ihnen damit schwer, Fremde Arbeit einzuschätzen
+
 Bildung
 -------
 
@@ -99,7 +116,11 @@ Es gibt keinen klaren Bildungsplan. Wissen und Kenntnisse werden sehr wertgesch�
 Beziehungen
 -----------
 
+Diversität ist bei Solarpunks der Standard.
+
 Beziehungen sind gerade unter Solarpunks in allen Varianten üblich. Von Hetero-Monogam bis zu Polyamourös. Die Eltern der Kinder fühlen sich für die Erziehung zuständig, auch wenn es 5 Elternteile sind. In vielen Communities ist es aber ein so üblicher Brauch, dass sich alle für die Erziehung der Kinder verantwortlich sind, dass man irritierte Kinder mehrfach fragen muss "Wer denn deine WIRKLICHEN Eltern sind". Die eigene Geschlechter-Identität bestimmt das Individuum. Alles andere wäre ja auch seltsam.
+
+Zu beachten ist hier der Unterschied zwischen "Häufig" und "Normal". Solarpunks sind nicht häufiger Homosexuell als der normale Bevölkerungsdurchschnitt. Aber es ist bei ihnen total Normal, das offen zu zeigen. Darum kann es für außenstehende Verlorene so aussehen, als wären hier überproportionale Homosexuelle. Allein wegen deren Freiheit. Manchmal kann es aber vorkommen, dass ein Verlorener, der nicht Heterosexuell ist, zu den Solarpunks wechselt, nur um er selbst sein zu können. Die Person wird sich trotzdem sehr schwer tun, sich an die andere Kultur anzupassen.
 
 
 Solar Nomaden

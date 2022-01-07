@@ -17,6 +17,7 @@ Steckbrief
 * Klasse: Beförderung im Job je nach Alter
 * Aufstieg in der Gesellschaft: Automatisch
 * Politisches System: Von KI regiert
+* Gesellschaftsform: Stadtstaaten
 * Konflikte: Tödliche Ennui
 * Aussehen: Kleider von der Stange, Kleidung wird aus ökologischen Gründen nicht Fast-Fashion mäßig schnell getauscht. Doch es gibt viele Accessoirs mit denen man Zugehörigkeit und Modewissen präsentieren kann. Oft angepasst an den aktuellen Lieblingsstar
 * Tabus: Nicht konform sein, aktuelle Pop-Kultur nicht kennen

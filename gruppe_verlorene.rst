@@ -7,6 +7,7 @@ Steckbrief
 * Klasse: Macht des Stärkeren. Durch Wettkämpfe
 * Aufstieg in der Gesellschaft: Durch Überfälle, organisieren von Ressourcen ( besonders Sprit und alte Ersatzteile)
 * Politisches System: Militärisch / von Sparta inspiriert
+* Gesellschaftsform: Stammegesellschaft. Mit Blutlinien. Externe werden geraubt. Das kann auch im Einvernehmens ein, dann ist es halt eher eine Zeremonie.
 * Konflikte: Rangkämpfe - teils auch zu Lasten Außenstehender
 * Aussehen: Militärische Kleidung, Schutzwesten, Polster. Kurze Haare
 * Tabus: Schwäche zeigen, Neues annehmen
