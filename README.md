@@ -1,4 +1,76 @@
+# Solarpunk 2050
+
+Ein FATE Setting - Es ist das Jahr 2050. Die Solarpunks haben die Menschheit gerettet. Und obwohl jetzt alles gut sein könnte ... ist es das nicht.
+
+Die *Solarpunks* leben ihre hyper progressive Technik Utopie während die *Normalen* meinen, dass man mit der Rettung der Welt doch schon genug erreicht hat und man jetzt endlich mal die neuesten Serien fertig schauen könnte - die KI hat sie immerhin als persönliche Empfehlung markiert. Und die *Verlorenen* wollen zurück in das 1990 wie es nie existierte. Gerne auch mit Gewalt.
+
+Die Arbeit der Solarpunks ist also noch nicht beendet. Und da sind sie froh darüber.
+
+Lötkolben auspacken. Wir brauchen eine neue autonome Solarfarm für die Erweiterung der Community. Wer sichert diesmal den Perimeter ? Haben wir genügend Drohnen ? 
+
+## Status
+
+Das System ist spielbar aber in der Entwicklung. Der richtige Zeitpunkt für alle mit Solarpunk spirit um einzusteigen und mitzuwirken.
+
+Lasst uns diese neue Welt gemeinsam entdecken und gestalten.
+
+## Beitragen
+
+### Charaktere
+
+Baue Spielercharaktere und NSCs. Unterstützt dich das Material ? Wenn du etwas sehr gelungen findest, können wir es auch direkt ins Szenario aufnehmen.
+
+### Abenteuer
+
+Baue ein Abenteuer in dieser Welt. Spiele mit deinen Freunden. Was im Szenario ist noch unklar ? Fandest du Lücken ? Auch hier wäre es großartig, deine besten Ergebnisse ins Szenario zu übernehmen
+
+### Communities und Städte
+
+Baue originelle Communities und Städte. Nimm am besten etwas aus deiner Region. Das Szenario freut sich über mehr Städte !
+
+### Am Setting
+
+Wenn du das ganz dicke Brett bohren willst: Trage am Setting bei. Starte ein Issue, fange dort an, deine Idee zu diskutieren und erstelle danach ein Pull Request mit deinen Text Änderungen 
+
+### Solarpunk international
+
+Wie gestaltet sich die Solarpunk Veränderung in anderen Ländern ? 
+
+### Bilder
+
+Dieses Setting braucht dringend stimmige Bilder. Wenn du malen kannst, wäre ich über deine Hilfe sehr dankbar.
+
+Ich bin künstlerisch absolut unbegabt und alle hier gelisteten Vorschläge sind dementsprechend zu bewerten. Leg einfach los !
+
+* Studio Ghibli Style Bilder der Solarpunk Communities
+* Portraits
+* Städte der Norms
+* Werbung der Norms für die Produkte der Zukunft
+* Brauchbare Pläne für Geräte, mit technischen Details, wie sie die Solarpunks nutzen
+* Eher kindliche Zeichnungen der neuesten Pläne der Verlorenen "Hir stopfst du die Birdose in das Rohrund dann drückst du den Bumm Knopf"
+* Karten
+
+Speziell wären auch direkt für die Spiele nutzbare Bilder hilfreich. Speziell wenn die in Online Portalen (Token für Roll20 u.ä.) nutzbar sind. Die kommen dann zu den Abenteuern oder in eine eigene ZIP Datei als Zusatz.
+
+### Soundtracks
+
+Welche Soundtracks unterstützen am ehesten das Lebensgefühl der Fraktionen ?
+
+### Regeln
+
+Aktuell habe ich mich mit spezialisierten Regeln noch nicht groß beschäftigt. Aber angepasste Stressbalken, Extras für Cyberware und ähnliches und eine Mechanik um die eigene Community zu erweitern wären wohl sehr nützlich... was denkst du ?
+
+### Testen und Feedback
+
+Teste das Szenario mit deinen Freunden, gib auf Issues dein Feedback. Was fehlt ?
+
+## Tools
+
+Spell checking mittels:
+
 aspell --lang=DE_DE --word-list-path=./aspell -c abenteuer.rst
+
+## Quellen
 
 https://jerryjenkins.com/worldbuilding/
 https://www.masterclass.com/articles/how-to-write-a-believable-world#4-examples-of-successful-worldbuilding
@@ -8,24 +80,3 @@ Zu beantworten:
 * Geschichte (grobe Timeline), Trauma, Power shifts
 * Welche Katatrophen, welche Auswirkungen
 * Grenzen (klarstellen, es spielt in D)
-
-Gruppen:
-
-* Social class
-* Class Assignment
-* Political System
-* Conflicts
-* Visuals
-* Taboos
-* Verbals
-* complexities
-* Law:
-  * Judment
-  * Justice
-* Corruption
-* Weapons
-* Architecture
-* Vehicles
-* Resources
-* Wie wird gefeiert ?
-* Wer ist erfolgreich ? Wie wird das definiert ?
