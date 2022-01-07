@@ -152,3 +152,7 @@ Sammelsurium
 * Dank Sabotage (Umstellung der Optimierungs Ziele) wird eine KI in einer Stadt immer bösartiger. Die Umgebung dort praktisch feindlich.
 * Schwarzmarkt für Ressource Punkte (entweder Gründen, hochnehmen, ...). Man könnte RPs tauschen durch das Verschieben von RP intensiven Gütern....
 * Die 5 Ressource Punkte Blockchains widersprechen sich. Ist das ein Angriff ? Oder einfach wieder mal ein technisches Problem ?
+* Wie bei einem klassischen Dungeon Crawl sind die Verlorenen in eine alte Anlage eingedrungen um dort sagenhafte Schätze aus der Vergangenheit zu finden. Was sie finden ista ber nicht unproblematisch
+    * Ganz unbekannt sollte das gefundene Objekt den Gebildeten nicht sein, denn es ist ja ca. 30 Jahre alt
+    * Irgendwie muss man jetzt damit klarkommen, dass das Ding das Licht erblickt hat
+    * Evtl. könnte das Abenteuer aber auch ein Wettrennen ins "Dungeon" ( verschüttetes Labor, versiegelter Luftschutzbunker) werden

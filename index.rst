@@ -10,6 +10,8 @@ Solarpunk 2050
    :maxdepth: 2
    :caption: Contents:
 
+   elevator_pitch
+
    genesis
 
    welt
@@ -35,4 +37,6 @@ Solarpunk 2050
    abenteuer
 
    konzept
+
+   lizenz
 

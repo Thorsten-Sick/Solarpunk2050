@@ -156,8 +156,38 @@ Stunts:
 
 Weil ich viele Leute und ihre Geheimnisse kenne bekomme ich einen Bonus von +2, wenn ich verhandle und dabei tückisch einen Vorteil erschaffe
 
+
+Community "FH Fichten Hain" im Schwarzwald bei Furtwangen
+---------------------------------------------------------
+
+Die Community liegt tief im Schwarzwald bei Feuchtwangen.
+
+Stärke der Community ist Holzverarbeitung. Dieses gibt es rund um die Siedlung reichlich. Zwischen den Wipfeld der Bäume spannt sich ein komplexes Wipfelpfad-Netzwerk. And besonders hohen Bäumen sind verschiede Windräder angebracht, die den Strom liefern.
+
+Aus dem erstklassigen Holz werden Häuser, Kuckucksuhren für den Export und Kunstgegenstände hergestellt.
+
+Das großflächige Waldgebiet wird von einigen Bewohnern als ihr Revier angesehen und sie nutzen kleine und wendige Elektrofahrzeuge, um es zu patrollieren. Handel findet mit der Norm-Stadt Feuchtwangen statt. Auf der anderen Seite dieser Stadt befindet sich die Community "Voltron", mit der man im friedlichen Wettstreit liegt.
+
+Gefährlich sind aber die Verlorenen, die in diesem abgelegenen Gebiet gerne Fuß fassen würden.
+
+Adrian "Frodo"
+~~~~~~~~~~~~~~
+
+Hightech Förster mit Exoskelett. Anhänger des Transhumanismus "Mensch und Maschine müssen zusammenwachsen".
+Dass er mit seinem Exoskelett alleine ganze Bäume ernten kann (Kettensägen sind eingebaut) und die am besten gewachsenen Stücke identifizieren (Ultraschall scanner) beschwert ihm manchmal ein etwas irrationales Selbstverständnis von sich als Maschine.
+
+Herbert "Herbie" Schwarzenbach
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Hunde und Wolfsnarr. Hat damals als fast schon militanter Wolfsschützer bei der Ansiedlung des Wolfes in Deutschland mitgeholfen. Diese staatliche Aktion wurde oft von militanten Terroristen und Wolfsfeinden gestört.
+Als Afghanistan Veteran hat er aber genug Rüstzeug um die IEDs und andere Anschläge zu stoppen. Man munkelt aber auch, dass sein hartes Vorgehen für einige Tote sorgte...
+
+Diese Zeit hat ihn aber eher zum Eigenbrötler gemacht. Er lebt am Rande der Community in einem sehr gepflegten Holzhaus und kümmert sich dort um seine Hunde. Wenn er Menschenkontakt selbst bestimmen kann, kommt er aber gerne aus seiner Hütte heraus und hilft aus.
+
+Generell schätzt er seine Tiere und die Natur aber mehr als Menschen. Er wurde in den Jahres desillusioniert.
+
 Niels Bikes
------------
+~~~~~~~~~~~
 
 Niels kümmert sich in der Community FH Schwarzwald um die E-Bikes. Jeder der Community (und manche Freunde) haben jederzeit Zugriff auf E-Mountainbikes, E-Lastenräder und eine Kreuzung aus E-Rad und Unimog. Der TÜV findet bei den geprüften Fahrzeugen auch nie irgendwelche Auffälligkeiten.
 
@@ -167,10 +197,37 @@ Guten Freunden bietet er auch eine anclipbare Waffenhalterung.
 
 
 Anselm und Hildegard
---------------------
+~~~~~~~~~~~~~~~~~~~~
 
-Stellen in der FH Schwarzwald Kuckucksuhren für den weltweiten Export her. Die großen und gut bewirtschafteten Waldstücker der FH (Fichten Hain) Schwarzwald sind hier eine wichtige Ressource. Auch nutzen sie ihren vollautomatischen Shop um mittels Robotern diese Uhren herzustellen. Die Energie hierzu gewinnen sie mittels der Holz-Windräder, die am Baumwipfelpfad angebracht sind.
+Stellen Kuckucksuhren für den weltweiten Export her. Die großen und gut bewirtschafteten Waldstück der FH (Fichten Hain) Schwarzwald sind hier eine wichtige Ressource. Auch nutzen sie ihren vollautomatischen Shop um mittels Robotern diese Uhren herzustellen. Die Energie hierzu gewinnen sie mittels der Holz-Windräder, die am Baumwipfelpfad angebracht sind.
 
-Aus Liebe zu ihrem metier sind sie aber immer mit mindestens einer Uhr beschäftigt, die sie händisch schnitzen. Nur werden so nie mehr als 5 Uhren pro Jahr fertig. Reparaturen an bestehenden Uhren fressen den Rest ihrer Zeit.
+Aus Liebe zu ihrem Metier sind sie aber immer mit mindestens einer Uhr beschäftigt, die sie händisch schnitzen. Nur werden so nie mehr als 10 Uhren pro Jahr fertig. Reparaturen an bestehenden Uhren fressen den Rest ihrer Zeit.
 
-.. Technomancerin
+Der große Renner sind aber die Kuckuksuhren Bausätze, die sie an die Normalen verkaufen: "Bau deine eigene Kuckucksuhr. In 5 einfachen Schritten"
+
+Bernd
+~~~~~
+
+Aktuell Anführer der FH. Sein großes Steckenpferd ist das Backen. Insbesondere sein selbst genmodifizierter Sauerteig ist weit jenseits der Community unter Solarpunks bekannt. Doch dieser Sauerteig ist ein Geheimnis, der niemals lebend das Gebiet der Community verlassen darf.
+
+
+Waterworld
+----------
+
+Im Bodensee, nahe Überlingen, existiert die Community "Waterworld". Eine kleine schwimmende Stadt. Als sie gegründet wurde hat jemand den Namen aus Spaß vorgeschlagen. Da sich niemand mit Filmhistorie auskannte wurde er genommen.
+
+Die Community sieht sich als Hüter der Bodensee Flora und Fauna und als Experimentierplatz um Wasser-nahes Leben zu erkunden.
+
+Seehexe, Technomancerin
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Eine der buntesten Bewohner der Waterworld ist die selbsternannte Seehexe. Eine begnadete Hackerin und Expertin für Funktechnik. Aber immer wieder irritierend ist ihr Hang zur Dramatik. Jede größere Aktion ihrerseits muss sie mit Ritualen und Dramatik aufbauschen. Ob das ein psychischer Tick ist oder wirklich nur ihr Hang zur Dramatik ist nicht ganz klar. Leute, die sie kennen akzeptieren es gerne. Außenstehende sind etwas irritiert, wenn sie aufgefordert werden mit Räuchergefäßen um den Rechner im Zentrum des Pentagramms zu tanzen.
+
+Überlingen - Stadt der Wunder
+-----------------------------
+
+Überlingen ist eine Norm Stadt. Sie war in den 2020ern bekannt für relativ viele Esoteriker und die Waldorf Schule. All das wäre nicht erwähnenswert, wenn die KI dieser Stadt nicht erkannt hätte, dass sie einige Leute mit "Wundern" sehr glücklich machen kann. Diese Wunder waren einfache technische Maßnahmen. Medikamente im Trinkwasser um Bewohner zu heilen oder "Zeichen" die die Stadt KI dann Tage später erfüllt hat...
+Wie das so ist mit selbstverstärkenden Systemen: Es zogen mehr Esoteriker in die Stadt der Wunder. Manche Bewohner wurden auch erst zu Esoterikern. Und die KI hatte mehr Erfolg mit ihren Wundern - was wiederum dafür sorgte, dass sie diese öfters einsetze....
+
+Alles ist ein bisschen eskaliert und jetzt funktionieren dort Kristalle und Flüche wie auf magische Weise. Denn die KI sieht alles.
+

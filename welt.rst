@@ -44,6 +44,8 @@ In diesem Fall wird der Konzern abgewickelt und die Assets versteigert:
 
 Trotz allen Neuerungen in der Konzernkultur scheinen einige Gewerkschaften sich für weniger Arbeit einzusetzen. Seit einigen Jahren ist die 20 Stundenwoche ein heisses Streitthema (die meisten Arbeiter sind aber noch bei der 25 Stunden Woche).
 
+Große Konzerne können für die interne Sicherheit eigene Securities haben ("Konzerntruppen"). Da die staatliche Executive der Norms oft nicht ausreichend ausgestattet ist für richtige Probleme, übernehmen dann die Konzerntruppen. Der Staat ist mit dem Arrangement oft recht zufrieden.
+
 Wirtschaft
 ----------
 
@@ -60,12 +62,12 @@ Daraus ergeben sich folgende Prioritäten:
 
 Der **Euro** ist weiterhin Währung. Für den Handel zwischen den Gruppen ist der relevant.
 
-Ressourcen Punkte
-~~~~~~~~~~~~~~~~~
+Rohstoff Punkte
+~~~~~~~~~~~~~~~
 
-Ressourcen Punkte (aka RPs, Respis, Ressis,...) sind eine weltweit verpflichtende Zweitwährung für den Austausch physischer Güter. Im Prinzip ist das ein **zentrales Pfandsystem für alles*.
+Rohstoff Punkte (aka RPs, Stoffis, Rohs, ... anhand des Spitznamens erkennt man das Alter des Sprechers) sind eine weltweit verpflichtende Zweitwährung für den Austausch physischer Güter. Im Prinzip ist das ein **zentrales Pfandsystem für alles*.
 
-* Jedes physische Objekt kostet beim Handel zusätzlich Ressourcen Punkte
+* Jedes physische Objekt kostet beim Handel zusätzlich Rohstoff Punkte
 * Diese werden durch die Typen und Mengen der Materialien bestimmt, aus denen das Objekt besteht
     * Beispiel: Pickup Truck: 1,5 Tonnen Stahl + 5 kg seltene Materialien (Gold, ...) = 5023 RPs
 * Jedem Menschen werden von der EU (oder dem lokalen Äquivalent) eine bestimmte Menge RPs gutgeschrieben
@@ -81,14 +83,14 @@ Ressourcen Punkte (aka RPs, Respis, Ressis,...) sind eine weltweit verpflichtend
 
 Die fünf Blockchains sind ein Artefakt der Entscheidungen des von Consultants beratenen Gründer-Kommitees. Sollten die Einträge der Blockchains sich widersprechen, wird die Mehrheit entscheiden.
 
-Ausgenommen vom Ressourcenhandel sind natürlich nicht-physische Objekte: Konzertbesuche, Digitale Medien, Dienstleistungen, ... Diese verbrauchen keine Ressourcen. Nahrungsmittel sind auch nicht mit RPs belegt. Es geht ja schließlich um Recycling.
+Ausgenommen vom Rohstoffhandel sind natürlich nicht-physische Objekte: Konzertbesuche, Digitale Medien, Dienstleistungen, ... Diese verbrauchen keine Rohstoff. Nahrungsmittel sind auch nicht mit RPs belegt. Es geht ja schließlich um Recycling.
 
 Hintergrund:
-Ziel der Weltgemeinschaft war es, den Ressourcenverbrauch fair auf verträgliche Maße zu reduzieren. Jeder Mensch erhält regelmäßig neue Ressourcen zugewiesen. Und da diese sich nicht verbrauchen, sondern entweder auf dem Konto oder als Objekte angelegt werden, wird der Mensch auch immer reicher.
+Ziel der Weltgemeinschaft war es, den Rohstoffverbrauch fair auf verträgliche Maße zu reduzieren. Jeder Mensch erhält regelmäßig neue Rohstoff zugewiesen. Und da diese sich nicht verbrauchen, sondern entweder auf dem Konto oder als Objekte angelegt werden, wird der Mensch auch immer reicher.
 
-Es gibt genug Ressourcen pro Person, damit ein Norm gut leben kann. Großprojekte verschlingen aber schnell viele Ressourcen. Damit sind die RPs sehr relevant für Solarpunks.
+Es gibt genug Rohstoffe pro Person, damit ein Norm gut leben kann. Großprojekte verschlingen aber schnell viele Rohstoffe. Damit sind die RPs sehr relevant für Solarpunks.
 
-*Im Spiel werden Ressourcen Punkte eher grob gehandhabt. Ein Stressbalken wäre angebracht*
+*Im Spiel werden Rohstoff Punkte eher grob gehandhabt. Ein Stressbalken wäre angebracht*
 
 Tauschhandel
 ~~~~~~~~~~~~

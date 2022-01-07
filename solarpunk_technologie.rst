@@ -68,4 +68,6 @@ Die Zucht der Insekten kann durch Konzerne in Lagerhallen großen Komplexen erfo
 
 **Schwänze**: Furries waren auch im Jahr 2020 ein Begriff. Manche witzelten bereits, dass sie das Internet erfunden haben. Heute sind sie ein deutlich häufigerer Bestandteil unserer Gesellschaft. Und deren Kostüme ("Fursuits") haben einen starken Beitrag zu unserer Technologie geliefert. Umschnallbare, autonome Balanceschwänze sind so ein Ding. Selbst ohne Fellüberzug schnallen sich das viele um, da sie bei akrobatischen Aktionen sehr von diesen Balance Schwänzen profitieren. Der Akku reicht locker einen halben Tag im Volleinsatz.
 
+**Lichtbringer**: Ein E-Bike Anhänger, ca. 2 Bierkästen groß mit auf 5 Meter ausfahrbarem Teleskop Mast. Daran angebracht sind Power LEDs, die einen weiten Umkreis hell erleuchten können. Das Ding ist dank Akkus autark und hat zusätzlich 10 Handlampen. Bei nächtlichen Einsätzen und unterirdischen Katastrophen ist der Lichtbringer unersetzlich. Es heisst einige Communities haben das Standard Modell stark modifiziert.
+
 %% TODO: Riesige Epaper Folien
