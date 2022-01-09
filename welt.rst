@@ -198,3 +198,25 @@ Auf diese Grundlagen basierend haben die Länder sich schneller als nur durch di
 
 Als Wakanda wird oft nicht nur Afrika sondern auch Länder mit ähnlicher Entwicklung bezeichnet: Indien, Süd Amerika, ...
 
+Mutierte Tiere
+--------------
+
+Am Anfang des Katastrophen hat William Archibald Freewick III, Sohn einer reichen Familie, gegen den Rat von Experten versucht mittels Geo Engineering die Welt zu retten. Er hat damit aber eine ökologische Katastrophe erschaffen. Eigentlich mehrere.
+
+Die ganze Geschichte
+
+* Freewick III nutzt seine Geldmittel um Gen Ingenieure anzuheuern. Diese schaffen Hunde große Ratten, die darauf programmiert sind Pflanzen und Tierkadaver in ihre extrem tiefen Gangnetzwerke zu ziehen als Kohlenstoff Senke.
+* Die Ratten werden ausgesetzt, vermehren sich stark. Sie töten nun Tiere und Menschen (im Rudel) um diese wie programmiert unter der Erde oder in der menschlichen Kanalisation zu entsorgen. Im Laborversuch haben sie ihren Tötungswillen nicht gezeigt, damit wurde nicht experimentiert.
+* Die Firma hatte sehr gute Verkäufer, Geldgeber und Geningenieure. Diese haben ihre Arbeit absolut richtig gemacht. Aber es waren keine Ökologen beteiligt oder Verhaltensforscher.
+* Die Firma geht pleite
+* Das Gesetzt zur "Todesstrafe für Firmen" wird extra wegen dieser Firma erschaffen
+* Unter anderem Namen schafft Freewick III zwei neue Firmen. Eine erzeugt mutierte Hunde, die die mutierten Ratten im Rudel jagen sollen. Die andere mutierte Katzen für die Schleichjagd. Es geht wieder schief. Doch die Tiere sind in freier Wildbahn
+* Freewick III wird wegen Ökozid zu 600 Jahren Gefängnis verurteilt. Seine Partner erhalten etwas weniger.
+* Freewick III flieht zusammen mit einigen Partnern und taucht mit falschem Gesicht und Namen unter
+* Sie alle sind davon besessen, ihre alten Fehler wieder auszubügeln und zu beweisen, dass sie immer Recht hatten. Darum werden immer mehr Firmen gegründet, um neue Spezies zu schaffen, die die bisherigen Probleme lösen sollen.... da sie selbst nichts zu verlieren haben sollten sie geschnappt werden, sind sie extrem rücksichtlos.
+
+Freewicks grundlegendes Problem ist es, dass er die Fehler immer in der angewandten Gentechnik sucht, aber das große Ganze (Ökosystem, ....) nicht verstehen kann oder will. Die Gentechnik liefert eigentlich immer genau was bestellt wurde.
+
+Die mutierten Tiere können in einigen Gebieten schnell zu einer Gefahr für alle werden, sollten sie dort eingeschleppt werden und sich wild verbreiten.
+
+Die Probleme sind allgemein ähnlich wie mit invasiven Arten in Australien. Nur durch bornierte Geschäftemacher extrem verstärkt.
