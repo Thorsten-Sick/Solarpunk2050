@@ -8,6 +8,8 @@ Die Arbeit der Solarpunks ist also noch nicht beendet. Und da sind sie froh dar�
 
 Lötkolben auspacken. Wir brauchen eine neue autonome Solarfarm für die Erweiterung der Community. Wer sichert diesmal den Perimeter ? Haben wir genügend Drohnen ? 
 
+[Solarpunk 2050 PDF](https://github.com/Thorsten-Sick/Solarpunk2050/releases)
+
 ## Status
 
 Das System ist spielbar aber in der Entwicklung. Der richtige Zeitpunkt für alle mit Solarpunk spirit um einzusteigen und mitzuwirken.
