@@ -39,6 +39,8 @@ Steckbrief
 * Bildung: Frontalunterricht, Schulbildung mit Ziel auf Erwerbstätigkeit. Zentralisierter Lehrplan. Erwachsenenbildung freiwillig und eher auf Konsum und Genuss (Weinkunde) ausgerichtet. Lehrer sein ist ein Beruf
 * Koordination: Hierarchisch. Ganz klassisch Firmenchefs und Vorgesetzte
 * Ernährung: Hochverarbeitetes Marken-Essen von Konzernen. Optimiert auf den Massengeschmack. Gerne auch auswärts Essen bei Restaurant-Ketten oder in der Kantine
+* Namen: Internationale Modenamen. Aber neu geschrieben. So dass man sie einfach aussprechen kann. Tscharlien, Mischelle, Kewin
+* Gendern: Manchmal Ja, manchmal Nein
 
 Bildung
 -------
