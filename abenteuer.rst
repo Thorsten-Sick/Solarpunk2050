@@ -156,3 +156,7 @@ Sammelsurium
     * Ganz unbekannt sollte das gefundene Objekt den Gebildeten nicht sein, denn es ist ja ca. 30 Jahre alt
     * Irgendwie muss man jetzt damit klarkommen, dass das Ding das Licht erblickt hat
     * Evtl. könnte das Abenteuer aber auch ein Wettrennen ins "Dungeon" ( verschüttetes Labor, versiegelter Luftschutzbunker) werden
+* Versunkener Autohändler: In der Nähe der Community ist damals ein Autohändler überspült worden. Verlorene haben den nach Karten Studium unter einem Hügel gefunden und angefangen mit einem Bagger freizulegen. Die Firma, der der vor 30 Jahre gehört hat meldet aber auch Besitzansprüche an. Und die Solarpunks wahrscheinlich auch. Es wird zu einem Streit und evtl. Kampf kommen. Je nach Ausgang:
+    * Bekommen die Verlorenen den, werden sie die rostigen Autos bergen und irgendwie wieder flott machen. Die Spieler erhalten die Möglichkeit, einmal die Verlorenen zur Hilfe zu rufen, wenn sie denen geholfen haben
+    * Bekommt die Firma den, wird sie die Rohstoffe verwerten und Umweltschäden lokal anrichten. Die helfenden Charaktere erhalten aber Geld
+    * Erhalten die Solarpunks den, können sie darauf eine Rohstoff Mine errichten. Durch Worker Placement auf der Mine bekommt die Community Rohstoffe, bis die erschöpft ist.
