@@ -24,7 +24,7 @@ copyright = u'2021, Thorsten Sick'
 author = u'Thorsten Sick'
 
 # The short X.Y version
-version = u''
+version = u'0.9'
 # The full version, including alpha/beta/rc tags
 release = u''
 
