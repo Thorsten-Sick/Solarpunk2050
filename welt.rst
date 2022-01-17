@@ -131,6 +131,29 @@ Solarpunks gehen weiter. Sie bauen ihre kleinen Häuser und Siedlungen gezielt n
 
 Diese Solarpunk Siedlungen werden Communities genannt. Die Spielercharaktere leben wahrscheinlich in genau so einer.
 
+Mobilität
+---------
+
+Für jeden verfügbar sind selbstfahrende Elektro Autos, die man per App bestellen kann. Mit denen kann man auch zwischen den Städten reisen (Autobahnen existieren noch, sind aber weniger befahren). Das Land zwischen den Siedlungen ist deutlich naturnaher als im Jahr 2020. Das liegt an drei Faktoren:
+
+* Landwirtschaft ist nicht mehr so nötig, da Massen-Nahrung in vertikalen Gärten oder in Labors hergestellt wird
+* Katastrophen machten Gebiete unbewohnbar
+* Landschaften wurden unter Schutz gestellt und sind Urwald oder Moore, Heiden, ... je nach Natur.
+
+Für die Reise innerhalb des Kontinentes (wie Europa9 bieten sich Züge an. Fahrzeuge und Güter können jederzeit per Container und automatisch gerouteten Zügen überall hin fahren. Personen nutzen die meist sehr luxuriösen Nachtzüge. Dank Konkurrenzkampf der Anbieter ist hier die Auswahl groß. Man kann mit Einzelzimmern, Restaurants, Unterhaltung und Dusche rechnen und über Nacht praktisch an jede Großstadt in Europa.
+
+Zur Differenzierung habe die Anbieter Angebote wie:
+
+* Kino Wagen
+* Lese Wagen (Bücher, Ohrensessel, Cognac)
+* Orient Express Ambiente
+* Organisierte Krimi Dinner
+* Disco
+
+Hier gibt es jeden Monat neues für interessierte Norms und aufgeschlossene Solarpunks. Es lohnt sich kaum, zu schlafen.
+
+Interkontintental werden Flugreisen mit E-Fuels angeboten. Teurer und damit seltener als 2020. Es könnte sich lohnen bei einer Reise von Deutschland nach Südafrika interessante Nachtzüge aneinander zu reihen und die Fahr zu genießen. Dafür aber ein paar Tage aufzubringen und Städte dazwischen zu besichtigen.
+
 Recht und Gesetz
 ----------------
 
@@ -205,12 +228,12 @@ Am Anfang des Katastrophen hat William Archibald Freewick III, Sohn einer reiche
 
 Die ganze Geschichte
 
-* Freewick III nutzt seine Geldmittel um Gen Ingenieure anzuheuern. Diese schaffen Hunde große Ratten, die darauf programmiert sind Pflanzen und Tierkadaver in ihre extrem tiefen Gangnetzwerke zu ziehen als Kohlenstoff Senke.
-* Die Ratten werden ausgesetzt, vermehren sich stark. Sie töten nun Tiere und Menschen (im Rudel) um diese wie programmiert unter der Erde oder in der menschlichen Kanalisation zu entsorgen. Im Laborversuch haben sie ihren Tötungswillen nicht gezeigt, damit wurde nicht experimentiert.
+* Freewick III nutzt seine Geldmittel um Gen Ingenieure anzuheuern. Diese schaffen Hunde große Hamster, die darauf programmiert sind Pflanzen und Tierkadaver in ihre extrem tiefen Gangnetzwerke zu ziehen als Kohlenstoff Senke.
+* Die Hamster werden ausgesetzt, vermehren sich stark. Sie töten nun Tiere und Menschen (im Rudel) um diese wie programmiert unter der Erde oder in der menschlichen Kanalisation zu entsorgen. Im Laborversuch haben sie ihren Tötungswillen nicht gezeigt, damit wurde nicht experimentiert.
 * Die Firma hatte sehr gute Verkäufer, Geldgeber und Geningenieure. Diese haben ihre Arbeit absolut richtig gemacht. Aber es waren keine Ökologen beteiligt oder Verhaltensforscher.
 * Die Firma geht pleite
 * Das Gesetzt zur "Todesstrafe für Firmen" wird extra wegen dieser Firma erschaffen
-* Unter anderem Namen schafft Freewick III zwei neue Firmen. Eine erzeugt mutierte Hunde, die die mutierten Ratten im Rudel jagen sollen. Die andere mutierte Katzen für die Schleichjagd. Es geht wieder schief. Doch die Tiere sind in freier Wildbahn
+* Unter anderem Namen schafft Freewick III zwei neue Firmen. Eine erzeugt mutierte Hunde, die die mutierten Hamster im Rudel jagen sollen. Die andere mutierte Katzen für die Schleichjagd. Es geht wieder schief. Doch die Tiere sind in freier Wildbahn
 * Freewick III wird wegen Ökozid zu 600 Jahren Gefängnis verurteilt. Seine Partner erhalten etwas weniger.
 * Freewick III flieht zusammen mit einigen Partnern und taucht mit falschem Gesicht und Namen unter
 * Sie alle sind davon besessen, ihre alten Fehler wieder auszubügeln und zu beweisen, dass sie immer Recht hatten. Darum werden immer mehr Firmen gegründet, um neue Spezies zu schaffen, die die bisherigen Probleme lösen sollen.... da sie selbst nichts zu verlieren haben sollten sie geschnappt werden, sind sie extrem rücksichtlos.
