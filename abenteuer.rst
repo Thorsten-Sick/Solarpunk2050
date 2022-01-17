@@ -119,6 +119,33 @@ https://de.wikipedia.org/wiki/Fl%C3%BCssigstickstoff
 
 Belohnung: Niels kann danach die Räder mit supraleitenden Spulen und Leitungen verbessern. Der Fahrer kann aus einem kleinen Stickstoff Tank Kühlung zuschießen und als Stunt +2 auf Geschwindigkeit erhalten. Der Tank enthält 3 Ladungen. Außen am Tank bilden sich Eiskristalle. Und hin und wieder entlässt das Überdruckventil am Rad zischend Dampfwolken. Sieht sehr cool aus. Besonders mit gezielt angebrachter LED Beleuchtung.
 
+Anonymous
+---------
+
+Die digitale Organisation Anonymous macht Aktionen gegen böse Menschen und braucht physische Hilfe. In dem Fall geht es darum eine korrupte Firma zu Fall zu bringen. Doch damit Anonymous (wer auch immer das ist) anonym bleiben kann, brauchen sie Leute für die physische Welt. Doch die Aktion, für die die Spieler angeworben werden ist nicht so hasenrein wie ursprünglich angekündigt und die Charakter sitzen in der Patsche. Welcher der Fraktionen können sie vertrauen ?
+
+Dungeon Crawl
+-------------
+
+Die Verlorenen dringen in eine alte Anlage in einer Sperrzone ein um dort sagenhafte Schätze aus der Vergangenheit zu finden. Was dort liegt soll eigentlich sicher vor menschlichem Zugriff sein, da es zu gefährlich und unberechenbar ist.
+Die Charaktere sind entweder so rechtzeitig, dass sie die Verteidigung aufbauen können oder knapp hinter den Verlorenen an der Anlage, damit ein Wettrennen entsteht.
+In dieser Sperrzone und der Anlage wird aas praktisch zu einem Dungeon Crawl.
+
+Ganz unbekannt sollte das gefundene Objekt den Gebildeten nicht sein, denn es ist ja ca. 30 Jahre alt. Den Solarpunks könnte die Gefahr sehr bewusst sein, den Verlorenen evtl. gar nicht. Oder es ist ihnen egal.
+
+Versunkener Autohändler
+-----------------------
+
+In der Nähe der Community ist damals ein Autohändler überspült worden. Verlorene haben den nach Karten-Studium unter einem Hügel gefunden und angefangen mit einem Bagger freizulegen .Die Firma, der der vor 30 Jahre gehört hat meldet aber auch Besitzansprüche an ... und die dort lebenden Solarpunks wahrscheinlich auch - ist ja ihr Gebiet.
+
+Für die Verlorenen sind die Autos an sich wertvoll. Man könnte die alten Diesel renovieren. Die Solarpunks und die Firma interessieren sich für die Rohstoffe, um sich Rohstoffpunkte gut schreiben zu lassen.
+
+Es wird also zu einem Streit zwischen den Fraktionen und evtl. Kampf kommen.
+
+* Gewinnen die Verlorenen, werden sie die rostigen Autos bergen und irgendwie wieder flott machen. Helfen die Spieler denen, erhalten die Möglichkeit, einmal die Verlorenen zur Hilfe zu rufen. So ein Einsatzkommando der Verlorenen
+* Gewinnt die Firma, wird sie die Rohstoffe verwerten und Umweltschäden lokal anrichten. Die helfenden Charaktere erhalten aber Geld
+* Gewinnen die Solarpunks (Charaktere), können sie darauf eine Rohstoff Mine errichten. Die Community bekommt Rohstoffe, bis die Mine erschöpft ist.
+
 Sammelsurium
 ------------
 
@@ -144,19 +171,12 @@ Sammelsurium
 * Um eine natürliche Balance in einem Naturschutz Gebiet wieder herzustellen sind Wölfe auszuwildern. Gefällt aber nicht allen.
 * Der Bruder eines der Charaktere ist nicht bei den Solarpunks, sondern bei einer anderen Gruppe (Normale, Verlorene). Solange es nicht um Politik geht, versteht man sich aber prima. Das kann neue Abenteuer im Dienst dieser Gruppe eröffnen.
 * Mentor der Verlorenen: Ein Verlorener will den "Alten Weg" lehren. Wie es damals war, die guten Sachen. Diesel Autos reparieren, Tiere ausnehmen. Nicht fein, aber vielleicht akzeptabel. Nur kommen viele seiner Schüler auf Abwege und nähern sich der dunklen Seite. Er braucht Hilfe
-* Anonymous macht Aktionen gegen böse Menschen und braucht physische Hilfe (während sie ja um anonym zu bleiben nur online agieren)
-    * Und die Aktion, bei der die Spieler teilnehmen entpuppt sich als gar nicht so hasenrein und schwierige Entscheidungen stehen an.
 * Organisieren eines Hilfs Paket Air drops in eine Katastrophen Zone. Zeit ist zentral ! Am besten mit kompletter Projekt Planung am Spieltisch.
 * Die Community der Spieler will eine Bier Manufaktur bauen und benötigt ein Gebäude. Glücklicherweise gibt es eines, in dem ein Konzern haust, der eh' Dreck am Stecken hat. Die Abenteurer bringen den Konzern zu Fall, das Gebäude wird von der lokalen Stadt versteigert. Die Gruppe kann dann den Vorschlag mit dem Öko Bier machen (mit den coolen Bio-engineerten Hefen, die sie haben). Als Beweis ihrer Fähigkeiten müssen sie Samples vorlegen. Gewinnen sie das dann auch, haben sie ein Jahr Zeit, das Gebäude zu entkernen, Maschinen und Leute anzuschaffen und das Business zu bauen.
 * Da die KI bei den Normalen alles aufgreift, was Lebensqualität steigert (selbst aber nicht kreativ ist !) ist es ein erfolgreicher Hack, direkt vor der Evaluierungsphase der KI in einer Nacht-und-Nebel Aktion in die Stadt zu integrieren. Die Leute sehen es, freuen sich daran. Die KI evaluiert. Und rollt es danach breit flächig aus. Timing und perfekte Umsetzung ist hier essentiell. Sollte man das Timing versauen, wird die KI Veranlassen, das störende Objekt zu entfernen, bevor die Evaluierung stattfindet, denn nach dem alten KI Modell ist es ja ein Störfaktor.
 * Dank Sabotage (Umstellung der Optimierungs Ziele) wird eine KI in einer Stadt immer bösartiger. Die Umgebung dort praktisch feindlich.
 * Schwarzmarkt für Ressource Punkte (entweder Gründen, hochnehmen, ...). Man könnte RPs tauschen durch das Verschieben von RP intensiven Gütern....
 * Die 5 Ressource Punkte Blockchains widersprechen sich. Ist das ein Angriff ? Oder einfach wieder mal ein technisches Problem ?
-* Wie bei einem klassischen Dungeon Crawl sind die Verlorenen in eine alte Anlage eingedrungen um dort sagenhafte Schätze aus der Vergangenheit zu finden. Was sie finden ista ber nicht unproblematisch
-    * Ganz unbekannt sollte das gefundene Objekt den Gebildeten nicht sein, denn es ist ja ca. 30 Jahre alt
-    * Irgendwie muss man jetzt damit klarkommen, dass das Ding das Licht erblickt hat
-    * Evtl. könnte das Abenteuer aber auch ein Wettrennen ins "Dungeon" ( verschüttetes Labor, versiegelter Luftschutzbunker) werden
-* Versunkener Autohändler: In der Nähe der Community ist damals ein Autohändler überspült worden. Verlorene haben den nach Karten Studium unter einem Hügel gefunden und angefangen mit einem Bagger freizulegen. Die Firma, der der vor 30 Jahre gehört hat meldet aber auch Besitzansprüche an. Und die Solarpunks wahrscheinlich auch. Es wird zu einem Streit und evtl. Kampf kommen. Je nach Ausgang:
-    * Bekommen die Verlorenen den, werden sie die rostigen Autos bergen und irgendwie wieder flott machen. Die Spieler erhalten die Möglichkeit, einmal die Verlorenen zur Hilfe zu rufen, wenn sie denen geholfen haben
-    * Bekommt die Firma den, wird sie die Rohstoffe verwerten und Umweltschäden lokal anrichten. Die helfenden Charaktere erhalten aber Geld
-    * Erhalten die Solarpunks den, können sie darauf eine Rohstoff Mine errichten. Durch Worker Placement auf der Mine bekommt die Community Rohstoffe, bis die erschöpft ist.
+* Auf der Fahrt durch Europa mit dem Nachtzug (und einer Krimi Dinner party) wird jemand ermordet. Die Norms halten das für SFX. Können sich nicht vorstellen, dass man einen Toten herumliegen lässt ("Das wärde doch unhygienisch", "habe schon bessere Effekte gesehen"). der Veranstalter will keine Aufstände und bis zur ankunft sollen die Leute glauben, alles läuft nach Script. Darum soll der Mörder-Schauspieler so tun, als wäre er für den echten Mord verantwortlich, ....
+* Die verwaiste Community Roanoke muss wieder besiedelt werden. Niemand weiss, wohin die alten Siedler verschwanden.
+* Eine erfolgreiche Solarpunk Community ist der Stolz der Stadt. Die KI hat beschlossen, dass die Lebensqualität steigen würde, wenn die Community wirklich Bestandteil der Stadt wird. Dass die Norms niemals davor profitieren würden, kann der Algorithmus aber nicht vorhersehen. Und so beginnen die Assimilierungsbemühungen.

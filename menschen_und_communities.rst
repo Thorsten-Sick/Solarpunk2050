@@ -223,6 +223,9 @@ Seehexe, Technomancerin
 
 Eine der buntesten Bewohner der Waterworld ist die selbsternannte Seehexe. Eine begnadete Hackerin und Expertin für Funktechnik. Aber immer wieder irritierend ist ihr Hang zur Dramatik. Jede größere Aktion ihrerseits muss sie mit Ritualen und Dramatik aufbauschen. Ob das ein psychischer Tick ist oder wirklich nur ihr Hang zur Dramatik ist nicht ganz klar. Leute, die sie kennen akzeptieren es gerne. Außenstehende sind etwas irritiert, wenn sie aufgefordert werden mit Räuchergefäßen um den Rechner im Zentrum des Pentagramms zu tanzen.
 
+.. Kommentar: Eine Person als Experte für aufblasbare Dinge. Hüpfburgen, Notunterkünfte, Ballons, Flöße, .... Die Fähigkeit wäre sicher mal sehr lustig, wenn man schnell große Objekte braucht. Und transportable
+
+
 Überlingen - Stadt der Wunder
 -----------------------------
 
@@ -230,4 +233,3 @@ Eine der buntesten Bewohner der Waterworld ist die selbsternannte Seehexe. Eine 
 Wie das so ist mit selbstverstärkenden Systemen: Es zogen mehr Esoteriker in die Stadt der Wunder. Manche Bewohner wurden auch erst zu Esoterikern. Und die KI hatte mehr Erfolg mit ihren Wundern - was wiederum dafür sorgte, dass sie diese öfters einsetze....
 
 Alles ist ein bisschen eskaliert und jetzt funktionieren dort Kristalle und Flüche wie auf magische Weise. Denn die KI sieht alles.
-
