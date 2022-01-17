@@ -25,7 +25,37 @@ Bei der Erschaffung von Charakteren wird der letzte Aspekt etwas zweckentfremdet
 Aufbau der Siedlung
 -------------------
 
+Ziele der Regeln
+~~~~~~~~~~~~~~~~
+
+* Spieler profitieren von der Community und deren Ausbau
+* Ausbau sind: Gegenstände, Gebäude, NSCs und externe Connections zu anderen Leuten
+* WG Leben in der Community simulieren. Manchmal wird es Interessenkonflikte geben
+* Die Community ist nicht nur passiv, sondern treibt eigene Projekte
+* Regeln sollen möglichst nahe an den klassischen Fate regeln sein. Deshalb: Extras
+* Spieler sollen trotzdem parallel zu gemeinsamen Extras eigene Extras besitzen können
+
+Regeln
+~~~~~~
+
 Solarpunk ist ein Rollenspiel, bei dem es um das Erschaffen geht. Die Community vergrößern und Freunde finden. In vielen Abenteuern wird eine solche Vergrößerung die Belohnung sein.
+
+* Alle nützlichen Dinge und Personen in der Community werden als Extras abgebildet.
+* Jeder Spieler kann sich vor dem Verlassen der Community (wenn es auf Abenteuer geht) eines der Extras aussuchen und hat das während des Abenteuers
+* Jedes Extra kann nur von einem der Spieler genommen werden. Man muss also gemeinsam planen wer was bekommt
+* Klar könnte man manche Extras in der Community auch mehrfach anschaffen. Wem reicht schon ein Tisch im Genlabor ?
+* Aber bevor die Spieler ihre Extras wählen werden willkürlich drei gezogen. Die NSCs haben nämlich auch Projekte vor und werden diese nutzen
+* Die Spieler und der Spielleiter können sich gerne überlegen, was die NSCs jetzt schon wieder planen mit Dingen wie "Genlabor", "Sauna" und Holzbackofen => Klar, Genmodifizierte Hefen für Regenbogenbrot, dass in der Sauna gehen soll, weil man echt viel davon für die Boulder-Freund braucht die Party feiern
+* Wenn der SL es zulässt, können die NSCs für so etwas auch Extras mit zurück in die Community bringen. "Die Boulder Freunde werden uns helfen eine Boulder Wand ans Gemeinschaftshaus zu bauen"
+* Generell sind die Extras aber Belohnung für erfolgreiche Abenteuer
+* Wenn die Community und das Ansehen der Charaktere wachsen, könnte die Community den Charakteren erlauben, mehr als ein Extra auf ein Abenteuer zu nehmen
+* Manche Extras können auch Wartung, Pflege, Investitionen oder das eine oder andere Abenteuer benötigen, um sie am Laufen zu halten
+
+
+
+
+--- 8< ----
+
 
 Um das in Regeln abzubilden, bringen neue Gebäude oder Leute in der Community Vorteile wie Stunts. Diese können aber nur von einer Person jeweils genutzt werden (mit Ausbau vergrößert sich irgendwann die Zahl der potentiellen Nutzer). Jeder Spieler stellt also seinen Spielstein auf die Karte des Gebäudes, dessen Vorteile er in dem Abenteuer nutzen will. Er hat dann einen Nutzen frei.
 
