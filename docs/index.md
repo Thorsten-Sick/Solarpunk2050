@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Willkommen bei Solarpunk
 
-You can use the [editor on GitHub](https://github.com/Thorsten-Sick/Solarpunk2050/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Solarpunk ist der freundliche und nicht psychopathische Bruder von Cyberpunk. Die Gesellschaft ist zwar genau so aufgedreht, teils überhitzt und krasser (also unterhaltsamer) als unsere. Gleichzeitig hat die Technisierung die Menschen aber NICHT auseinander und weg von der Natur getrieben, sondern diese Pole vereint.
+Menschen haben kleine Utopien, verrückte Gärten Edens, erschaffen. Sie leben dort neugierig und von Schaffensdrang getrieben zusammen und im Einklang mit Technik und Natur.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In einem solchen Setting gibt es kaum noch Heldentaten....also schnell den "What could possibly go wrong"-Hut aufgesetzt und viele Fehler ins Paradies eingebaut.
 
-### Markdown
+* Mad Max Dauer-LARPer, die "Verlorenen"
+* James Bond-Style-Bösewichte, die ihre Verbrechen an der Natur durch Geo-Engineering mit mehr Geo-Engineering kaschieren wollen (aka "Verschlimmbessern")
+* Der ermordete Papst, die freidrehende Inquisition
+* KI-gesteuerte Städte, die auf maximale Lebensqualität optimiert sind
+* Rohstoff-Goldrausch in alten Mülldeponien
+* Städte mit "Normalen" Menschen wie in "Demolition Man" oder dem Capitol in die "Tribute von Panem"
+* Die mutierten Hamster, die Leute angreifen
+* Solarpunks, die nicht aufhören wollen, die Welt noch mehr zu retten
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Das Solarpunk Setting für das FATE Rollenspiel erlaubt es euch, in die Welt einzutauchen.
 
-```markdown
-Syntax highlighted code block
+[Solarpunk 2050 (beta) PDF](https://github.com/Thorsten-Sick/Solarpunk2050/blob/master/downloads/Solarpunk2050.pdf)
 
-# Header 1
-## Header 2
-### Header 3
+Es ist eine Welt, die gerade erst entsteht. Dein Feedback ist wichtig und wird die Ereignisse lenken, hinterlasse Ideen auf Github unter [Issues](https://github.com/Thorsten-Sick/Solarpunk2050/issues).
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Thorsten-Sick/Solarpunk2050/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
