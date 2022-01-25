@@ -21,4 +21,10 @@ Das Solarpunk Setting für das FATE Rollenspiel erlaubt es euch, in die Welt ein
 Es ist eine Welt, die gerade erst entsteht. Dein Feedback ist wichtig und wird die Ereignisse lenken, hinterlasse Ideen auf Github unter [Issues](https://github.com/Thorsten-Sick/Solarpunk2050/issues).
 
 
-
+> Nat stand auf dem Hügel. Die Sonne geht bereits jenseits des friedlichen Tals unter. Die Servos seines Exoskeletts schalteten auf Leerlauf. Unter ihm lag die Siedlung der Solarpunks. Obstwiesen, mit Solarpanels gegen Hagel geschützt. Windräder auf dem Hügel. Im Tal die selbstgebauten Häuser. Mit surrenden Motoren näherte sich sein Bruder Jef von hinten.
+> * Jef: Ärger. Das gibt viel Ärger
+> * Nat: Schlimmer als letztes Mal. Wir müssen schnell sein
+> * Jef: Dann mach die Sicherungen aus. Wir müssen in 5 Minuten unten sein. Wenn wir nicht rechtzeitig zum Essen kommen gibt es Ärger mit unseren Müttern
+> * Nat: ...und wieder Hausarrest. Tagelang Videospiele zocken. Habe ich so keinen Bock drauf. Wollten doch morgen noch das Wasserrad fertig bauen
+> * Jef: (entfernt die Schutzschalter der Exoskelette) Ok, dann los
+> * _Verlorener aus dem Busch: Sie scheinen uns nicht gesehen zu haben. Glück gehabt (macht die Panzerfaust bereit)._
