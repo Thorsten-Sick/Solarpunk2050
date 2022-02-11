@@ -124,6 +124,26 @@ Beziehungen sind gerade unter Solarpunks in allen Varianten üblich. Von Hetero-
 
 Zu beachten ist hier der Unterschied zwischen "Häufig" und "Normal". Solarpunks sind nicht häufiger Homosexuell als der normale Bevölkerungsdurchschnitt. Aber es ist bei ihnen total Normal, das offen zu zeigen. Darum kann es für außenstehende Verlorene so aussehen, als wären hier überproportionale Homosexuelle. Allein wegen deren Freiheit. Manchmal kann es aber vorkommen, dass ein Verlorener, der nicht Heterosexuell ist, zu den Solarpunks wechselt, nur um er selbst sein zu können. Die Person wird sich trotzdem sehr schwer tun, sich an die andere Kultur anzupassen.
 
+Die Walz
+--------
+
+Wenn Solarpunks in ihrer persönlichen Entwicklugn feststecken, gehen sie auf die *Walz*. Ähnlich wie damals Handwerksgesellen. Einige Änderungen zu den damaligen Bräuchen gibt es aber:
+
+* Sie können das direkt als Gruppe tun
+* Die Dauer ist flexibel
+* Sie können überall hin - und auch wieder zurück
+* Normalerweise machen Solarpunks das mehrmals in ihrem Leben. Sobald ihnen danach ist
+
+Sie reisen zu fernen Communities. Lernen dort neue Technologien und Formen zu leben kennen.
+
+Die Regeln für reisende Solarpunks sind aber:
+
+* Die Reisenden sind freundlich zu empfangen und in die Gruppe aufzunehmen
+* Im Gegenzug helfen die Reisenden bei allen auftretenden Problemen
+* Wissen und Erfahrung wird in beide Richtungen getauscht
+* Zur Begrüßung und zum Abschied gibt es jeweils ein großes Fest
+
+Wie man schnell merkt: Für Spielercharaktere ist das eine optimale Möglichkeit zu neuen Abenteuerorten zu kommen oder neue Charaktere in die Gruppe einzuführen.
 
 Solar Nomaden
 -------------
