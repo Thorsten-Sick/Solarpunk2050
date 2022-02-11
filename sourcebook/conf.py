@@ -20,13 +20,13 @@
 # -- Project information -----------------------------------------------------
 
 project = u'Solarpunk 2050'
-copyright = u'2021, Thorsten Sick'
+copyright = u'2022, Thorsten Sick'
 author = u'Thorsten Sick'
 
 # The short X.Y version
 version = u'0.9'
 # The full version, including alpha/beta/rc tags
-release = u''
+release = u'beta'
 
 
 # -- General configuration ---------------------------------------------------
@@ -38,8 +38,17 @@ release = u''
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = [
+
+extensions = []
+
+
+## Graphviz
+extensions += [
+    "sphinx.ext.graphviz"
 ]
+
+# -- GraphViz configuration ----------------------------------
+graphviz_output_format = 'svg'
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
