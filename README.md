@@ -82,3 +82,7 @@ Zu beantworten:
 * Geschichte (grobe Timeline), Trauma, Power shifts
 * Welche Katatrophen, welche Auswirkungen
 * Grenzen (klarstellen, es spielt in D)
+
+## Logos
+
+Powered by Fate logo von hier herunter geladen und integriert. Lizenz erlaubt das: https://faterpg.de/fate-lizenz/
