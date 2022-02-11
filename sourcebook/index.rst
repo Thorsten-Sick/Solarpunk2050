@@ -40,3 +40,5 @@ Solarpunk 2050
 
    lizenz
 
+   .. layout_playground
+
