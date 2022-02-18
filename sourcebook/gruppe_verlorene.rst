@@ -7,7 +7,7 @@ Steckbrief
 * Klasse: Macht des Stärkeren. Durch Wettkämpfe
 * Aufstieg in der Gesellschaft: Durch Überfälle, organisieren von Ressourcen ( besonders Sprit und alte Ersatzteile)
 * Politisches System: Militärisch / von Sparta inspiriert
-* Gesellschaftsform: Stammegesellschaft. Mit Blutlinien. Externe werden geraubt. Das kann auch im Einvernehmens ein, dann ist es halt eher eine Zeremonie.
+* Gesellschaftsform: Stammesgesellschaft. Mit Blutlinien. Externe werden geraubt. Das kann auch im Einvernehmens ein, dann ist es halt eher eine Zeremonie.
 * Konflikte: Rangkämpfe - teils auch zu Lasten Außenstehender
 * Aussehen: Militärische Kleidung, Schutzwesten, Polster. Kurze Haare
 * Tabus: Schwäche zeigen, Neues annehmen
@@ -18,12 +18,12 @@ Steckbrief
   * Strafen: Körperliche Züchtigung bis Todesstrafe. Sühne durch riskante Aktionen
 * Korruption: Ja
 * Waffen: Selbst gebaute Schusswaffen, Raketen und Knüppel. Oft Waffen die für den Träger ebenso gefährlich sind.
-* Architektur: Wagenburgen, Wellblechhütten, Trailer parks
+* Architektur: Wagenburgen, Wellblechhütten, Trailer Parks
 * Fahrzeuge: Dieselgetrieben. Wuchtig und schwer. Alte Technologie mittels Reparaturen am Leben erhalten. Keine Rücksicht auf Andere.
 * Ressourcen, fehlend: Sprint und alte Ersatzteile
 * Feiern: Laut, Hart. Alkohol, Schusswaffen und Müll hinterlassend. Aus Prinzip. Absichtlich so, dass es alle darum herum stört. Feuerwerk
 * Erfolg: Anführer großer Raubzüge, Gruppen mit den krassesten Fahrzeugen,
-* Drogen: Agressionssteigernd und enthemmend. Oft irgendwelches Zeug mit Alkohol gemischt. Planlose und gefährliche Experimente sind an der Tagesordnung.
+* Drogen: Aggressionssteigernd und enthemmend. Oft irgendwelches Zeug mit Alkohol gemischt. Planlose und gefährliche Experimente sind an der Tagesordnung.
 * Psychotherapie: Schwäche gibt es nicht. Also ist Therapie nicht existent
 * Medien: Die Verlorenen betreiben Piraten Sender um ihre Sicht der Welt (oft Hass, Halbwahrheiten und falsches wissenschaftliches Verständnis) in die Welt zu tragen
 * Bildung: Nötigstes (Lesen, Rechnen) 4 Klassen lang. Keinerlei Bildung, sehr wenig Geschichte oder Kulturelles. Schießen, Schweißen und Autofahren ist learning-by-doing sobald man als reif angesehen wird. Jeder kann "unterrichten"...mit entsprechenden Ergebnissen.

@@ -36,13 +36,13 @@ Change my KI
 
 Letztens bei den Solarpunks:
 
-"Ich fand Soy's Idee ja richtig cool den Norms auch einen Parcour Kinderspielplatz in die Stadt zu bauen. Wenn man die Kinder von denen so beobachtet: Die fallen ja im Stehen um. Ihr wisst ja, ich habe die Stadt gefragt, die Antwort war aber ein Desaster. Ich lese mal vor: 'Vielen Dank für Ihr Angebot, wir nehmen es gerne an und freuen uns schon. Bitte füllen sie folgende Formular aus, dann können wir fortfahren'. Formulare ! Das geht gar nicht !"
+"Ich fand Soy's Idee ja richtig cool den Norms auch einen Parcours Kinderspielplatz in die Stadt zu bauen. Wenn man die Kinder von denen so beobachtet: Die fallen ja im Stehen um. Ihr wisst ja, ich habe die Stadt gefragt, die Antwort war aber ein Desaster. Ich lese mal vor: 'Vielen Dank für Ihr Angebot, wir nehmen es gerne an und freuen uns schon. Bitte füllen sie folgende Formular aus, dann können wir fortfahren'. Formulare ! Das geht gar nicht !"
 
 
 "Aber wir könnten das in einer Nacht-Aktion machen. Ich denke mit den richtigen Leuten, einer Ablenkung und dann wenn die KI gerade ihre Modelle neu berechnet können wir denen heimlich einen Spielplatz hinstellen. Bagger haben wir genug."
 
 
-"Gute Idee, vor allem wenn die KI bei der nächsten Glücks-Faktoren Berechnung dann den Survival-Spieplatz und den Effekt auf die Happiness der Norms einbezieht, könnte es dann in ein paar Monaten dafür sorgen, dass diese Spielplätze zum Standard Repertoir der KI werden. Wir bauen einen Spielplatz und bekommen hunderte"
+"Gute Idee, vor allem wenn die KI bei der nächsten Glücks-Faktoren Berechnung dann den Survival-Spielplatz und den Effekt auf die Happiness der Norms einbezieht, könnte es dann in ein paar Monaten dafür sorgen, dass diese Spielplätzen zum Standard Repertoire der KI werden. Wir bauen einen Spielplatz und bekommen hunderte"
 
 
 So beginnt ein Abenteuer, dass noch Monate Nachwirkungen haben wird...
@@ -129,18 +129,18 @@ Dungeon Crawl
 
 Die Verlorenen dringen in eine alte Anlage in einer Sperrzone ein um dort sagenhafte Schätze aus der Vergangenheit zu finden. Was dort liegt soll eigentlich sicher vor menschlichem Zugriff sein, da es zu gefährlich und unberechenbar ist.
 Die Charaktere sind entweder so rechtzeitig, dass sie die Verteidigung aufbauen können oder knapp hinter den Verlorenen an der Anlage, damit ein Wettrennen entsteht.
-In dieser Sperrzone und der Anlage wird aas praktisch zu einem Dungeon Crawl.
+In dieser Sperrzone und der Anlage wird das praktisch zu einem Dungeon Crawl.
 
-Ganz unbekannt sollte das gefundene Objekt den Gebildeten nicht sein, denn es ist ja ca. 30 Jahre alt. Den Solarpunks könnte die Gefahr sehr bewusst sein, den Verlorenen evtl. gar nicht. Oder es ist ihnen egal.
+Ganz unbekannt sollte das gefundene Objekt den Gebildeten nicht sein, denn es ist ja ca. 30 Jahre alt. Den Solarpunks könnte die Gefahr sehr bewusst sein, den Verlorenen Evtl. gar nicht. Oder es ist ihnen egal.
 
 Versunkener Autohändler
 -----------------------
 
-In der Nähe der Community ist damals ein Autohändler überspült worden. Verlorene haben den nach Karten-Studium unter einem Hügel gefunden und angefangen mit einem Bagger freizulegen .Die Firma, der der vor 30 Jahre gehört hat meldet aber auch Besitzansprüche an ... und die dort lebenden Solarpunks wahrscheinlich auch - ist ja ihr Gebiet.
+In der Nähe der Community ist damals ein Autohändler über spült worden. Verlorene haben den nach Karten-Studium unter einem Hügel gefunden und angefangen mit einem Bagger freizulegen .Die Firma, der der vor 30 Jahre gehört hat meldet aber auch Besitzansprüche an ... und die dort lebenden Solarpunks wahrscheinlich auch - ist ja ihr Gebiet.
 
 Für die Verlorenen sind die Autos an sich wertvoll. Man könnte die alten Diesel renovieren. Die Solarpunks und die Firma interessieren sich für die Rohstoffe, um sich Rohstoffpunkte gut schreiben zu lassen.
 
-Es wird also zu einem Streit zwischen den Fraktionen und evtl. Kampf kommen.
+Es wird also zu einem Streit zwischen den Fraktionen und Evtl. Kampf kommen.
 
 * Gewinnen die Verlorenen, werden sie die rostigen Autos bergen und irgendwie wieder flott machen. Helfen die Spieler denen, erhalten die Möglichkeit, einmal die Verlorenen zur Hilfe zu rufen. So ein Einsatzkommando der Verlorenen
 * Gewinnt die Firma, wird sie die Rohstoffe verwerten und Umweltschäden lokal anrichten. Die helfenden Charaktere erhalten aber Geld
@@ -175,8 +175,8 @@ Sammelsurium
 * Die Community der Spieler will eine Bier Manufaktur bauen und benötigt ein Gebäude. Glücklicherweise gibt es eines, in dem ein Konzern haust, der eh' Dreck am Stecken hat. Die Abenteurer bringen den Konzern zu Fall, das Gebäude wird von der lokalen Stadt versteigert. Die Gruppe kann dann den Vorschlag mit dem Öko Bier machen (mit den coolen Bio-engineerten Hefen, die sie haben). Als Beweis ihrer Fähigkeiten müssen sie Samples vorlegen. Gewinnen sie das dann auch, haben sie ein Jahr Zeit, das Gebäude zu entkernen, Maschinen und Leute anzuschaffen und das Business zu bauen.
 * Da die KI bei den Normalen alles aufgreift, was Lebensqualität steigert (selbst aber nicht kreativ ist !) ist es ein erfolgreicher Hack, direkt vor der Evaluierungsphase der KI in einer Nacht-und-Nebel Aktion in die Stadt zu integrieren. Die Leute sehen es, freuen sich daran. Die KI evaluiert. Und rollt es danach breit flächig aus. Timing und perfekte Umsetzung ist hier essentiell. Sollte man das Timing versauen, wird die KI Veranlassen, das störende Objekt zu entfernen, bevor die Evaluierung stattfindet, denn nach dem alten KI Modell ist es ja ein Störfaktor.
 * Dank Sabotage (Umstellung der Optimierungs Ziele) wird eine KI in einer Stadt immer bösartiger. Die Umgebung dort praktisch feindlich.
-* Schwarzmarkt für Ressource Punkte (entweder Gründen, hochnehmen, ...). Man könnte RPs tauschen durch das Verschieben von RP intensiven Gütern....
+* Schwarzmarkt für Ressource Punkte (entweder Gründen, hoch nehmen, ...). Man könnte RPs tauschen durch das Verschieben von RP intensiven Gütern....
 * Die 5 Ressource Punkte Blockchains widersprechen sich. Ist das ein Angriff ? Oder einfach wieder mal ein technisches Problem ?
-* Auf der Fahrt durch Europa mit dem Nachtzug (und einer Krimi Dinner party) wird jemand ermordet. Die Norms halten das für SFX. Können sich nicht vorstellen, dass man einen Toten herumliegen lässt ("Das wärde doch unhygienisch", "habe schon bessere Effekte gesehen"). der Veranstalter will keine Aufstände und bis zur ankunft sollen die Leute glauben, alles läuft nach Script. Darum soll der Mörder-Schauspieler so tun, als wäre er für den echten Mord verantwortlich, ....
+* Auf der Fahrt durch Europa mit dem Nachtzug (und einer Krimi Dinner Party) wird jemand ermordet. Die Norms halten das für SFX. Können sich nicht vorstellen, dass man einen Toten herumliegen lässt ("Das wäre doch unhygienisch", "habe schon bessere Effekte gesehen"). der Veranstalter will keine Aufstände und bis zur Ankunft sollen die Leute glauben, alles läuft nach Skript. Darum soll der Mörder-Schauspieler so tun, als wäre er für den echten Mord verantwortlich, ....
 * Die verwaiste Community Roanoke muss wieder besiedelt werden. Niemand weiss, wohin die alten Siedler verschwanden.
 * Eine erfolgreiche Solarpunk Community ist der Stolz der Stadt. Die KI hat beschlossen, dass die Lebensqualität steigen würde, wenn die Community wirklich Bestandteil der Stadt wird. Dass die Norms niemals davor profitieren würden, kann der Algorithmus aber nicht vorhersehen. Und so beginnen die Assimilierungsbemühungen.

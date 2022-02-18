@@ -3,7 +3,7 @@ Regeln
 
 Im Regelfall spielen Spieler Solarpunks oder Nomaden. Die anderen Gruppen sind eher für Antagonisten gedacht. Die Spieler können gemeinsam eine Community mit eigenen NSCs und Gebäuden erschaffen, in der sie spielen. Alternativ kann das Spiel auch bei einem minimalen Kern starten und die Spieler bauen sich die Community ingame.
 
-Wir nutzen Tubo Fate. Damit fehlen zwar Fertigkeiten, es ist aber passender für ein schnelles, launiges Spiel. Evtl. bringe ich irgendwann die Fate Core Erweiterung mit eine sauberen Fertigkeitenliste.
+Wir nutzen Turbo Fate. Damit fehlen zwar Fertigkeiten, es ist aber passender für ein schnelles, launiges Spiel. Evtl. bringe ich irgendwann die Fate Core Erweiterung mit eine sauberen Fertigkeitenliste.
 
 
 
@@ -64,7 +64,7 @@ Die Fertigkeiten sind:
 
 **Bushcraft (Verlorene)**
 
-Irgendwie in der Wildnis überleben können auch die Solarpunks, solange sie ihre Techologie haben. Aber Verlorenen schaffen das so, dass es sogar auf ihre spezielle Art heimelig ist. Schließlich sind sie dort zuhause. Wildnis ist hier aber nicht nur Natur (Wald) sondern auch Ruinen, verlassene Gebäude, Überschwemmungsgebiete.
+Irgendwie in der Wildnis überleben können auch die Solarpunks, solange sie ihre Technologie haben. Aber Verlorenen schaffen das so, dass es sogar auf ihre spezielle Art heimelig ist. Schließlich sind sie dort Zuhause. Wildnis ist hier aber nicht nur Natur (Wald) sondern auch Ruinen, verlassene Gebäude, Überschwemmungsgebiete.
 
 Schnell mal ein Unterstand gebaut. Ein paar Ratten gefangen, ausgenommen und mit akzeptablem Geschmack versehen. Über einem Benzinkocher geröstet. (Die gefundene abgelaufene Chillisoße war der entscheidende Kniff um die zähen Ratten hinunter zu bringen).
 

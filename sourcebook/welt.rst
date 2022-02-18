@@ -24,7 +24,7 @@ Die EU hat wiederum eine gute Figur gemacht. Mittels gezielten Förderungen hat 
 Konzerne
 --------
 
-Im Jahr 2050 arbeiten die meisten Normalen für einen Konzern. Diese klassische Struktur des Alltagslebens wurde von den meisten Gesellschaft-KIs als Lebensqualitäts fördernd bestimmt. Doch vieles hat sich auch verändert.
+Im Jahr 2050 arbeiten die meisten Normalen für einen Konzern. Diese klassische Struktur des Alltagslebens wurde von den meisten Gesellschaft-KIs als Lebensqualität fördernd bestimmt. Doch vieles hat sich auch verändert.
 
 Konzerne wurden als Künstliche Personen definiert. Damit gelten erweiterte Gesetze und es gibt eine mögliche Todesstrafe für Konzerne. Wird ein Konzern als schädlich und un-kontrollierbar identifiziert, wird er abgewickelt und zerstört.
 Dabei bleiben (bewusst) kleine Reste wie Anlagen und Gelände übrig, die dann versteigert werden. Der Erlös geht an die lokalen Gemeinden. Das wichtigste Ziel ist: der Konzern entsteht nicht wieder neu.
@@ -42,9 +42,9 @@ In diesem Fall wird der Konzern abgewickelt und die Assets versteigert:
 * Die Gruppen die bis hierher im Ausscheidungskampf Erfolg hatten müssen dann darlegen, warum sie die Fähigkeiten haben, ihren Vorschlag auch umzusetzen. Am besten akzeptiert werden existierende Projekte
 * Der Gewinner erhält die Ressource und muss diese aber in einem festgelegten Zeitrahmen wie geplant nutzen. Scheitert die Gruppe, kommt die nächste zum Zug.
 
-Trotz allen Neuerungen in der Konzernkultur scheinen einige Gewerkschaften sich für weniger Arbeit einzusetzen. Seit einigen Jahren ist die 20 Stundenwoche ein heisses Streitthema (die meisten Arbeiter sind aber noch bei der 25 Stunden Woche).
+Trotz allen Neuerungen in der Konzernkultur scheinen einige Gewerkschaften sich für weniger Arbeit einzusetzen. Seit einigen Jahren ist die 20 Stundenwoche ein heißes Streitthema (die meisten Arbeiter sind aber noch bei der 25 Stunden Woche).
 
-Große Konzerne können für die interne Sicherheit eigene Securities haben ("Konzerntruppen"). Da die staatliche Executive der Norms oft nicht ausreichend ausgestattet ist für richtige Probleme, übernehmen dann die Konzerntruppen. Der Staat ist mit dem Arrangement oft recht zufrieden.
+Große Konzerne können für die interne Sicherheit eigene Security haben ("Konzerntruppen"). Da die staatliche Executive der Norms oft nicht ausreichend ausgestattet ist für richtige Probleme, übernehmen dann die Konzerntruppen. Der Staat ist mit dem Arrangement oft recht zufrieden.
 
 Wirtschaft
 ----------
@@ -81,7 +81,7 @@ Rohstoff Punkte (aka RPs, Stoffis, Rohs, ... anhand des Spitznamens erkennt man 
     * Eine bei der Stadt
     * Eine bei der Community (Solarpunk, ...)
 
-Die fünf Blockchains sind ein Artefakt der Entscheidungen des von Consultants beratenen Gründer-Kommitees. Sollten die Einträge der Blockchains sich widersprechen, wird die Mehrheit entscheiden.
+Die fünf Blockchains sind ein Artefakt der Entscheidungen des von Consultants beratenen Gründer-Komitees. Sollten die Einträge der Blockchains sich widersprechen, wird die Mehrheit entscheiden.
 
 Ausgenommen vom Rohstoffhandel sind natürlich nicht-physische Objekte: Konzertbesuche, Digitale Medien, Dienstleistungen, ... Diese verbrauchen keine Rohstoff. Nahrungsmittel sind auch nicht mit RPs belegt. Es geht ja schließlich um Recycling.
 
@@ -106,7 +106,7 @@ Eine hohe Bekanntheit kann Türen öffnen, die keine andere Währung zu öffnen 
 Religion
 --------
 
-In der Katholischen Kirche gab es bereits 2030 stark progressive Strömungen (Homo Ehe, Frauen Priesteramt, Ökologie-Freifunk und Solarstrom von Kirchendächern) und Konservative (Lateinische Liturgie, Predigt vom Volk weg, alle Klimakatastrophen eine Strafe Gottes, das Ende ist Nah). Beide sind stark präsent in der Kirche und ein Schisma wäre evtl. der richtige Weg gewesen.
+In der Katholischen Kirche gab es bereits 2030 stark progressive Strömungen (Homo Ehe, Frauen Priesteramt, Ökologie-Freifunk und Solarstrom von Kirchendächern) und Konservative (Lateinische Liturgie, Predigt vom Volk weg, alle Klimakatastrophen eine Strafe Gottes, das Ende ist Nah). Beide sind stark präsent in der Kirche und ein Schisma wäre Evtl. der richtige Weg gewesen.
 
 Doch es wurde schlimmer.
 
@@ -125,7 +125,7 @@ Architektur
 
 Die Häuser der Normalen sind ökologisch nachgerüstet und angepasst. Soweit nötig: Solarzellen auf Dach/Fassade, Die Fassade ist begrünt. Für Resilienz sorgen Hochwasserschutz, Kühlung, Wassertonnen um Trockenzeiten zu überbrücken. Angenehm sind Ladestation für E-Autos. Wärmepumpen dienen als Heizung. Dank Solarenergie kann man es sich auch leisten die Solaranlagen auf dem Dach mittels Heizungen Schnee- und Eisfrei zu halten. Oft wird auch gleich die Garagenzufahrt mit der überschüssigen Energie mit geheizt und damit eisfrei gehalten.
 
-Solarpunks gehen weiter. Sie bauen ihre kleinen Häuser und Siedlungen gezielt nach ihren Ansprüchen. Holzbauweise, alles Solar betrieben, Kommunen-garten (Permakultur). Oft haben sie einen gemeinsamen Außenbereich (für Essen, Feiern, Musik und Kultur). Und die Gebäude sind in Form einer Siedlung um diesen kleinen zentralen Platz angeordnet. Ist es räumlich nicht möglich, stehen die Häuser einer Kommunen aber auch gerne verstreut in einer Siedlung von Norm Gebäuden, die langsam verschluckt werden und von den wuchernden Pflanzen der Solarpunks. Das kann entweder zu Spannungen zwischen Norms und Solarpunks führen oder zu denkwürdigen gemeinsamen Festen.
+Solarpunks gehen weiter. Sie bauen ihre kleinen Häuser und Siedlungen gezielt nach ihren Ansprüchen. Holzbauweise, alles Solar betrieben, Kommunen-Garten (Permakultur). Oft haben sie einen gemeinsamen Außenbereich (für Essen, Feiern, Musik und Kultur). Und die Gebäude sind in Form einer Siedlung um diesen kleinen zentralen Platz angeordnet. Ist es räumlich nicht möglich, stehen die Häuser einer Kommunen aber auch gerne verstreut in einer Siedlung von Norm Gebäuden, die langsam verschluckt werden und von den wuchernden Pflanzen der Solarpunks. Das kann entweder zu Spannungen zwischen Norms und Solarpunks führen oder zu denkwürdigen gemeinsamen Festen.
 
 ...Es ist wie wenn man Hobbits Solaranlagen und LEDs gibt plus dem Spieltrieb von Zehnjährigen und der Kreativität von berauschten Kunststudenten.
 
@@ -152,7 +152,7 @@ Zur Differenzierung habe die Anbieter Angebote wie:
 
 Hier gibt es jeden Monat neues für interessierte Norms und aufgeschlossene Solarpunks. Es lohnt sich kaum, zu schlafen.
 
-Interkontintental werden Flugreisen mit E-Fuels angeboten. Teurer und damit seltener als 2020. Es könnte sich lohnen bei einer Reise von Deutschland nach Südafrika interessante Nachtzüge aneinander zu reihen und die Fahr zu genießen. Dafür aber ein paar Tage aufzubringen und Städte dazwischen zu besichtigen.
+Interkontinental werden Flugreisen mit E-Fuels angeboten. Teurer und damit seltener als 2020. Es könnte sich lohnen bei einer Reise von Deutschland nach Südafrika interessante Nachtzüge aneinander zu reihen und die Fahr zu genießen. Dafür aber ein paar Tage aufzubringen und Städte dazwischen zu besichtigen.
 
 Recht und Gesetz
 ----------------

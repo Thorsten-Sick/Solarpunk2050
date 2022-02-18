@@ -19,7 +19,7 @@ Steckbrief
 * Politisches System: Von KI regiert
 * Gesellschaftsform: Stadtstaaten
 * Konflikte: Tödliche Ennui
-* Aussehen: Kleider von der Stange, Kleidung wird aus ökologischen Gründen nicht Fast-Fashion mäßig schnell getauscht. Doch es gibt viele Accessoirs mit denen man Zugehörigkeit und Modewissen präsentieren kann. Oft angepasst an den aktuellen Lieblingsstar
+* Aussehen: Kleider von der Stange, Kleidung wird aus ökologischen Gründen nicht Fast-Fashion mäßig schnell getauscht. Doch es gibt viele Accessoires mit denen man Zugehörigkeit und Mode wissen präsentieren kann. Oft angepasst an den aktuellen Lieblingsstar
 * Tabus: Nicht konform sein, aktuelle Pop-Kultur nicht kennen
 * Sprache: Blumig mit vielen Anspielungen auf Serien
 * Tendenzen: Konformistisch. Konsumenten
@@ -28,24 +28,24 @@ Steckbrief
   * Strafen: Entzug einiger Privilegien bis hin zu medikamentöser Umprogrammierung
 * Korruption: Unter den letzten Resten der Fabrik Besitzer gibt es sowas noch. Ansonsten ist die Gesellschaft ganz glücklich.
 * Waffen: Keine. Ordnungskräfte haben welche, von Tasern bis zu einfachen Schusswaffen. Aber die Kriminalität ist niedrig. Angriffen durch Verlorene wird mit (spät eintreffendem) Militär begegnet
-* Architektur: Ökologisch umgerüstete Städte mit Hochhäusern. Neubaugebiete mit identischen Häusern - auch ökologisch
+* Architektur: Ökologisch umgerüstete Städte mit Hochhäusern. Neubau gebiete mit identischen Häusern - auch ökologisch
 * Fahrzeuge: Technologisch sehr modern, Akku oder Wasserstoff getrieben. Einfach zu nutzen (insbesondere in Städten): Selbstfahrende E-Autos, Öffentliche Verkehrsmittel
-* Ressourcen: Es fehlt an kreativem und neuem. Die Medien Industrie versucht zwar mittels Schablonen immer neues zu kreieren, scheitert aber oft. Auf der anderen Seite: zu disruptiv darf es auch nitch sein
+* Ressourcen: Es fehlt an kreativem und neuem. Die Medien Industrie versucht zwar mittels Schablonen immer neues zu kreieren, scheitert aber oft. Auf der anderen Seite: zu disruptiv darf es auch nicht sein
 * Feiern: Große Parties und Clubs. Pomp. Man macht sich teils schon eine Woche vorher Gedanken, wie man "individuell" sein will und auffallen....
-* Erfolg: Es gibt wenige, die aus der Menge herausstechen. Oft sind es künstlich aufgebaute Stars aus Serien oder Musik
+* Erfolg: Es gibt wenige, die aus der Menge heraus stechen. Oft sind es künstlich aufgebaute Stars aus Serien oder Musik
 * Drogen: Zum betäuben und die Welt vergessen. Gerne auch länger. Krankschreibungen wegen Drogen-Nachwirkungen sind normal. Drogen gibt es günstig im Laden.
-* Psychotherapie: Wird von der Geburt an mitgeplant. Therapieplätze sind vorhanden. Wenn die KI ein Problem feststellt, wird der Platz zugewiesen. Ist in der Gesellschaft kein großes Ding, wenn jemand mal wieder Therapie macht. Kennt man.
+* Psychotherapie: Wird von der Geburt an mit geplant. Therapieplätze sind vorhanden. Wenn die KI ein Problem feststellt, wird der Platz zugewiesen. Ist in der Gesellschaft kein großes Ding, wenn jemand mal wieder Therapie macht. Kennt man.
 * Medien: Medien Produktion und Unterhaltung ist zentral in der Kultur. Es wird sehr viel konsumiert und Perfektion in der Qualität der Medien ist immens wichtig. Nachrichten und Informationen sind vorhanden, aber so vereinfacht, dass ein 14 jähriges Kind sie verstehen kann.
 * Bildung: Frontalunterricht, Schulbildung mit Ziel auf Erwerbstätigkeit. Zentralisierter Lehrplan. Erwachsenenbildung freiwillig und eher auf Konsum und Genuss (Weinkunde) ausgerichtet. Lehrer sein ist ein Beruf
 * Koordination: Hierarchisch. Ganz klassisch Firmenchefs und Vorgesetzte
-* Ernährung: Hochverarbeitetes Marken-Essen von Konzernen. Optimiert auf den Massengeschmack. Gerne auch auswärts Essen bei Restaurant-Ketten oder in der Kantine
+* Ernährung: Hoch verarbeitetes Marken-Essen von Konzernen. Optimiert auf den Massengeschmack. Gerne auch auswärts Essen bei Restaurant-Ketten oder in der Kantine
 * Namen: Internationale Modenamen. Aber neu geschrieben. So dass man sie einfach aussprechen kann. Tscharlien, Mischelle, Kewin
 * Gendern: Manchmal Ja, manchmal Nein
 
 Bildung
 -------
 
-Bei Norms ist weiterhin der Frontalunterricht etabliert. Seit den Seuchen in den 20er Jahren wird aber auch auf digitale Medien gesetzt. Für die Angestellten bieten Firmen Weiterbildungen an, die aber stark an den Bedürftnissen des Arbeitsplatzes orientiert sind. Bildungsziele sind klar definiert und quantifizierbar. Freiwillige Weiterbildungen sind eher die Ausnahme. Viele Norm Eltern haben ein Problem damit, dass ihre Kinder zusätzlich zum normalen Schulunterricht zu Projekt-Aktionen bei Solarpunks gehen. Das hält aber nicht alle Kinder davon ab. Was gerne mal zu Problemen und Entführungs-Anschuldigungen führt.
+Bei Norms ist weiterhin der Frontalunterricht etabliert. Seit den Seuchen in den 20er Jahren wird aber auch auf digitale Medien gesetzt. Für die Angestellten bieten Firmen Weiterbildungen an, die aber stark an den Bedürfnissen des Arbeitsplatzes orientiert sind. Bildungsziele sind klar definiert und quantifizierbar. Freiwillige Weiterbildungen sind eher die Ausnahme. Viele Norm Eltern haben ein Problem damit, dass ihre Kinder zusätzlich zum normalen Schulunterricht zu Projekt-Aktionen bei Solarpunks gehen. Das hält aber nicht alle Kinder davon ab. Was gerne mal zu Problemen und Entführungs-Anschuldigungen führt.
 
 Konflikte: Tödliche Ennui
 -------------------------

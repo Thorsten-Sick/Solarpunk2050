@@ -17,10 +17,10 @@ Robin's Laws of Good Game Mastering
 
 Robin teilt die Spieler in 7 Klassen ein. Nicht jedes Spiel System bespasst alle gleich gut. Aber es ist hilfreich, wenn zumindest erste Ideen da sind, was jedem Spieler Typ gefällt.
 
-* Method Actor: Die Verwirrungen zwischen den Fraktionen erlauben interessante Interaktionen mit vielen Graustufen statt Schwarz/Weiss
+* Method Actor: Die Verwirrungen zwischen den Fraktionen erlauben interessante Interaktionen mit vielen Grau stufen statt Schwarz/Weiß
 * Storyteller: Es lassen sich mit den Fraktionen komplexe Geschichten erzählen. Es gibt genug Samen für epische Geschichten
-* Power Gamer: Mit dem Ausbau der community, anheuern neuer Leute, neuer Werkstätten und Technologien kan man dem viel freude machen
+* Power Gamer: Mit dem Ausbau der Community, anheuern neuer Leute, neuer Werkstätten und Technologien kann man dem viel Freude machen
 * Tactician: Kann das Engelsystem bedienen und Aufgaben planen. Entweder mit Zetteln am Tisch oder sogar digital simuliert
 * Butt Kicker: Für den wurden die mutierten Tiere eingebaut. Plagen, die man beseitigen kann
-* Specialist: Bausteine um eine beliebte Klasse und deren Eigenschaften nachzubauen sollten vorhanden sein
+* Specialist: Bausteine um eine beliebte Klasse und deren Eigenschaften nach zubauen sollten vorhanden sein
 * Casual Gamer: Well...

@@ -3,7 +3,7 @@ Solarpunks
 
 Sie haben die Zukunft in die eigene Hand genommen. Haben sie gerettet und ziehen nun ihre Kraft aus dieser Erkenntnis. Hard-Core Solar Punks bilden zwar nur einen kleinen Teil der Bevölkerung ( und der kann lokal schwanken). Da sie aber aktiv am Leben teilnehmen, sind sie aber auch der Teil, der Spuren in der Gesellschaft hinterlässt.
 
-Soziales: Sexuell offen (Queer, Trans, ...) und manchmal in polyamurösen Beziehungen. eine ganze Community identifiziert sich oft als eine Familie und Kümmert sich um die Kinder ("Es braucht ein Dorf um Kinder groß zu ziehen"). Der große Nachteil dieser Freiheit sind aber die Spannungen mit eher konservativen Schichten der Bevölkerung. Also Norms und Verlorene
+Soziales: Sexuell offen (Queer, Trans, ...) und manchmal in polyamourösen Beziehungen. eine ganze Community identifiziert sich oft als eine Familie und Kümmert sich um die Kinder ("Es braucht ein Dorf um Kinder groß zu ziehen"). Der große Nachteil dieser Freiheit sind aber die Spannungen mit eher konservativen Schichten der Bevölkerung. Also Norms und Verlorene
 
 Solarpunks nutzen grundsätzlich das Gendersternchen und das bevorzugte Personalpronomen der Personen.
 
@@ -11,7 +11,7 @@ Viele Solarpunk Communities sind als Agrotouristik für Norms und andere zugäng
 
 Drogen: Leichte Drogen sind EU weit legal. Solarpunks mischen gerne selbst experimentelles oder züchten sich aufwändig Pilze oder Hanf. Gute Drogen Experten werden wie Künstler gefeiert.
 
-Befreiungsschläge: Manche mehr subversive Solarpunk Gruppen meinen den Norms etwas Gutes tun zu müssen, indem sie diese aus dem Trott der Normalität reissen. Dazu planen sie subversive Kunst-Aktionen, die sie bei Nacht und Nebel durchziehen um "Augen zu öffnen". Die Reaktion der Norms und der KI (die Normalität herstellen will) sind gemischt und sehr unberechenbar.
+Befreiungsschläge: Manche mehr subversive Solarpunk Gruppen meinen den Norms etwas Gutes tun zu müssen, indem sie diese aus dem Trott der Normalität reißen. Dazu planen sie subversive Kunst-Aktionen, die sie bei Nacht und Nebel durchziehen um "Augen zu öffnen". Die Reaktion der Norms und der KI (die Normalität herstellen will) sind gemischt und sehr unberechenbar.
 
 Steckbrief
 ----------
@@ -28,14 +28,14 @@ Steckbrief
 * Gesetz:
   * Richter: Die Gruppe
   * Strafen: Sozialstunden bis Verbannung aus allen Solarpunk Communities
-* Korruption: Kaum. Wenn, dann wird evtl. das eigene Projekt mit Ressourcen unterstützt.
+* Korruption: Kaum. Wenn, dann wird Evtl. das eigene Projekt mit Ressourcen unterstützt.
 * Waffen: Elegante Waffen werden bevorzugt. Denn es wird als Sport betrieben: Schwerter, Bögen (Hightech) und Schusswaffen, ...
 * Architektur: Kreative Verschmelzung mit Natur und Technik. Auf Gemeinschaft ausgerichtet. Sehr individuell.
 * Fahrzeuge: Technologisch sehr modern und digital, Akku oder Wasserstoff getrieben. Leichtbau und klein. Also E-Bikes, E-Lastenräder, Quads, Exoskelette
-* Ressourcen: Güter der Großindustrie fehlen. Man jagt auch immer nach Technik, die man recyclen kann, weil man nichts neues kaufen will (aus ideologischen Gründen)
-* Feiern: Kreativ und eher klein. Mit Kunst und Kultur. In Versammlungshäusern oder auf dem zentralen Platz. Lagerfeuer. Geschichten. Präsentationen neuer Projekte. Theater. Selbstgemachte Musik. Drohnen Balett am Nachthimmel.
+* Ressourcen: Güter der Großindustrie fehlen. Man jagt auch immer nach Technik, die man recyceln kann, weil man nichts neues kaufen will (aus ideologischen Gründen)
+* Feiern: Kreativ und eher klein. Mit Kunst und Kultur. In Versammlungshäusern oder auf dem zentralen Platz. Lager feuer. Geschichten. Präsentationen neuer Projekte. Theater. Selbst gemachte Musik. Drohnen Ballett am Nachthimmel.
 * Erfolg: Erfinder abgefahrener Technologie, Leute die eine riskante Aktion durchgeführt haben
-* Drogen: Werden eingesetzt, um kreativ, fröhlich und offen zu sein. Also unterstützend. Zudröhnen und langanhaltende Beeinflussung ist aber schwer verpönt. Da es Projekte lähmt. Experimente mit intelligent designten und gezüchteten Drogen sind willkommen.
+* Drogen: Werden eingesetzt, um kreativ, fröhlich und offen zu sein. Also unterstützend. Zu dröhnen und lang anhaltende Beeinflussung ist aber schwer verpönt. Da es Projekte lähmt. Experimente mit intelligent designten und gezüchteten Drogen sind willkommen.
 * Psychotherapie: Es gibt viele ausgebildete, weise und seelsorgerischen Leute. Therapie ist eher so ein nebenher laufendes Mentoren Ding und keiner nimmt es wirklich wahr.
 * Medien: Es gibt viele sehr themenspezifische Podcasts/Video casts und ähnliches. Jeweils von den eigenen Fachexperten erstellt. Auch Vorträge werden gehalten und aufgezeichnet. Ein immenses Wissens-Archiv ist verfügbar. Kunst und Kultur wird ebenso dezentral von Communities aufgezeichnet und verbreitet.
 * Bildung: Flipped Classroom, praktisches Lernen. Keinerlei Altersbeschränkung für Kurse, sondern bestenfalls benötigtes Vorwissen als Beschränkung. Vorwissen wird mittels eines Badge Systems verwaltet: https://support.mozilla.org/de/products/open-badges/introduction-open-badges .Lehrer sind für ihre Erklärfertigkeit in ihrem Bereich anerkannt. Aber nicht notwendigerweise Vollzeitlehrer.
@@ -48,7 +48,7 @@ Steckbrief
 Politik
 -------
 
-Communities sind die Art, wie sich Solarpunks demokratisch organisieren. Das sind selbstverwaltete Strukturen, die im besten Fall eine Art gemeinsames Dorf bilden. Doch auch örtlich zersplitterte Communities existieren und gedeihen.
+Communities sind die Art, wie sich Solarpunks demokratisch organisieren. Das sind selbst verwaltete Strukturen, die im besten Fall eine Art gemeinsames Dorf bilden. Doch auch örtlich zersplitterte Communities existieren und gedeihen.
 
 Die Demokratie Form ist eine **Holokratie**(https://de.wikipedia.org/wiki/Holokratie). Alles ist in Zirkeln organisiert. Diese sind hierarchisch verbinden. Die unterste Ebene ist ein einzelnes Projekt. Danach kommt die Community, Der lokale Cluster der Communities, die EU Vertretung der Communities und danach der globale Zirkel.
 
@@ -62,8 +62,8 @@ Das Basis Regelwerk für Communities:
 1) Die Community ist demokratisch. Einmal jährlich finden Wahlen statt
 2) Diese Ämter sind zu besetzen:
 * Älteste*r
-* Streitschlichter*in
-* Logistiker*in
+* Streit schlichter*in
+* Logistik-er*in
 * Quartiersmeister*in
 3) Niemand ist mehr als 3 Jahre im selben Amt
 4) Ziel muß es sein, die Geschlechter paritätisch zu besetzen
@@ -80,7 +80,7 @@ Das Basis Regelwerk für Communities:
 
 Zusätzlich gibt es auch regionale Bräuche zwischen Communities. Bekannt sind:
 
-* Austausch der eigenen Projekte als Vertrauensbeweis. So haben im Schwarzwald zwei Communities ihre über Jahre gezüchteten und optimierten Sauerteige ausgetauscht. Auf den ersten Blick ist das evtl. banal. Aber sie gaben der anderen Gruppe Jahrelange Arbeit sowie eine eigene kulturelle Einzigartigkeit in die Hand. Und dazu noch in einer vermehrungsfähigen Form.
+* Austausch der eigenen Projekte als Vertrauensbeweis. So haben im Schwarzwald zwei Communities ihre über Jahre gezüchteten und optimierten Sauerteige ausgetauscht. Auf den ersten Blick ist das Evtl. banal. Aber sie gaben der anderen Gruppe Jahrelange Arbeit sowie eine eigene kulturelle Einzigartigkeit in die Hand. Und dazu noch in einer vermehrungsfähigen Form.
 * Pflanzensamen als Begrüßungsgeschenk. Hier wird natürlich auf Besonderheit und Qualität geachtet. Aber ganz klar ist das auch verwurzelt im "Wachsen und Wachsen lassen" der Solarpunks.
 
 
@@ -106,13 +106,13 @@ Bugs bei der Meritokratie:
 
 * Neulinge können natürlich nicht nicht viele Erfolge vorweisen
 * Leute mit Mangel an Begabung (oder einer Behinderung) bleiben auf den untersten Stufen - solange die Gesellschaft nicht die Mühen anerkennt, unabhängig vom Erfolg
-* Ruhm kann gestohlen werden, fremde Projekte angeignet
+* Ruhm kann gestohlen werden, fremde Projekte angeeignet
 * Verschiedene Communities haben verschiedene Schwerpunkte (Kunst, Technologie oder Pflanzen) und es fällt ihnen damit schwer, Fremde Arbeit einzuschätzen
 
 Bildung
 -------
 
-Bei Solarpunks ist lernen freier. Lebenslanges Lernen ist angesagt. Man tauscht Wissen zwischen Menschen und Communities. Nomaden-Lehrer reisen im Mehr-monatlichen Rhythmus durchs Land und bringen interessierten (Kindern wie Erwachsenen) Neues bei. Communities bieten Lehrveranstaltungen in ihrer Spezialisierung an ("Wasserstoff Synthese mittels Algen, 4 Wochenenden", "Bierbrauen, original Alt-Ägyptisches Rezept. Von einem Historiker/Bierbrauer").
+Bei Solarpunks ist lernen freier. Lebenslanges Lernen ist angesagt. Man tauscht Wissen zwischen Menschen und Communities. Nomaden-Lehrer reisen im Mehr-monatlichen Rhythmus durchs Land und bringen interessierten (Kindern wie Erwachsenen) Neues bei. Communities bieten Lehrveranstaltungen in ihrer Spezialisierung an ("Wasserstoff Synthese mittels Algen, 4 Wochenenden", "Bier brauen, original Alt-Ägyptisches Rezept. Von einem Historiker/Bierbrauer").
 Es gibt keinen klaren Bildungsplan. Wissen und Kenntnisse werden sehr wertgeschätzt. Auch Norms sind gerne willkommen. Nehmen dieses Angebot aber selten wahr.
 
 Beziehungen
@@ -127,7 +127,7 @@ Zu beachten ist hier der Unterschied zwischen "Häufig" und "Normal". Solarpunks
 Die Walz
 --------
 
-Wenn Solarpunks in ihrer persönlichen Entwicklugn feststecken, gehen sie auf die *Walz*. Ähnlich wie damals Handwerksgesellen. Einige Änderungen zu den damaligen Bräuchen gibt es aber:
+Wenn Solarpunks in ihrer persönlichen Entwicklung feststecken, gehen sie auf die *Walz*. Ähnlich wie damals Handwerks gesellen. Einige Änderungen zu den damaligen Bräuchen gibt es aber:
 
 * Sie können das direkt als Gruppe tun
 * Die Dauer ist flexibel
@@ -143,7 +143,7 @@ Die Regeln für reisende Solarpunks sind aber:
 * Wissen und Erfahrung wird in beide Richtungen getauscht
 * Zur Begrüßung und zum Abschied gibt es jeweils ein großes Fest
 
-Wie man schnell merkt: Für Spielercharaktere ist das eine optimale Möglichkeit zu neuen Abenteuerorten zu kommen oder neue Charaktere in die Gruppe einzuführen.
+Wie man schnell merkt: Für Spielercharaktere ist das eine optimale Möglichkeit zu neuen Abenteuer orten zu kommen oder neue Charaktere in die Gruppe einzuführen.
 
 Solar Nomaden
 -------------
@@ -153,4 +153,4 @@ Solar Punks. Aber mobil. Sind ständig zwischen Städten unterwegs. In ihren E-W
 Furries
 -------
 
-Normaler Bestandteil einer Solarpunk Community stellen oft die Furries dar. Menschen in Antropomorphen Tierkostümen (Fursuits genannt). Die Personen in den Fursuits sind den meisten anderen in der Community oft nicht so bekannt wie die "Fursona". Bereits im Jahr 2020 gab es beindruckende Kostüme. Doch der technische Fortschritt hat besonders die Ausdrucksfähigkeit stark verbessert. Animierte Augen, Ohren und Schwänze als zentraler Punkt.
+Normaler Bestandteil einer Solarpunk Community stellen oft die Furries dar. Menschen in anthropomorphen Tierkostümen (Fursuits genannt). Die Personen in den Fursuits sind den meisten anderen in der Community oft nicht so bekannt wie die "Fursona". Bereits im Jahr 2020 gab es beeindruckende Kostüme. Doch der technische Fortschritt hat besonders die Ausdrucksfähigkeit stark verbessert. Animierte Augen, Ohren und Schwänze als zentraler Punkt.

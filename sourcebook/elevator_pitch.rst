@@ -26,7 +26,7 @@ Die Arbeit der Solarpunks ist also noch nicht beendet. Und da sind sie froh dar�
 
 .. sidebar:: Normtalk
 
-    - Tscharlien: Habe etwas in einem Untergrundforum gefunden. Für die Episode 5 Staffel 6 von Woodland Village soll man sich den Mykonos inc Rotwein, die Mykonos inc Oliven (schwarz) und die Mykonos inc Feta kaufen. Warum stand da nicht.
+    - Tscharlien: Habe etwas in einem Untergrundforum gefunden. Für die Episode 5 Staffel 6 von Woodland Village soll man sich den Mykonos inc Rot wein, die Mykonos inc Oliven (schwarz) und die Mykonos inc Feta kaufen. Warum stand da nicht.
     - Mischell: Habe ich auch gelesen. Leider nicht gemacht.
     - Kewin: Habe ich auch gesehen. Warum hätte ich das machen sollen ? Habe die Folge verpasst.
     - Tscharlien: Das war so genial !!! So super ! Also die Gang in der Folge hat zwischen 1:45 und 2:15 da am Tisch in dieser feinen Kneipe gesessen und genau dasselbe gegessen ! Ich habe mich gefühlt als wäre ich dabei !
@@ -40,7 +40,7 @@ Die Arbeit der Solarpunks ist also noch nicht beendet. Und da sind sie froh dar�
     - Achilles: Die Leute an der Dosenartillerie sind übrigens wieder nüchtern
     - Brutus: Gut.
     - Brutus: Dann holen wir mit den Trucks die wichtigsten BBDs raus und sind innerhalb von ner Stunde weg. Bis dahin kommt dann die Polizei aus der nächsten Stadt ungefähr an.
-    - Achilles: Wieviel Bier, Bohnen und Diesel bekommen wir denn innerhalb von ner Stunde in den Laster ?
+    - Achilles: Wie viel Bier, Bohnen und Diesel bekommen wir denn innerhalb von ner Stunde in den Laster ?
     Das Gespräch wird von einem Probeschuss der Dosenartillerie unterbrochen, der im Zelt einschlägt. Keine Verletzten.
 
 .. Kommentar: Die Taktik ist absoluter Blödsinn. Wird aber funktionieren. Da die geniale Idee ist zu warten, bis die Solarpunks abgelenkt sind.
@@ -48,7 +48,7 @@ Die Arbeit der Solarpunks ist also noch nicht beendet. Und da sind sie froh dar�
 .. sidebar:: Normtalk
 
     - Vorgesetzter: Hauptkommissar Dehnis ? Die Verlorenen greifen gerade die Stadt an. Ihre Truppen haben den Befehl sich zurück zu ziehen, um die Verlorenen nicht weiter zu provozieren
-    - Haupkommissar Dehnis: Verstanden.
+    - Hauptkommissar Dehnis: Verstanden.
     - Vorgesetzter: Sind die Lagerhäuser ausreichend mit Diesel, Bier und Bohnen ausgestattet ?
     - Hauptkommissar Dehnis: Ja
     - Vorgesetzter: Gut, dann dürfte das ja bald rum sein. Verstärkung ist übrigens unterwegs. Trifft in 1-2 Stunden ein.
@@ -56,7 +56,7 @@ Die Arbeit der Solarpunks ist also noch nicht beendet. Und da sind sie froh dar�
 
 .. sidebar:: Solartalk
 
-    - Bernd: Leute, kurze Partypause. Die Stadt wird von Verlorenen angegriffen. Wir werden sie retten müssen. Die Polizei hat die Straßen abgeriegelt. Also preschen wir mit den E-Bikes durch den Wald.
+    - Bernd: Leute, kurze Party pause. Die Stadt wird von Verlorenen angegriffen. Wir werden sie retten müssen. Die Polizei hat die Straßen abgeriegelt. Also preschen wir mit den E-Bikes durch den Wald.
     - Bernd: Das Engelsystem wird gerade aktualisiert. Jedy, das mit will, weist sich einem der fünf Teams zu. Details sind im Engelsystem.
     - Bernd: Die Verlorenen sind hinter BBDs her. Neben dem Schutz der Menschen und der Stadt sorgen wir dafür, dass der Diesel Tanker nicht aus der Stadt kommt.
     - Bernd: Der Tanker darf auf keinen Fall ausbrennen. Das letzte Mal haben wir danach 2 Jahre CO2 kompensiert. Und aus diesem Grund ist Team fünf das Gefahrenstoff-Team. Da können sich nur Leute mit der nötigen Ausbildung anmelden. Dieses Team bleibt immer beim Tanker. Ausrüstung nicht vergessen !

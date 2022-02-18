@@ -24,7 +24,7 @@ Rita hat dazu jedes Jahr ein neues Projekt. So kamen bisher mindestens zusammen:
 * Filzen
 * Nähen
 
-Nach einem initialen Begeisterungs-Feuer werden diese Projekte fortgeführt, aber ein neues Projekt wird direkt gestartet.
+Nach einem initialen Begeisterung-Feuer werden diese Projekte fortgeführt, aber ein neues Projekt wird direkt gestartet.
 
 Bruno
 ~~~~~
@@ -38,7 +38,7 @@ Werte:
 
 * Gruppe: Solarpunk
 * Konzept: Ruheloser Bastler
-* Dilemma: Immer wenn ich Werkzeug brauche fehlt es und ich muss erstmal das basteln
+* Dilemma: Immer wenn ich Werkzeug brauche fehlt es und ich muss erst mal das basteln
 * Aspekt: Früher ging das auch ohne Transistoren
 * Projekt: Whirlpool für den Garten
 
@@ -86,7 +86,7 @@ Seelsorge, Ökumenische Gottesdienste, Nahkampf und Infiltration
 
 Der 50 jährige tauchte vor einiger Zeig in der Community auf. Da er ein sehr gutes Gefühl für Menschen und ihre Sorgen hat, wurde er schnell aufgenommen und sorgt sich seither um die geistigen Belange der Community Bewohner. Seine Andachten sind inzwischen auch für externe Gäste geöffnet und er hat das Angebot um Tai Chi (im Garten, nur bei schönem Wetter) und Ikebana erweitert.
 
-Einige wenige in der Community wissen, dass er eine etwas finstere Vergangenheit hat und von der Inquisition gesucht wird. Unter den Eingeweihten wird gemunkelt, dass er beim Team, dass den alten Papst ermordet hat involviert war. Dies könnte auch seine ausgefeilten Nahkampffähigkeiten und Social Engineering Erfahrungen erklären. Obwohl sie nicht genau wissen, was die Geschichte des freundlichen Priesters ist, halten sie zu ihm, wenn wieder seltsame Fremde nach ihm fragen. Die nächtlichen speziellen Trainingsstunden im mit Tüchern gegen Beobachtung verhängten Gemdeindesaal (Nahkampf, Ninjutsu, Social Engineering und Lockpicking) sind in der Community eine Art Geheimtip.
+Einige wenige in der Community wissen, dass er eine etwas finstere Vergangenheit hat und von der Inquisition gesucht wird. Unter den Eingeweihten wird gemunkelt, dass er beim Team, dass den alten Papst ermordet hat involviert war. Dies könnte auch seine ausgefeilten Nahkampffähigkeiten und Social Engineering Erfahrungen erklären. Obwohl sie nicht genau wissen, was die Geschichte des freundlichen Priesters ist, halten sie zu ihm, wenn wieder seltsame Fremde nach ihm fragen. Die nächtlichen speziellen Trainingsstunden im mit Tüchern gegen Beobachtung verhängten Gemdeindesaal (Nahkampf, Ninjutsu, Social Engineering und Lockpicking) sind in der Community eine Art Geheimtipp.
 
 Nomadenschule
 -------------
@@ -101,7 +101,7 @@ Isa ist eine neugierige Person und erklärt gerne und gut. Sie reist mit ihrem M
 Sie nutzt gerne die Gelegenheiten vor Ort und baut Kontakte auf. Manche Institutionen, die von Norms betrieben werden sind aber nicht immer bereit zu kooperieren. Das stört sie nicht weiter. Sie hat Dietriche. Da war dieses interessante Klärwerk und 15 Schüler. Ging aber alles nochmal gut.
 
 * Würde gerne Isa genannt werden statt "Frau Ko-olb"
-* Kein Schloß hintert sie an ihrem Bildungsauftrag
+* Kein Schloß hindert sie an ihrem Bildungsauftrag
 * Wissenschaft und Technik ist ihr Metier. MacGyver ist ihr nicht ebenbürtig
 * Alles ist eine Gelegenheit zu lernen und zu lehren. Alles.
 
@@ -140,8 +140,8 @@ Werte:
 
 * Gruppe: Solarpunk
 * Konzept: Extrem vernetzter Organisator
-* Dilemma: Bekommt manchmal auch heisse Ware
-* Aspekt: Ich kenn da jemanden, der bekommt sowas sicher her
+* Dilemma: Bekommt manchmal auch heiße Ware
+* Aspekt: Ich kenne da jemanden, der bekommt So was sicher her
 * Aspekt: Mich kennt jeder - und das ist nicht immer gut
 * Projekt: Eine Lasershow auf einen Zeppelin Projizieren
 
@@ -162,11 +162,11 @@ Community "FH Fichten Hain" im Schwarzwald bei Furtwangen
 
 Die Community liegt tief im Schwarzwald bei Feuchtwangen.
 
-Stärke der Community ist Holzverarbeitung. Dieses gibt es rund um die Siedlung reichlich. Zwischen den Wipfeld der Bäume spannt sich ein komplexes Wipfelpfad-Netzwerk. And besonders hohen Bäumen sind verschiede Windräder angebracht, die den Strom liefern.
+Stärke der Community ist Holzverarbeitung. Dieses gibt es rund um die Siedlung reichlich. Zwischen den Wipfeln der Bäume spannt sich ein komplexes Wipfelpfad-Netzwerk. An besonders hohen Bäumen sind verschiedene Windräder angebracht, die den Strom liefern.
 
 Aus dem erstklassigen Holz werden Häuser, Kuckucksuhren für den Export und Kunstgegenstände hergestellt.
 
-Das großflächige Waldgebiet wird von einigen Bewohnern als ihr Revier angesehen und sie nutzen kleine und wendige Elektrofahrzeuge, um es zu patrollieren. Handel findet mit der Norm-Stadt Feuchtwangen statt. Auf der anderen Seite dieser Stadt befindet sich die Community "Voltron", mit der man im friedlichen Wettstreit liegt.
+Das großflächige Waldgebiet wird von einigen Bewohnern als ihr Revier angesehen und sie nutzen kleine und wendige Elektrofahrzeuge, um es zu patrouilliert. Handel findet mit der Norm-Stadt Feuchtwangen statt. Auf der anderen Seite dieser Stadt befindet sich die Community "Voltron", mit der man im friedlichen Wettstreit liegt.
 
 Gefährlich sind aber die Verlorenen, die in diesem abgelegenen Gebiet gerne Fuß fassen würden.
 
@@ -174,12 +174,12 @@ Adrian "Frodo"
 ~~~~~~~~~~~~~~
 
 Hightech Förster mit Exoskelett. Anhänger des Transhumanismus "Mensch und Maschine müssen zusammenwachsen".
-Dass er mit seinem Exoskelett alleine ganze Bäume ernten kann (Kettensägen sind eingebaut) und die am besten gewachsenen Stücke identifizieren (Ultraschall scanner) beschwert ihm manchmal ein etwas irrationales Selbstverständnis von sich als Maschine.
+Dass er mit seinem Exoskelett alleine ganze Bäume ernten kann (Kettensägen sind eingebaut) und die am besten gewachsenen Stücke identifizieren (Ultraschall Scanner) beschwert ihm manchmal ein etwas irrationales Selbstverständnis von sich als Maschine.
 
 Herbert "Herbie" Schwarzenbach
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Hunde und Wolfsnarr. Hat damals als fast schon militanter Wolfsschützer bei der Ansiedlung des Wolfes in Deutschland mitgeholfen. Diese staatliche Aktion wurde oft von militanten Terroristen und Wolfsfeinden gestört.
+Hunde und Wolfsnarr. Hat damals als fast schon militanter Wolfsschützer bei der Ansiedlung des Wolfes in Deutschland mit geholfen. Diese staatliche Aktion wurde oft von militanten Terroristen und Wolfsfeinden gestört.
 Als Afghanistan Veteran hat er aber genug Rüstzeug um die IEDs und andere Anschläge zu stoppen. Man munkelt aber auch, dass sein hartes Vorgehen für einige Tote sorgte...
 
 Diese Zeit hat ihn aber eher zum Eigenbrötler gemacht. Er lebt am Rande der Community in einem sehr gepflegten Holzhaus und kümmert sich dort um seine Hunde. Wenn er Menschenkontakt selbst bestimmen kann, kommt er aber gerne aus seiner Hütte heraus und hilft aus.
@@ -203,7 +203,7 @@ Stellen Kuckucksuhren für den weltweiten Export her. Die großen und gut bewirt
 
 Aus Liebe zu ihrem Metier sind sie aber immer mit mindestens einer Uhr beschäftigt, die sie händisch schnitzen. Nur werden so nie mehr als 10 Uhren pro Jahr fertig. Reparaturen an bestehenden Uhren fressen den Rest ihrer Zeit.
 
-Der große Renner sind aber die Kuckuksuhren Bausätze, die sie an die Normalen verkaufen: "Bau deine eigene Kuckucksuhr. In 5 einfachen Schritten"
+Der große Renner sind aber die Kuckucksuhren Bausätze, die sie an die Normalen verkaufen: "Bau deine eigene Kuckucksuhr. In 5 einfachen Schritten"
 
 Bernd
 ~~~~~
