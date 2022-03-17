@@ -9,22 +9,27 @@ BUILDDIR      = ./sourcebook/_build
 
 # Put it first so that "make" without argument is like "make help".
 help:
-	@$(SPHINXBUILD) -M help "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+	@$(SPHINXBUILD) -M help ./sourcebook ./sourcebook/_build $(SPHINXOPTS) $(O)
 
 .PHONY: help Makefile
 
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
 %: Makefile
-	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+	@$(SPHINXBUILD) -M $@ ./sourcebook ./sourcebook/_build $(SPHINXOPTS) $(O)
+	@$(SPHINXBUILD) -M $@ ./con_abenteuer_1 ./con_abenteuer_1/_build $(SPHINXOPTS) $(O)
 
 pdf:
-	@$(SPHINXBUILD) -M latexpdf "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
-	cp $(BUILDDIR)/latex/Solarpunk2050.pdf downloads
+	@$(SPHINXBUILD) -M latexpdf ./sourcebook ./sourcebook/_build $(SPHINXOPTS) $(O)
+	@$(SPHINXBUILD) -M latexpdf ./con_abenteuer_1 ./con_abenteuer_1/_build $(SPHINXOPTS) $(O)
+	cp ./sourcebook/_build/latex/Solarpunk2050.pdf downloads
+	cp ./con_abenteuer_1/_build/latex/Solarpunk2050_Con_Abenteuer_1.pdf downloads
 
 epub:
-	@$(SPHINXBUILD) -M epub "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
-	cp $(BUILDDIR)/epub/Solarpunk2050.epub downloads
+	@$(SPHINXBUILD) -M epub ./sourcebook ./sourcebook/_build $(SPHINXOPTS) $(O)
+	@$(SPHINXBUILD) -M epub ./con_abenteuer_1 ./con_abenteuer_1/_build $(SPHINXOPTS) $(O)
+	cp ./sourcebook/_build/epub/Solarpunk2050.epub downloads
+	cp ./con_abenteuer_1/_build/epub/Solarpunk2050_Con_Abenteuer_1.epub downloads
 
 all:
 	make pdf
