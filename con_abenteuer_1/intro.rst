@@ -12,36 +12,48 @@ Im neuen System sind "Rohstoffpunkte" Essentiell. Jedem Menschen wird ein persö
 Probleme
 --------
 
-* Kohlestaub
-* Türen
+* Kohlestaub (Explosiv !)
+* Türen (zugerostet)
 * Schwarzes Wasser
 * Man kann nur 5 Gegenstände zur Bergung markieren: Also extra schwer, schön, historisch oder mit teuren Materialien
 * Dunkelheit
+* Gebrochene Metall Stege
+* Rohrlabyrinthe
+* Alles so archaisch
+* Noch laufende Prozesse (Pumpen ?)
 
 Zeug der Norms
 --------------
+
+Die Norms sind schon einen Tag im sicheren Bereich des Kraftwerks. Sie haben sich breitgemacht. Einige haben sich aber auch verlaufen.
 
 * Kameras
 * Beleuchtung
 * Schminkgelegenheit
 
 
-Charakter Ideen
----------------
-
-* Einer ist Fanboy der Norms
-* Einer ist Anti-Konsum
-* Einer ist Historiker (also eher an besonderen Sachen interessiert als an Rohstoffen)
-* Bekämpfe die böse Dunkelheit mit bunten Lichtern
-
 
 Szenen
 ------
 
-Beim Eindringen stoßen sie schnell auf einen Eingeklemmten und schwer verletzten Norm. Das ist aber ein Schauspieler einer Serie "Intergalactic Adventure Group - Solar und Punk !". Das eingeklemmt sein ist nur eine Simulation und eigentlich sollte gleich deren "Held" um die Ecke kommen und die Befreiung einleiten. Ind er Ecke hat sich eine Kameramann versteckt. Die Helden können die Person befreien, aber der Held kommt nicht....
+Beim Eindringen stoßen sie schnell auf einen Eingeklemmten und schwer verletzten Norm. Das ist aber ein Schauspieler einer Serie "Extreme Adventure Group". Das eingeklemmt sein ist nur eine Simulation und eigentlich sollte gleich deren "Held" um die Ecke kommen und die Befreiung einleiten. Ind er Ecke hat sich eine Kameramann versteckt. Die Helden können die Person befreien, aber der Held kommt nicht....
 
 ... ein Schrei. Der Held wir einen gang weiter - mit schwerer Kopfwunde - von einem riesigen Hamster in ein Rohr geschleift.
 
 ... Das "Opfer" kann halb in Schockstarre zum Catering gebracht werden. Dort wartet ein weiterer Norm
 
 ... Kameramann und Spieler sind jetzt auf Bergungsmission, Finden von sich verlaufenden Real-Life-Doku-Drama Schauspielern, Rettungsmission und müssen auch noch den Interview Fragen des Kameramanns Stand halten
+
+Charaktere
+----------
+
+Einer mit Ziel: Historisches sammeln (Ideen: Discounter Werbung)
+Einer mit Ziel: Möglichst große Objekte wegen Rohstoff Punkte
+Einer mit Ziel: Nur nix giftiges bergen
+Einer mit Ziel: Bei den Norms punkten (evtl. heimlicher Fan ?)
+
+
+Einer mit Balance Schwanz am Exoskelett - aber nicht wasserdicht
+Einer mit Kamera/Licht Drohnen Set
+Einer mit Care und Achtsamkeits Fähigkeiten
+Einer mit technischen Skills

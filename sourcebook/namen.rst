@@ -8,7 +8,7 @@ Norms nutzen gerne Modenamen. Zur Vereinfachung ist die Schreibweise angepasst
 
 Männlich: Thortscho, Kewin
 
-Weiblich: Tscharlien, Mischell, Sindie
+Weiblich: Tscharlien, Mischell, Sindie, Schantall
 
 Verlorene
 ---------

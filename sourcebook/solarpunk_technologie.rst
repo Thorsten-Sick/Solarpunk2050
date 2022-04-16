@@ -70,4 +70,6 @@ Die Zucht der Insekten kann durch Konzerne in Lagerhallen großen Komplexen erfo
 
 **Lichtbringer**: Ein E-Bike Anhänger, ca. 2 Bierkästen groß mit auf 5 Meter ausfahrbarem Teleskop Mast. Daran angebracht sind Power LEDs, die einen weiten Umkreis hell erleuchten können. Das Ding ist dank Akkus autark und hat zusätzlich 10 Handlampen. Bei nächtlichen Einsätzen und unterirdischen Katastrophen ist der Lichtbringer unersetzlich. Es heißt einige Communities haben das Standard Modell stark modifiziert.
 
+**De-Extinction**: Verschiedene Initiativen wurden in den frühen 2000ern gestartet, um Arten das Überleben zu sichern oder gar eine Rückzüchtung zu ermöglichen. Die damaligen Initiativen wie https://genbaenkle.de/ sind heutzutage aber nicht mehr denkbar, da sie keinerlei der nötigen Militanz besitzen, die es heute braucht um unter allen Umständen Arten zu bergen und zu schützen.
+
 %% TODO: Riesige Epaper Folien

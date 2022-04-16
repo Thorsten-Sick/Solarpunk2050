@@ -57,3 +57,17 @@ Im mittleren Alter erkennen manche Norms, dass das Leben nicht mehr all zu viele
 * Mal etwas wagen mit Entschuldigungen wie "Ich habe das alles in Survival Shads Abenteuer gesehen", "Die Solarpunks machen das doch auch", "sieht gar nicht so schwierig aus"
 
 Manche überleben es auch. Die etwas flexibleren und intelligenteren Norms wandern auch gerne mal zu den Solarpunks ab, wo sie gerne willkommen sind (solange ihnen die Anpassung gelingt). Dies sorgt für einen Braindrain, der die Norms nur noch stereotyper macht.
+
+Arbeit und Bildung
+------------------
+
+Arbeit ist sehr stark spezialisiert. Norms lernen ihren Job fürs Leben und sind dann Rädchen in einem komplexen System. Ihr Level in ihrem Job entspricht der Fertigkeit "Stadtkultur", da der Job grundsätzlich mithilfe der KI in der Stadt ausgeführt wird.
+
+.. sidebar:: Ein Beispiel aus dem Leben eines Level 3 Architekten.
+
+    Architekt: (Zieht im AR drei Wohnungs Module auf die Grasfläche) So, und welche Farbe sollen die Lichtschalter haben ?
+    Kunde: Weiß
+    Architekt: (Ändert die Einstellung). Fertig. Die KI hat den Bau geprüft und die Kosten berechnet. Euro und Rohstoffkosten werden angezeigt, bitte bestätigen.
+    Kunde: (Bestätigt)
+    Architekt: Die KI organisiert den Aufbau und die 80 Handwerks Firmen. In 1h kommen die Bagger, danach der Glasfaserbeton. Abschluss in 5 Tagen durch die Teppichleger und Lichtschalter Monteure. Einweihungsfest ist im Preis inbegriffen und Einladungen gehen raus.
+

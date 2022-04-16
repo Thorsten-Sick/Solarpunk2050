@@ -1,4 +1,4 @@
-
+TODO: Pronomen an NSCs hängen
 Werte:
 
 * Gruppe: Nomaden

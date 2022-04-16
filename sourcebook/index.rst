@@ -34,11 +34,21 @@ Solarpunk 2050
 
    regeln
 
+   namen
+
+   stop_reading
+
+   bodensee
+
    abenteuer
 
    konzept
 
+   
+
    lizenz
 
    .. layout_playground
+
+   ..
 

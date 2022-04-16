@@ -9,7 +9,7 @@ Für Compute haben die eine Party Insel mit Sandstrand. Darunter hängen Contain
 
 Schweizer Bodensee Piraten:
 Aus dem Thurgau
-Ein Chef, der eher Jack Sparrow ist. Freundlich und galant
+Ein Chef, der eher Jack Sparrow ist. Freundlich und galant. Ein reicher Schnösel aus Bottighofen https://de.wikipedia.org/wiki/Bottighofen
 Ein harter Chef.
 Die beiden kämpfen um Kontrolle
 Ein Junger Pirat mit Solarpunk Ambitionen als Romeo
@@ -35,9 +35,23 @@ Die Eso Stadt. Die finden freundliche Piratenüberfälle ganz schick oder Solarp
 Oder es wirkt eher wie ein Fluch.
 
 
+Manche Städte sind nicht Bestandteil der Kerngeschichte, können aber bereist werden und Nebenabenteuer bieten:
+
+Meersburg: Da mehr Touristen als Einwohner in der mittelalterliche anmutenden Wein Stadt am Bodensee Hang sind, formt deren Erwartung die KI dort. Die KI lässt die Einwohner eine Feudale mittelalterliche Gesellschaft simulieren. Mit Tagelöhnern (max 25h Woche), Herrschern und Weinbauern...
+Die Einwohner sind nicht so wirklich glücklich.
+
+Kreuzlingen und Konstanz: Direkt benachbarte Städte. Kreuzlingen ind er Schweiz und Konstanz in Deutschland. Die KIs haben dort gelernt, dass es einfacher ist, die missmutigen Bewohner in die jeweils andere Stadt umzusiedeln. Das erhöht den Glücklichkeits Score ziemlich schnell. Deswegen ist dort ständiger Grenzverkehr und starke Durchlässigkeit. Werbung richtet sich dann direkt an die bestimmten schlecht gestimmten Bevölkerungsgruppen um sie zum umziehen in die Partnerstadt zu bewegen.
+
+Bregenz: Die Österreichische Stadt ist in der Klimakatastrophe abgesoffen. Viele Gebäude sind zur Hälfte überflutet. Die seebühne steht noch. Die EU hat Projekte zur Wiederansiedlung ausgerufen. Und Solarpunks, Verlorene und Konzerne versuchen ihre Projekte dort erfolgreich umzusetzen und zu beweisen, dass es möglich ist, wieder irgend eine Art von Nutzung der Region möglich zu machen.
+
+Lindau: Nachbar von Bregenz. Die Hälfte der Stadt ist auf einer Insel. Und der Schock der Katastrophe hat dafür gesorgt, dass eine Wand rings um die Stadt den Bodensee kontrolliert von der Stadt fernhält. Der Wall steht einige hundert Meter im See, ist 5 Meter über der Wasseroberfläche hoch und besteht aus Aluminiumoxynitrid https://de.wikipedia.org/wiki/Aluminiumoxynitrid . Schleusentore erlauben Schiffsverkehr.
+
+
+
 
 Optionalen NSCs:
 
-* Den geistig behinderten Solarpunk (30 Jahre, mental auf 6 Jahren). Manchmal aus Frust gewalttätig (wie ein 6 Jähriger halt). Aber sehr ausgeglichen, wenn er seine LED Mosaike kleben kann. Die beleuchten inzwischen nachts die Hälfte des Solarpunk Areals mit buntem und wunderbarem Licht von allen beklebbaren Flächen.
+* Den geistig behinderten Solarpunk (30 Jahre, mental auf 6 Jahren). Manchmal aus Frust gewalttätig (wie ein 6 Jähriger halt). Aber sehr ausgeglichen, wenn er seine LED Mosaike kleben kann. Die beleuchten inzwischen nachts die Hälfte des Solarpunk Areals mit buntem und wunderbarem Licht von allen beklebbaren Flächen. Wichtig hier ist ein sich auftuendes Dilemma: Was wäre, wenn eine behinderte Person nicht beiotragen kann ? Also in einer Meritokratie keine Meriten verdienen ?
 * Die Ex Frau eines Solarpunks, die inzwischen bei den Verlorenen ist. Als freiwillige Beute des aggro Chefs
+* Eine Buchhändlerin in FN. Vorne im Laden nur Esoterik Ware. In einem Hinterzimmer aber Technik Bücher und komplexe Waren. Diese will sie nicht jedem zeigen.
 
