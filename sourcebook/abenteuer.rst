@@ -181,4 +181,4 @@ Sammelsurium
 * Die verwaiste Community Roanoke muss wieder besiedelt werden. Niemand weiss, wohin die alten Siedler verschwanden.
 * Eine erfolgreiche Solarpunk Community ist der Stolz der Stadt. Die KI hat beschlossen, dass die Lebensqualität steigen würde, wenn die Community wirklich Bestandteil der Stadt wird. Dass die Norms niemals davor profitieren würden, kann der Algorithmus aber nicht vorhersehen. Und so beginnen die Assimilierungsbemühungen.
 * Ein reicher Mäzen versucht es mittels Gentechnik, De-Extinction einer ausgestorbenen Spezies hinzubekommen. Es muss nicht Jurassic Park sein. Lustiger wäre wohl eine Art, die in den frühen 2000ern noch lebt.
-* Eine Community wechselt auf die Dunkle Seite: Ökofaschismus (https://twitter.com/kaenkazui/status/1493274546908110850?s=21&t=QRe7OCeUAU-jVCRLq1rDdg)
+* Eine Community wechselt auf die Dunkle Seite: Ökofaschismus (https://twitter.com/kaenkazui/status/1493274546908110850)

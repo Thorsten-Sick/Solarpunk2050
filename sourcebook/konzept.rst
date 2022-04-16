@@ -1,6 +1,10 @@
 Konzept und Überlegungen
 ========================
 
+Einige der Überlegungen sind basierend auf der Solarpunk Philosophie, andere resultieren aber aus dem Grund, dass man schnell und einfach Geschichten mit Konflikten schrieben können muß.
+Das beisst sich.
+Ich versuche hier mal meine Grundsätze aufzulisten. Für mich, und andere, die kreativ mitarbeiten wollen - oder für die eigene Gruppe Abenteuer erfinden.
+
 * Solarpunk ist eine positive Utopie
 * Wichtiges Thema ist auch "Empowerment". Man kann in seiner Umgebung viel bewirken - wenn man will.
 * Leute, die was erschaffen können, sind die Helden
@@ -23,6 +27,25 @@ Chobani Werber Filmchen
 -----------------------
 
 Einige Werbe Filmchen definieren die Welt ganz schön: https://www.thelineanimation.com/work/chobani
+
+Weltenbau
+---------
+
+Das Gerüst der Welt ist fertig. Und gerade bekam ich den Tip, zum Thema Solarpunk Weltenbau folgende Blog posts zu lesen:
+
+https://alpakawolken.de/category/solarpunk/
+
+Kam etwas spät, hätte mir vieles einfacher gemacht. Ließ sie und lass dich bereichern. Ich tues es jetzt auch.
+
+Verschiebung Action zu Dilemmata
+--------------------------------
+
+Ich selbst bin eher ein Method Actor/Dilemma Liebhaber. Aber die Regeln hier sind mit Action im Spotlight geschrieben.
+Weil es sich besser ließt, weil es Spieler besser abholt. Und sich auch sehr gut (nach einem langen Arbeitstag) spielen lässt.
+
+Trotzdem strotzt die Solarpunk Welt vor Drama. Drei Gruppen mit zumindest nachvollziehbaren Zielen und Mindset, potentiell wechselnde Kooperationen mit diesen. Dunkle Seiten selbst bei den Solarpunks (Meritokratie ist eben nix für Leute ohne Fähigkeiten).
+
+Also lieber Spielleiter: Falls du gerade eine nachdenkliche Stimmung in deiner Gruppe spürst: Nutze das. Denn das Regelwerk ist nicht umsonst Fate und nicht Dungeon Slayer (nix gegen Dungeon Slayer nach einem harten Arbeitstag).
 
 Robin's Laws of Good Game Mastering
 -----------------------------------
