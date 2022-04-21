@@ -12,6 +12,8 @@ Solarpunk 2050
 
    intro
 
+   solarpunk_setting
+
    abenteuer
 
    nscs
