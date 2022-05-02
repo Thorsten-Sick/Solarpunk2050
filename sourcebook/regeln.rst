@@ -5,7 +5,10 @@ Im Regelfall spielen Spieler Solarpunks oder Nomaden. Die anderen Gruppen sind e
 
 Wir nutzen Turbo Fate. Damit fehlen zwar Fertigkeiten, es ist aber passender für ein schnelles, launiges Spiel. Evtl. bringe ich irgendwann die Fate Core Erweiterung mit eine sauberen Fertigkeitenliste.
 
+Fate Punkte
+-----------
 
+Traditionell werden Fate Punkte mittels Deckeln von Mate Flaschen dargestellt. Es eignet sich aber auch jeder andere nicht-essbare Counter.
 
 Spezielle Aspekte
 -----------------

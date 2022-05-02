@@ -41,7 +41,7 @@ Steckbrief
 * Bildung: Flipped Classroom, praktisches Lernen. Keinerlei Altersbeschränkung für Kurse, sondern bestenfalls benötigtes Vorwissen als Beschränkung. Vorwissen wird mittels eines Badge Systems verwaltet: https://support.mozilla.org/de/products/open-badges/introduction-open-badges .Lehrer sind für ihre Erklärfertigkeit in ihrem Bereich anerkannt. Aber nicht notwendigerweise Vollzeitlehrer.
 * Koordination: Engelsystem. Aufgaben werden in ein System eingetragen. Wenn jemand Zeit hat, ruft er die Aufgaben ab und sortiert nach seinen Fähigkeiten/Interessen. Macht dann und bekommt Punkte https://engelsystem.de/ Ein Auftrag im Engelsystem kann auch der praktische Teil einer Fortbildungsmaßnahme sein und mit einem Badge belohnt werden.
 * Ernährung: Selbst im Labor gezüchtetes Fleisch, Gemüse. Kreative Küche wird sehr gerne gesehen. Und gute Köche können zu Stars werden.
-* Namen: Spitznamen, Abkürzungen, Chatnamen, Namen die sich auf Eigenheiten beziehen
+* Namen: Spitznamen, Abkürzungen, Chatnamen, Namen die sich auf Eigenheiten beziehen. Die Namen können sich im Laufe des Lebens öfters mal ändern und werden meist von der Person selbst ausgesucht. Oder "stoßen ihnen zu" aufgrund von Ereignissen.
 * Gendern: Mit der *-y* Endung und 'das' (nach Phettberg)
 
 
