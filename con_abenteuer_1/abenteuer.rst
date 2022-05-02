@@ -30,6 +30,8 @@ Evtl. finden sie Spieler alternative Wege durch das Kraftwerk. Aber hier die Eta
          node [fontname="Verdana", fontsize="12"];
          edge [fontname="Sans", fontsize="9"];
 
+         Party1 [label="Erste Party", shape="component", fillcolor=red, style=filled]
+         Verlorene [label="Verlorene", shape="component", fillcolor=red, style=filled]
          Kampfplatz [label="Kampfplatz", shape="component", fillcolor=red, style=filled
               ];
          Ausstellung [label="Ausstellung", shape="component", fillcolor=red, style=filled
@@ -40,6 +42,7 @@ Evtl. finden sie Spieler alternative Wege durch das Kraftwerk. Aber hier die Eta
               ];
          Laufstege [label="Laufstege", shape="component", fillcolor=red, style=filled
               ];
+         Party2 [label="Sieges Party", shape="component", fillcolor=red, style=filled]
 
         Curly [label="Curly, Akrobaty"]
         Fass [label="Das Fass, Brauery"]
@@ -47,10 +50,13 @@ Evtl. finden sie Spieler alternative Wege durch das Kraftwerk. Aber hier die Eta
         Spark [label="Spark, Techniky"]
         Primel [label="Primel, Ökology"]
 
+        Party1 -> Verlorene
+        Verlorene -> Kampfplatz
         Kampfplatz -> Ausstellung
         Ausstellung -> Kohlebunker
         Kohlebunker -> Laufstege
         Laufstege -> Nest
+        Nest -> Party2
 
         Curly -> Laufstege [label="Spotlight", color=yellow]
         Fass -> Nest [label="Bergungsinteresse", color=green]
@@ -73,10 +79,46 @@ Allgemein
 * Es scheinen noch manche Prozesse zu laufen. Die Norms haben wild Akkus angeschlossen, in der Hoffnung Dinge zum Leben zu erwecken. Macht sich gut auf Film.
 * Alles so archaisch
 
+Party 1
+-------
+
+Aufgabe: Charaktere lernen sich kennen. Spieler testen Regeln. Und besonders: Solarpunk feeling schnuppern
+
+Bei den Solarpunks ist abendliche Party draußen auf dem Community Festplatz. Diesmal wird etwas großes angekündigt. Um sich die Zeit zu vertreiben (und die Regeln kennen zu lernen) können sie bei einer der zahlreichen Aktionen teilnehmen.
+
+* Jonglier Workshop. Mögliche Spieleraktionen:
+    * Teilnahme
+* Drohnen Rennen der Kinder im Umkreis durch die Bäume. Kaputte Drohnen reparieren die Piloten selbst. Mögliche Spieleraktionen:
+    * Teilnahme
+    * Beim reparieren helfen
+    * Drohnen aus den Bäumen bergen
+* E-Motor wickel Wette: Jeder trinkt einen Schnaps. Danach wird der Draht um den E-Motor Kern gewickelt. Es geht auf Zeit und um Qualität. Der Verlierer trinkt wieder einen Schnaps. Mögliche Spieleraktionen:
+    * Teilnahme
+    * Verarzten bei Unfall oder zu viel Alkohol
+* Diskussion:
+* Party orga: Im Wechsel übernimmt jeder interessierte Musik und Beleuchtung.  Mögliche Spieleraktionen:
+    * Musik oder Beleuchtung wuppen
+
+
+Zur Ankündigung am Abend erhält jeder einen Schnapsbecher lokal gebrautes Bier.  Eigene Hefe Züchtung. Das Bier leuchtet im dunklen und schmeckt großartig. Ohne Biolabor / Brauerei kann man aber nicht mehr herstellen.
+Die Ankündigung des Ältesten:Man hat Bergungsrechte auf ein Kohlekraftwerk der Alten. Das wurde gerade freigespült. War seit einer Katastrophe verschüttet.
+
+Verlorene
+---------
+
+Aufgabe: Man lernt die Fraktion der Verlorenen kennen. Aber besonders: Man hat die erste Begegnung mit einem mutierten Riesen Hamster. Die Verlorenen sind in der Geschichte nicht mehr wichtig. Aber der Hamster
+
+Die Verlorenen campen vor dem Eingang in das Kraftwerk. Schwere Diesel Autos stehen mit laufendem Motor. In Ölwannen brennt Öl. Darüber: Ein riesiger Hamster auf einem Drehspieß. Genug, damit alle 10 Verlorene satt werden. Jemand macht gerade Kartoffelsalat und richtet die Picknick Bänke.
+Musik dröhnt. Die Lautsprecher sind falsch eingestellt und es ist nur ein einziger Radau. Das stört hier aber niemanden.
+Im Hintergrund ballert jemand mit Schrotgewehren auf Dosen.
+Die Verlorenen haben selbst in der Auktion 10 Bergungsmarken bekommen. Sind aber als zweite dran. Die Marken sind noch nicht aktiv. Werden aber in 12 Stunden aktiviert und dann sind sie dran.
+
 Kampfplatz
 ----------
 
-Direkt nach dem Eingang findet man einen simulierten Unfall. Ein Schauspieler liegt unter einem Schaumstoff H-Träger. Ein versteckter Kameramann filmt ih, wie er schreit. Eigentlich sollte jederzeit der Held der Reality-Soap auftauchen. Stattdessen kommen echte Solarpunks zur Hilfe. Beide rofis machen weiter und nehmen die Rettungsaktion auf.
+Aufgabe: Man trifft zum ersten Mal die Norms. Wird in ein Abenteuer gezogen.
+
+Direkt nach dem Eingang findet man einen simulierten Unfall. Ein Norm Schauspieler liegt unter einem Schaumstoff H-Träger. Ein versteckter Kameramann filmt ih, wie er schreit. Eigentlich sollte jederzeit der Held der Reality-Soap auftauchen. Stattdessen kommen echte Solarpunks zur Hilfe. Beide rofis machen weiter und nehmen die Rettungsaktion auf.
 
 Nach dem das Missverständnis aufgeklärt ist und alle ungeduldig auf den Helden Schauspieler warten hört man etwas den Gang runter Schreie. Schnell nachschauen: Der Held wird gerade von einem riesigen Hamster in ein Rohr gezogen. Diese Rohre scheinen das ganze Kraftwerk zu durchziehen.
 
@@ -144,7 +186,10 @@ Der Hamster selbst hat den leblosen Norm auf den Haufen gezerrt und der wird hie
 Als besonderer Schatz ist hier der große Generator mit dem schweren, wuchtigen Schwungrad.
 
 
+Sieges Party
+------------
 
+Aufgabe: Dient dem Abschluss und um nochmal richtig zu feiern. Das Abenteuer Revure passieren zu lassen und nochmal Solarpunk feeling zu schnuppern
 
 
 

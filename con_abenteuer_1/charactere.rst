@@ -8,6 +8,9 @@ Jeder hat:
 * Erste Hilfe
 * Mobile Computer, Kopfhörer, Kommunikation
 
+
+%% TODO: Einer hat nie einen Schlüssel dabei, aber immer ein Pick Set
+
 Curly
 -----
 
