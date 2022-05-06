@@ -19,3 +19,5 @@ Solarpunk 2050
    nscs
 
    charactere
+
+   characters/curly

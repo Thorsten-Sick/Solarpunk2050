@@ -119,10 +119,11 @@ Verlorene
 
 Ziel der Szene: Man lernt die Fraktion der Verlorenen kennen. Aber besonders: Man hat die erste Begegnung mit einem mutierten Riesen Hamster. Die Verlorenen sind in der Geschichte nicht mehr wichtig. Aber der Hamster
 
-Die Verlorenen campen vor dem Eingang in das Kraftwerk. Schwere Diesel Autos stehen mit laufendem Motor. In Ölwannen brennt Öl. Darüber: Ein riesiger Hamster auf einem Drehspieß. Genug, damit alle 10 Verlorene satt werden. Jemand macht gerade Kartoffelsalat und richtet die Picknick Bänke.
-Musik dröhnt. Die Lautsprecher sind falsch eingestellt und es ist nur ein einziger Radau. Das stört hier aber niemanden.
-Im Hintergrund ballert jemand mit Schrotgewehren auf Dosen.
-Die Verlorenen haben selbst in der Auktion 10 Bergungsmarken bekommen. Sind aber als zweite dran. Die Marken sind noch nicht aktiv. Werden aber in 12 Stunden aktiviert und dann sind sie dran.
+Man befindet sich in einem Wald. Die Verlorenen campen vor dem Eingang in das Kraftwerk. Schwere Diesel Autos stehen mit laufendem Motor. In Ölwannen brennt Öl. Darüber: Ein riesiger Hamster auf einem Drehspieß. Genug, damit alle 10 Verlorene satt werden. Jemand macht gerade Kartoffelsalat und richtet die Picknick Bänke. Musik dröhnt. Die Lautsprecher sind falsch eingestellt und es ist nur ein einziger Radau. Das stört hier aber niemanden.
+Im Hintergrund ballert jemand mit Schrotgewehren auf Bier Dosen.
+Die Verlorenen haben selbst in der Auktion 10 Bergungsmarken bekommen. Sind aber als zweite dran. Die Marken sind noch nicht aktiv. Werden aber in 12 Stunden aktiviert und dann können sie mit dem Bergen beginnen.
+
+Sie pöbeln gegen die Solarpunks und drohen ihnen bloss keine "Dieseltanks, Generatoren oder so" mitzunehmen, die gehören den Verlorenen.
 
 Kampfplatz
 ----------
