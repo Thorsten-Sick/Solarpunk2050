@@ -150,6 +150,13 @@ Solar Nomaden
 
 Solar Punks. Aber mobil. Sind ständig zwischen Städten unterwegs. In ihren E-Wohn mobilen. Mit Survival Ausrüstung. Normalerweise sind sie die ersten die bei Katastrophen helfen. Für die Solarpunk Communities sind sie wichtig, da sie Kultur und Wissen zwischen ihnen tauschen.
 
+Kinder
+------
+
+Kinder dürfen bei allen sicheren Aktivitäten im Rahmen ihrer Fähigkeiten teilnehmen. Manchmal wird ihnen ein Mentor zur Seite gestellt, der hilft. Alternativ können sie aber auch in der Leitzentrale helfen (dort koordinieren und Tickets bearbeiten) oder mittels Drohnen im Einsatz sein (Recycling, Erste Hilfe, Aufklärung, ...). Die Drohnen können hier fahrende, fliegende oder schwimmende sein.
+
+Auch haben Kinder immer eine Stimme, wenn über zukünftige Themen abgestimmt wird. Denn es geht um ihre Zukunft. Bei kritischen Abstimmungen können sie sogar mittels eines Vetos blockieren. Dies wird vom sogenannten Kinderrat gemacht.
+
 Furries
 -------
 

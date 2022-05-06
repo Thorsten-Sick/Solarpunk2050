@@ -6,9 +6,9 @@ Norms
 
 Norms nutzen gerne Modenamen. Zur Vereinfachung ist die Schreibweise angepasst
 
-Männlich: Thortscho, Kewin
+Männlich: Thortscho (Georgeo), Kewin (Kevin), Tschorsch (George)
 
-Weiblich: Tscharlien, Mischell, Sindie, Schantall
+Weiblich: Tscharlien, Mischell, Sindie, Schantall, Brisila
 
 Verlorene
 ---------
