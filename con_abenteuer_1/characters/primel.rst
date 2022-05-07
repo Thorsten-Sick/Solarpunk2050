@@ -20,7 +20,7 @@ Dilemma: Natur kommt ohne den Menschen am besten klar
 
 Beziehung: Die Natur ist großartig. Menschen sind auch ok.
 
-Aspekt 1:
+Aspekt 1: Finde neue Natur und bewahre sie
 
 Aspekt 2:
 
@@ -69,3 +69,18 @@ Konsequenzen:
 * Schwer (6)
 
 Erholungsrate: 3
+
+Ausstattung
+^^^^^^^^^^^
+
+* Lichtquelle
+* Nahrung (Mama Salsas berühmte Mehlwurmbrötchen in der Bento Box)
+* Erste Hilfe Ausstattung
+* Mobile Computer, Kopfhörer, Kommunikation
+* Pickset
+* Handliches kleines Ökolabor
+
+Aussehen
+^^^^^^^^
+
+Öko Textilien - denen man das Öko auch ansieht. Was nicht nötig wäre mit der heutigen Technik.

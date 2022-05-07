@@ -6,7 +6,6 @@ Curly
 
 Fanboy der Norms (insbesondere Action movies).
 
-* Exoskelett light: Ein umgeschnalltes Leichtskelett mit Balance Schwanz erlaubt extra Akrobatik
 
 Aspekte
 ^^^^^^^
@@ -17,7 +16,7 @@ Dilemma: Heimlicher Fan der schlechten Norm Serie "Rise and Fall of Solar commun
 
 Beziehung: Sucht immer ein Vorbild in der Gruppe
 
-Aspekt 1:
+Aspekt 1: Ein cooler Spruch zur richtigen Zeit wirkt unterstützend
 
 Aspekt 2:
 
@@ -66,3 +65,19 @@ Konsequenzen:
 * Schwer (6)
 
 Erholungsrate: 3
+
+Ausstattung
+^^^^^^^^^^^
+
+* Lichtquelle
+* Nahrung (Mama Salsas berühmte Mehlwurmbrötchen in der Bento Box)
+* Erste Hilfe Ausstattung
+* Mobile Computer, Kopfhörer, Kommunikation
+* Exoskelett light: Ein umgeschnalltes Leichtskelett mit Balance Schwanz erlaubt extra Akrobatik
+* Kletterseil
+
+
+Aussehen
+^^^^^^^^
+
+Glatt rasierter Kopf, Schuppenmuster tätowiert. Gerne im selbstgebauten Balance Anzug (mit Balance-ausgleichenden Schanz) unterwegs. Kein Ding unter Solarpunks. Kann aber bei anderen Gruppen damit anecken.

@@ -134,9 +134,9 @@ Ziel der Szene:
 * Die Weltzerstörungsmaschine ist absurd engineered. Fast schon öde und langweilig
 * Erkenntnis: Man braucht Waffen
 
-Die Charaktere dringen durch eine schief hängende Luke in einen Gang ein. Die Wände sind weiß - aber inzwischen modrig. Der Boden ist Linoleum. Weiße Plastikschränke ohne jede Persönlichkeit stehen in den Gängen. Viele Türen (Weiß, Plastik in Holzoptik) zweigen rechts und links ab. Dahinter oft Schutt und Schlamm.
+Die Charaktere dringen durch eine schief hängende Luke in einen Gang ein. Die Wände sind weiß - aber inzwischen modrig. Der Boden ist Linoleum. Weiße Plastikschränke ohne jede Persönlichkeit stehen in den Gängen. Viele Türen (Weiß, Plastik in Holzoptik) zweigen rechts und links ab. An ihnen Schilder mit Namen der Leute, deren Büro das mal war. Hinter den Türen: Schutt und Schlamm.
 
-Direkt nach dem Eingang findet man einen simulierten Unfall. Ein Norm Schauspieler liegt unter einem Schaumstoff H-Träger. Ein versteckter Kameramann filmt ih, wie er schreit. Eigentlich sollte jederzeit der Held der Reality-Soap auftauchen. Stattdessen kommen echte Solarpunks zur Hilfe. Beide Profis machen weiter und nehmen die Rettungsaktion auf.
+Bald findet man einen simulierten Unfall. Ein Norm Schauspieler liegt unter einem Schaumstoff H-Träger. Ein versteckter Kameramann filmt ih, wie er schreit. Eigentlich sollte jederzeit der Held der Reality-Soap auftauchen. Stattdessen kommen echte Solarpunks zur Hilfe. Beide Profis machen weiter und nehmen die Rettungsaktion auf.
 
 Nach dem das Missverständnis aufgeklärt ist und alle ungeduldig auf den Helden Schauspieler warten hört man etwas den Gang runter Schreie. Schnell nachschauen: Der Held wird gerade von einem riesigen Hamster in ein Rohr gezogen. Diese Rohre scheinen das ganze Weltzerstörungsmaschine zu durchziehen.
 
@@ -234,6 +234,7 @@ Der Hamster selbst hat den leblosen Norm auf den Haufen gezerrt und der wird hie
 Als besonderer Schatz ist hier der große Generator mit dem schweren, wuchtigen Schwungrad.
 
 Lösungsideen:
+
 * Man könnte den Hamster übrigens mit einem Kübel Protein Brei so überfressen lassen, dass er wegpennt (Bio Kenntnisse)
 * Oder mit den Psychoaktiven Pilzen benebeln (Bio Kenntnisse, Waffentechnik)
 * Oder töten (Kampf)
@@ -243,18 +244,21 @@ Hamster
 ^^^^^^^
 
 Konzept: Flauschige Killermaschine auf CCS Mission
+
 Dilemma: Durch die Gene verdammt
+
 Aspekt: Immer hungrig
 
 Der Hamster ist darauf programmiert, Kohlenstoff Brocken nach unten unter die Erde - in sein Nest -  zu ziehen. Das tut er. Auch wenn sich die Brocken wehren.
 
-Athletik: 3
-Charisma: 2
-Kraft: 4
-Kampf: 3
-Wahrnehmung: 2
+* Athletik: 3
+* Charisma: 2
+* Kraft: 4
+* Kampf: 3
+* Wahrnehmung: 2
 
 Stress, Körperlich: 6
+
 Stress, Geistig: 3
 
 Sieges Party

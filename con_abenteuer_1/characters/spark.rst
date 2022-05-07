@@ -4,21 +4,16 @@ Spark
 
 *Techniky*
 
-Anti-Konsum
-Laserschweissgeräte (keine Waffe, weil naher Fokus punkt!)
-
-* Will Technik bergen
-
 Aspekte
 ^^^^^^^
 
 Konzept: Ein Punk der Tat - mit Werkzeug
 
-Dilemma: Will aus alter Technik neue tricks lernen
+Dilemma: Will aus alter Technik neue Tricks lernen
 
-Beziehung: Will Technik Wissen teilen und drückt anderen Gerne den Schraubenzieher in die Hand
+Beziehung: Will Technik Wissen teilen und drückt anderen gerne den Schraubenzieher in die Hand
 
-Aspekt 1:
+Aspekt 1: Produzieren ist besser als konsumieren
 
 Aspekt 2:
 
@@ -67,3 +62,19 @@ Konsequenzen:
 * Schwer (6)
 
 Erholungsrate: 3
+
+Ausstattung
+^^^^^^^^^^^
+
+* Lichtquelle
+* Nahrung (Mama Salsas berühmte Mehlwurmbrötchen in der Bento Box)
+* Erste Hilfe Ausstattung
+* Mobile Computer, Kopfhörer, Kommunikation
+* Laserschweissgerät (keine Waffe)
+* Panzertape, WD40 und Schweizer Taschenmesser
+
+
+Aussehen
+^^^^^^^^
+
+"Strohhut" aus Kabelresten geflochten, Latzhose.

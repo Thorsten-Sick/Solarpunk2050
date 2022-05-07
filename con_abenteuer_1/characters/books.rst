@@ -18,7 +18,7 @@ Dilemma: Wir machen nix ohne Plan
 
 Beziehung: Schreibt permanent am nächsten Blog uns lässt andere gerne den Entwurf einer Passage bewerten - zu unpassenden Zeiten
 
-Aspekt 1:
+Aspekt 1: Umso mehr ich weiss, umso besser läuft es
 
 Aspekt 2:
 
@@ -67,3 +67,17 @@ Konsequenzen:
 * Schwer (6)
 
 Erholungsrate: 3
+
+Ausstattung
+^^^^^^^^^^^
+
+* Lichtquelle
+* Nahrung (Mama Salsas berühmte Mehlwurmbrötchen in der Bento Box)
+* Erste Hilfe Ausstattung
+* Mobile Computer, Kopfhörer, Kommunikation
+
+
+Aussehen
+^^^^^^^^
+
+Jacket mit Flicken an den Ellbogen. Grau werdende Haare.

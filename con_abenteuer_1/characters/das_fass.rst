@@ -4,10 +4,6 @@ Das Fass
 
 *Brauery*
 
-Bärenstark. Und sehr in das Bier Projekt involviert.
-Sehr gut in Care und Achtsamkeits Arbeit. Aber auch darin, schwere Dinge zu werfen.
-
-* Möglichst große Objekte bergen wegen Rohstoff Punkte - will die Brauerei
 
 Aspekte
 ^^^^^^^
@@ -18,9 +14,9 @@ Dilemma: Redet gerne mit Mikroorganismen (Hefen)
 
 Beziehung: Aktiver Kummerkasten für die Gruppe. "Wie geht es dir damit ?"
 
-Aspekt 1:
+Aspekt 1: Zugpferd des Bierprojekts
 
-Aspekt 2:
+Aspekt 2: Rohstoffpunkte sind jetzt wichtig
 
 Fertigkeiten
 ^^^^^^^^^^^^
@@ -67,3 +63,19 @@ Konsequenzen:
 * Schwer (6)
 
 Erholungsrate: 3
+
+Ausstattung
+^^^^^^^^^^^
+
+* Lichtquelle
+* Nahrung (Mama Salsas berühmte Mehlwurmbrötchen in der Bento Box)
+* Erste Hilfe Ausstattung
+* Mobile Computer, Kopfhörer, Kommunikation
+* Genlabor im Koffer
+* 2 Flaschen leuchtendes Bier (Prototyp)
+
+
+Aussehen
+^^^^^^^^
+
+Gemütlich, bärig, stark. Interessiert an der Optimierung von Braukunst und dafür gerne bereit, sich tief in Gentechnik einzulesen.
