@@ -20,4 +20,14 @@ Solarpunk 2050
 
    charactere
 
+   characters/books
+
    characters/curly
+
+   characters/das_fass
+
+   characters/disco
+
+   characters/primel
+
+   characters/spark

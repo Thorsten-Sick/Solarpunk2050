@@ -4,9 +4,9 @@ Abenteuer
 Einstieg
 --------
 
-Es ist eine große Solarpunk Party im freien. Die Gemeinde hat sich versammelt. Es läuft selbst gemachte Musik und das übliche LED und Laser Spektakel. Für jeden gibt es ein Schnaps Gläschen mit einem neuen Bier zur Verkostung. Selbst generierte Hefe und ein neues Brau-Verfahren. Sehr lecker. Und leuchtet dank bioluminescens.  Nur leider ist die Menge limitiert: die aktuellen Labors und Brauerei Geräte schaffen nicht mehr. Das soll ausgebaut werden. Und dafür benötigt man Rohstoff Punkte.
+Es ist eine große Solarpunk Party im freien. Die Gemeinde hat sich versammelt. Es läuft selbst gemachte Musik und das übliche LED und Laser Spektakel. Für jeden gibt es ein Schnaps Gläschen mit einem neuen Bier zur Verkostung. Selbst generierte Hefe und ein neues Brau-Verfahren. Sehr lecker. Und leuchtet dank Bioluminescens.  Nur leider ist die Menge limitiert: die aktuellen Labors und Brauerei Geräte schaffen nicht mehr. Das soll ausgebaut werden. Und dafür benötigt man Rohstoff Punkte.
 
-Durch Glück wurde in der Nähe ein in einer der vielen Katastrophen verschüttetes Kohlekraftwerk halb freigespült. Man kann dort rein. Und die Solarpunks haben in einem Wettstreit Erstbergungsrecht erhalten.
+Durch Glück wurde in der Nähe ein in einer der vielen Katastrophen verschüttete "Weltzerstörungsmaschine" (ein Kohlekraftwerk) halb freigespült. Man kann dort rein. Und die Solarpunks haben in einem Wettstreit Erstbergungsrecht erhalten.
 
 Die Gruppe erhält 4 (oder Anzahl Spieler-1) von der EU ausgegebene Eigentumsmarker, die sie auf zu bergende Objekte kleben können. Diese sind einmal angebracht nicht mehr ohne schweres Gerät entfernbar. Sollen sie entscheiden, was ihnen am meisten wert ist.
 
@@ -15,7 +15,7 @@ Ansonsten kann man so viel mitnehmen, wie man tragen kann.
 Ablauf
 ------
 
-Evtl. finden sie Spieler alternative Wege durch das Kraftwerk. Aber hier die Etappen in der Standard Reihenfolge und wer dort jeweils Spotlight bekommen sollte.
+Evtl. finden sie Spieler alternative Wege durch die Weltzerstörungsmaschine. Aber hier die Etappen in der Standard Reihenfolge und wer dort jeweils Spotlight bekommen sollte.
 
 .. graphviz::
     :name: plot
@@ -110,7 +110,7 @@ Die zweite Ankündigung kommt in einer Stunde.
 
 
 Zur Ankündigung am Abend erhält jeder einen Schnapsbecher lokal gebrautes Bier.
-Die Älteste: "Das ist unsere eigene Hefe Züchtung. Das Team um 'Das Fass' haben es möglich gemacht (Jubel). Wie ihr seht leuchtet das Bier im dunklen und schmeckt großartig. Aber ohne großes Biolabor mit Brauerei kann man aber nicht mehr herstellen...und dafür fehlen uns die Ressource Punkte. Aber wir haben Bergungsrechte auf ein Kohlekraftwerk der Alten. Das wurde gerade freigespült. War seit einer Katastrophe verschüttet. Lasst uns schwere Maschinen und seltene Metalle bergen und uns Rohstoffpunkte durch recycling sichern ! Damit bekommen wir dann unser Brauerei-Labor!"
+Die Älteste: "Das ist unsere eigene Hefe Züchtung. Das Team um 'Das Fass' haben es möglich gemacht (Jubel). Wie ihr seht leuchtet das Bier im dunklen und schmeckt großartig. Aber ohne großes Biolabor mit Brauerei kann man aber nicht mehr herstellen...und dafür fehlen uns die Ressource Punkte. Aber wir haben Bergungsrechte auf eine  Weltzerstörungsmaschine der Alten. Das wurde gerade freigespült. War seit einer Katastrophe verschüttet. Lasst uns schwere Maschinen und seltene Metalle bergen und uns Rohstoffpunkte durch recycling sichern ! Damit bekommen wir dann unser Brauerei-Labor!"
 
 Das Fass darf dann während dem Fest di wichtigsten Fragen der Leute beantworten: "Leuchtet man, wenn man das getrunken hat ?" (Nein), "Leuchtet das Pipi ?" (Ja), "Wie lange leuchtet das Pipi ?" (einige Tage), "Kann man auch leuchtende Limo für Kinder brauen ?" (Ja)
 
@@ -119,7 +119,7 @@ Verlorene
 
 Ziel der Szene: Man lernt die Fraktion der Verlorenen kennen. Aber besonders: Man hat die erste Begegnung mit einem mutierten Riesen Hamster. Die Verlorenen sind in der Geschichte nicht mehr wichtig. Aber der Hamster
 
-Man befindet sich in einem Wald. Die Verlorenen campen vor dem Eingang in das Kraftwerk. Schwere Diesel Autos stehen mit laufendem Motor. In Ölwannen brennt Öl. Darüber: Ein riesiger Hamster auf einem Drehspieß. Genug, damit alle 10 Verlorene satt werden. Jemand macht gerade Kartoffelsalat und richtet die Picknick Bänke. Musik dröhnt. Die Lautsprecher sind falsch eingestellt und es ist nur ein einziger Radau. Das stört hier aber niemanden.
+Man befindet sich in einem Wald. Die Verlorenen campen vor dem Eingang in der Maschine. Schwere Diesel Autos stehen mit laufendem Motor. In Ölwannen brennt Öl. Darüber: Ein riesiger Hamster auf einem Drehspieß. Genug, damit alle 10 Verlorene satt werden. Jemand macht gerade Kartoffelsalat und richtet die Picknick Bänke. Musik dröhnt. Die Lautsprecher sind falsch eingestellt und es ist nur ein einziger Radau. Das stört hier aber niemanden.
 Im Hintergrund ballert jemand mit Schrotgewehren auf Bier Dosen.
 Die Verlorenen haben selbst in der Auktion 10 Bergungsmarken bekommen. Sind aber als zweite dran. Die Marken sind noch nicht aktiv. Werden aber in 12 Stunden aktiviert und dann können sie mit dem Bergen beginnen.
 
@@ -128,31 +128,56 @@ Sie pöbeln gegen die Solarpunks und drohen ihnen bloss keine "Dieseltanks, Gene
 Kampfplatz
 ----------
 
-Ziel der Szene: Man trifft zum ersten Mal die Norms. Wird in ein Abenteuer gezogen.
+Ziel der Szene:
+
+* Man trifft zum ersten Mal die Norms. Wird in ein Abenteuer gezogen.
+* Die Weltzerstörungsmaschine ist absurd engineered. Fast schon öde und langweilig
+* Erkenntnis: Man braucht Waffen
+
+Die Charaktere dringen durch eine schief hängende Luke in einen Gang ein. Die Wände sind weiß - aber inzwischen modrig. Der Boden ist Linoleum. Weiße Plastikschränke ohne jede Persönlichkeit stehen in den Gängen. Viele Türen (Weiß, Plastik in Holzoptik) zweigen rechts und links ab. Dahinter oft Schutt und Schlamm.
 
 Direkt nach dem Eingang findet man einen simulierten Unfall. Ein Norm Schauspieler liegt unter einem Schaumstoff H-Träger. Ein versteckter Kameramann filmt ih, wie er schreit. Eigentlich sollte jederzeit der Held der Reality-Soap auftauchen. Stattdessen kommen echte Solarpunks zur Hilfe. Beide Profis machen weiter und nehmen die Rettungsaktion auf.
 
-Nach dem das Missverständnis aufgeklärt ist und alle ungeduldig auf den Helden Schauspieler warten hört man etwas den Gang runter Schreie. Schnell nachschauen: Der Held wird gerade von einem riesigen Hamster in ein Rohr gezogen. Diese Rohre scheinen das ganze Kraftwerk zu durchziehen.
+Nach dem das Missverständnis aufgeklärt ist und alle ungeduldig auf den Helden Schauspieler warten hört man etwas den Gang runter Schreie. Schnell nachschauen: Der Held wird gerade von einem riesigen Hamster in ein Rohr gezogen. Diese Rohre scheinen das ganze Weltzerstörungsmaschine zu durchziehen.
+
+Leider ist das Rohr kaum von einem Menschen zu durchkrabbeln (bewußtlos von einem Monster durchgezogen zu werden scheint weniger Platz zu brauchen). Irgendwann bricht auch das Rohr durch die Beanspruchung. Drohnen würden gehen. Allgemein hat man ein Problem, dem Monster und dem Opfer schnell zu folgen und die Rohre enden in Wänden. Man braucht einen Lageplan.
+
+Die Charaktere sollten feststellen, dass sie keine Waffen haben. Aber egal. Als Solarpunk improvisiert man unterwegs.
+
+Mit sozialen Fertigkeiten könnten sie die Waffen sicher auch von den Verlorenen leihen ! Aber nicht zu viel, denn die wollen in ein paar Stunden nachkommen und dann nicht unbewaffnet sein.
 
 Ausstellung
 -----------
 
+Ziele der Szene:
+
+* Erste klare Hinweise auf Kohlekraft (wenn man die Ausstellung durchforscht)
+* Soziales mit den Norms
+* Herausfinden, wo die Rohre hin gehen (In Modellen und Plänen)
+
 Der Kameramann und das Opfer führen die Helden schnell zur "Zentrale". Einem ehemaligen Museum (auch Drehort). Dort ist Catering aufgebaut (außerhalb der Kameras).
 Plan der Norms ist es, dort nach den Dreharbeiten 500 Fans der Serie unterzubringen. Mit 10 Plätzen für VIPs. Darum wird das gerade hergerichtet.
 
-Hier ist ein altes Museum, in dem damals Schulklassen an sehr schönen Modellen etwas über Kohlekraft lernen konnten. Diese sollten Books interessieren.
-
+Hier ist ein altes Museum, in dem damals Schulklassen an sehr schönen Modellen etwas über Kohlekraft lernen konnten. Alles ist nett gemacht. Gut verkauft. Mit Maskottchen.
 Auch interessant ist die Mineralien Sammlung, mit einer riesen Geode, die könnten Disco interessieren.
+
+Hier ist die Norm-Zentrale. Sie bauen für eine VIP Party gerade auf. Einige Zuschauer haben einen Backstage Pass gewonnen und werden morgen eintreffen (also nach den Helden).
 
 Beim catering ist ein Food-Designer, der aus Proteinpaste echt aussehende Mehlwürmer für die Solarpunk Essens-Aufnahmen bastelt. Damit die VIPs sich wie Solarpunks fühlen können aber keine Mehlwürmer essen müssen. Die Paste ist aus Mehlwürmern. Ist denen nur nicht klar - steht aber auf der Verpackung.
 
-Nach Aussage des Food Designers sind die anderen tiefer in das Kraftwerk, um es für Dreharbeiten herzurichten. Schon seit einiger Zeit nix mehr von denen gehört. (Info: Die wurden gehamstert)
+Nach Aussage des Food Designers sind die anderen tiefer in die Weltzerstörungsmaschine, um es für Dreharbeiten herzurichten. Schon seit einiger Zeit nix mehr von denen gehört. (Info: Die wurden gehamstert)
 
-Jemand mit historischem Wissen (Books) kann herausfinden, dass das schwerste Teil hier wohl der Generator mit Schwungrad ist. Und dass es tiefer rein gehen muss.
+Jemand mit historischem Wissen (Books) kann herausfinden, dass das schwerste Teil hier wohl der Generator des Kohlekraftwerks mit Schwungrad ist. Und dass es tiefer rein gehen muss.
 
 
 Kohlebunker
 -----------
+
+Ziele der Szene:
+
+* Technisch Probleme überwinden
+* Waffen bauen können
+* Schmutzigkeit der Weltzerstörungsmaschine zeigen
 
 Probleme:
 
@@ -166,6 +191,12 @@ Waffenmaterial:
 
 Laufstege
 ---------
+
+Ziele der Szene:
+
+* Hindernisse überwinden
+* Trostlosigkeit und Größe der Weltzerstörungsmaschine zeigen
+* Waffen bauen können
 
 Man muss über Laufstege und durch große Belüftungs-Lüfter klettern
 
@@ -184,10 +215,15 @@ Probleme:
 Waffenmaterial
 
 * Scharfe Blätter der Belüftung (Schwerter)
++ Rohrestücke (Speere, Rohrbombe, Kartoffelkanone)
 * Psychoaktive Pilze
 
 Nest
 ----
+
+Ziele der Szene:
+
+* Endkampf
 
 Im Nest findet man alle Arten von organischem Material. Angefangen von alten Kartoffelsäcken bis hin zu toten Tieren (gejagte Hunde und Wildschweine).
 
@@ -197,20 +233,35 @@ Der Hamster selbst hat den leblosen Norm auf den Haufen gezerrt und der wird hie
 
 Als besonderer Schatz ist hier der große Generator mit dem schweren, wuchtigen Schwungrad.
 
+Lösungsideen:
+* Man könnte den Hamster übrigens mit einem Kübel Protein Brei so überfressen lassen, dass er wegpennt (Bio Kenntnisse)
+* Oder mit den Psychoaktiven Pilzen benebeln (Bio Kenntnisse, Waffentechnik)
+* Oder töten (Kampf)
+* Oder die Verlorenen holen (Soziale Interaktion)
+
+Hamster
+^^^^^^^
+
+Konzept: Flauschige Killermaschine auf CCS Mission
+Dilemma: Durch die Gene verdammt
+Aspekt: Immer hungrig
+
+Der Hamster ist darauf programmiert, Kohlenstoff Brocken nach unten unter die Erde - in sein Nest -  zu ziehen. Das tut er. Auch wenn sich die Brocken wehren.
+
+Athletik: 3
+Charisma: 2
+Kraft: 4
+Kampf: 3
+Wahrnehmung: 2
+
+Stress, Körperlich: 6
+Stress, Geistig: 3
 
 Sieges Party
 ------------
 
-Aufgabe: Dient dem Abschluss und um nochmal richtig zu feiern. Das Abenteuer Revue passieren zu lassen und nochmal Solarpunk feeling zu schnuppern
+Aufgabe: Dient dem Abschluss und um nochmal richtig zu feiern. Das Abenteuer Revue passieren zu lassen und nochmal Solarpunk feeling zu schnuppern.
 
+Einige Tage später. Die Ressourcen punkte wurden gegen Rohstoffe eingetauscht.
 
-Szenen
-------
-
-Beim Eindringen stoßen sie schnell auf einen Eingeklemmten und schwer verletzten Norm. Das ist aber ein Schauspieler einer Serie "Extreme Adventure Group". Das eingeklemmt sein ist nur eine Simulation und eigentlich sollte gleich deren "Held" um die Ecke kommen und die Befreiung einleiten. Ind er Ecke hat sich eine Kameramann versteckt. Die Helden können die Person befreien, aber der Held kommt nicht....
-
-... ein Schrei. Der Held wir einen gang weiter - mit schwerer Kopfwunde - von einem riesigen Hamster in ein Rohr geschleift.
-
-... Das "Opfer" kann halb in Schockstarre zum Catering gebracht werden. Dort wartet ein weiterer Norm
-
-... Kameramann und Spieler sind jetzt auf Bergungsmission, Finden von sich verlaufenden Real-Life-Doku-Drama Schauspielern, Rettungsmission und müssen auch noch den Interview Fragen des Kameramanns Stand halten
+Die Party findet statt, als die bestellten Rohstoffe kommen und es wird zu Musik und Essen/Trinken gemeinsam das neue Bier-Zentrum gebaut.

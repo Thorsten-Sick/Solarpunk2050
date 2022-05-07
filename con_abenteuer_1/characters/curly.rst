@@ -55,9 +55,12 @@ Stunts
 Zustände
 ^^^^^^^^
 
-Körperlich (3)
-Geistig (3)
+Stress, Körperlich (4)
+
+Stress, Geistig (3)
+
 Konsequenzen:
+
 * Leicht (2)
 * Mittel (4)
 * Schwer (6)
