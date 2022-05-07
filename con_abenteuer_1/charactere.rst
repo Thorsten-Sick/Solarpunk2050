@@ -2,10 +2,12 @@
 Charaktere
 ==========
 
-Das Fass: Brauery, will möglichst große Objekte bergen wegen Rohstoff Punkte - will die Brauerei
-Disco: Bardy, will schönes bergen
-Spark: Techniky, will Technik bergen
-Primel: Ökology, will Natur bergen
+* Books: Gelehrty, will historisches bergen
+* Curly: Akrobaty, will lustiges bergen
+* Das Fass: Brauery, will möglichst große Objekte bergen wegen Rohstoff Punkte - will die Brauerei
+* Disco: Bardy, will schönes bergen
+* Spark: Techniky, will Technik bergen
+* Primel: Ökology, will Natur bergen
 
 Kinder:
 -------
