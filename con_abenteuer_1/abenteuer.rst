@@ -1,6 +1,16 @@
 Abenteuer
 =========
 
+Zusammenfassung
+---------------
+
+* Spieler lernen auf einer Solarpunk Party Solarpunk kennen
+* Aufgabe: Weltzerstörungsmaschine (=Kohlekraftwerk) durchsuchen und Rohstoffe bergen um Brauerei bauen zu können
+* Spieler lernen Verlorene kennen
+* Spieler treffen in Weltzerstörungsmaschine auf Norms. Gefahr: Mutierter Riesenhamster
+* Durchsuchen die Weltzerstörungsmaschine, lösen einige Probleme, bauen Waffen (wie im Film Predator), stellen den Hamster
+* Abschlussfest beim Bau der Brauerei
+
 Einstieg
 --------
 
@@ -71,14 +81,6 @@ Evtl. finden sie Spieler alternative Wege durch die Weltzerstörungsmaschine. Ab
 
      }
 
-Allgemein
----------
-
-* Dunkelheit
-* Feucht, klamm
-* Es scheinen noch manche Prozesse zu laufen. Die Norms haben wild Akkus angeschlossen, in der Hoffnung Dinge zum Leben zu erwecken. Macht sich gut auf Film.
-* Alles so archaisch
-
 Party 1
 -------
 
@@ -112,7 +114,9 @@ Die zweite Ankündigung kommt in einer Stunde.
 Zur Ankündigung am Abend erhält jeder einen Schnapsbecher lokal gebrautes Bier.
 Die Älteste: "Das ist unsere eigene Hefe Züchtung. Das Team um 'Das Fass' haben es möglich gemacht (Jubel). Wie ihr seht leuchtet das Bier im dunklen und schmeckt großartig. Aber ohne großes Biolabor mit Brauerei kann man aber nicht mehr herstellen...und dafür fehlen uns die Ressource Punkte. Aber wir haben Bergungsrechte auf eine  Weltzerstörungsmaschine der Alten. Das wurde gerade freigespült. War seit einer Katastrophe verschüttet. Lasst uns schwere Maschinen und seltene Metalle bergen und uns Rohstoffpunkte durch recycling sichern ! Damit bekommen wir dann unser Brauerei-Labor!"
 
-Das Fass darf dann während dem Fest di wichtigsten Fragen der Leute beantworten: "Leuchtet man, wenn man das getrunken hat ?" (Nein), "Leuchtet das Pipi ?" (Ja), "Wie lange leuchtet das Pipi ?" (einige Tage), "Kann man auch leuchtende Limo für Kinder brauen ?" (Ja)
+Das Fass darf dann während dem Fest die wichtigsten Fragen der Leute beantworten: "Leuchtet man, wenn man das getrunken hat ?" (Nein), "Leuchtet das Pipi ?" (Ja), "Wie lange leuchtet das Pipi ?" (einige Tage), "Kann man auch leuchtende Limo für Kinder brauen ?" (Ja)
+
+Danach Aufbruch, zuerst mit dem Zug (E-Bikes und Quads sind im Güterwagon). Dann fahrt in ein relativ neues Waldstück, dass auf vor 20 Jahren überschwemmten Land wächst.
 
 Verlorene
 ---------
@@ -124,6 +128,8 @@ Im Hintergrund ballert jemand mit Schrotgewehren auf Bier Dosen.
 Die Verlorenen haben selbst in der Auktion 10 Bergungsmarken bekommen. Sind aber als zweite dran. Die Marken sind noch nicht aktiv. Werden aber in 12 Stunden aktiviert und dann können sie mit dem Bergen beginnen.
 
 Sie pöbeln gegen die Solarpunks und drohen ihnen bloss keine "Dieseltanks, Generatoren oder so" mitzunehmen, die gehören den Verlorenen.
+
+Nachdem das fertig ist, aktivieren sich die Bergungs Tags der Solarpunks und sie dürfen beginnen, durch den neu gefunden Zugang in die Weltzerstörungsmaschine hinabzusteigen
 
 Kampfplatz
 ----------
@@ -146,6 +152,8 @@ Die Charaktere sollten feststellen, dass sie keine Waffen haben. Aber egal. Als 
 
 Mit sozialen Fertigkeiten könnten sie die Waffen sicher auch von den Verlorenen leihen ! Aber nicht zu viel, denn die wollen in ein paar Stunden nachkommen und dann nicht unbewaffnet sein.
 
+Am Ende des Gangs finden die Helden eine große Halle, mit Marmor ausgekleidet. Das war das Museum der Weltzerstörungsmaschine.
+
 Ausstellung
 -----------
 
@@ -165,10 +173,11 @@ Hier ist die Norm-Zentrale. Sie bauen für eine VIP Party gerade auf. Einige Zus
 
 Beim catering ist ein Food-Designer, der aus Proteinpaste echt aussehende Mehlwürmer für die Solarpunk Essens-Aufnahmen bastelt. Damit die VIPs sich wie Solarpunks fühlen können aber keine Mehlwürmer essen müssen. Die Paste ist aus Mehlwürmern. Ist denen nur nicht klar - steht aber auf der Verpackung.
 
-Nach Aussage des Food Designers sind die anderen tiefer in die Weltzerstörungsmaschine, um es für Dreharbeiten herzurichten. Schon seit einiger Zeit nix mehr von denen gehört. (Info: Die wurden gehamstert)
+Nach Aussage des Food Designers sind die anderen tiefer in die Weltzerstörungsmaschine, um es für Dreharbeiten herzurichten. Schon seit einiger Zeit nix mehr von denen gehört. (Info: Die wurden gehamstert). Der Zugang ist eine Stahltüre. Abgeschlossen.
 
 Jemand mit historischem Wissen (Books) kann herausfinden, dass das schwerste Teil hier wohl der Generator des Kohlekraftwerks mit Schwungrad ist. Und dass es tiefer rein gehen muss.
 
+Klaut man den Schlüssel des Food Designers (oder überredet ihn), knackt das Schloss oder schweisst die Türe auf, kann man tiefer in die Anlage eindringen.
 
 Kohlebunker
 -----------
@@ -184,10 +193,17 @@ Probleme:
 * Trockener Kohlestaub (explosiv)
 * unten dunkles, schwarzes Wasser, mit Ölfilm
 * Die Norms haben da SFX Zeug aufgebaut. Insbesondere Kabel durchs Wasser und vorbereitete Pyrotechnik
+* Es scheinen noch manche der  alten Prozesse zu laufen. Die Norms haben wild Akkus und Motoren angeschlossen, in der Hoffnung Dinge zum Leben zu erwecken. Macht sich gut auf Film.
 
 Waffenmaterial:
 
 * Kohlestaub (Kartoffelkanone, Rohrbomben)
+
+Man einem schmutzigen Gang kommen die Helden in eine riesige Halle. Auf Schienen wurden Güterwagen volelr Kohle hier angeliefert. Auf Qualität geprüft, gemahlen, weiter transportiert. Vieles davon ist hier noch zu sehen. Massiv verrostet. Der Kohlestaub hängt in der Luft (explossiv). Auf dem Boden sind schwarze Pfützen.
+
+Es ist wenigstens klar, wohin die Norms gegangen sind. Sie haben Akkus, Lichter und Pyro Technik hinterlassen und die Spur läuft diagonal durch das Areal. Aber in dem Gelände ist die Technik massiv fahrlässig. Könnte jederzeit in die Luft gehen.
+
+Nächster Raum ist der, in den das Förderband führt.
 
 Laufstege
 ---------
@@ -217,6 +233,8 @@ Waffenmaterial
 * Scharfe Blätter der Belüftung (Schwerter)
 + Rohrestücke (Speere, Rohrbombe, Kartoffelkanone)
 * Psychoaktive Pilze
+
+Das Förderband führt zur Brennkammer (Nicht zugänglich). Nebenan ist der Generatoren Raum. Dort ist das Nest. Hier kann man schon Rohre sehen, die dahin führen.
 
 Nest
 ----

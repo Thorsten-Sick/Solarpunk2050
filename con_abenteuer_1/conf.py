@@ -138,7 +138,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'Solarpunk2050_Con_Abenteuer_1.tex', u'Solarpunk 2050 Con Abenteuer 1',
-     u'Thorsten Sick', 'manual'),
+     u'Thorsten Sick, @thorsi@chaos.social, https://solarpunk2050.de', 'manual'),
 ]
 
 

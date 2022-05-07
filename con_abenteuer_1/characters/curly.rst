@@ -18,7 +18,7 @@ Beziehung: Sucht immer ein Vorbild in der Gruppe
 
 Aspekt 1: Ein cooler Spruch zur richtigen Zeit wirkt unterstützend
 
-Aspekt 2:
+Aspekt 2: Mal schauen, ob ich was lustiges damit anfangen kann...
 
 Fertigkeiten
 ^^^^^^^^^^^^
