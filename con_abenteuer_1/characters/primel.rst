@@ -53,7 +53,7 @@ Fertigkeiten
 Stunts
 ^^^^^^
 
-3 Stunts
+Weil ich erfahrene Öko Terroristy bin  erhalte ich +2, wenn ich Bildung ( Biologie) verwende um psychoaktive Substanzen einzusetzen um Stimmungen zu manipulieren.
 
 Zustände
 ^^^^^^^^

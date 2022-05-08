@@ -15,7 +15,7 @@ Beziehung: Will Technik Wissen teilen und drückt anderen gerne den Schraubenzie
 
 Aspekt 1: Produzieren ist besser als konsumieren
 
-Aspekt 2:
+Aspekt 2: Wenn es klein ist schütteln, wenn es groß ist treten
 
 Fertigkeiten
 ^^^^^^^^^^^^
@@ -46,7 +46,7 @@ Fertigkeiten
 Stunts
 ^^^^^^
 
-3 Stunts
+Weil ich McGyver Ausstattung und Gene habe erhalte ich  +2, wenn ich Handwerk verwende um etwas hastig zusammen zu schrauben. Direkt nach dem erfolgreichen Einsatz wird der Impro Hack aber wahrscheinlich spektakulär versagen
 
 Zustände
 ^^^^^^^^

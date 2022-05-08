@@ -29,7 +29,7 @@ Fertigkeiten
    * Diebeskunst
    * Empathie: 3
    * Fahren: 1
-   * Handwerk: 3
+   * Handwerk (SFX): 3
    * Heimlichkeit
    * Kontakte: 2
    * Kraft: 1
@@ -46,7 +46,7 @@ Fertigkeiten
 Stunts
 ^^^^^^
 
-3 Stunts
+Weil ich Disco Künstlery bin erhalte ich +2, wenn ich Handwerk (SFX) verwende um die Aufmerksamkeit oder Stimmung von Menschen oder Kreaturen zu lenken oder zu manipulieren. Dazu brauche ich aber dann die Anlage.
 
 Zustände
 ^^^^^^^^

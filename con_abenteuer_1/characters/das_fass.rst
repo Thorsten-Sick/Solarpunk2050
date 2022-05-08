@@ -47,7 +47,7 @@ Fertigkeiten
 Stunts
 ^^^^^^
 
-3 Stunts
+Weil ich hochgradig empathisch bin erhalte ich +2, wenn ich Empathie verwende um einem Menschen zu helfen. Seine Probleme lassen mich dann leider aber einige Zeit nicht los.
 
 Zustände
 ^^^^^^^^

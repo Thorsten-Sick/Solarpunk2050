@@ -49,7 +49,7 @@ Fertigkeiten
 Stunts
 ^^^^^^
 
-3 Stunts
+Weil ich einen Furry Balanceschwanz habe erhalte ich +2, wenn ich Akrobatik verwende um ein Hindernis zu überwinden während mein Balanceschwanz aktiv ist (noch Strom hat)
 
 Zustände
 ^^^^^^^^

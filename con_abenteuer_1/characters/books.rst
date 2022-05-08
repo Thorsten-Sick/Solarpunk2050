@@ -20,7 +20,7 @@ Beziehung: Schreibt permanent am nächsten Blog uns lässt andere gerne den Entw
 
 Aspekt 1: Umso mehr ich weiss, umso besser läuft es
 
-Aspekt 2:
+Aspekt 2: Die Wahrheit muss geteilt werden
 
 Fertigkeiten
 ^^^^^^^^^^^^
@@ -51,7 +51,7 @@ Fertigkeiten
 Stunts
 ^^^^^^
 
-3 Stunts
+Weil ich einen Wissen in meinen EBook sammle habe erhalte ich +2, wenn ich Bildung verwende um komplexe Zusammenhänge zu verstehen
 
 Zustände
 ^^^^^^^^
