@@ -131,6 +131,18 @@ Sie pöbeln gegen die Solarpunks und drohen ihnen bloss keine "Dieseltanks, Gene
 
 Nachdem das fertig ist, aktivieren sich die Bergungs Tags der Solarpunks und sie dürfen beginnen, durch den neu gefunden Zugang in die Weltzerstörungsmaschine hinabzusteigen
 
+.. admonition:: NSC: Caligula
+
+    Der Anführer der Verlorenen ist ein vernarbter, alter Kämpfer.
+
+    Konzept: Kämpfer mit Narben innen und außen
+
+    * Kämpfen: 4
+    * Stärke: 3
+    * Schiessen: 3
+    * Wahrnehmung: 2
+
+
 Kampfplatz
 ----------
 
@@ -144,7 +156,7 @@ Die Charaktere dringen durch eine schief hängende Luke in einen Gang ein. Die W
 
 Bald findet man einen simulierten Unfall. Ein Norm Schauspieler liegt unter einem Schaumstoff H-Träger. Ein versteckter Kameramann filmt ih, wie er schreit. Eigentlich sollte jederzeit der Held der Reality-Soap auftauchen. Stattdessen kommen echte Solarpunks zur Hilfe. Beide Profis machen weiter und nehmen die Rettungsaktion auf.
 
-Nach dem das Missverständnis aufgeklärt ist und alle ungeduldig auf den Helden Schauspieler warten hört man etwas den Gang runter Schreie. Schnell nachschauen: Der Held wird gerade von einem riesigen Hamster in ein Rohr gezogen. Diese Rohre scheinen das ganze Weltzerstörungsmaschine zu durchziehen.
+Nach dem das Missverständnis aufgeklärt ist und alle ungeduldig auf den Helden Schauspieler warten hört man etwas den Gang runter Schreie. Schnell nachschauen: Der erwartete Held, Schauspieler in der Rolle des "Theophil Tierlieb" wird gerade von einem riesigen Hamster in ein Rohr gezogen. Diese Rohre scheinen das ganze Weltzerstörungsmaschine zu durchziehen.
 
 Leider ist das Rohr kaum von einem Menschen zu durchkrabbeln (bewußtlos von einem Monster durchgezogen zu werden scheint weniger Platz zu brauchen). Irgendwann bricht auch das Rohr durch die Beanspruchung. Drohnen würden gehen. Allgemein hat man ein Problem, dem Monster und dem Opfer schnell zu folgen und die Rohre enden in Wänden. Man braucht einen Lageplan.
 
@@ -153,6 +165,40 @@ Die Charaktere sollten feststellen, dass sie keine Waffen haben. Aber egal. Als 
 Mit sozialen Fertigkeiten könnten sie die Waffen sicher auch von den Verlorenen leihen ! Aber nicht zu viel, denn die wollen in ein paar Stunden nachkommen und dann nicht unbewaffnet sein.
 
 Am Ende des Gangs finden die Helden eine große Halle, mit Marmor ausgekleidet. Das war das Museum der Weltzerstörungsmaschine.
+
+.. admonition:: NSC: Kewin
+
+    Kewin ist der Kamera Mann der Produktion. Redet gerne und will immer die besten Szenen im Kasten. Wenn nicht aufgehalten, wird er die Spieler begleiten.
+
+    "Ich weiß, dass ich Kamera Mann werden will, seit mich die KI mit 10 für den Job empfohlen hat."
+
+    Konzept: Kameramann, der alles für eine gute Szene gibt
+
+    Aspekt: Redet gerne
+
+    * Wahrnehmung: 4
+    * Handwerk (Film): 3
+    * Charisma: 3
+    * Heimlichkeit: 2
+
+
+.. admonition:: NSC: Delta Awesome
+
+    Delta Awesome ist der Rollen-Name des Schauspielers unter dem simulierten Schutt.
+    Seine Rolle ist die eines fähigen Solarpunk Experten. Dieser wird er aber keinesfalls gerecht. Da er aber auf Method Acting besteht, und in Rolle bleiben muß (sonst braucht es wieder 2h bis er rein kommt) wird es erst mal anstrengend. Bei Buffet lässt er sich aber gut abstellen.
+
+    Ausgestattet ist Delta Awesome mit nutzlosen Werkzeug Requisiten. Die aber im Film immer genau die sind, die er braucht. Hilft halt in der Realität nichts.
+
+    Konzept: Delta Awesome, Solarpunk und Held
+
+    Aspekt: Immer in der Rolle bleiben
+
+    * Handwerk (Schauspiel): 4
+    * Kontakte: 3
+    * Charisma: 3
+    * Täuschung: 2
+
+
 
 Ausstellung
 -----------
@@ -163,7 +209,7 @@ Ziele der Szene:
 * Soziales mit den Norms
 * Herausfinden, wo die Rohre hin gehen (In Modellen und Plänen)
 
-Der Kameramann und das Opfer führen die Helden schnell zur "Zentrale". Einem ehemaligen Museum (auch Drehort). Dort ist Catering aufgebaut (außerhalb der Kameras).
+Der Kameramann und Delta Awesome führen die Helden schnell zur "Zentrale". Einem ehemaligen Museum (auch Drehort). Dort ist Catering aufgebaut (außerhalb der Kameras).
 Plan der Norms ist es, dort nach den Dreharbeiten 500 Fans der Serie unterzubringen. Mit 10 Plätzen für VIPs. Darum wird das gerade hergerichtet.
 
 Hier ist ein altes Museum, in dem damals Schulklassen an sehr schönen Modellen etwas über Kohlekraft lernen konnten. Alles ist nett gemacht. Gut verkauft. Mit Maskottchen.
@@ -171,13 +217,23 @@ Auch interessant ist die Mineralien Sammlung, mit einer riesen Geode, die könnt
 
 Hier ist die Norm-Zentrale. Sie bauen für eine VIP Party gerade auf. Einige Zuschauer haben einen Backstage Pass gewonnen und werden morgen eintreffen (also nach den Helden).
 
-Beim catering ist ein Food-Designer, der aus Proteinpaste echt aussehende Mehlwürmer für die Solarpunk Essens-Aufnahmen bastelt. Damit die VIPs sich wie Solarpunks fühlen können aber keine Mehlwürmer essen müssen. Die Paste ist aus Mehlwürmern. Ist denen nur nicht klar - steht aber auf der Verpackung.
+Beim catering ist ein Food-Designerin (Scherie), die aus Proteinpaste echt aussehende Mehlwürmer für die Solarpunk Essens-Aufnahmen bastelt. Damit die VIPs sich wie Solarpunks fühlen können aber keine Mehlwürmer essen müssen. Die Paste ist aus Mehlwürmern. Ist denen nur nicht klar - steht aber auf der Verpackung.
 
-Nach Aussage des Food Designers sind die anderen tiefer in die Weltzerstörungsmaschine, um es für Dreharbeiten herzurichten. Schon seit einiger Zeit nix mehr von denen gehört. (Info: Die wurden gehamstert). Der Zugang ist eine Stahltüre. Abgeschlossen.
+Nach Aussage des Food Designerin sind die anderen tiefer in die Weltzerstörungsmaschine, um es für Dreharbeiten herzurichten. Schon seit einiger Zeit nix mehr von denen gehört. (Info: Die wurden gehamstert). Der Zugang ist eine Stahltüre. Abgeschlossen.
 
 Jemand mit historischem Wissen (Books) kann herausfinden, dass das schwerste Teil hier wohl der Generator des Kohlekraftwerks mit Schwungrad ist. Und dass es tiefer rein gehen muss.
 
-Klaut man den Schlüssel des Food Designers (oder überredet ihn), knackt das Schloss oder schweisst die Türe auf, kann man tiefer in die Anlage eindringen.
+Klaut man den Schlüssel des Food Designerin (oder überredet sie), knackt das Schloss oder schweisst die Türe auf, kann man tiefer in die Anlage eindringen.
+
+.. admonition:: NSC: Scherie
+
+    Macht Catering und simuliert eine Solarpunk Welt für Zuschauer und die Gäste. Also auch Requisite und Maskenbildner
+
+    Konzept: Ich baue die Simulation als Maskenbildner
+
+    * Handwerk (Maske und Requisite): 4
+    * Charisma: 3
+    * Täuschung: 2
 
 Kohlebunker
 -----------
@@ -199,7 +255,7 @@ Waffenmaterial:
 
 * Kohlestaub (Kartoffelkanone, Rohrbomben)
 
-Man einem schmutzigen Gang kommen die Helden in eine riesige Halle. Auf Schienen wurden Güterwagen volelr Kohle hier angeliefert. Auf Qualität geprüft, gemahlen, weiter transportiert. Vieles davon ist hier noch zu sehen. Massiv verrostet. Der Kohlestaub hängt in der Luft (explossiv). Auf dem Boden sind schwarze Pfützen.
+Man einem schmutzigen Gang kommen die Helden in eine riesige Halle. Auf Schienen wurden Güterwagen volelr Kohle hier angeliefert. Auf Qualität geprüft, gemahlen, weiter transportiert. Vieles davon ist hier noch zu sehen. Massiv verrostet. Der Kohlestaub hängt in der Luft (explosiv). Auf dem Boden sind schwarze Pfützen.
 
 Es ist wenigstens klar, wohin die Norms gegangen sind. Sie haben Akkus, Lichter und Pyro Technik hinterlassen und die Spur läuft diagonal durch das Areal. Aber in dem Gelände ist die Technik massiv fahrlässig. Könnte jederzeit in die Luft gehen.
 
@@ -218,7 +274,7 @@ Man muss über Laufstege und durch große Belüftungs-Lüfter klettern
 
 Die Belüftung läuft und ist spooky von hinten beleuchtet. Die Norms haben da einen Akku angeschlossen....Sieht im Film sicher prima aus.
 
-Unten am Boden wachsen grünlich leuchtende Staubbovisten (mutiert). Jemand mit Öko Kenntnissen wüsste, dass die Sporen psychoaktiv sind. Bei den Pilzen liegt lallend der Regisseur.
+Unten am Boden wachsen grünlich leuchtende Staubbovisten (mutiert). Jemand mit Öko Kenntnissen wüsste, dass die Sporen psychoaktiv sind. Bei den Pilzen liegt lallend der Regisseur .
 
 Unten ist eine Schminkgelegenheit aufgebaut. Der Dreh hier ist bereits geplant.
 
@@ -235,6 +291,16 @@ Waffenmaterial
 * Psychoaktive Pilze
 
 Das Förderband führt zur Brennkammer (Nicht zugänglich). Nebenan ist der Generatoren Raum. Dort ist das Nest. Hier kann man schon Rohre sehen, die dahin führen.
+
+.. admonition:: NSC: Tscharli, Regiseur
+
+    Regisseur in Not
+
+    Konzept: Regisseur eine Endlosserie
+
+    * Handwerk (Regie): 4
+    * Kontakte: 3
+    * Ressourcen: 3
 
 Nest
 ----
@@ -258,26 +324,39 @@ Lösungsideen:
 * Oder töten (Kampf)
 * Oder die Verlorenen holen (Soziale Interaktion)
 
-Hamster
-^^^^^^^
+.. admonition:: NSC: Hamster
 
-Konzept: Flauschige Killermaschine auf CCS Mission
+    Konzept: Flauschige Killermaschine auf CCS Mission
 
-Dilemma: Durch die Gene verdammt
+    Dilemma: Durch die Gene verdammt
 
-Aspekt: Immer hungrig
+    Aspekt: Immer hungrig
 
-Der Hamster ist darauf programmiert, Kohlenstoff Brocken nach unten unter die Erde - in sein Nest -  zu ziehen. Das tut er. Auch wenn sich die Brocken wehren.
+    Der Hamster ist darauf programmiert, Kohlenstoff Brocken nach unten unter die Erde - in sein Nest -  zu ziehen. Das tut er. Auch wenn sich die Brocken wehren.
 
-* Athletik: 3
-* Charisma: 2
-* Kraft: 4
-* Kampf: 3
-* Wahrnehmung: 2
+    * Athletik: 3
+    * Charisma: 2
+    * Kraft: 4
+    * Kampf: 3
+    * Wahrnehmung: 2
 
-Stress, Körperlich: 6
+    Stress, Körperlich: 6
 
-Stress, Geistig: 3
+    Stress, Geistig: 3
+
+
+.. admonition:: NSC: Theophil Tierlieb
+
+    Schauspieler in Rolle.
+
+    Konzept: Schauspieler in der Rolle des "Theophil Tierlieb"
+
+    Aspekt: Freund aller Tiere (also die Rolle).
+
+    * Handwerk (Schauspiel): 4
+    * Kontakte: 3
+    * Charisma: 3
+    * Täuschung: 2
 
 Sieges Party
 ------------
