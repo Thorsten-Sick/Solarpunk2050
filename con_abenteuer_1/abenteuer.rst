@@ -97,17 +97,16 @@ Die zweite Ankündigung kommt in einer Stunde.
 "
 
 
-* Jonglier Workshop. Mögliche Spieleraktionen:
+* Jonglier Workshop:
     * Teilnahme
-* Drohnen Rennen der Kinder im Umkreis durch die Bäume. Kaputte Drohnen reparieren die Piloten selbst. Mögliche Spieleraktionen:
+* Drohnen Rennen der Kinder im Umkreis durch die Bäume. Kaputte Drohnen reparieren die Piloten selbst:
     * Teilnahme
     * Beim reparieren helfen
     * Drohnen aus den Bäumen bergen
-* E-Motor wickel Wette: Jeder trinkt einen Schnaps. Danach wird der Draht um den E-Motor Kern gewickelt. Es geht auf Zeit und um Qualität. Der Verlierer trinkt wieder einen Schnaps. Mögliche Spieleraktionen:
-    * Teilnahme
+* E-Motor wickel Wette: Jeder trinkt einen Schnaps. Danach wird der Draht um den E-Motor Kern gewickelt:
+    * Teilnahme (der Verlierer trinkt einen Schnaps)
     * Verarzten bei Unfall oder zu viel Alkohol
-* Diskussion:
-* Party orga: Im Wechsel übernimmt jeder interessierte Musik und Beleuchtung.  Mögliche Spieleraktionen:
+* Party orga: Im Wechsel übernimmt jeder interessierte Musik und Beleuchtung:
     * Musik oder Beleuchtung wuppen
 
 
