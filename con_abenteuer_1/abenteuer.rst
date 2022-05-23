@@ -18,9 +18,13 @@ Es ist eine große Solarpunk Party im freien. Die Gemeinde hat sich versammelt. 
 
 Durch Glück wurde in der Nähe ein in einer der vielen Katastrophen verschüttete "Weltzerstörungsmaschine" (ein Kohlekraftwerk) halb freigespült. Man kann dort rein. Und die Solarpunks haben in einem Wettstreit Erstbergungsrecht erhalten.
 
-Die Gruppe erhält 4 (oder Anzahl Spieler-1) von der EU ausgegebene Eigentumsmarker, die sie auf zu bergende Objekte kleben können. Diese sind einmal angebracht nicht mehr ohne schweres Gerät entfernbar. Sollen sie entscheiden, was ihnen am meisten wert ist.
+Die Gruppe erhält 4 (oder Anzahl Spieler-1) von der EU ausgegebene Bergungstags, die sie auf zu bergende Objekte kleben können. Diese sind einmal angebracht nicht mehr ohne schweres Gerät entfernbar. Sollen sie entscheiden, was ihnen am meisten wert ist.
 
 Ansonsten kann man so viel mitnehmen, wie man tragen kann.
+
+Bergungstags:
+
+Aufkleber mit kleiner Energiequelle und Computer und Funksender. Sie werden unlösbar mit einem Objekt verbunden und identifizieren es als Bergungsgut. Nach dem Abenteuer werden Spezialisten (NSCs) mit schwerem Gerät kommen, die Objekte zerschneiden, abtransportieren und recyclen.
 
 Ablauf
 ------
@@ -120,15 +124,21 @@ Danach Aufbruch, zuerst mit dem Zug (E-Bikes und Quads sind im Güterwagon). Dan
 Verlorene
 ---------
 
-Ziel der Szene: Man lernt die Fraktion der Verlorenen kennen. Aber besonders: Man hat die erste Begegnung mit einem mutierten Riesen Hamster. Die Verlorenen sind in der Geschichte nicht mehr wichtig. Aber der Hamster
+Ziel der Szene:
+
+* Man lernt die Fraktion der Verlorenen kennen
+* Man hat die erste Begegnung mit einem mutierten Riesen Hamster
+* Man kann Waffen erwerben (stehlen, kaufen)
+* Man könnte die Verlorenen um Unterstützung bitten
 
 Man befindet sich in einem Wald. Die Verlorenen campen vor dem Eingang in der Maschine. Schwere Diesel Autos stehen mit laufendem Motor. In Ölwannen brennt Öl. Darüber: Ein riesiger Hamster auf einem Drehspieß. Genug, damit alle 10 Verlorene satt werden. Jemand macht gerade Kartoffelsalat und richtet die Picknick Bänke. Musik dröhnt. Die Lautsprecher sind falsch eingestellt und es ist nur ein einziger Radau. Das stört hier aber niemanden.
 Im Hintergrund ballert jemand mit Schrotgewehren auf Bier Dosen.
-Die Verlorenen haben selbst in der Auktion 10 Bergungsmarken bekommen. Sind aber als zweite dran. Die Marken sind noch nicht aktiv. Werden aber in 12 Stunden aktiviert und dann können sie mit dem Bergen beginnen.
+Die Verlorenen haben selbst in der Auktion 10 Bergungstags bekommen. Das sind mehr als die Solarpunks haben. Dafür sind sie als zweite dran. Die Tags sind noch nicht aktiv. Werden aber in 12 Stunden aktiviert und dann können sie mit dem Bergen beginnen.
+Bis die Tags aktiv sind, wollen die Verlorenen hier im Wald Party machen. Die Verlorenen sind also bei halbwegs zügigem Vorgehen der Spieler keine Konkurrenz.
 
-Sie pöbeln gegen die Solarpunks und drohen ihnen bloss keine "Dieseltanks, Generatoren oder so" mitzunehmen, die gehören den Verlorenen.
+Verhalten: Sie pöbeln gegen die Solarpunks und drohen ihnen bloss keine "Dieseltanks, Generatoren oder so" mitzunehmen, die gehören den Verlorenen.
 
-Nachdem das fertig ist, aktivieren sich die Bergungs Tags der Solarpunks und sie dürfen beginnen, durch den neu gefunden Zugang in die Weltzerstörungsmaschine hinabzusteigen
+Nachdem das fertig ist, aktivieren sich die Bergungstags der Solarpunks und sie dürfen beginnen, durch den neu gefunden Zugang in die Weltzerstörungsmaschine hinabzusteigen
 
 .. admonition:: NSC: Caligula
 
@@ -155,7 +165,7 @@ Die Charaktere dringen durch eine schief hängende Luke in einen Gang ein. Die W
 
 Bald findet man einen simulierten Unfall. Ein Norm Schauspieler liegt unter einem Schaumstoff H-Träger. Ein versteckter Kameramann filmt ih, wie er schreit. Eigentlich sollte jederzeit der Held der Reality-Soap auftauchen. Stattdessen kommen echte Solarpunks zur Hilfe. Beide Profis machen weiter und nehmen die Rettungsaktion auf.
 
-Nach dem das Missverständnis aufgeklärt ist und alle ungeduldig auf den Helden Schauspieler warten hört man etwas den Gang runter Schreie. Schnell nachschauen: Der erwartete Held, Schauspieler in der Rolle des "Theophil Tierlieb" wird gerade von einem riesigen Hamster in ein Rohr gezogen. Diese Rohre scheinen das ganze Weltzerstörungsmaschine zu durchziehen.
+Nach dem das Missverständnis aufgeklärt ist und alle ungeduldig auf den Helden Schauspieler * Theophil Tierlieb* warten hört man etwas den Gang runter Schreie. Schnell nachschauen: Der erwartete Held, Schauspieler in der Rolle des "Theophil Tierlieb" wird gerade von einem riesigen Hamster in ein Rohr gezogen. Diese Rohre scheinen das ganze Weltzerstörungsmaschine zu durchziehen.
 
 Leider ist das Rohr kaum von einem Menschen zu durchkrabbeln (bewußtlos von einem Monster durchgezogen zu werden scheint weniger Platz zu brauchen). Irgendwann bricht auch das Rohr durch die Beanspruchung. Drohnen würden gehen. Allgemein hat man ein Problem, dem Monster und dem Opfer schnell zu folgen und die Rohre enden in Wänden. Man braucht einen Lageplan.
 
@@ -207,6 +217,7 @@ Ziele der Szene:
 * Erste klare Hinweise auf Kohlekraft (wenn man die Ausstellung durchforscht)
 * Soziales mit den Norms
 * Herausfinden, wo die Rohre hin gehen (In Modellen und Plänen)
+* Man kann viele Kilogramm Proteinpaste hier finden. Die kann den Hamster anlocken oder in Fressnarkose versetzen. Besser wirkt es noch mit Betäubungsmittelzusatz. Den gibt es hier aber nicht.
 
 Der Kameramann und Delta Awesome führen die Helden schnell zur "Zentrale". Einem ehemaligen Museum (auch Drehort). Dort ist Catering aufgebaut (außerhalb der Kameras).
 Plan der Norms ist es, dort nach den Dreharbeiten 500 Fans der Serie unterzubringen. Mit 10 Plätzen für VIPs. Darum wird das gerade hergerichtet.
@@ -318,10 +329,11 @@ Als besonderer Schatz ist hier der große Generator mit dem schweren, wuchtigen 
 
 Lösungsideen:
 
-* Man könnte den Hamster übrigens mit einem Kübel Protein Brei so überfressen lassen, dass er wegpennt (Bio Kenntnisse)
+* Man könnte den Hamster übrigens mit einem Kübel Protein Brei so überfressen lassen, dass er weg pennt (Bio Kenntnisse)
 * Oder mit den Psychoaktiven Pilzen benebeln (Bio Kenntnisse, Waffentechnik)
 * Oder töten (Kampf)
 * Oder die Verlorenen holen (Soziale Interaktion)
+* Sich anschleichen und die Verletzten retten, die Bergungstags heimlich anbringen
 
 .. admonition:: NSC: Hamster
 
@@ -329,9 +341,9 @@ Lösungsideen:
 
     Dilemma: Durch die Gene verdammt
 
-    Aspekt: Immer hungrig
+    Aspekt: Immer hungrig auf Proteine
 
-    Der Hamster ist darauf programmiert, Kohlenstoff Brocken nach unten unter die Erde - in sein Nest -  zu ziehen. Das tut er. Auch wenn sich die Brocken wehren.
+    Der Hamster ist darauf programmiert, Protein Brocken nach unten unter die Erde - in sein Nest -  zu ziehen. Das tut er. Auch wenn sich die Brocken wehren. Kohle selbst interessiert ihn nicht.
 
     * Athletik: 3
     * Charisma: 2
@@ -352,6 +364,8 @@ Lösungsideen:
 
     Aspekt: Freund aller Tiere (also die Rolle).
 
+    Aspekt: Gerade schwerverletztes Hamsterfutter
+
     * Handwerk (Schauspiel): 4
     * Kontakte: 3
     * Charisma: 3
@@ -360,8 +374,18 @@ Lösungsideen:
 Sieges Party
 ------------
 
-Aufgabe: Dient dem Abschluss und um nochmal richtig zu feiern. Das Abenteuer Revue passieren zu lassen und nochmal Solarpunk feeling zu schnuppern.
+Aufgabe:
+
+* Dient dem Abschluss und um nochmal richtig zu feiern. Das Abenteuer Revue passieren zu lassen und nochmal Solarpunk feeling zu schnuppern.
 
 Einige Tage später. Die Ressourcen punkte wurden gegen Rohstoffe eingetauscht.
 
 Die Party findet statt, als die bestellten Rohstoffe kommen und es wird zu Musik und Essen/Trinken gemeinsam das neue Bier-Zentrum gebaut.
+
+
+Glossar
+=======
+
+* Solarpunks: progressive technophile Öko Hippies. "Zwanghafte Weltverbesserer"
+* Verlorene: Mürrische ewiggestrige, die an der neuen Welt verzweifeln. "Militaristische revisionisten ins Jahr 1990"
+* Norms: Die Mehrheit. Sie leben in einer strukturierten KI gesteuerten Gesellschaft die sich um ein ökologisches Leben mit hoher Lebensqualität kümmert. Sind sehr spezialisiert und außerhalb ihres Fachgebietes eher hilflos. "Ameisenstaat"

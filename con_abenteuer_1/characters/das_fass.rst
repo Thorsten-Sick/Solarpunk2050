@@ -67,7 +67,7 @@ Erholungsrate: 3
 Ausstattung
 ^^^^^^^^^^^
 
-* Lichtquelle
+* Lichtquelle (OLED Folie: Akkubetrieb, beliebig zuschneidbar und aufklebbar. Farbe steuerbar)
 * Nahrung (Mama Salsas berühmte Mehlwurmbrötchen in der Bento Box)
 * Erste Hilfe Ausstattung
 * Mobile Computer, Kopfhörer, Kommunikation
