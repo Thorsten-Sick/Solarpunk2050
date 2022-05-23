@@ -4,7 +4,7 @@ Curly
 
 *Akrobaty*
 
-Fanboy der Norms (insbesondere Action movies).
+Fanboy der Norms (insbesondere ihrer Actionfilme).
 
 
 Aspekte
@@ -49,7 +49,7 @@ Fertigkeiten
 Stunts
 ^^^^^^
 
-Weil ich einen Furry Balanceschwanz habe erhalte ich +2, wenn ich Akrobatik verwende um ein Hindernis zu überwinden während mein Balanceschwanz aktiv ist (noch Strom hat)
+Weil ich einen Furry Balanceschwanz habe erhalte ich +2, wenn ich Akrobatik verwende, um ein Hindernis zu überwinden, während mein Balanceschwanz aktiv ist (noch Strom hat).
 
 Zustände
 ^^^^^^^^
@@ -72,7 +72,7 @@ Ausstattung
 * Lichtquelle (OLED Folie: Akkubetrieb, beliebig zuschneidbar und aufklebbar. Farbe steuerbar)
 * Nahrung (Mama Salsas berühmte Mehlwurmbrötchen in der Bento Box)
 * Erste Hilfe Ausstattung
-* Mobile Computer, Kopfhörer, Kommunikation über Funk (Mesh network)
+* Mobile Computer, Kopfhörer, Kommunikation über Funk (Mesh-Network)
 * Exoskelett light: Ein umgeschnalltes Leichtskelett mit Balance Schwanz erlaubt extra Akrobatik
 * Kletterseil
 
@@ -80,4 +80,4 @@ Ausstattung
 Aussehen
 ^^^^^^^^
 
-Glatt rasierter Kopf, Schuppenmuster tätowiert. Gerne im selbstgebauten Balance Anzug (mit Balance-ausgleichenden Schanz) unterwegs. Kein Ding unter Solarpunks. Kann aber bei anderen Gruppen damit anecken.
+Glatt rasierter Kopf, Schuppenmuster tätowiert. Gerne im selbstgebauten Balance Anzug (mit Balance-ausgleichenden Schwanz) unterwegs. Kein Ding unter Solarpunks. Kann aber bei anderen Gruppen damit anecken.

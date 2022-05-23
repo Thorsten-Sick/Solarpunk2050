@@ -7,11 +7,11 @@ Disco
 Aspekte
 ^^^^^^^
 
-Konzept: Kämpfer für die Bunten Lichter und der ewigen Party
+Konzept: Kämpfer für die bunten Lichter und der ewigen Party
 
 Dilemma: Unbehagen bei ernsthaften Situationen
 
-Beziehung: Will dass alle glücklich sind und sich vertragen
+Beziehung: Will, dass alle glücklich sind und sich vertragen
 
 Aspekt 1: Bekämpfe die böse Dunkelheit mit bunten Lichtern
 
@@ -46,7 +46,7 @@ Fertigkeiten
 Stunts
 ^^^^^^
 
-Weil ich Disco Künstlery bin erhalte ich +2, wenn ich Handwerk (SFX) verwende um die Aufmerksamkeit oder Stimmung von Menschen oder Kreaturen zu lenken oder zu manipulieren. Dazu brauche ich aber dann die Anlage.
+Weil ich Disco Künstlery bin, erhalte ich +2, wenn ich Handwerk (SFX) verwende um die Aufmerksamkeit oder Stimmung von Menschen oder Kreaturen zu lenken oder zu manipulieren. Dazu brauche ich aber dann die Anlage.
 
 Zustände
 ^^^^^^^^
@@ -69,9 +69,9 @@ Ausstattung
 * Lichtquelle (OLED Folie: Akkubetrieb, beliebig zuschneidbar und aufklebbar. Farbe steuerbar)
 * Nahrung (Mama Salsas berühmte Mehlwurmbrötchen in der Bento Box)
 * Erste Hilfe Ausstattung
-* Mobile Computer, Kopfhörer, Kommunikation über Funk (Mesh network)
-* Ein dutzend mini Beleuchtungsdrohnen für Festivals
-* Disco Sound equipment (Lautsprecher, Aufzeichnungen, Mikros, alles per Funk verbunden)
+* Mobile Computer, Kopfhörer, Kommunikation über Funk (Mesh-Network)
+* Ein Dutzend Mini-Beleuchtungsdrohnen für Festivals
+* Disco Soundequipment (Lautsprecher, Aufzeichnungen, Mikros, alles per Funk verbunden)
 
 Aussehen
 ^^^^^^^^

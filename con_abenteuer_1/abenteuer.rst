@@ -14,7 +14,7 @@ Zusammenfassung
 Einstieg
 --------
 
-Es ist eine große Solarpunk Party im freien. Die Gemeinde hat sich versammelt. Es läuft selbst gemachte Musik und das übliche LED und Laser Spektakel. Für jeden gibt es ein Schnaps Gläschen mit einem neuen Bier zur Verkostung. Selbst generierte Hefe und ein neues Brau-Verfahren. Sehr lecker. Und leuchtet dank Bioluminescens.  Nur leider ist die Menge limitiert: die aktuellen Labors und Brauerei Geräte schaffen nicht mehr. Das soll ausgebaut werden. Und dafür benötigt man Rohstoff Punkte.
+Es ist eine große Solarpunk Party im freien. Die Gemeinde hat sich versammelt. Es läuft selbst gemachte Musik und das übliche LED und Laser Spektakel. Für jeden gibt es ein Schnaps Gläschen mit einem neuen Bier zur Verkostung. Selbst generierte Hefe und ein neues Brau-Verfahren. Sehr lecker. Und leuchtet dank Biolumineszenz.  Nur leider ist die Menge limitiert: die aktuellen Labors und Brauerei Geräte schaffen nicht mehr. Das soll ausgebaut werden. Und dafür benötigt man Rohstoff Punkte.
 
 Durch Glück wurde in der Nähe ein in einer der vielen Katastrophen verschüttete "Weltzerstörungsmaschine" (ein Kohlekraftwerk) halb freigespült. Man kann dort rein. Und die Solarpunks haben in einem Wettstreit Erstbergungsrecht erhalten.
 
@@ -88,13 +88,13 @@ Evtl. finden sie Spieler alternative Wege durch die Weltzerstörungsmaschine. Ab
 Party 1
 -------
 
-Ziel der Szene: Charaktere lernen sich kennen. Spieler testen Regeln. Und besonders: Solarpunk feeling schnuppern
+Ziel der Szene: Charaktere lernen sich kennen. Spieler testen Regeln. Und besonders: Solarpunk-Feeling schnuppern
 
 Bei den Solarpunks ist abendliche Party draußen auf dem Community Festplatz. Diesmal wird etwas großes angekündigt. Um sich die Zeit zu vertreiben (und die Regeln kennen zu lernen) können sie bei einer der zahlreichen Aktionen teilnehmen.
 Alle ist mit bunten Lichtern geschmückt. Tücher und Wimpel hängen überall. Leute stehen in Grüppchen herum oder tanzen. In der Mitte steht eine große Säule, deren unterer Bereich aktuell Grün beleuchtet ist.
 
 Durchsage der Ältesten:
-"Heute haben wir einige Neuigkeiten. Die Erste: Dorothea hat Nachwuchs ! (Einblendung eines Video Screens mit Live Schalte zu einem Nest mit Küken im Wald). <Frenetischer Jubel>. Bitte Leiser ! Wir haben jetzt in dre Brut Saison die Lautstärke Säule wieder aufgestellt. Sie überwacht die im Wald verteilten Mikrofone. Wie immer: Wenn die Rot wir, bitte die Lautstärke dämpfen. Die Musik-Anlagen machen das automatisch.
+"Heute haben wir einige Neuigkeiten. Die Erste: Dorothea hat Nachwuchs ! (Einblendung eines Video Screens mit Live Schalte zu einem Nest mit Küken im Wald). <Frenetischer Jubel>. Bitte Leiser ! Wir haben jetzt in der Brut Saison die Lautstärke Säule wieder aufgestellt. Sie überwacht die im Wald verteilten Mikrofone. Wie immer: Wenn die Rot wir, bitte die Lautstärke dämpfen. Die Musik-Anlagen machen das automatisch.
 Dieses Jahr hat das 5. Drohnen Geschwader der Kinder geschworen, die Gelege zu schützen, indem sie in einem großen Perimeter darum Katzen, Marder und andere Raubtiere fernhalten. (Beleuchtete Quadrocopter fliegen in Formation über das Fest, schnell schert eine der Drohnen aus der Formation aus, dippt elegant in die Bowle und schließt sich gleich wieder der Formation an) <Kinder jubeln>.
 
 Die zweite Ankündigung kommt in einer Stunde.
@@ -115,11 +115,11 @@ Die zweite Ankündigung kommt in einer Stunde.
 
 
 Zur Ankündigung am Abend erhält jeder einen Schnapsbecher lokal gebrautes Bier.
-Die Älteste: "Das ist unsere eigene Hefe Züchtung. Das Team um 'Das Fass' haben es möglich gemacht (Jubel). Wie ihr seht leuchtet das Bier im dunklen und schmeckt großartig. Aber ohne großes Biolabor mit Brauerei kann man aber nicht mehr herstellen...und dafür fehlen uns die Ressource Punkte. Aber wir haben Bergungsrechte auf eine  Weltzerstörungsmaschine der Alten. Das wurde gerade freigespült. War seit einer Katastrophe verschüttet. Lasst uns schwere Maschinen und seltene Metalle bergen und uns Rohstoffpunkte durch recycling sichern ! Damit bekommen wir dann unser Brauerei-Labor!"
+Die Älteste: "Das ist unsere eigene Hefe Züchtung. Das Team um 'Das Fass' haben es möglich gemacht (Jubel). Wie ihr seht leuchtet das Bier im dunklen und schmeckt großartig. Aber ohne großes Biolabor mit Brauerei kann man aber nicht mehr herstellen...und dafür fehlen uns die Ressource Punkte. Aber wir haben Bergungsrechte auf eine  Weltzerstörungsmaschine der Alten. Das wurde gerade freigespült. War seit einer Katastrophe verschüttet. Lasst uns schwere Maschinen und seltene Metalle bergen und uns Rohstoffpunkte durch Recycling sichern ! Damit bekommen wir dann unser Brauerei-Labor!"
 
 Das Fass darf dann während dem Fest die wichtigsten Fragen der Leute beantworten: "Leuchtet man, wenn man das getrunken hat ?" (Nein), "Leuchtet das Pipi ?" (Ja), "Wie lange leuchtet das Pipi ?" (einige Tage), "Kann man auch leuchtende Limo für Kinder brauen ?" (Ja)
 
-Danach Aufbruch, zuerst mit dem Zug (E-Bikes und Quads sind im Güterwagon). Dann fahrt in ein relativ neues Waldstück, dass auf vor 20 Jahren überschwemmten Land wächst.
+Danach Aufbruch, zuerst mit dem Zug (E-Bikes und Quads sind im Güterwaggon). Dann fahrt in ein relativ neues Waldstück, dass auf vor 20 Jahren überschwemmten Land wächst.
 
 Verlorene
 ---------
@@ -136,7 +136,7 @@ Im Hintergrund ballert jemand mit Schrotgewehren auf Bier Dosen.
 Die Verlorenen haben selbst in der Auktion 10 Bergungstags bekommen. Das sind mehr als die Solarpunks haben. Dafür sind sie als zweite dran. Die Tags sind noch nicht aktiv. Werden aber in 12 Stunden aktiviert und dann können sie mit dem Bergen beginnen.
 Bis die Tags aktiv sind, wollen die Verlorenen hier im Wald Party machen. Die Verlorenen sind also bei halbwegs zügigem Vorgehen der Spieler keine Konkurrenz.
 
-Verhalten: Sie pöbeln gegen die Solarpunks und drohen ihnen bloss keine "Dieseltanks, Generatoren oder so" mitzunehmen, die gehören den Verlorenen.
+Verhalten: Sie pöbeln gegen die Solarpunks und drohen ihnen bloß keine "Dieseltanks, Generatoren oder so" mitzunehmen, die gehören den Verlorenen.
 
 Nachdem das fertig ist, aktivieren sich die Bergungstags der Solarpunks und sie dürfen beginnen, durch den neu gefunden Zugang in die Weltzerstörungsmaschine hinabzusteigen
 
@@ -148,7 +148,7 @@ Nachdem das fertig ist, aktivieren sich die Bergungstags der Solarpunks und sie 
 
     * Kämpfen: 4
     * Stärke: 3
-    * Schiessen: 3
+    * Schießen: 3
     * Wahrnehmung: 2
 
 
@@ -163,11 +163,11 @@ Ziel der Szene:
 
 Die Charaktere dringen durch eine schief hängende Luke in einen Gang ein. Die Wände sind weiß - aber inzwischen modrig. Der Boden ist Linoleum. Weiße Plastikschränke ohne jede Persönlichkeit stehen in den Gängen. Viele Türen (Weiß, Plastik in Holzoptik) zweigen rechts und links ab. An ihnen Schilder mit Namen der Leute, deren Büro das mal war. Hinter den Türen: Schutt und Schlamm.
 
-Bald findet man einen simulierten Unfall. Ein Norm Schauspieler liegt unter einem Schaumstoff H-Träger. Ein versteckter Kameramann filmt ih, wie er schreit. Eigentlich sollte jederzeit der Held der Reality-Soap auftauchen. Stattdessen kommen echte Solarpunks zur Hilfe. Beide Profis machen weiter und nehmen die Rettungsaktion auf.
+Bald findet man einen simulierten Unfall. Ein Norm Schauspieler liegt unter einem Schaumstoff H-Träger. Ein versteckter Kameramann filmt ihn, wie er schreit. Eigentlich sollte jederzeit der Held der Reality-Soap auftauchen. Stattdessen kommen echte Solarpunks zur Hilfe. Beide Profis machen weiter und nehmen die Rettungsaktion auf.
 
 Nach dem das Missverständnis aufgeklärt ist und alle ungeduldig auf den Helden Schauspieler * Theophil Tierlieb* warten hört man etwas den Gang runter Schreie. Schnell nachschauen: Der erwartete Held, Schauspieler in der Rolle des "Theophil Tierlieb" wird gerade von einem riesigen Hamster in ein Rohr gezogen. Diese Rohre scheinen das ganze Weltzerstörungsmaschine zu durchziehen.
 
-Leider ist das Rohr kaum von einem Menschen zu durchkrabbeln (bewußtlos von einem Monster durchgezogen zu werden scheint weniger Platz zu brauchen). Irgendwann bricht auch das Rohr durch die Beanspruchung. Drohnen würden gehen. Allgemein hat man ein Problem, dem Monster und dem Opfer schnell zu folgen und die Rohre enden in Wänden. Man braucht einen Lageplan.
+Leider ist das Rohr kaum von einem Menschen zu durchkrabbeln (bewusstlos von einem Monster durchgezogen zu werden scheint weniger Platz zu brauchen). Irgendwann bricht auch das Rohr durch die Beanspruchung. Drohnen würden gehen. Allgemein hat man ein Problem, dem Monster und dem Opfer schnell zu folgen und die Rohre enden in Wänden. Man braucht einen Lageplan.
 
 Die Charaktere sollten feststellen, dass sie keine Waffen haben. Aber egal. Als Solarpunk improvisiert man unterwegs.
 
@@ -194,7 +194,7 @@ Am Ende des Gangs finden die Helden eine große Halle, mit Marmor ausgekleidet. 
 .. admonition:: NSC: Delta Awesome
 
     Delta Awesome ist der Rollen-Name des Schauspielers unter dem simulierten Schutt.
-    Seine Rolle ist die eines fähigen Solarpunk Experten. Dieser wird er aber keinesfalls gerecht. Da er aber auf Method Acting besteht, und in Rolle bleiben muß (sonst braucht es wieder 2h bis er rein kommt) wird es erst mal anstrengend. Bei Buffet lässt er sich aber gut abstellen.
+    Seine Rolle ist die eines fähigen Solarpunk Experten. Dieser wird er aber keinesfalls gerecht. Da er aber auf Method Acting besteht, und in Rolle bleiben muss (sonst braucht es wieder 2h bis er rein kommt) wird es erst mal anstrengend. Bei Buffet lässt er sich aber gut abstellen.
 
     Ausgestattet ist Delta Awesome mit nutzlosen Werkzeug Requisiten. Die aber im Film immer genau die sind, die er braucht. Hilft halt in der Realität nichts.
 
@@ -227,13 +227,13 @@ Auch interessant ist die Mineralien Sammlung, mit einer riesen Geode, die könnt
 
 Hier ist die Norm-Zentrale. Sie bauen für eine VIP Party gerade auf. Einige Zuschauer haben einen Backstage Pass gewonnen und werden morgen eintreffen (also nach den Helden).
 
-Beim catering ist ein Food-Designerin (Scherie), die aus Proteinpaste echt aussehende Mehlwürmer für die Solarpunk Essens-Aufnahmen bastelt. Damit die VIPs sich wie Solarpunks fühlen können aber keine Mehlwürmer essen müssen. Die Paste ist aus Mehlwürmern. Ist denen nur nicht klar - steht aber auf der Verpackung.
+Beim Catering ist ein Food-Designerin (Scherie), die aus Proteinpaste echt aussehende Mehlwürmer für die Solarpunk Essens-Aufnahmen bastelt. Damit die VIPs sich wie Solarpunks fühlen können aber keine Mehlwürmer essen müssen. Die Paste ist aus Mehlwürmern. Ist denen nur nicht klar - steht aber auf der Verpackung.
 
 Nach Aussage des Food Designerin sind die anderen tiefer in die Weltzerstörungsmaschine, um es für Dreharbeiten herzurichten. Schon seit einiger Zeit nix mehr von denen gehört. (Info: Die wurden gehamstert). Der Zugang ist eine Stahltüre. Abgeschlossen.
 
 Jemand mit historischem Wissen (Books) kann herausfinden, dass das schwerste Teil hier wohl der Generator des Kohlekraftwerks mit Schwungrad ist. Und dass es tiefer rein gehen muss.
 
-Klaut man den Schlüssel des Food Designerin (oder überredet sie), knackt das Schloss oder schweisst die Türe auf, kann man tiefer in die Anlage eindringen.
+Klaut man den Schlüssel des Food Designerin (oder überredet sie), knackt das Schloss oder schweißt die Türe auf, kann man tiefer in die Anlage eindringen.
 
 .. admonition:: NSC: Scherie
 
@@ -265,7 +265,7 @@ Waffenmaterial:
 
 * Kohlestaub (Kartoffelkanone, Rohrbomben)
 
-Man einem schmutzigen Gang kommen die Helden in eine riesige Halle. Auf Schienen wurden Güterwagen volelr Kohle hier angeliefert. Auf Qualität geprüft, gemahlen, weiter transportiert. Vieles davon ist hier noch zu sehen. Massiv verrostet. Der Kohlestaub hängt in der Luft (explosiv). Auf dem Boden sind schwarze Pfützen.
+Man einem schmutzigen Gang kommen die Helden in eine riesige Halle. Auf Schienen wurden Güterwagen voller Kohle hier angeliefert. Auf Qualität geprüft, gemahlen, weiter transportiert. Vieles davon ist hier noch zu sehen. Massiv verrostet. Der Kohlestaub hängt in der Luft (explosiv). Auf dem Boden sind schwarze Pfützen.
 
 Es ist wenigstens klar, wohin die Norms gegangen sind. Sie haben Akkus, Lichter und Pyro Technik hinterlassen und die Spur läuft diagonal durch das Areal. Aber in dem Gelände ist die Technik massiv fahrlässig. Könnte jederzeit in die Luft gehen.
 
@@ -297,7 +297,7 @@ Probleme:
 Waffenmaterial
 
 * Scharfe Blätter der Belüftung (Schwerter)
-+ Rohrestücke (Speere, Rohrbombe, Kartoffelkanone)
++ Rohrstücke (Speere, Rohrbombe, Kartoffelkanone)
 * Psychoaktive Pilze
 
 Das Förderband führt zur Brennkammer (Nicht zugänglich). Nebenan ist der Generatoren Raum. Dort ist das Nest. Hier kann man schon Rohre sehen, die dahin führen.

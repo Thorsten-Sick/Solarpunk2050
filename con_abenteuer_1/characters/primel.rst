@@ -6,7 +6,7 @@ Primel
 
 Kennt die Hintergründe mit den genetisch veränderten Hamstern.
 
-Hat Bio-Analyse set
+Hat Bio-Analyse Set
 
 * Ziel: Sicherung von giftigen Stoffen
 * Ziel: Natürliches Gleichgewicht wieder herstellen
@@ -14,9 +14,9 @@ Hat Bio-Analyse set
 Aspekte
 ^^^^^^^
 
-Konzept: Liebenswerte und pazifistische Öko Terroristin
+Konzept: Liebenswerte und pazifistische Öko-Terroristin
 
-Dilemma: Natur kommt ohne den Menschen am besten klar
+Dilemma: Natur kommt ohne den Menschen am Besten klar
 
 Beziehung: Die Natur ist großartig. Menschen sind auch ok.
 
@@ -53,7 +53,7 @@ Fertigkeiten
 Stunts
 ^^^^^^
 
-Weil ich erfahrene Öko Terroristy bin  erhalte ich +2, wenn ich Bildung ( Biologie) verwende um psychoaktive Substanzen einzusetzen um Stimmungen zu manipulieren.
+Weil ich erfahrene Öko-Terroristy bin, erhalte ich +2, wenn ich Bildung ( Biologie) verwende um psychoaktive Substanzen einzusetzen um Stimmungen zu manipulieren.
 
 Zustände
 ^^^^^^^^
@@ -76,8 +76,8 @@ Ausstattung
 * Lichtquelle (OLED Folie: Akkubetrieb, beliebig zuschneidbar und aufklebbar. Farbe steuerbar)
 * Nahrung (Mama Salsas berühmte Mehlwurmbrötchen in der Bento Box)
 * Erste Hilfe Ausstattung
-* Mobile Computer, Kopfhörer, Kommunikation über Funk (Mesh network)
-* Pickset
+* Mobile Computer, Kopfhörer, Kommunikation über Funk (Mesh-Network)
+* Lockpicking Set
 * Handliches kleines Ökolabor
 
 Aussehen
