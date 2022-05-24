@@ -11,7 +11,7 @@ Konzept: Ein Punk der Tat - mit Werkzeug
 
 Dilemma: Will aus alter Technik neue Tricks lernen
 
-Beziehung: Will Technik Wissen teilen und drückt anderen gerne den Schraubenzieher in die Hand
+Beziehung: Will Technik-Wissen teilen und drückt anderen gerne den Schraubenzieher in die Hand
 
 Aspekt 1: Produzieren ist besser als konsumieren
 
@@ -46,7 +46,7 @@ Fertigkeiten
 Stunts
 ^^^^^^
 
-Weil ich McGyver Ausstattung und Gene habe erhalte ich  +2, wenn ich Handwerk verwende um etwas hastig zusammen zu schrauben. Direkt nach dem erfolgreichen Einsatz wird der Impro Hack aber wahrscheinlich spektakulär versagen
+Weil ich McGyver-Ausstattung und Gene habe, erhalte ich +2, wenn ich Handwerk verwende um etwas hastig zusammen zu schrauben. Direkt nach dem erfolgreichen Einsatz wird der Impro-Hack aber wahrscheinlich spektakulär versagen.
 
 Zustände
 ^^^^^^^^
@@ -69,8 +69,8 @@ Ausstattung
 * Lichtquelle (OLED Folie: Akkubetrieb, beliebig zuschneidbar und aufklebbar. Farbe steuerbar)
 * Nahrung (Mama Salsas berühmte Mehlwurmbrötchen in der Bento Box)
 * Erste Hilfe Ausstattung
-* Mobile Computer, Kopfhörer, Kommunikation über Funk (Mesh network)
-* Laserschweissgerät (keine Waffe)
+* Mobile Computer, Kopfhörer, Kommunikation über Funk (Mesh-Network)
+* Laserschweißgerät (keine Waffe)
 * Panzertape, WD40 und Schweizer Taschenmesser
 
 

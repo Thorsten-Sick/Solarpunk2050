@@ -18,7 +18,7 @@ Dilemma: Wir machen nix ohne Plan
 
 Beziehung: Schreibt permanent am nächsten Blog uns lässt andere gerne den Entwurf einer Passage bewerten - zu unpassenden Zeiten
 
-Aspekt 1: Umso mehr ich weiss, umso besser läuft es
+Aspekt 1: Umso mehr ich weiß, umso besser läuft es
 
 Aspekt 2: Die Wahrheit muss geteilt werden
 
@@ -51,7 +51,7 @@ Fertigkeiten
 Stunts
 ^^^^^^
 
-Weil ich einen Wissen in meinen EBook sammle habe erhalte ich +2, wenn ich Bildung verwende um komplexe Zusammenhänge zu verstehen
+Weil ich einen Wissen in meinen E-Book sammle habe erhalte ich +2, wenn ich Bildung verwende um komplexe Zusammenhänge zu verstehen
 
 Zustände
 ^^^^^^^^
@@ -80,4 +80,4 @@ Ausstattung
 Aussehen
 ^^^^^^^^
 
-Jacket mit Flicken an den Ellbogen. Grau werdende Haare.
+Jackett mit Flicken an den Ellbogen. Grau werdende Haare.
