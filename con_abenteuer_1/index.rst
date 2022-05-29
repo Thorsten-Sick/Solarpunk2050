@@ -31,3 +31,5 @@ Solarpunk 2050
    characters/primel
 
    characters/spark
+
+   contributors
