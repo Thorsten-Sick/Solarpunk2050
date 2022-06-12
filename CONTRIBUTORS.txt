@@ -1,8 +1,12 @@
-Core
-----
+Autor
+-----
+
+Thorsten Sick
+
 
 
 Fehlerjäger und Tester
 ----------------------
 
+Matze, Bene
 
