@@ -161,3 +161,20 @@ Furries
 -------
 
 Normaler Bestandteil einer Solarpunk Community stellen oft die Furries dar. Menschen in anthropomorphen Tierkostümen (Fursuits genannt). Die Personen in den Fursuits sind den meisten anderen in der Community oft nicht so bekannt wie die "Fursona". Bereits im Jahr 2020 gab es beeindruckende Kostüme. Doch der technische Fortschritt hat besonders die Ausdrucksfähigkeit stark verbessert. Animierte Augen, Ohren und Schwänze als zentraler Punkt.
+
+Mit genügend technischem Fortschritt sind die Anzüge nicht nur hinderlich (schwer, heiss, wenig Überblick) sondern haben sich auch in einen Vorteil entwickelt. Monitore im Kopf sorgen für Rundumblick und breiteres Spektrum der Sicht, Kraft und Geschicklichkeitsverstärker sorgen für übermenschliche Bewegungen und Kraft.
+Drachenschuppen für Rüstung. Klauen aus Metall. Und da sind noch die ganz abgedrehten mit dem Odem-Werfer....
+
+All das in einem flauschigen Kostüm (außer bei Drachen oder Insekten Furries - die sind nicht flauschig).
+
+Urteile und Vorurteile zu verschiedenen Sonas:
+* Drachen: Egozentrisch und selbstüberschätzend, sammelnd gerne Zeug. Drachen ibt es in mächtig und groß oder klein und derpy. 
+* Füchse: Von der lockeren Sorte (siehe Zoomania). Gerne auch mal horny.
+* Huskies: Füchse, aber mit mehr Drama
+* Hunde: Treudoof und hilfsbereit
+* Wolf: Mündiger als Hunde
+* Katzen (Hauskatze, Tiger, Puma): Einzelänger, Selbstbestimmt, machen nur was sie wollen. Wenn man sie zu was zwingt bekommt man nur minimalen Einsatz. Eher verschlossen und basteln gerne alleine an ihren Projekten.
+
+In Solarpunk communities bauen Furries gerne ihr eigenes Stadtviertel. Schon aus praktischen Gründen (es werden nur Türklinken statt Knäufen verbaut und ähnliches). Aber auch aus ästhetischen Gründen.
+
+Viele Furries halten es so, in der öffentlichkeit den Kopf nicht abzunehmen. So ist ihre menschliche Identität außerhalb eines engen Kreises oft unbekannt.
