@@ -97,6 +97,21 @@ Diese Regeln haben absichtlich einige Unklarheiten. Damit lässt sich dann die S
 9) Wenn jemand beweist, dass etwas getan werden kann. Hat er wohl Recht... kann aber zu Problemen mit sehr begeisterten Chaoten führen, die nicht zuhören können
 10) Communities können andere zu Wettstreits fordern. Der Gewinner erhält deutliche Reputation. Der Verlierer kann aber auch Punkte für eine Großartige Lobes rede auf die Gewinner erhalten. Beides wird in Annalen archiviert. Die genaue Form des Wettstreits wird zwischen den Communities definiert. => Start vieler Abenteuer
 
+Holokratie
+----------
+
+Holokratie ist eigentlich eine simple Demokratie mit Abstimmung in kleinen Gruppen (das können Projektgruppen sein, Teams, Communities). Da jede Gruppe mit anderen vernetzt ist, entsenden diese eine Art Diplomaten. So sitzt jemand aus der Community-Leitung in der Projektgruppe. Informationen können so schnell ausgetauscht werden. Und die Interessen von allen werden vertreten. Was aber auch zu Problemen führen kann.
+
+.. sidebar:: Solartalk
+
+  - Wheels: Ich sehe die Verlorenen da unten im wald campen. Die Norm Geiseln haben sie auch dabei. Die Karte blende ich euch gleich ein. Fragt mal bei euren Zirkeln nach was sie von unserem Plan "Reingehen und raushauen" halten.
+  - Gemstone: Die Ökos sage es ist Brutsaison. Ich zeichne euch mal die Gelege in die Karte. Im Umkreis von 20 Metern keine Kämpfe, sagen sie.
+  - Net: Bei den Norms läuft gerade eine Abenteuerserie. Der Kulturaustausch-Zirkel sagt, wir können mit positiveren Reaktionen rechnen, wenn wir uns beim Auftritt an deren Skript anpassen.
+  - Les: Man-at-Arms will wissen, wie sein Netzwerfer funktioniert. Ob wir das filmen könnten...
+  
+
+Auch relevant für eine Holokratie ist es, dass nicht versucht wird, die optimale Lösung für ein Problem zu finden. Sondern eine die man einfach ändern kann, sollte sie sich als falsch erweisen.
+
 Meritokratie
 ------------
 
