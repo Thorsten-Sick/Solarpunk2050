@@ -71,3 +71,11 @@ Arbeit ist sehr stark spezialisiert. Norms lernen ihren Job fürs Leben und sind
     Kunde: (Bestätigt)
     Architekt: Die KI organisiert den Aufbau und die 80 Handwerks Firmen. In 1h kommen die Bagger, danach der Glasfaserbeton. Abschluss in 5 Tagen durch die Teppichleger und Lichtschalter Monteure. Einweihungsfest ist im Preis inbegriffen und Einladungen gehen raus.
 
+Polizei
+-------
+
+
+Die Polizeimethoden der Zukunft sind App basiert. Die Polizei und alle potentiellen Helfer können Informationen, Beweise und Verhöre per App an einen zentralen Polizeiserver senden. Dort wertet eine KI die Daten aus und zeigt live an, wer am verdächtigsten ist. Damit beschränkt sich die Ermittlungstätigkeit auf Fakten sammeln. Und die Spieler Charaktere haben die Möglichkeit selbst zu ermitteln. Natürlich sind auch alle anderen Verdächtigen involviert und informiert. Das sorgt für Manipulationspotential.
+Ein weiteres Problem mit solchen Algorithmen sind Anomalien aller Art. Dinge die nicht häufig vorkommen oder ungewöhnlich sind.
+
+Da die Spieler Charaktere fremd in der Norm Welt sind und keinen hohen Rang in der App begleiten (wahrscheinlich einfach nur Rang 0: Gast) sind sie laut Algorithmus am ehesten verdächtig.
