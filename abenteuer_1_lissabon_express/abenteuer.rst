@@ -30,13 +30,16 @@ Aber der erste Mord war im Affekt und schlampig. Die anderen sind dann auch nich
 
 Konsument vs. Selbstständigkeit:
 Die Solarpunks sind es gewohnt alles sealbst zu machen. Hier ist das System auf Service aufgebaut. Das wird zu Ärger führen. Im Gegenzug sind die Mitreisenden kompetent auf ihrem jeweiligen Gebiet und können bei der Lösung einiger Probleme helfen. Solang man ihnen traut, sie anleitet (als Norms sind sie nicht wirklich initiativ) und sie noch leben.
+Die Norms sind in einer Norm Umgebung sehr mächtig, wenn sie ihre Apps nutzen können und KI Verbindung haben !
 
 Aufbruch
 --------
 
-Die Solarpunks treffen sich in der Community. Die Reise ist gebucht. Es ist eine Zugreise nach Lissabon. 
+Es beginnt in der luxuriösen Wartehalle des Bahnsteigs. Die Solarpunks sind alle eine Familie. Teils Polyamourös verbunden. Aber auch Großeltern oder Paten für das geplante Kind. Denn auf dem Weg in den gemeinsamen Urlaub in Lissabon (die Wunder am Meer sehen) wollen sie überlegen, wie sie gemeinsam ein Kind erziehen.
 
-Doch die Züge der Zukunft sind anders. Ihre Aufgabe ist es möglichs komfortablen Transport durch Europa zu garantieren. Hier ist High Tech hinter Komfort versteckt. Die Züge sind eher rollende Hotels als Transportmittel. Und dazu haben sie auch einzelne Komfort Wagen.
+Man fährt mit dem Zug von Deutschland nach Lissabon. Die Fahrt dauert 2 Tage. Es wurde extra die Route mit den meisten Sehenswürdigkeiten gebucht.
+
+Die Züge der Zukunft sind anders. Ihre Aufgabe ist es möglichs komfortablen Transport durch Europa zu garantieren. Hier ist High Tech hinter Komfort versteckt. Die Züge sind eher rollende Hotels als Transportmittel. Und dazu haben sie auch einzelne Komfort Wagen.
 
 * Speisewagen
 * Private Zimmer (Umbaubar: Sitzen oder schlafen. Jedes mit Dusche und Bad)
@@ -51,7 +54,7 @@ Dann packt man und geht in den Urlaub nach Lissabon
 
 Da man als Solarpunk damit die Welt der Norms betritt:
 
-Der Zug hat eine eigene (schwache) KI. Alle Annehmlichkeiten werden über einen Life-Tracker gesteuert den die Solarpunks geliehen bekommen. Sie haben alle nur die Berechtigung "Gast" und kennen die Apps nicht. Sind damit den Norms weit unterlegen.
+Der Zug hat eine eigene (schwache) KI. Alle Annehmlichkeiten werden über einen Life-Tracker gesteuert den die Solarpunks geliehen bekommen. Sie haben alle nur die Berechtigung "Gast" und kennen die Apps nicht. Sind damit den Norms weit unterlegen. Die Norms werden fast unbewusst Dinge im Zug bedienen, schalten, Buchen (Plätze im Restaurant), ... Für die Solarpunks die Technik eher direkt angehen ist es Magie. Und da die Bedienerführung ungewohnt ist (und oft Berechtigungen oder Apps fehlen) komplex.
 
 Kennenlernen
 ------------
@@ -125,6 +128,9 @@ Sowas wie "Einen Film ins Kino bestellen und den Saal für 22:00-24:00 buchen".
 
 Die Wagen
 ---------
+
+Jeder Wagen hat genug Akku für ein paar Kilometer. Und kann - wenn es gerade eine Oberleitung gibt - von dieser Strom ziehen. Jeder Wagen hat einen eigenen Antrieb und Steuerung. Kann also sich vom Zug trennen, auf das Nachbar-Gleis. Den Zug überholen und an anderer Stelle wieder einscheren.
+Oder sich vom Zug trennen und einen Bahnhof ansteuern.
 
 Sauna Wagen
 ~~~~~~~~~~~
@@ -221,6 +227,11 @@ Mord Optionen:
 Der Angreifer könnte aus den Wänden kommen. Der Raum wurde nicht auf Sicherheit hin entwickelt.
 Oder die Sofa Animatronik overriden und die BEwohner zermalmen.
 
+Dusks Wagen
+~~~~~~~~~~~
+
+Ein speziell hergerichteter Personen Wagen mit Extra großen Räumen und sehr viel Luxus. Kann man nicht betreten während Dusk lebt und die Polizei wird den danach gleich abriegeln. Auch braucht man den Master Key. Oder einen Polizei Key.
+
 Kinosaal
 ~~~~~~~~
 
@@ -286,28 +297,100 @@ Sie kommt dann zum Vorschein, wenn man den Wagen von Disco zur Lounge umstellt u
 Kinderspielwagen
 ~~~~~~~~~~~~~~~~
 
+"Es haben fahren keine Kinder mit. Aber das Abteil wird in Lissabon gebraucht. Darum fährt es mit."
+
 Annehmlichkeiten:
 
-
+Es gibt Kinderbücher, Spielkisten und ein vollatuomatisch rekonfigurierbares Klettergerüst.
 
 Verstecktes:
 
 Unannehmlichkeiten:
 
+Mit dem Master Key kann man das Klettergerüst auch rekonfigurieren während Leute im Raum sind. Und dann auch noch die Servos in Bereiche fahren, die nicht sicher sind....
+
 Mord Optionen:
+
+Das Gerüst kann Leute zermalmen und zerreißen. Natürlich gibt es Sicherheiten. Und nur mit dem Master Key kann man die umgehen...
 
 Workout Wagen
 ~~~~~~~~~~~~~
 
 Annehmlichkeiten:
 
+Hier sind einige Sportgeräte aufgebaut. Auch diese sind per Servos konfiguerierbar. Vieles ist Gameification und Spaß. So z.B. der VR Bereich mit dem haptischen Feedback und dem Vier-Richtungs-Laufband.
 
+Gewichte gibt es keine. Statt dessen arbeitet man gegen Roboter Arme und Seilwinden.
+
+Verstecktes:
+
+Es gibt ein kleines MEdizinschränkchen und die Liege kann zu einer Kranken Liege umfunktioniert werden. Mit den hier stehende Rädern/Ergometern und Sensoren kann ein Arzt den Solarpunks auch einen Gesundheitstest durchführen und ihnen damit einiges freischalten (Sauna auf mehr als 60 Grad).
+Einer der Mitreisenden ist Arzt (hat 2 Jahre Ausbildung, die Berechtigung die Tests durchzuführen und die richtigen Apps).
+
+Unannehmlichkeiten:
+
+Mord Optionen:
+
+Auch hier kann man mit dem Master Key die Sportgeräte (die praktisch Roboter sind) gegen die Personen richten.
+
+Triebwagen/Lok
+~~~~~~~~~~~~~~
+
+Für Gäste kein Zugang. Hat eigene Akkus um den ganzen Zug zu ziehen. Läuft vollautomatisch, hat aber einen eigenen Führerstand (für schwierige Situationen oder Enthusiasten, die mal fahren wollen - dafür braucht es den Master Key).
+
+Verstecktes:
+
+Um Überfälle durch Verlorene abwehren zu können sind hier ein Schrotgewehr und eine Pistole samt Munition in einem abgeschlossenen Waffenschrank.
+
+Unannehmlichkeiten:
+
+Ein modernes Piloten Cockpit mit Touchscreens. Ohne Pilot. Der Stuhl ist sehr komfortabel. Und es gibt eine eigene Kaffeemaschine.
+
+Mord Optionen:
+
+Die einzigen dedizierten Waffen sind hier im Raum.
+
+Recycling und Technik Wagen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ein zentraler Wagen zur Recycling, Wasser Aufbereitung, Erweiterungs-Akkus.
+Für Gäste kein Zugang.
+
+Annehmlichkeiten:
+
+Keine. Zumindest ist hier alles klinisch sauber und aufgeräumt. Mit all den Tanks und Shreddern.
 
 Verstecktes:
 
 Unannehmlichkeiten:
 
 Mord Optionen:
+
+Man kann hier Leichen verschwinden lassen. Im Shredder.
+
+Special: Segelflug
+~~~~~~~~~~~~~~~~~~
+
+Den hat sich Dusk extra bestellt. An Stellen ohne Oberleitung kann man sich hier mittels Winde an einem Drachengleiter 200 Meter nach oben ziehen lassen und Zug und Landschaft von oben betrachten.
+Dusk hatte vor, das besonders bei Küstenstrecken zu machen. 
+
+Annehmlichkeiten:
+
+Man kann die tollsten Sehenswürdigkeiten von oben sehen.
+
+Verstecktes:
+
+Nix verstecktes. Ein Kohlenstoffnanofaserseil hält einen lenkbaren Drachen. Die Winde ist vom Drachen aus steuerbar und der Rest des Wagens ist Landebahn. Das Dach des Wagens kann komplett weggeschoben werden.
+
+Mit dem Master Key kann man natürlich so ziemlich alles auch von unten aus steuern....
+
+Unannehmlichkeiten:
+
+Vom Drachen aus kann man theoretisch tief fliegend die hinteren Wagen von der Seite aus inspizieren. Das ist trotz Hilfssysteme ein ziemlicher Stunt.
+
+Mord Optionen:
+
+Mann kann eine Leiche mal schnell am ausgerollten Drachen zwischenlagern.
 
 Die Konferenz
 -------------
@@ -328,12 +411,69 @@ Was die anderen Reisenden nicht tun werden: Sich gegenseitig verletzen oder töt
 
 Prof. Benschamin
 ----------------
-Er reist als Forscher in kalter Fussion nach Lissabon auf einen Kongress. Er ist sehr introvertiert und meist in seinem Abteil. Ein Doktorand ist erster Ansprechpartner und "Sekretär". Das macht ihn sehr geheimnisvoll.
+Er reist als Forscher in kalter Fussion nach Lissabon auf einen Kongress. Er ist sehr introvertiert und meist in seinem Abteil. Ein Doktorand *Tscharlie* ist erster Ansprechpartner und "Sekretär". Das macht ihn sehr geheimnisvoll.
 
 Die kalte Fussion ist ein Schwindel. Vor 10 Jahren hat er Verbesserungen an einem Wechselrichter Design erfunden (+0.5% Wirkungsgrad !). Diese wurden aber von Dusk gestohlen.
 Jetzt will er Dusk eine Falle Stellen und sich die kalte Fusion stehlen lassen. Und Dusk dann schaden, indem er den Schwindel auffliegen lässt. Das wird ihn selbst die Reputation kosten. Das ist es ihm aber wert.
 
 Sobald Dusk tot ist bleibt ihm nur noch, an den Laptop zu kommen und dort evtl. Beweise zu finden, dass Dusk ihn damals betrog.
+
+Er könnte bei allen Strom Problematiken um Zug (Akkus, Oberleitungen) helfen.
+
+Prof. Firenze und 2 Studenten
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Die Professorin (sichtbar trans) kümmert sich sehr um ihre Studenten. Diese werden eine Poster Session halten und werden das auch im Zug üben. Die Solarpunks könnten "Opfer" werden.
+
+Relevant ist ein Student: Louis ist ein mutiger Student mit politiker Eltern. Er versprach "Dusk" in einem Brief und bei einem heimlichen Treffen im Zug: Wenn Dusk davon absieht einen wiederaufgeforsteten Wald einer großen Solar-Farm zu opfern (und an der weniger guten Alternativstelle zu bauen), dass er einmal Einfluß im Namen Dusks bei seinen Eltern ausübt. Der Brief ist in Dusks Wagen.
+"Sehr geehrter Herr Dusk. Ich bin mit Ihnen im Zug und hätte eine dringende Bitte an Sie, die Sie sicher erfüllen können. Im Gegenzug kann ich ihnen sicher helfen. Meine Eltern sind einflussreiche Politiker in Europa. Ich werde Sie später ansprechen und denke wir beide werden profitieren. Gezeichnet: L."
+
+Name der anderen Studentin: *Elise*
+
+Louis will den Laptop jetzt haben, um evtl. damit den Bau im Wlad stoppen zu können.
+
+Der Polizist "Leon"
+~~~~~~~~~~~~~~~~~~~
+
+Wird später dazu kommen und seinen Polizei Wagen an den Zug koppeln.
+Leon ist Alkohol süchtig. Das ist in der App auch verzeichnet und er darf keinen Tropfen zu sich nehmen. Bei dem Stress im Zug sind die ganzen Alkoholika (Salon, Disco, Speisewagen, Privatzimmer) sehr verführerisch. Da hier all inclusive herrscht würde das Trinken auch nicht aufgezeichnet. Über die Zeit hinweg wird Leon also immer mehr dem Alkohol zusprechen.
+
+Sein natürlicher Feind ist hier Dr. Med Frieda, die seinen Zustand erkennen und eintragen könnte. Dann wäre sein Rückfall aktenkundig. Das ist ihm auch klar.
+
+Er will den Laptop als Beweismittel
+
+Dr. Med Frieda
+~~~~~~~~~~~~~~
+
+Doktor der Medizin. Kann mit ihrer App und darauf angepasster Ausstattung (ist im Workout Wagen) viele Wunden heilen und auch Gesundheit bescheinigen (wichtig um die Sauna zu benutzen und um im Workout Wagen die wirklich harten Geräte freizuschalten).
+
+Sie will in Lissabon nicht zum Kongress sondern einfach so zum Meer fahren und Freunde besuchen.
+
+Sie will den Laptop nicht. Kann aber sein, dass ihn jemand in ihrem Abteil versteckt.
+
+Schauspieler "Williams"
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Ist die Attraktion im Zug. Alle sind zu ihm hingezogen. Selbst Dusk ist fasziniert. Und auch froh nicht der alleinige Fokus zu sein.
+
+Williams aber hat eine heimliche Liebe, die seinem öffentlichen Image nicht so zu Gute kommt. Er ist Eisenbahn Nerd. Eigentlich würde er am liebsten durch alle Kriechgänge, alle Kabelkanäle anschauen, ...
+Nur darf es nie jemand erfahren. Denn das würde seinem Image "Dumm und hart" schaden. Dieses versucht er aufrecht zu erhalten. Aber eigentlich ist er schlau, gebildet und neugierig. Besonders auf Züge.
+
+Dusk ist dafür bekannt, etwas altmodisch zu sein - was Höflichkeitsformen angeht. Darum hat auch er einen Brief an Dusk geschrieben.
+
+"Werter Herr Dusk
+
+Ich wende mich hiermit an Sie mit einer Bitte. Es gibt ein tiefes Bedürftnis in mir, dass Sie sicher verstehen und wahtscheinlich auch befriedigen können. Um dies genauer zu erklären würde ich mich gerne mit Ihnen auf einen Champagner treffen - auch um die Zulassung der Serie 24 A Loks zu feiern. Mit freundlichen Grüßen, Roland Ehrlich"
+
+Er kann eine wichtige Ressource für die Helden werden. Nur anders als man von seinen Filmen annehmen könnte. Er kennt sich mit den Plänen und Hintergründen aller Wagen aus. Könnte aber nichts reparieren, hacken oder modifizieren.
+
+Will den Laptop wegen all der tollen Zug Pläne !
+
+Dscharlien
+~~~~~~~~~~
+
+Die Mörderin.
+
 
 
 
@@ -345,5 +485,7 @@ Ende
 ----
 
 Sollten die Charaktere heil in Lissabon ankommen werden sie eine schöne Stadt an der Meeresküste finden. Mit viel Grün auf Solarpunk nachgerüstet.
+
+Die Berge der Stadt sind dank E-Bikes bewältigbar.
 
 Man kann sich Boote mieten und einen kleinen Trip aufs Meer hinaus wagen. Zu den Solar und Algen Feldern die knapp jenseits des sichtbaren Horizonts liegen und die Stadt versorgen.
