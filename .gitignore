@@ -1,0 +1,12 @@
+# LaTeX auxiliary files
+*.sty
+*.cls
+*.log
+*.out
+*.toc
+
+# Build folders
+**/_build
+
+# VSCode folders
+.vscode/
