@@ -1,5 +1,4 @@
 # LaTeX auxiliary files
-*.sty
 *.cls
 *.log
 *.out
