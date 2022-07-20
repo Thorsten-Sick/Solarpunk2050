@@ -173,7 +173,7 @@ Die Charaktere sollten feststellen, dass sie keine Waffen haben. Aber egal. Als 
 
 Mit sozialen Fertigkeiten könnten sie die Waffen sicher auch von den Verlorenen leihen ! Aber nicht zu viel, denn die wollen in ein paar Stunden nachkommen und dann nicht unbewaffnet sein.
 
-Am Ende des Gangs finden die Helden eine große Halle, mit Marmor ausgekleidet. Das war das Museum der Weltzerstörungsmaschine.
+Am Ende des Gangs finden die Protagonisten eine große Halle, mit Marmor ausgekleidet. Das war das Museum der Weltzerstörungsmaschine.
 
 .. admonition:: NSC: Kewin
 
@@ -219,13 +219,13 @@ Ziele der Szene:
 * Herausfinden, wo die Rohre hin gehen (In Modellen und Plänen)
 * Man kann viele Kilogramm Proteinpaste hier finden. Die kann den Hamster anlocken oder in Fressnarkose versetzen. Besser wirkt es noch mit Betäubungsmittelzusatz. Den gibt es hier aber nicht.
 
-Der Kameramann und Delta Awesome führen die Helden schnell zur "Zentrale". Einem ehemaligen Museum (auch Drehort). Dort ist Catering aufgebaut (außerhalb der Kameras).
+Der Kameramann und Delta Awesome führen die Protagonisten schnell zur "Zentrale". Einem ehemaligen Museum (auch Drehort). Dort ist Catering aufgebaut (außerhalb der Kameras).
 Plan der Norms ist es, dort nach den Dreharbeiten 500 Fans der Serie unterzubringen. Mit 10 Plätzen für VIPs. Darum wird das gerade hergerichtet.
 
 Hier ist ein altes Museum, in dem damals Schulklassen an sehr schönen Modellen etwas über Kohlekraft lernen konnten. Alles ist nett gemacht. Gut verkauft. Mit Maskottchen.
 Auch interessant ist die Mineralien Sammlung, mit einer riesen Geode, die könnten Disco interessieren.
 
-Hier ist die Norm-Zentrale. Sie bauen für eine VIP Party gerade auf. Einige Zuschauer haben einen Backstage Pass gewonnen und werden morgen eintreffen (also nach den Helden).
+Hier ist die Norm-Zentrale. Sie bauen für eine VIP Party gerade auf. Einige Zuschauer haben einen Backstage Pass gewonnen und werden morgen eintreffen (also nach den Protagonisten).
 
 Beim Catering ist ein Food-Designerin (Scherie), die aus Proteinpaste echt aussehende Mehlwürmer für die Solarpunk Essens-Aufnahmen bastelt. Damit die VIPs sich wie Solarpunks fühlen können aber keine Mehlwürmer essen müssen. Die Paste ist aus Mehlwürmern. Ist denen nur nicht klar - steht aber auf der Verpackung.
 
@@ -265,7 +265,7 @@ Waffenmaterial:
 
 * Kohlestaub (Kartoffelkanone, Rohrbomben)
 
-Man einem schmutzigen Gang kommen die Helden in eine riesige Halle. Auf Schienen wurden Güterwagen voller Kohle hier angeliefert. Auf Qualität geprüft, gemahlen, weiter transportiert. Vieles davon ist hier noch zu sehen. Massiv verrostet. Der Kohlestaub hängt in der Luft (explosiv). Auf dem Boden sind schwarze Pfützen.
+Man einem schmutzigen Gang kommen die Protagonisten in eine riesige Halle. Auf Schienen wurden Güterwagen voller Kohle hier angeliefert. Auf Qualität geprüft, gemahlen, weiter transportiert. Vieles davon ist hier noch zu sehen. Massiv verrostet. Der Kohlestaub hängt in der Luft (explosiv). Auf dem Boden sind schwarze Pfützen.
 
 Es ist wenigstens klar, wohin die Norms gegangen sind. Sie haben Akkus, Lichter und Pyro Technik hinterlassen und die Spur läuft diagonal durch das Areal. Aber in dem Gelände ist die Technik massiv fahrlässig. Könnte jederzeit in die Luft gehen.
 

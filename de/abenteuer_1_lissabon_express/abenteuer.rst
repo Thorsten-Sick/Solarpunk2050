@@ -92,7 +92,7 @@ Nach dem Mord sind 3 Dinge im Zug unterwegs, die wichtig sind:
 Auftreten der Polizei
 ---------------------
 
-Da alle zur Konferenz wollen, wir der Zug nicht angehalten für die Ermittlung. Ein Polizei-Wagen dockt an. Erst wird die Spurensicherung den Tatort besichtigen (Nebenabteil der Helden. Die können einfach durch ihre Zwischentüre in den abgesperrten Bereich. Dafür müssen sie das Schloss knacken).
+Da alle zur Konferenz wollen, wir der Zug nicht angehalten für die Ermittlung. Ein Polizei-Wagen dockt an. Erst wird die Spurensicherung den Tatort besichtigen (Nebenabteil der Protagonisten. Die können einfach durch ihre Zwischentüre in den abgesperrten Bereich. Dafür müssen sie das Schloss knacken).
 
 Die Polizei wird jeden verhören. Aber auch die anwesenden Norms werden plötzlich sehr zutraulich. Sie wollen den Laptop finden und denken entweder die Solarpunk haben ihn (die haben ähnliche Geräte) oder könnten helfen ihn zu finden. 
 
@@ -137,7 +137,7 @@ Sauna Wagen
 
 Annehmlichkeiten:
 
-Sauna Bereich, Duschen und zwei Floating Pods. Die Sauna wird ohne medizinisches Attest auf dem Mobilgerät (und das haben die Helden wohl nicht) maximal 60 Grad heiss.
+Sauna Bereich, Duschen und zwei Floating Pods. Die Sauna wird ohne medizinisches Attest auf dem Mobilgerät (und das haben die Protagonisten wohl nicht) maximal 60 Grad heiss.
 
 Verstecktes:
 
@@ -187,7 +187,7 @@ Speisewagen
 
 Annehmlichkeiten:
 
-Es ist nicht genug Platz für alle Reisenden auf einmal. Aber die Helden Gruppe plus einige andere Gäste können an den schönen Tischen Platz nehmen und haben eine reichhaltige Auswahl von Speisen. Gebucht wird per App. Höhere Ränge schlagen niedere.
+Es ist nicht genug Platz für alle Reisenden auf einmal. Aber die Protagonisten Gruppe plus einige andere Gäste können an den schönen Tischen Platz nehmen und haben eine reichhaltige Auswahl von Speisen. Gebucht wird per App. Höhere Ränge schlagen niedere.
 
 Verstecktes:
 
@@ -465,7 +465,7 @@ Dusk ist dafür bekannt, etwas altmodisch zu sein - was Höflichkeitsformen ange
 
 Ich wende mich hiermit an Sie mit einer Bitte. Es gibt ein tiefes Bedürftnis in mir, dass Sie sicher verstehen und wahtscheinlich auch befriedigen können. Um dies genauer zu erklären würde ich mich gerne mit Ihnen auf einen Champagner treffen - auch um die Zulassung der Serie 24 A Loks zu feiern. Mit freundlichen Grüßen, Roland Ehrlich"
 
-Er kann eine wichtige Ressource für die Helden werden. Nur anders als man von seinen Filmen annehmen könnte. Er kennt sich mit den Plänen und Hintergründen aller Wagen aus. Könnte aber nichts reparieren, hacken oder modifizieren.
+Er kann eine wichtige Ressource für die Protagonisten werden. Nur anders als man von seinen Filmen annehmen könnte. Er kennt sich mit den Plänen und Hintergründen aller Wagen aus. Könnte aber nichts reparieren, hacken oder modifizieren.
 
 Will den Laptop wegen all der tollen Zug Pläne !
 

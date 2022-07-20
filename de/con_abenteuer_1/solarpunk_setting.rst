@@ -7,7 +7,7 @@ Die 80 % der Bevölkerung, die "Norms" adaptierten allen nötigen Änderungen vo
 
 Die Solarpunks währenddessen haben zwar das erklärte Ziel erreicht. Sie wollen aber nicht in die Solarpunk-light Welt der Städte zurück. Und so experimentieren, basteln und leben sie weiter in ihren sich ständig verändernden Technik Utopien. Garantiert TÜV frei.
 
-In dem Schnupperabenteuer spielen sowohl die Solarpunk Helden als auch eine Gruppe Norms eine wichtige Rolle.
+In dem Schnupperabenteuer spielen sowohl die Solarpunk Protagonisten als auch eine Gruppe Norms eine wichtige Rolle.
 
 Dazu noch der Fakt, dass Rohstoffe aller Art als extrem wertvoll deklariert sind und Pfand auf praktisch jedes Objekt besteht - auch auf dem Inventar eines vor 20 Jahren in einer Flut verschütteten Kohlekraftwerks. Wer große Projekte bauen will braucht Rohstoffpunkte. Und die erhält man nur, wenn man Rohstoffe abliefert. Diese werden nach Material-Seltenheit und Gewicht bewertet.
 
