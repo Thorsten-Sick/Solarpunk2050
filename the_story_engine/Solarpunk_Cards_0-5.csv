@@ -1,0 +1,45 @@
+Type,Bottom,Top,Left,Right
+agent;a gardener;a nurturer;a facilitator;a maintainer
+agent;A TRANSLATOR;A TRAVELER;A GUIDE;A DIPLOMAT
+agent;A PRIVATEER;A SCAVENGER;AN OUTCAST;A VAGABOND
+agent;AN ARCHITECT;A CARPENTER;A SEAMSTRESS;A POTTER
+agent;A MAKER;AN|ANTHROPOLOGIST;A SCIENTIST;A TINKERER
+agent;A GLASSMAKER;A POET;A PAINTER;A FILMMAKER
+agent;A SCRIVENER;an analyst;a forecaster;a field researcher
+agent;a|community leader;a negotiator;a politician;an elder
+agent;a prodigy;a heartthrob;a friend;a rival
+agent;a farmer;a forester;a biohacker;an herbalist
+agent;a doctor;an|epidemiologist;a nurse;a veterinarian
+agent;a sex worker;a therapist;an undertaker;a midwife
+agent;a fisherman;an explorer;a captain;a cartographer
+agent;a community;a crew;a team;a motley
+agent;a librarian;a homemaker;a barista/|a bartender;a master|of ceremony
+engine;wants to protect a community from;wants to change a community with;;
+engine;wants to find their place in/with;wants to protect their place in/with;;
+engine;wants to rebuild (with);wants to start afresh (with/from);;
+engine;wants to understand a foreign culture through;WANTS TO EXPLAIN THEIR CULTURE THROUGH;;
+engine;wants to teach;wants to learn;;
+engine;wants to bring hope to their community with;wants to balance an ecosystem with;;
+engine;wants to protect the ecosystem with/in/from;wants to sacrifice an ecosystem for/by;;
+anchor;a dream;an argument;a plan;a disaster
+anchor;an|infrastructure;an ecosystem;a network;an archive
+anchor;hubris;apathy;an energy;an entropy
+anchor;a solar panel;a greenhouse;a stained glass;a lens
+anchor;a windmill;a sail;a turbine;a glider
+anchor;a stability;a chaos;a change;a preservation
+anchor;a hierarchy;a fight;a revolution;a competition
+anchor;an evolution;a setback;a mutation;an innovation
+anchor;a power trip;a misunderstanding;a toolbox;a compromise
+conflict;but they will lose their status in the community;but it will open them to a new kind of danger;;
+conflict;but they will have to involve outsiders;but dealing with it alone will lead to a flawed solution;;
+conflict;but they will have to learn to trust;but the group will fall apart after the danger is over;;
+conflict;but there is not enough for everyone;but some of it will go to waste;;
+conflict;but they dont understand it as well as they thought ;but they will have to teach others about it;;
+aspect;idealistic;selfless;cynical;environmental
+aspect;DISABLED;SUSTAINABLE;broken;kintsugi
+aspect;devastated;pure;rebuilt;new
+aspect;secret;open;protective;violent
+aspect;hierarchical;egalitarian;scarce;abundant
+aspect;growing;stagnant;curious;biased
+aspect;salvaged;upcycled;discovered;invented
+aspect;orbital;global;sympathetic;empatethic
