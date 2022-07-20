@@ -1,0 +1,82 @@
+\documentclass{book}
+
+\usepackage{fate}
+\usepackage{montserrat}
+\usepackage{ebgaramond}
+
+% For creating example text
+\usepackage{lipsum}
+
+\title{Fate \LaTeX \ Template}
+\author{Tom Hart}
+
+\pagenumbering{arabic}
+\begin{document}
+
+\chapter{Introduction}
+
+\lipsum[2-4]
+
+\pagebreak
+\begin{callout}[title=A CALLOUT SPANS THE PAGE]
+\lipsum[3]
+\end{callout}
+
+\section{Here is the Formatting of a Section}
+
+\lipsum[2]
+
+\subsection{FIRST SUBSECTION}
+
+\lipsum[1]
+
+\subsection{SECOND SUBSECTION}
+
+\lipsum[1]
+
+\section{Another Section}
+
+\lipsum[1]
+
+\subsection{ANOTHER SUBSECTION}
+
+\lipsum[1]
+
+\begin{npcBox}[title=Dybbuk]
+
+\begin{aspects}
+\item \aspect[High Concept]{Ghost capable of possessing the living}
+\item \aspect[Trouble]{Will do anything to complete a task left unfinished during its life}
+\item \aspect[Weakness]{Blowing a shofar in the presence of a dybbuk automatically creates the advantage \textbf{Weakened} on the dybbuk, with one free invoke.}
+\end{aspects}
+
+\begin{skills}
+\item \skill{3} Will
+\item Whatever other skills the possessed individual has
+\end{skills}
+
+\begin{stunts}
+\item \stunt{Possession}{A dybbuk may make a mental attack using Will. If the target fails to defend, the dybbuk takes possession of the individual until it is exorcised or completes its task.}
+\end{stunts}
+
+\begin{stressSection}
+\stressLine{\stress{1}\stress{2}\stress{3}\stress{4}}{\stress{1}\stress{2}\stress{3}\stress{4}}
+\end{stressSection}
+\begin{tabularx}{\textwidth}{ XX }
+\end{tabularx}
+
+\begin{consequences}
+\item \consequence{2}
+\item \consequence{4}
+\item \consequence{6}
+\end{consequences}
+
+\origin{Jewish}
+
+\begin{npcDescription}
+A dybbuk is a ghost capable of possessing a living human. As with most forms of possession, the task is easier if the target is weak-willed or immoral. Killing the possessed individual will stop the dybbuk from using that body, but will not vanquish it permanently. The dybbuk may be exorcised by a rabbi or priest; this will save the possessed individual but will not stop the dybbuk from possessing another individual. Allowing the dybbuk to complete its task, or aiding it, will cause it to move on to the afterlife; the task could range from helping the dybbuk’s living relatives to murdering an enemy of the dybbuk. 
+\end{npcDescription}
+
+\end{npcBox}
+
+\end{document}

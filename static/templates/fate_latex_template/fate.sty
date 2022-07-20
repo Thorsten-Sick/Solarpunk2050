@@ -1,0 +1,372 @@
+% Fate uses Gotham for titles; Montserrat is close and free
+% After loading this package, \sffamily selects Montserrat
+\RequirePackage{montserrat}
+% Fate uses Garamond for text
+\RequirePackage{ebgaramond}
+% Fate books are all 6x9 inches, margins 1 1/4 inches
+\RequirePackage[paperwidth=6in, paperheight=9in, twoside, textwidth=4in, outer=1.25in, inner=0.75in, top=0.6875in, bottom=0.6875in]{geometry}
+% Formatting for chapters, sections, etc. in the Fate Core style
+\RequirePackage[explicit]{titlesec}
+% (Non-)headers and footers in the Fate style
+\RequirePackage{fancyhdr}
+% Boxes in footers, thumb indices, and body
+\RequirePackage[skins,xparse]{tcolorbox} % styled text boxes
+% For putting sidebars inline with text
+\RequirePackage{wrapfig}
+\RequirePackage{ifthen}
+\RequirePackage{xstring}
+% For listing NPC attributes
+\RequirePackage{enumitem}
+% For laying out stress
+\RequirePackage{tabularx}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Turn off paragraph vertical justification
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\raggedbottom
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Formatting of Headers and Footers
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Fate Core has empty page for chapters, Fate Space toolkit does not
+% Chapter title: Montserrat, all caps, solid line across page
+\titleformat {\chapter}
+    { \LARGE\bfseries\sffamily } % format
+    { \MakeUppercase{#1} }
+    { 0pt } % sep
+    {  } % before-code
+    [ \vspace{1pt} \titleline{ \titlerule[2pt] } ] % after-code
+\titlespacing{\chapter}{0pt}{0cm}{4mm}
+
+% Section title: Montserrat, standard caps, no line
+\titleformat {\section}
+    { \Large\bfseries\sffamily } % format
+    { #1 }
+    { 0pt } % sep
+    {  } % before-code
+\titlespacing{\section}{0pt}{10pt}{0pt}
+
+% Subection title: Montserrat, standard caps, slightly smaller, no line
+\titleformat {\subsection}
+    { \large\bfseries\sffamily } % format
+    { #1 }
+    { 0pt } % sep
+    {  } % before-code
+\titlespacing{\subsection}{0pt}{10pt}{0pt}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Boxes around page numbers
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\DeclareTColorBox{evenPageNumberBox}{ o }{
+  colframe=black!100!black,
+  colupper=white!100!white,
+  width=0.6875in, % 11/16
+  height=0.6875in, % 11/16
+  interior hidden,
+  code         = {\linespread{.9}},
+  boxrule      = 0pt,
+  enhanced,
+  parbox       = false,
+  frame code={
+    \path [tcb fill frame] (frame.south west) -- (frame.north west) -- ([xshift=-0.1875in]frame.north east) -- ([yshift=-0.1875in]frame.north east) -- (frame.south east) -- cycle;
+  }
+}
+
+\DeclareTColorBox{oddPageNumberBox}{ o }{
+  colframe=black!100!black,
+  colupper=white!100!white,
+  width=0.6875in, % 11/16
+  height=0.6875in, % 11/16
+  interior hidden,
+  code         = {\linespread{.9}},
+  boxrule      = 0pt,
+  enhanced,
+  parbox       = false,
+  frame code={
+    \path [tcb fill frame] (frame.south west) -- ([yshift=-0.1875in]frame.north west) -- ([xshift=0.1875in]frame.north west) -- (frame.north east) -- (frame.south east) -- cycle;
+  }
+}
+
+% Use a white tcolorbox so the footer text is aligned with the page number
+\DeclareTColorBox{footerBox}{ o }{
+  colframe=white!100!white,
+  colupper=black!100!black,
+  height=0.6875in, % 11/16
+  hbox,
+  interior hidden,
+  code         = {\linespread{.9}},
+  boxrule      = 0pt,
+  enhanced,
+  parbox       = false
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Pseudo Thumb Indices
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\DeclareTColorBox{evenTabBox}{ o }{
+  colframe=black!100!black,
+  colupper=white!100!white,
+  height=0.5in,
+  width=3in,
+  interior hidden,
+  rotate=-90,
+  halign=center,
+  code         = {\linespread{.9}},
+  boxrule      = 0pt,
+  enhanced,
+  parbox       = false,
+  frame code={
+    \path [tcb fill frame] (frame.south west) -- ([yshift=-0.1875in]frame.north west) -- ([xshift=0.1875in]frame.north west) -- ([xshift=-0.1875in]frame.north east) -- ([yshift=-0.1875in]frame.north east) -- (frame.south east) -- cycle;
+  }
+}
+
+\DeclareTColorBox{oddTabBox}{ o }{
+  colframe=black!100!black,
+  colupper=white!100!white,
+  height=0.5in,
+  width=3in,
+  interior hidden,
+  rotate=90,
+  halign=center,
+  code         = {\linespread{.9}},
+  boxrule      = 0pt,
+  enhanced,
+  parbox       = false,
+  frame code={
+    \path [tcb fill frame] (frame.south west) -- ([yshift=-0.1875in]frame.north west) -- ([xshift=0.1875in]frame.north west) -- ([xshift=-0.1875in]frame.north east) -- ([yshift=-0.1875in]frame.north east) -- (frame.south east) -- cycle;
+  }
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Headers and Footers
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\renewcommand{\sectionmark}[1]{\markright{#1}{}}
+% On the first page of a chapter, we want footers, but no headers, so we
+% redefine the plain page style.
+\fancypagestyle{plain}{
+  \fancyhead{} % headers are empty
+  \fancyfoot[CO]{
+    \begin{footerBox}
+      \textbf{\textsf{CHAPTER \thechapter}}
+    \end{footerBox}
+  }
+  \fancyfoot[RO]{
+    \begin{oddPageNumberBox}\textbf{\textsf{\thepage}}\end{oddPageNumberBox}
+  }
+} 
+\fancyhead{} % headers are empty
+\renewcommand{\headrulewidth}{0pt} % Remove line at the bottom of the header
+\addtolength{\headwidth}{1.3in} % Page numbers are in the margins
+\fancyhead[LE] {
+  \setlength{\unitlength}{1in}
+  \begin{picture}(0,0)
+  \put(0,-2.3125){\begin{evenTabBox}\textbf{\textsf{\leftmark}}\end{evenTabBox}}
+  \end{picture}
+}
+\fancyfoot[LE]{
+    \begin{evenPageNumberBox}\textbf{\textsf{\thepage}}\end{evenPageNumberBox}
+}
+\fancyfoot[CE]{
+  \begin{footerBox}
+  \textbf{\textsf{\MakeUppercase{\@title}}}
+  \end{footerBox}
+}
+\fancyhead[RO] {
+  \setlength{\unitlength}{1in}
+  \begin{picture}(0,0)
+  \put(-0.5,-5.3125){\begin{oddTabBox}\textbf{\textsf{\rightmark}}\end{oddTabBox}}
+  \end{picture}
+}
+\fancyfoot[RE]{}
+\fancyfoot[LO]{}
+\fancyfoot[CO]{
+  \begin{footerBox}
+  \textbf{\textsf{CHAPTER \thechapter}}
+  \end{footerBox}
+}
+\fancyfoot[RO]{
+    \begin{oddPageNumberBox}\textbf{\textsf{\thepage}}\end{oddPageNumberBox}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Callouts and Sidebars
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\DeclareTColorBox{callout}{ o }{
+  colframe=black!100!black,
+  colupper=white!100!white,
+  colback=black!100!black,
+  halign title = center,
+  fonttitle=\sffamily\bfseries,
+  fontupper=\sffamily\small,
+  width=\textwidth,
+  code         = {\linespread{.9}},
+  boxrule      = 0pt,
+  enhanced,
+  parbox       = false,
+  % This combination of options is easier than drawing the box, less error-
+  % prone, and the shadow is created correctly.
+  sharp corners = uphill,
+  arc=0.125in,
+  arc is angular,
+  drop fuzzy shadow,
+  #1
+}
+
+\DeclareTColorBox{sidebarBox}{ o }{
+  colframe=black!100!black,
+  colupper=white!100!white,
+  colback=black!100!black,
+  halign title = center,
+  fonttitle=\sffamily\bfseries,
+  fontupper=\sffamily\small,
+  code         = {\linespread{.9}},
+  boxrule      = 0pt,
+  enhanced,
+  parbox       = false,
+  % This combination of options is easier than drawing the box, less error-
+  % prone, and the shadow is created correctly.
+  sharp corners = uphill,
+  arc=0.125in,
+  arc is angular,
+  drop fuzzy shadow,
+  #1
+}
+
+% Arguments: title, width (percent of textwidth), alignment, text
+%
+% NOTE: LaTeX is _not_ good at placing these. You may have to fiddle with
+% where in the text you put them. The sidebar can collide with section
+% titles and with footers.
+%
+% You can tell LaTeX the height, in lines, of the box by using
+% \begin{wrapfigure} around a sidebarBox instead of using the sidebar
+% environment.
+%
+% The use of internal wrapfigure macros is a known "dirty trick":
+%   - https://tex.stackexchange.com/questions/1082/defining-a-custom-wrapfig-environment
+%   - https://tex.stackexchange.com/questions/99809/box-or-sidebar-for-additional-text
+\newenvironment{sidebar}[3]
+  {
+    \wrapfigure{#3}{#2\textwidth}
+    \begin{sidebarBox}[title=#1, width=#2\textwidth]
+  }
+  {
+    \end{sidebarBox}
+    \endwrapfigure
+  }
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% NPC Boxes
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Formatting for aspects
+\newcommand{\aspect}[2][""]{
+  \ifthenelse{\equal{#1}{""}}
+    {\textsc{#2}}
+    {\textbf{#1:} \textsc{#2}}
+}
+
+% Formatting for stress boxes
+\newcommand{\stress}[1]{\framebox[5mm]{#1}\ }
+
+\newcommand{\origin}[1]{\noindent\textbf{Origin:} #1.}
+
+\DeclareTColorBox{npcBox}{ o }{
+  colframe=black!100!black,
+  colupper=black!100!black,
+  colback=black!10!white,
+  halign title = center,
+  fonttitle=\sffamily\scshape\bfseries,
+  fontupper=\sffamily\small,
+  width=\textwidth,
+  code         = {\linespread{.9}},
+  boxrule      = 2pt,
+  enhanced,
+  parbox       = false,
+  % This combination of options is easier than drawing the box, less error-
+  % prone, and the shadow is created correctly.
+  sharp corners = uphill,
+  arc=0.125in,
+  arc is angular,
+  drop fuzzy shadow,
+  #1
+}
+
+% Create the heading for a list of skills at a given rank
+\newcommand{\skill}[1]
+{
+  \IfEqCase{#1}{
+        {8}{\textbf{Legendary (+8): }}
+        {7}{\textbf{Epic (+7): }}
+        {6}{\textbf{Fantastic (+6): }}
+        {5}{\textbf{Superb (+5): }}
+        {4}{\textbf{Great (+4): }}
+        {3}{\textbf{Good (+3): }}
+        {2}{\textbf{Fair (+2): }}
+        {1}{\textbf{Average (+1): }}
+        {0}{\textbf{Mediocre (+0): }}
+        {-1}{\textbf{Poor (-2): }}
+        {-2}{\textbf{Terrible (-2): }}
+    }[\PackageError{tree}{Undefined option to skill: #1}{}]%
+}
+
+\newcommand{\consequence}[1]
+{
+  \IfEqCase{#1}{
+        {2}{\stress{2} Mild: }
+        {4}{\stress{4} Moderate: }
+        {6}{\stress{6} Major: }
+  }[\PackageError{tree}{Undefined option to consequence: #1}{}]%
+}
+
+\newcommand{\stunt}[2]
+{
+  \textbf{#1:} #2
+}
+
+% Lists for various NPC parts
+\newlist{npcList}{itemize}{1}
+\setlist[npcList] {
+  itemindent=10pt,
+  leftmargin=0pt,
+  label=
+}
+\newenvironment{aspects}{
+  \paragraph{{\small\textbf{\textsf{ASPECTS}}}}
+  \begin{npcList}}
+  {\end{npcList}}
+\newenvironment{skills}{
+  \paragraph{{\small\textbf{\textsf{SKILLS}}}}
+  \begin{npcList}}
+  {\end{npcList}}
+\newenvironment{stunts}{
+  \paragraph{{\small\textbf{\textsf{STUNTS}}}}
+  \begin{npcList}}
+  {\end{npcList}}
+\newenvironment{consequences}{
+  \paragraph{{\small\textbf{\textsf{CONSEQUENCES}}}}
+  \begin{npcList}}
+  {\end{npcList}}
+\newenvironment{npcDescription}
+  {\noindent\small\textbf{\textsf{DESCRIPTION:}} }
+  {}
+
+\newcommand{\stressLine}[2] {
+    Physical: {#1} & Mental: {#2} \\
+}
+% See: https://tex.stackexchange.com/questions/42325/tabularx-inside-a-newenvironment
+\newenvironment{stressSection} {
+  \paragraph{{\small\textbf{\textsf{STRESS}}}}
+  \npcList
+  \item \tabularx{\textwidth}{ XX }
+}
+{
+  \endtabularx
+  \endnpcList
+}
