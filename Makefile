@@ -11,7 +11,7 @@ BUILDDIR      = ./sourcebook/_build
 help:
 	@$(SPHINXBUILD) -M help ./sourcebook ./sourcebook/_build $(SPHINXOPTS) $(O)
 
-.PHONY: help Makefile
+.PHONY: help Makefile vale
 
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
@@ -34,3 +34,6 @@ epub:
 all:
 	make pdf
 	make epub
+	
+vale:
+	vale --config .vale_en.ini en/sourcebook/*.tex
