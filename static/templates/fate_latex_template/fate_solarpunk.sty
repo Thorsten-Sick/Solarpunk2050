@@ -218,6 +218,69 @@
   #1
 }
 
+\DeclareTColorBox{solartalk}{ o }{
+  colframe=green!100!green,
+  colupper=white!100!white,
+  colback=black!100!black,
+  halign title = center,
+  fonttitle=\sffamily\bfseries,
+  fontupper=\sffamily\small,
+  width=\textwidth,
+  code         = {\linespread{.9}},
+  boxrule      = 0pt,
+  enhanced,
+  parbox       = false,
+  % This combination of options is easier than drawing the box, less error-
+  % prone, and the shadow is created correctly.
+  sharp corners = uphill,
+  arc=0.125in,
+  arc is angular,
+  drop fuzzy shadow,
+  #1
+}
+
+\DeclareTColorBox{normtalk}{ o }{
+  colframe=purple!100!purple,
+  colupper=white!100!white,
+  colback=black!100!black,
+  halign title = center,
+  fonttitle=\sffamily\bfseries,
+  fontupper=\sffamily\small,
+  width=\textwidth,
+  code         = {\linespread{.9}},
+  boxrule      = 0pt,
+  enhanced,
+  parbox       = false,
+  % This combination of options is easier than drawing the box, less error-
+  % prone, and the shadow is created correctly.
+  sharp corners = uphill,
+  arc=0.125in,
+  arc is angular,
+  drop fuzzy shadow,
+  #1
+}
+
+\DeclareTColorBox{losttalk}{ o }{
+  colframe=magenta!100!magenta,
+  colupper=white!100!white,
+  colback=black!100!black,
+  halign title = center,
+  fonttitle=\sffamily\bfseries,
+  fontupper=\sffamily\small,
+  width=\textwidth,
+  code         = {\linespread{.9}},
+  boxrule      = 0pt,
+  enhanced,
+  parbox       = false,
+  % This combination of options is easier than drawing the box, less error-
+  % prone, and the shadow is created correctly.
+  sharp corners = uphill,
+  arc=0.125in,
+  arc is angular,
+  drop fuzzy shadow,
+  #1
+}
+
 \DeclareTColorBox{sidebarBox}{ o }{
   colframe=black!100!black,
   colupper=white!100!white,
@@ -237,6 +300,9 @@
   drop fuzzy shadow,
   #1
 }
+
+% A npc comment. #1: Name of the NPC #2 Quote
+\newcommand{\npcquote}[2]{\noindent\textbf{#1:} #2.}
 
 % Arguments: title, width (percent of textwidth), alignment, text
 %
