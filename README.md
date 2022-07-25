@@ -86,3 +86,18 @@ Zu beantworten:
 ## Logos
 
 Powered by Fate logo von hier herunter geladen und integriert. Lizenz erlaubt das: https://faterpg.de/fate-lizenz/
+
+## Schreib tips
+
+Vermeiden:
+
+* Floskeln
+* Füllwörter
+* Wiederholungen (Thesaurus nutzen !)
+* passiv
+* Wiederholte Wortanfänge
+* Schachtelsätze
+
+Nutzen:
+* Verben
+* Sätze so 10-20 Worte lang

@@ -37,3 +37,6 @@ all:
 	
 vale:
 	vale --config .vale_en.ini en/sourcebook/*.tex
+
+vale_pedantic:
+	vale --config .vale_en.ini --minAlertLevel=warning en/sourcebook/*.tex
