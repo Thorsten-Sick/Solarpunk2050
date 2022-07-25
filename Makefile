@@ -22,12 +22,15 @@ help:
 pdf:
 	@$(SPHINXBUILD) -M latexpdf ./de/sourcebook ./de/sourcebook/_build $(SPHINXOPTS) $(O)
 	@$(SPHINXBUILD) -M latexpdf ./de/con_abenteuer_1 ./de/con_abenteuer_1/_build $(SPHINXOPTS) $(O)
+	cd en/sourcebook && pdflatex sourcebook.tex
+	cd ../..
 	cp ./de/sourcebook/_build/latex/Solarpunk2050.pdf downloads
 	cp ./de/con_abenteuer_1/_build/latex/Solarpunk2050_Con_Abenteuer_1.pdf downloads
+	cp en/sourcebook/sourcebook.pdf downloads/Solarpunk2050_sourcebook_en.pdf
 
 epub:
 	@$(SPHINXBUILD) -M epub ./de/sourcebook ./de/sourcebook/_build $(SPHINXOPTS) $(O)
-	@$(SPHINXBUILD) -M epub ./de/con_abenteuer_1 ./de/con_abenteuer_1/_build $(SPHINXOPTS) $(O)
+	@$(SPHINXBUILD) -M epub ./de/con_abenteuer_1 ./de/con_abenteuer_1/_build $(SPHINXOPTS) $(O)	
 	cp ./de/sourcebook/_build/epub/Solarpunk2050.epub downloads
 	cp ./de/con_abenteuer_1/_build/epub/Solarpunk2050_Con_Abenteuer_1.epub downloads
 

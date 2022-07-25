@@ -1,5 +1,7 @@
 ## Willkommen bei Solarpunk
 
+English version below
+
 Solarpunk ist der freundliche und nicht psychopathische Bruder von Cyberpunk. Die Gesellschaft ist zwar genau so aufgedreht, teils überhitzt und krasser (also unterhaltsamer) als unsere. Gleichzeitig hat die Technisierung die Menschen aber NICHT auseinander und weg von der Natur getrieben, sondern diese Pole vereint.
 Menschen haben kleine Utopien, verrückte Gärten Edens, erschaffen. Sie leben dort neugierig und von Schaffensdrang getrieben zusammen und im Einklang mit Technik und Natur.
 
@@ -30,3 +32,9 @@ Es ist eine Welt, die gerade erst entsteht. Dein Feedback ist wichtig und wird d
 > * Nat: ...und wieder Hausarrest. Tagelang Videospiele zocken. Habe ich so keinen Bock drauf. Wollten doch morgen noch das Wasserrad fertig bauen
 > * Jef: (entfernt die Schutzschalter der Exoskelette) Ok, dann los
 > * _Verlorener aus dem Busch: Sie scheinen uns nicht gesehen zu haben. Glück gehabt (macht die Panzerfaust bereit)._
+
+## English version
+
+Current development happens in the English version.
+
+Sourcebook: [Solarpunk 2050 (beta) PDF](https://github.com/Thorsten-Sick/Solarpunk2050/blob/master/downloads/Solarpunk2050_sourcebook_en.pdf)
