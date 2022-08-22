@@ -1,40 +1,31 @@
-## Willkommen bei Solarpunk
+## Welcome to Solarpunk 2050 - a FATE setting
 
-English version below
+Solarpunk is the friendly and not psychopathic brother of Cyberpunk. People life in harmony with technology, society, nature and spirituality.
 
-Solarpunk ist der freundliche und nicht psychopathische Bruder von Cyberpunk. Die Gesellschaft ist zwar genau so aufgedreht, teils überhitzt und krasser (also unterhaltsamer) als unsere. Gleichzeitig hat die Technisierung die Menschen aber NICHT auseinander und weg von der Natur getrieben, sondern diese Pole vereint.
-Menschen haben kleine Utopien, verrückte Gärten Edens, erschaffen. Sie leben dort neugierig und von Schaffensdrang getrieben zusammen und im Einklang mit Technik und Natur.
+The solutions to the world's problems are implemented - most of them work as expected.
+There are small and crazy Gardens of Eden, small personal utopias, and lots of curious and strange people.
 
-In einem solchen Setting gibt es kaum noch Heldentaten....also schnell den "What could possibly go wrong"-Hut aufgesetzt und viele Fehler ins Paradies eingebaut.
+This world could be so perfect that heroic stories have no place any more. But it's not. For authors, game masters and players to shine there is one big thing: we are to there yet. Some places might be at one hundred percent Solarpunk. But there is still the wilderness, a history of dark secrets and more:
 
-* Mad Max Dauer-LARPer, die "Verlorenen"
-* James Bond-Style-Bösewichte, die ihre Verbrechen an der Natur durch Geo-Engineering mit mehr Geo-Engineering kaschieren wollen (aka "Verschlimmbessern")
-* Der ermordete Papst, die freidrehende Inquisition
-* KI-gesteuerte Städte, die auf maximale Lebensqualität optimiert sind
-* Rohstoff-Goldrausch in alten Mülldeponien
-* Städte mit "Normalen" Menschen wie in "Demolition Man" oder dem Capitol in die "Tribute von Panem"
-* Die mutierten Hamster, die Leute angreifen
-* Solarpunks, die nicht aufhören wollen, die Welt noch mehr zu retten
+* Three fractions have their own interpretation of a sustainable life. None of them is totally wrong
+* James Bond style Evil Overlords from before the transformation still try to control fate
+* A murdered Pope and a unleashed inquisition wanting to turn back time
+* AI controlled cities. Optimized for quality of life of the inhabitants....what could possibly go wrong ?
+* Raw materials are rare materials - gold rush in the old ruins
+* Genetically engineered animals and plants that are out of control
+* Solarpunks still trying to safe the world
 
-Das Solarpunk Setting für das FATE Rollenspiel erlaubt es euch, in die Welt einzutauchen.
+This Solarpunk setting helps you to dive into this new world
+
+Development happens in the English version - edition 2.
+
+Sourcebook: [Solarpunk 2050 (beta) PDF](https://github.com/Thorsten-Sick/Solarpunk2050/blob/master/downloads/Solarpunk2050_sourcebook_en.pdf)
+
+The old but stable German Edition 1:
 
 [Solarpunk 2050 (beta) PDF](https://github.com/Thorsten-Sick/Solarpunk2050/blob/master/downloads/Solarpunk2050.pdf)
 
 [Solarpunk 2050 Con Abenteuer 1 PDF](https://github.com/Thorsten-Sick/Solarpunk2050/blob/master/downloads/Solarpunk2050_Con_Abenteuer_1.pdf)
 
-Es ist eine Welt, die gerade erst entsteht. Dein Feedback ist wichtig und wird die Ereignisse lenken, hinterlasse Ideen auf Github unter [Issues](https://github.com/Thorsten-Sick/Solarpunk2050/issues).
-
-
-> Nat stand auf dem Hügel. Die Sonne geht bereits jenseits des friedlichen Tals unter. Die Servos seines Exoskeletts schalteten auf Leerlauf. Unter ihm lag die Siedlung der Solarpunks. Obstwiesen, mit Solarpanels gegen Hagel geschützt. Windräder auf dem Hügel. Im Tal die selbstgebauten Häuser. Mit surrenden Motoren näherte sich sein Bruder Jef von hinten.
-> * Jef: Ärger. Das gibt viel Ärger
-> * Nat: Schlimmer als letztes Mal. Wir müssen schnell sein
-> * Jef: Dann mach die Sicherungen aus. Wir müssen in 5 Minuten unten sein. Wenn wir nicht rechtzeitig zum Essen kommen gibt es Ärger mit unseren Müttern
-> * Nat: ...und wieder Hausarrest. Tagelang Videospiele zocken. Habe ich so keinen Bock drauf. Wollten doch morgen noch das Wasserrad fertig bauen
-> * Jef: (entfernt die Schutzschalter der Exoskelette) Ok, dann los
-> * _Verlorener aus dem Busch: Sie scheinen uns nicht gesehen zu haben. Glück gehabt (macht die Panzerfaust bereit)._
-
-## English version
-
-Current development happens in the English version.
-
-Sourcebook: [Solarpunk 2050 (beta) PDF](https://github.com/Thorsten-Sick/Solarpunk2050/blob/master/downloads/Solarpunk2050_sourcebook_en.pdf)
+This world is still growing. Please help us nurturing it ! [Issues](https://github.com/Thorsten-Sick/Solarpunk2050/issues).
+s
