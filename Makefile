@@ -24,9 +24,13 @@ pdf:
 	@$(SPHINXBUILD) -M latexpdf ./de/con_abenteuer_1 ./de/con_abenteuer_1/_build $(SPHINXOPTS) $(O)
 	cd en/sourcebook && pdflatex sourcebook.tex
 	cd ../..
+	cd en/con_adventure_1 && pdflatex -halt-on.error standalone.tex
+	mv en/con_adventure_1/standalone.pdf en/con_adventure_1/adventure_world_destroying_machine.pdf
+	cd ../..
 	cp ./de/sourcebook/_build/latex/Solarpunk2050.pdf downloads
 	cp ./de/con_abenteuer_1/_build/latex/Solarpunk2050_Con_Abenteuer_1.pdf downloads
 	cp en/sourcebook/sourcebook.pdf downloads/Solarpunk2050_sourcebook_en.pdf
+	cp en/con_adventure_1/adventure_world_destroying_machine.pdf downloads	
 
 epub:
 	@$(SPHINXBUILD) -M epub ./de/sourcebook ./de/sourcebook/_build $(SPHINXOPTS) $(O)
