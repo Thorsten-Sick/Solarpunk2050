@@ -3,6 +3,8 @@
 *.log
 *.out
 *.toc
+*.dvi
+*.aux
 
 # Build folders
 **/_build
