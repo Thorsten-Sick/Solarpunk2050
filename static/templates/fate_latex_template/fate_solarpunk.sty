@@ -1,6 +1,8 @@
 % Fate uses Gotham for titles; Montserrat is close and free
 % After loading this package, \sffamily selects Montserrat
 \RequirePackage{montserrat}
+% For the warning box, https://tex.stackexchange.com/questions/8689/how-to-create-a-warning-box-like-this-see-the-figure-to-get-the-idea
+\usepackage{pifont,mdframed}
 % Fate uses Garamond for text
 \RequirePackage{ebgaramond}
 % Fate books are all 6x9 inches, margins 1 1/4 inches
@@ -304,6 +306,13 @@
 % A npc comment. #1: Name of the NPC #2 Quote
 \newcommand{\npcquote}[2]{\noindent\textbf{#1:} #2.}
 
+
+% A warning box
+\newenvironment{warning}
+  {\par\begin{mdframed}[linewidth=2pt,linecolor=red]%
+    \begin{list}{}{\leftmargin=1cm
+                   \labelwidth=\leftmargin}\item[\Large\ding{43}]}
+  {\end{list}\end{mdframed}\par}
 % Arguments: title, width (percent of textwidth), alignment, text
 %
 % NOTE: LaTeX is _not_ good at placing these. You may have to fiddle with
@@ -340,6 +349,11 @@
 
 % Formatting for stress boxes
 \newcommand{\stress}[1]{\framebox[5mm]{#1}\ }
+
+% marked stress boxes for pre-injured characters
+\newcommand{\markedstress}[1]{
+\fcolorbox{black}{red}{\makebox[3mm]{#1}}
+}
 
 \newcommand{\origin}[1]{\noindent\textbf{Origin:} #1.}
 
@@ -399,7 +413,7 @@
 % Lists for various NPC parts
 \newlist{npcList}{itemize}{1}
 \setlist[npcList] {
-  itemindent=10pt,
+  itemindent=5pt,  % 10 was to much
   leftmargin=0pt,
   label=
 }
@@ -419,6 +433,13 @@
   \paragraph{{\small\textbf{\textsf{CONSEQUENCES}}}}
   \begin{npcList}}
   {\end{npcList}}
+\newenvironment{equipment}{
+  \paragraph{{\small\textbf{\textsf{EQUIPMENT}}}}
+  \begin{npcList}}
+  {\end{npcList}}
+\newenvironment{appearance}
+  {\noindent\small\textbf{\textsf{APPEARANCE:}} }
+  {}
 \newenvironment{npcDescription}
   {\noindent\small\textbf{\textsf{DESCRIPTION:}} }
   {}
