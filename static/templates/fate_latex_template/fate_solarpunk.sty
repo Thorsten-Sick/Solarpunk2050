@@ -220,6 +220,31 @@
   #1
 }
 
+
+%% This reason box will be set to invisible in the final version !!! 
+\DeclareTColorBox{reason}{ o }{
+  title=Reason,
+  colframe=red!100!red,
+  colupper=white!100!white,
+  colback=red!100!red,
+  halign title = center,
+  fonttitle=\sffamily\bfseries,
+  fontupper=\sffamily\small,
+  width=\textwidth,
+  code         = {\linespread{.9}},
+  boxrule      = 0pt,
+  enhanced,
+  parbox       = false,
+  % This combination of options is easier than drawing the box, less error-
+  % prone, and the shadow is created correctly.
+  sharp corners = uphill,
+  arc=0.125in,
+  arc is angular,
+  drop fuzzy shadow,
+  #1
+}
+
+
 \DeclareTColorBox{solartalk}{ o }{
   colframe=green!100!green,
   colupper=white!100!white,
