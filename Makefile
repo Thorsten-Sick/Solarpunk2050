@@ -22,9 +22,9 @@ help:
 pdf:
 	@$(SPHINXBUILD) -M latexpdf ./de/sourcebook ./de/sourcebook/_build $(SPHINXOPTS) $(O)
 	@$(SPHINXBUILD) -M latexpdf ./de/con_abenteuer_1 ./de/con_abenteuer_1/_build $(SPHINXOPTS) $(O)
-	cd en/sourcebook && pdflatex sourcebook.tex
+	cd en/sourcebook && pdflatex sourcebook.tex && pdflatex sourcebook.tex
 	cd ../..
-	cd en/con_adventure_1 && pdflatex -halt-on.error standalone.tex
+	cd en/con_adventure_1 && pdflatex -halt-on.error standalone.tex && pdflatex -halt-on.error standalone.tex
 	mv en/con_adventure_1/standalone.pdf en/con_adventure_1/adventure_world_destroying_machine.pdf
 	cd ../..
 	cp ./de/sourcebook/_build/latex/Solarpunk2050.pdf downloads
