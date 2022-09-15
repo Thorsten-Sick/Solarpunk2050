@@ -5,6 +5,8 @@
 *.toc
 *.dvi
 *.aux
+*.fls
+*.fdb_latexmk
 
 # Build folders
 **/_build
