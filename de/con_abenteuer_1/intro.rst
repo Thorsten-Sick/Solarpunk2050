@@ -1,7 +1,7 @@
 Intro
 =====
 
-Solarpunk ist ein SciFi Genre über eine utopistische Zukunft. Solarpunk 2050 ist das Fate setting, in dem dieses Ziel fast erreicht ist. Die Helden, sogenannte Solarpunks, leben in naturnahen, technologiefreundlichen und sozial fortschrittlichen Communities. Nahe der großen Städte, in denen die Normalen ihrem täglichen Leben nachgehen - und mit dem wilden Leben der Solarpunks fremdeln.
+Solarpunk ist ein SciFi Genre über eine utopistische Zukunft. Solarpunk 2050 ist das Fate setting, in dem dieses Ziel fast erreicht ist. Die Protagonisten, sogenannte Solarpunks, leben in naturnahen, technologiefreundlichen und sozial fortschrittlichen Communities. Nahe der großen Städte, in denen die Normalen ihrem täglichen Leben nachgehen - und mit dem wilden Leben der Solarpunks fremdeln.
 
 
 Für den Spielleiter

@@ -8,8 +8,8 @@ In the year 2050 mankind solved the climate crisis and is living in a better wor
 
 Contribution: This project is Open Source. Please contribute to this setting. If you base your work on it: connect back to the setting, contribute your ideas. Help it grow !
 
-Fractions
-=========
+Factions
+========
 
 Norms
 -----
@@ -27,19 +27,19 @@ Architect: AI says the house will be ready in 2 days. It is already organizing t
 
 Without access to their local AI and socienty they lose lots of their abilities.
 
-Solarpunks
+Pioneers
 ----------
 
 Hyper progressive people building their own societies from scratch. They were essential when building the world the Norms now live in. But they just did not stop innovating when the world was safed.
-Heroes of adventures are mostly Solarpunks. They are flexible enough to find solutions where the Norm society just fails.
+Heroes of adventures are mostly Pioneers. They are flexible enough to find solutions where the Norm society just fails.
 
 But sometimes their thirst for action causes chaos where a more structured approach of the Norm society would have been a netter option.
 
-Solarpunks life in communities that are experimental. The society there is experimental, the structure, the local economy ...
+Pioneers life in communities that are experimental. The society there is experimental, the structure, the local economy ...
 
 They prefer DIY approach to everything and are good tinkerers and scientists. Well, mad scientists. In a positive way.
 
-Boring things is what Solarpunks fail at...
+Boring things is what Pioneers fail at...
 
 The Lost (Die Verlorenen)
 -------------------------
