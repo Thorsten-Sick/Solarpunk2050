@@ -43,7 +43,7 @@ epub:
 
 all:
 	make pdf
-	make epub
+	# make epub
 	
 vale:
 	vale --config .vale_en.ini en/sourcebook/*.tex
