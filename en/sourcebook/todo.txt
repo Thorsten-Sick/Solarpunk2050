@@ -1,5 +1,3 @@
-* Rename Solarpunks. Options are: Pioneers, Reformists, Progressives, Radicals, Enlightened, 
-* Rename Fractions to Faction, find alternative names https://www.thesaurus.com/browse/group
 * Are there criminals ? 
 * Water scarcity as plot ?
 * A Roanoke caused by AI Amok when the AI is started
@@ -8,9 +6,8 @@
 
 * Norm apps will work also in the region of other AIs !
 
-* Special skills: 
-- Lost: Bushcraft
-- Norms: hive power
-- Pioneers: tech improvisation
 
 * Rename Norm Cities into Hive ?
+
+* Index, Title, contributions: Fate style
+https://www.overleaf.com/learn/latex/Indices
