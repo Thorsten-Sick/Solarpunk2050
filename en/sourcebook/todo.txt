@@ -8,6 +8,11 @@
 
 
 * Rename Norm Cities into Hive ?
+* Norms did "Retrofit" old buildings into Solarpunk ones. With mass produced items - This creates their uniqe look
+
+* Lost recycle and upcycle stuff from the past
+
+* The UN organizes the Resource Points Not the Eu
 
 * Index, Title, contributions: Fate style
 https://www.overleaf.com/learn/latex/Indices
