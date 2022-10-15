@@ -1,7 +1,7 @@
 extends: spelling
 message: "Spellcheck: '%s'"
-dicpath: vale/styles/spelling
+dicpath: vale_styles/spelling
 dictionaries:
   - en_GB
 level: warning
-ignore: vale/styles/spelling/ignore.txt
+ignore: vale_styles/spelling/ignore.txt
