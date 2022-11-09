@@ -6,6 +6,19 @@
 \usepackage{ebgaramond}
 \usepackage{hyperref}
 
+%%%%%% Fixing overful hboxes 
+%% https://tex.stackexchange.com/questions/35/what-does-overfull-hbox-mean-why-is-there-a-black-mark-at-the-end-of-a-line
+\usepackage{hyphenat}
+%% \hyp{} can mark where words can break
+%% Make it simpler:
+%% https://tex.stackexchange.com/questions/488008/how-to-create-an-alternative-to-shortcut-or-hyp
+\usepackage[english]{babel}
+
+\useshorthands{~}
+\defineshorthand{~-}{\hyp{}}
+%% ~- can mark this break now
+
+
 %... other code
 
 % \section{Hello World}

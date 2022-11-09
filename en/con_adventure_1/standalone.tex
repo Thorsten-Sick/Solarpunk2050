@@ -1,10 +1,25 @@
 % This file can be used to compile the adventure into a stand alone PDF without the sourcebook
 \documentclass{book}
 
+
 \usepackage{../../static/templates/fate_latex_template/fate_solarpunk}
 \usepackage{montserrat}
 \usepackage{ebgaramond}
 \usepackage{hyperref}
+
+%%%%%% Fixing overful hboxes 
+%% https://tex.stackexchange.com/questions/35/what-does-overfull-hbox-mean-why-is-there-a-black-mark-at-the-end-of-a-line
+\usepackage{hyphenat}
+%% \hyp{} can mark where words can break
+%% Make it simpler:
+%% https://tex.stackexchange.com/questions/488008/how-to-create-an-alternative-to-shortcut-or-hyp
+\usepackage[english]{babel}
+
+\useshorthands{~}
+\defineshorthand{~-}{\hyp{}}
+%% ~- can mark this break now
+
+
 
 %... other code
 
@@ -21,6 +36,11 @@
 
 \pagenumbering{arabic}
 \begin{document}
+
+
+%% Hyphenation database:
+\hyphenation{meal-worm Mc-Gyver fa-mous be-cause}
+%%%%%
 
 \chapter{Introduction}
 
