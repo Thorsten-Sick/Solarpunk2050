@@ -55,6 +55,8 @@ I played cool RPG settings with only 2-3 major storys that can be played....
 RPG levels
 ==========
 
+Role playing games are unfinished stories. The players and the GM are in charge.
+
 Rules
 -----
 
@@ -141,6 +143,25 @@ Tutorial style
 --------------
 
 In the old days we read 3 books before we started playing....now we have tutorials
+
+Resources
+=========
+
+    Scarce resources (those resource points) are a good story hook. You can use it for adventures like expeditions, for loot, or crime stories where criminals try to trick the system to get more resource points. This is also the reason why they can not be traded. It would be to easy that way to trade them for other resources like money.
+
+Resource points
+---------------
+
+Barter
+------
+
+Basic income
+------------
+
+Reason to use the free shelves in the game instead money transfered to the characters account: If just resource points are automatically refreshed and the character is buying stuff with a price tag it will not be part of the game world. This way the player can decide to grab something from the free shelve or pay for something premium. That way the basic income can be experienced. In a real world economy it would be smarter to just transfer a certaina mount of money to someones account and have them decide what to spend that on.
+
+Meritocracy
+-----------
 
 Books
 =====
