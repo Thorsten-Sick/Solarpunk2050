@@ -13,3 +13,9 @@
 
 # VSCode folders
 .vscode/
+
+presentations/*/build/*
+
+removeme/*
+
+sourcebook.synctex.gz
