@@ -13,8 +13,8 @@ Solarpunk Worldbuilding
 
 
 
-Solarpunk
-=========
+Solarpunk 2050
+==============
 
 Worldbuilding
 =============
@@ -35,7 +35,7 @@ A world where players want to live in
 
 Solarpunk is a positive world. But different people have different tastes. 
 
-3 Shades of Solarpunk
+3 Shades of Solarpunk (Norm, Lost, Progressives)
 
 A unfinished world
 ------------------
@@ -45,17 +45,18 @@ A perfect Solarpunk world would not offer satisfaction by solving issues
 An accessible world
 -------------------
 
-I played cool RPG settings with so complex internals that everyone spent the evening discussing and guessing...
+I played cool RPG settings with mega complex world internals that everyone spent the evening discussing and guessing...we can do better
 
 A world with different issues
 -----------------------------
 
-I played cool RPG settings with only 2-3 major storys that can be played....
+I played cool RPG settings with only 2-3 major storys that can be played....this is not enough !
 
 RPG levels
 ==========
 
 Role playing games are unfinished stories. The players and the GM are in charge.
+There are different levels of pre-prepared stuff for the GM presenting the world to the players.
 
 Rules
 -----
@@ -71,19 +72,29 @@ This is built in this worldbuilding. Many rules already include a setting. Or yo
 Adventure
 ---------
 
+Adventure books can be bought. This is how many GMs start. Then:
+
+* Adjust the adventure to the group
+* Write own adventures
+* Write campaigns
+
+
 Characters
 ----------
 
 Three factions to offer different perspectives. And make different player types happy.
 
-* Lost: Fighters and adventurerers
+* Lost: Fighters and adventurers
 * Norms: Wizards and allrounder
-* Progressives: Mad science, creativity
+* Progressives: Mad science, creativity, nerd
 
 Also: Mixing them in an adventure group causes interaction. Which is good.
 
 The game being played
 ---------------------
+
+Solarpunk is more towards *character interaction* and *dilemma* than towards tactics and fighting.
+There could still be a part of an adventure where fighting is required.
 
 Goal
 ====
@@ -104,30 +115,109 @@ Playable world
 Inspiring people
 ----------------
 
-Goal is to inspire people and give them a positive vision of the future
+Goal is to inspire people and give them a positive vision of the future. Extra points if players start discussing the different approaches of the factions the day after playing.
+
+Breaking patterns
+-----------------
+
+Stories are built out of "tropes". The tropes used in our stories are very often negative. Break that.
 
 Positivity
 ----------
 
 Solarpunk is about a positive future. Keep as much as possible of that alive while still offering adventure
 
+
+3 is magic
+----------
+
+In mind storming sessions we try to reach 3 options: After getting there it is much simpler to add even more
+
+3 is more magic
+---------------
+
+Three factions can build different alliances and those can change. It is the firt odd number where this can happen
+
+
+Shatter institutions to generate adventures
+===========================================
+
+De-civilize large parts of the world. 
+
+Church
+------
+
+A schism is great. Kill a pope, unleash the inquisition. And build a modern church in parallel to make everything much more confusing
+
+Governments
+-----------
+
+Remove all governments with direct impact. Keep the UN to hand out missions and resource points
+
+Rich people
+-----------
+
+"Eat the rich festivals" with a even more shocking truth
+
+The Orbit
+---------
+
+* Kill navigation, communication, weather monitoring - all those things take the adventure out of life
+* Kessler syndrome is a good solution
+
+Civilisation
+------------
+
+* Large regions of the world should go back to a wild state
+* Catastrophes can create different kinds of wilderness
+
+Still existing
+--------------
+
+* DIY islands of different flavours of Solarpunk
+* This is the size a group of protagonists can influence
+* This is the size a group of players can imagine (a comfy sized set of NPCs, ...)
+
 Learning by doing
 =================
 
 I decided to explore Solarpunk more than inventing it. This is why I keep playing with different people and do brainstorming
 
+Play adventures
+---------------
+
+With different groups
+
+Get pictures
+------------
+
+Different styles, different parts of the world
+
+Discuss Solarpunk
+-----------------
+
+There are many ideas out there
+
+Build other stuff based on this setting
+---------------------------------------
+
+* Stories
+* Comics
+* Computer games
+
+
 Lessons learned
 ===============
 
-Not everyone is sparkly
------------------------
+Not everyone is a nerd
+----------------------
 
-A player wanted to play a Solarpunk outsider
+A player wanted to play a Progressive outsider...
 
 Not everyone is creative
 ------------------------
 
-Hacker mentality can not be simulated at the table. Give them alternatives
+Hacker mentality can not be simulated at the table. Give them alternative characters to play
 
 Back to the dirty past
 ----------------------
@@ -147,24 +237,76 @@ In the old days we read 3 books before we started playing....now we have tutoria
 Resources
 =========
 
-    Scarce resources (those resource points) are a good story hook. You can use it for adventures like expeditions, for loot, or crime stories where criminals try to trick the system to get more resource points. This is also the reason why they can not be traded. It would be to easy that way to trade them for other resources like money.
+Resources make a good plot hook. Earning, stealing, trading. 
 
 Resource points
 ---------------
 
+* Universal system
+* Enforces recycling
+
+
 Barter
 ------
+
+* Lost only
+* Very basic, no trust in the system required
+
+Different systems for the factions
+----------------------------------
+
+* Makes trading more interesting
+* Experimenting with options
 
 Basic income
 ------------
 
-Reason to use the free shelves in the game instead money transfered to the characters account: If just resource points are automatically refreshed and the character is buying stuff with a price tag it will not be part of the game world. This way the player can decide to grab something from the free shelve or pay for something premium. That way the basic income can be experienced. In a real world economy it would be smarter to just transfer a certaina mount of money to someones account and have them decide what to spend that on.
+* Every Norm gets basic income
+* Free shelves instead a stat on character sheet - perceptible
+
 
 Meritocracy
 -----------
 
-Books
+* Progressives fall back to meritocracy.
+
+Plans
 =====
+
+Some pieces are still missing
+
+Adventures
+----------
+
+We needs 3-4 adventures of different styles
+
+Charakters
+----------
+
+A bunch of typical characters
+
+History
+-------
+
+A history book. Maybe adventures or plot hooks to play between 2020 and 2050
+
+Gear
+----
+
+Players love gear. It also defines the world. Gear can also be philosophies and other non-material stuff
+
+Trouble
+-------
+
+Things for the GM to start stories with
+
+* Monsters
+* Toxic societies
+* Wilderness
+
+
+Books to read
+=============
 
 * Kobold Guide to Worldbuilding
 * Robin's laws
@@ -176,8 +318,8 @@ Tools
 
 * The story engine
 
-Contribution
-============
+Whats next
+==========
 
 It is open source. I need:
 --------------------------
@@ -186,7 +328,7 @@ It is open source. I need:
 * Adventures
 * Spell check
 * Content check
-* Images
+* Pictures
 * Publicity
 
 Publishing
