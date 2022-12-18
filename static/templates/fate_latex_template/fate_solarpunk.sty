@@ -421,6 +421,25 @@
     }[\PackageError{tree}{Undefined option to skill: #1}{}]%
 }
 
+
+% Create the heading for a list of skills at a given rank
+\newcommand{\nskill}[2]
+{
+  \IfEqCase{#2}{
+        {8}{\textbf{#1: }Legendary (+8)}
+        {7}{\textbf{#1: }Epic (+7)}
+        {6}{\textbf{#1: }Fantastic (+6)}
+        {5}{\textbf{#1: }Superb (+5)}
+        {4}{\textbf{#1: }Great (+4)}
+        {3}{\textbf{#1: }Good (+3)}
+        {2}{\textbf{#1: }Fair (+2)}
+        {1}{\textbf{#1: }Average (+1)}
+        {0}{\textbf{#1: }Mediocre (+0)}
+        {-1}{\textbf{#1: }Poor (-2)}
+        {-2}{\textbf{#1: }Terrible (-2)}
+    }[\PackageError{tree}{Undefined option to skill: #2}{}]%
+}
+
 \newcommand{\consequence}[1]
 {
   \IfEqCase{#1}{
