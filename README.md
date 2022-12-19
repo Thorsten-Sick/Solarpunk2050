@@ -101,3 +101,10 @@ Vermeiden:
 Nutzen:
 * Verben
 * Sätze so 10-20 Worte lang
+
+## Tool Tips
+
+I am using VSCode and the extensions:
+
+* LaTeX Workshop
+* 
