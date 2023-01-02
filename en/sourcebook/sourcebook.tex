@@ -5,14 +5,27 @@
 \usepackage{ebgaramond}
 \usepackage{hyperref}
 
+% For the subtitle
+% https://tex.stackexchange.com/questions/50182/subtitle-with-the-maketitle-page/50186#50186
+\usepackage{titling}
+ \newcommand{\subtitle}[1]{%
+    \posttitle{%
+   \par\end{center}
+    \begin{center}\large#1\end{center}
+    \vskip0.5em}%
+}
+
 % For creating example text
-\usepackage{lipsum}
+% \usepackage{lipsum}
 
 \title{Fate Solarpunk 2050}
+% \subtitle{A Solarpunk revolution}
 \author{Thorsten Sick}
 
 \pagenumbering{arabic}
 \begin{document}
+
+\maketitle
 
 \tableofcontents
 
@@ -41,7 +54,8 @@
 %solarpunk_tech
 %lost_tech
 %norms_tech
-
+\input{gear}
+\input{trouble}
 % rules
 % names
 \input{stop_reading}
