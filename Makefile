@@ -60,3 +60,6 @@ vale:
 
 vale_pedantic:
 	vale --config .vale_en.ini --minAlertLevel=warning en/sourcebook/*.tex
+
+clean:
+	rm en/sourcebook/*.aux
