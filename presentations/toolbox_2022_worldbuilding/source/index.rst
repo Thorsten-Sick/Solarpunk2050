@@ -318,6 +318,13 @@ Tools
 
 * The story engine
 
+Digital Pen & Paper
+===================
+
+* Roll 20
+* Rule books as PDFs
+* Discord enhancements
+
 Whats next
 ==========
 
