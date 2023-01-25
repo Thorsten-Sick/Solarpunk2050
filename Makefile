@@ -22,7 +22,7 @@ help:
 pdf:
 	@$(SPHINXBUILD) -M latexpdf ./de/sourcebook ./de/sourcebook/_build $(SPHINXOPTS) $(O)
 	@$(SPHINXBUILD) -M latexpdf ./de/con_abenteuer_1 ./de/con_abenteuer_1/_build $(SPHINXOPTS) $(O)
-	cd en/sourcebook && pdflatex sourcebook.tex && pdflatex sourcebook.tex
+	cd en/sourcebook && pdflatex sourcebook.tex %% makeindex sourcebook.idx && pdflatex sourcebook.tex
 	cd ../..
 
 	# Adventure 1
@@ -63,3 +63,7 @@ vale_pedantic:
 
 clean:
 	rm en/sourcebook/*.aux
+	rm en/sourcebook/*.idx
+	rm en/sourcebook/*.ind
+	rm en/sourcebook/*.out
+

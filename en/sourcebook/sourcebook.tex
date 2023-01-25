@@ -23,6 +23,11 @@
 \author{Thorsten Sick}
 
 \pagenumbering{arabic}
+
+% Index stuff https://www.namsu.de/Extra/pakete/Makeidx.html
+\usepackage{makeidx}
+% \usepackage{showidx}  % Shows index marker at page side
+\makeindex
 \begin{document}
 
 \maketitle
@@ -69,7 +74,12 @@
 
 %\input{layout_playground}
 
-%%%%%%%%%%%%%%%%%%%%%%
+% %%%%%%%%%%%%%%%%%%%%%
 
+% Index
+% \chapter{Index}
+\renewcommand{\indexname}{Index}
+\addcontentsline{toc}{chapter}{Index}
+\printindex
 
 \end{document}
