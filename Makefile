@@ -20,36 +20,26 @@ help:
 	@$(SPHINXBUILD) -M $@ ./de/con_abenteuer_1 ./de/con_abenteuer_1/_build $(SPHINXOPTS) $(O)
 
 pdf:
-	@$(SPHINXBUILD) -M latexpdf ./de/sourcebook ./de/sourcebook/_build $(SPHINXOPTS) $(O)
-	@$(SPHINXBUILD) -M latexpdf ./de/con_abenteuer_1 ./de/con_abenteuer_1/_build $(SPHINXOPTS) $(O)
-	cd en/sourcebook && pdflatex sourcebook.tex %% makeindex sourcebook.idx && pdflatex sourcebook.tex
-	cd ../..
-
+	cd en/sourcebook && latexmk -pdf -pdflatex="pdflatex -interaction=nonstopmode" sourcebook.tex
+	
 	# Adventure 1
-	cd en/con_adventure_1 && pdflatex -halt-on.error standalone.tex && pdflatex -halt-on.error standalone.tex
-	mv en/con_adventure_1/standalone.pdf en/con_adventure_1/adventure_world_destroying_machine.pdf
+	#cd en/con_adventure_1 && pdflatex -halt-on.error standalone.tex && pdflatex -halt-on.error standalone.tex
+	#mv en/con_adventure_1/standalone.pdf en/con_adventure_1/adventure_world_destroying_machine.pdf
 	
 	# Adventure 2
-	cd en/con_adventure_2_norms && pdflatex -halt-on.error standalone.tex && pdflatex -halt-on.error standalone.tex
-	mv en/con_adventure_2_norms/standalone.pdf en/con_adventure_2_norms/adventure_mystery_club.pdf
+	#cd en/con_adventure_2_norms && pdflatex -halt-on.error standalone.tex && pdflatex -halt-on.error standalone.tex
+	#mv en/con_adventure_2_norms/standalone.pdf en/con_adventure_2_norms/adventure_mystery_club.pdf
 	
 	# Adventure project lifeguard
-	cd en/adventure_project_lifeguard && pdflatex -halt-on.error standalone.tex && pdflatex -halt-on.error standalone.tex
-	mv en/adventure_project_lifeguard/standalone.pdf en/adventure_project_lifeguard/adventure_project_lifeguard.pdf
+	#cd en/adventure_project_lifeguard && pdflatex -halt-on.error standalone.tex && pdflatex -halt-on.error standalone.tex
+	#mv en/adventure_project_lifeguard/standalone.pdf en/adventure_project_lifeguard/adventure_project_lifeguard.pdf
 
 	cd ../..
-	cp ./de/sourcebook/_build/latex/Solarpunk2050.pdf downloads
-	cp ./de/con_abenteuer_1/_build/latex/Solarpunk2050_Con_Abenteuer_1.pdf downloads
+	
 	cp en/sourcebook/sourcebook.pdf downloads/Solarpunk2050_sourcebook_en.pdf
 	cp en/con_adventure_1/adventure_world_destroying_machine.pdf downloads	
-	cp en/con_adventure_2_norms/adventure_mystery_club.pdf downloads
+	
 	cp en/adventure_project_lifeguard/adventure_project_lifeguard.pdf downloads
-
-epub:
-	@$(SPHINXBUILD) -M epub ./de/sourcebook ./de/sourcebook/_build $(SPHINXOPTS) $(O)
-	@$(SPHINXBUILD) -M epub ./de/con_abenteuer_1 ./de/con_abenteuer_1/_build $(SPHINXOPTS) $(O)	
-	cp ./de/sourcebook/_build/epub/Solarpunk2050.epub downloads
-	cp ./de/con_abenteuer_1/_build/epub/Solarpunk2050_Con_Abenteuer_1.epub downloads
 
 all:
 	make pdf
