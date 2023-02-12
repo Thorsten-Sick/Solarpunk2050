@@ -6,7 +6,9 @@
 % Fate uses Garamond for text
 \RequirePackage{ebgaramond}
 % Fate books are all 6x9 inches, margins 1 1/4 inches
-\RequirePackage[paperwidth=6in, paperheight=9in, twoside, textwidth=4in, outer=1.25in, inner=0.75in, top=0.6875in, bottom=0.6875in]{geometry}
+% \RequirePackage[paperwidth=6in, paperheight=9in, twoside, textwidth=4in, outer=1.25in, inner=0.75in, top=0.6875in, bottom=0.6875in]{geometry}
+% I will publish ist as PDF, maybe someone will print it. But mostly it will be read on a screen. Making it larger now....
+\RequirePackage[paperwidth=148mm, paperheight=210mm, twoside, textwidth=10.16cm, outer=3.175cm, inner=1.905cm, top=1.74625cm, bottom=1.9cm]{geometry}
 % Formatting for chapters, sections, etc. in the Fate Core style
 \RequirePackage[explicit]{titlesec}
 % (Non-)headers and footers in the Fate style
@@ -21,6 +23,9 @@
 \RequirePackage{enumitem}
 % For laying out stress
 \RequirePackage{tabularx}
+
+% tcolorbox can use breaklable to split boxes https://www.ctan.org/pkg/tcolorbox
+\tcbuselibrary{breakable}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Turn off paragraph vertical justification
@@ -400,6 +405,8 @@
   arc=0.125in,
   arc is angular,
   drop fuzzy shadow,
+  breakable = true,
+  title after break = Continued,
   #1
 }
 
