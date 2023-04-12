@@ -33,7 +33,7 @@ The world must function. Or the players can hack it somehow or the suspension of
 A world where players want to live in
 -------------------------------------
 
-Solarpunk is a positive world. But different people have different tastes. 
+Solarpunk is a positive world. But different people have different tastes.
 
 3 Shades of Solarpunk (Norm, Lost, Progressives)
 
@@ -142,7 +142,7 @@ Three factions can build different alliances and those can change. It is the fir
 Shatter institutions to generate adventures
 ===========================================
 
-De-civilize large parts of the world. 
+De-civilize large parts of the world.
 
 Church
 ------
@@ -157,7 +157,7 @@ Remove all governments with direct impact. Keep the UN to hand out missions and 
 Rich people
 -----------
 
-"Eat the rich festivals" with a even more shocking truth
+"Eat the rich festivals" with a even more shocking truth. Rich people could have prevented all thos catastrophes. The only explanation why they did not: They are gone.
 
 The Orbit
 ---------
@@ -237,7 +237,7 @@ In the old days we read 3 books before we started playing....now we have tutoria
 Resources
 =========
 
-Resources make a good plot hook. Earning, stealing, trading. 
+Resources make a good plot hook. Earning, stealing, trading.
 
 Resource points
 ---------------
