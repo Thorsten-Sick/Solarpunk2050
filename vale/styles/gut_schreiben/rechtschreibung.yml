@@ -1,0 +1,8 @@
+extends: spelling
+message: "Wort '%s' ist falsch geschrieben"
+dicpath: vale/styles/gut_schreiben/spellcheck
+dictionaries:
+    - de_DE_frami
+level: warning
+ignore: vale/styles/gut_schreiben/spellcheck/ignore.txt
+
