@@ -25,18 +25,54 @@
 
 \lipsum[1]
 
+
+%% https://fate-srd.com/fate-condensed/getting-started
+
+%% Fate Condensed character rules:
+%% Skills: 1x+4, 2x+3, 3x+2, 4x+1
+%% Aspects: High concept, Trouble, Relationship, 2 Free Aspects
+%% Refresh 3
+%% 3 Stunt slots
+
 \begin{npcBox}[title=Dybbuk]
 
-\begin{aspects}
-\item \aspect[High Concept]{Ghost capable of possessing the living}
-\item \aspect[Trouble]{Will do anything to complete a task left unfinished during its life}
-\item \aspect[Weakness]{Blowing a shofar in the presence of a dybbuk automatically creates the advantage \textbf{Weakened} on the dybbuk, with one free invoke.}
-\end{aspects}
+    \begin{aspects}
+        \item \aspect[High Concept]{I copy nature}
+        \item \aspect[Trouble]{Technology must be art, must look natural}
+        \item \aspect[Relationship]{}
+        \item \aspect[Aspect]{}
+        \item \aspect[Aspect]{}
+        \end{aspects}
 
-\begin{skills}
-\item \skill{3} Will
-\item Whatever other skills the possessed individual has
-\end{skills}
+    \begin{skills}
+        \item \nskill{Academics}{3}
+        \item \nskill{Athletics}{1}
+        \item \nskill{Burglary}{0}
+        \item \nskill{Contacts}{1}
+        \item \nskill{Crafts}{4}
+        \item \nskill{Deceive}{0}
+        \item \nskill{Drive}{0}
+        \item \nskill{Empathy}{1}
+        \item \nskill{Fight}{2}
+        \item \nskill{Investigate}{0}
+        \item \nskill{Lore}{1}
+        \item \nskill{Notice}{0}
+        \item \nskill{Physique}{3}
+        \item \nskill{Provoke}{0}
+        \item \nskill{Rapport}{0}
+        \item \nskill{Resources}{2}
+        \item \nskill{Shoot}{0}
+        \item \nskill{Stealth}{0}
+        \item \nskill{Will}{2}
+
+        %% \item \nskill{Hive control}{3}
+        %% \item \nskill{Bushcraft}{3}
+        %% \item \nskill{Prototyping}{4}
+     \end{skills}
+
+    \begin{stunts}
+    \item \stunt{Name}{Description}
+    \end{stunts}
 
 \begin{stunts}
 \item \stunt{Possession}{A dybbuk may make a mental attack using Will. If the target fails to defend, the dybbuk takes possession of the individual until it is exorcised or completes its task.}
@@ -57,7 +93,13 @@
 \origin{Jewish}
 
 \begin{npcDescription}
-A dybbuk is a ghost capable of possessing a living human. As with most forms of possession, the task is easier if the target is weak-willed or immoral. Killing the possessed individual will stop the dybbuk from using that body, but will not vanquish it permanently. The dybbuk may be exorcised by a rabbi or priest; this will save the possessed individual but will not stop the dybbuk from possessing another individual. Allowing the dybbuk to complete its task, or aiding it, will cause it to move on to the afterlife; the task could range from helping the dybbuk’s living relatives to murdering an enemy of the dybbuk. 
+A dybbuk is a ghost capable of possessing a living human. As with most forms of possession, the task is easier if the target is weak-willed or immoral. Killing the possessed individual will stop the dybbuk from using that body, but will not vanquish it permanently. The dybbuk may be exorcised by a rabbi or priest; this will save the possessed individual but will not stop the dybbuk from possessing another individual. Allowing the dybbuk to complete its task, or aiding it, will cause it to move on to the afterlife; the task could range from helping the dybbuk’s living relatives to murdering an enemy of the dybbuk.
 \end{npcDescription}
+
+\begin{equipment}
+    \item Light source (OLED film: battery operation, can be cut to size and glued on. Colour controllable)
+    \item Mobile computers, headphones, communication via radio (mesh network)
+    \item A building construction bot (6 legs, insect style, painted by kids, size of a table)
+\end{equipment}
 
 \end{npcBox}
