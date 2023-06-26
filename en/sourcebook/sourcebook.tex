@@ -24,6 +24,18 @@
     \vskip0.5em}%
 }
 
+% Create title and background image
+% https://tex.stackexchange.com/questions/136900/insert-a-full-page-image
+% https://www.ctan.org/pkg/background
+\usepackage[pages=some]{background}
+\backgroundsetup{
+scale=1,
+angle=0,
+opacity=1,
+firstpage=true,
+contents={\includegraphics[width=\paperwidth,height=\paperheight]{static/title.png}}
+}
+
 % For creating example text
 % \usepackage{lipsum}
 
@@ -39,11 +51,18 @@
 \makeindex
 \begin{document}
 
+%
+% Book front page
+%
+\mbox{}
+\thispagestyle{empty}
+\BgThispage
+
 \maketitle
 
 \tableofcontents
 
-
+\input{dedication}
 \input{contributors}
 \input{elevator_pitch}  %% AI-ed
 \input{genesis}  %% AI-ed
