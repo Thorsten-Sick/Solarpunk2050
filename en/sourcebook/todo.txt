@@ -7,12 +7,10 @@
 * Norm apps will work also in the region of other AIs !
 
 
-* Rename Norm Cities into Hive ?
 * Norms did "Retrofit" old buildings into Solarpunk ones. With mass produced items - This creates their uniqe look
 
 * Lost recycle and upcycle stuff from the past
 
-* The UN organizes the Resource Points Not the Eu
 
 * Index, Title, contributions: Fate style
 https://www.overleaf.com/learn/latex/Indices
@@ -130,3 +128,13 @@ Flughafen altenrein
 Autokorrektur Buch
 
 Stadt Abenteuer. Wachen, nscs, unauffällige Kämpfe ghettos. Schaulustige
+
+
+
+Titel Font finden.
+
+Marc: https://fontesk.com/
+
+https://www.fontspace.com
+
+https://www.fontspace.com/yakin-font-f93241

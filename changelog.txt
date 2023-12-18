@@ -1,6 +1,11 @@
+Release 2
 
+* Added venice
+* Added transhumanism
+* Added Gene Dealer
+* Adding details to factions
 * Adding religion basics
-* Added Eath the rich festival and billionaire story line
+* Added Eat the rich festival and billionaire story line
 * Added story nugget Jaime and Elisabeth
 * Added Ravensburg adventure
 * Added crime and investigation
