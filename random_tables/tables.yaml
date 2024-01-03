@@ -1,0 +1,286 @@
+# Tags:
+# Sex_Male: Male people
+# Sex_All: Sex is not relevant
+# Country_All: Country is not relevant
+# Factions: Pioneer, Lost, Norm, Lemming, Factions_All
+
+
+Lost male names:
+  - Name: LMNames
+  - Description: Lost Names, Male
+  - Tags:
+    - Lost
+    - Sex_Male
+    - Country_All
+  - Items:
+    - Foo
+    - Bar
+Lost Items:
+  - Name: LItems
+  - Description: Lost Items
+  - Tags:
+    - Lost
+    - Sex_All
+    - Country_All
+  - Items:
+    - Foo
+    - Bar
+Norm Items:
+  - Name: NItems
+  - Description: Norm Items
+  - Tags:
+    - Norm
+    - Sex_All
+    - Country_All
+  - Items:
+    - Foo
+    - Bar
+Pioneer Items:
+  - Name: PItems
+  - Description: Pioneer Items
+  - Tags:
+    - Pioneer
+    - Sex_All
+    - Country_All
+  - Items:
+    - Foo
+    - Bar
+Lemmings Items:
+  - Name: LemmingItems
+  - Description: Lemmings Items
+  - Tags:
+    - Lemming
+    - Sex_All
+    - Country_All
+  - Items:
+    - Foo
+    - Bar
+Lost Jobs:
+  - Name: LJobs
+  - Description: Lost Jobs
+  - Tags:
+    - Lost
+    - Sex_All
+    - Country_All
+  - Items:
+    - Foo
+    - Bar
+Norm Jobs:
+  - Name: NJobs
+  - Description: Norm Jobs
+  - Tags:
+    - Norm
+    - Sex_All
+    - Country_All
+  - Items:
+    - Foo
+    - Bar
+Pioneer Jobs:
+  - Name: PJobs
+  - Description: Pioneer Jobs
+  - Tags:
+    - Pioneer
+    - Sex_All
+    - Country_All
+  - Items:
+    - Foo
+    - Bar
+
+# Show and music
+Norm Media:
+  - Name: NMedia
+  - Description: Norm Media
+  - Tags:
+    - Norm
+    - Sex_All
+    - Country_All
+  - Items:
+    - Foo
+    - Bar
+
+# Books
+Lost Media:
+  - Name: LMedia
+  - Description: Lost Media (mostly books)
+  - Tags:
+    - Lost
+    - Sex_All
+    - Country_All
+  - Items:
+    - Foo
+    - Bar
+
+# Pioneer Inventions
+Pioneer Inventions:
+  - Name: PInventions
+  - Description: Pioneer Inventions
+  - Tags:
+    - Pioneer
+    - Sex_All
+    - Country_All
+  - Items:
+    - Foo
+    - Bar
+
+# Norm Places
+Norm Places:
+  - Name: NPlaces
+  - Description: Norm Places
+  - Tags:
+    - Norm
+    - Sex_All
+    - Country_All
+  - Items:
+    - Ceres restaurant
+    - Ceres food production
+    - AI central
+    - Park
+
+# Lost Places
+Lost Places:
+  - Name: LPlaces
+  - Description: Lost Places
+  - Tags:
+    - Lost
+    - Sex_All
+    - Country_All
+  - Items:
+    - Foo
+    - Bar
+
+Pioneer Places:
+  - Name: PPlaces
+  - Description: Pioneer Places
+  - Tags:
+    - Pioneer
+    - Sex_All
+    - Country_All
+  - Items:
+    - Foo
+    - Bar
+
+# Generic events
+Events:
+  - Name: Events
+  - Description: Events
+  - Tags:
+    - Factions_All
+    - Sex_All
+    - Country_All
+  - Items:
+    - Foo
+    - Bar
+
+# Disasters
+Disasters:
+  - Name: Disasters
+  - Description: Disasters
+  - Tags:
+    - Factions_All
+    - Sex_All
+    - Country_All
+  - Items:
+    - Foo
+    - Bar
+
+Norm Vehicles:
+  - Name: NVehicles
+  - Description: Norm Vehicles
+  - Tags:
+    - Norm
+    - Sex_All
+    - Country_All
+  - Items:
+    - Foo
+    - Bar
+
+Lost Vehicles:
+  - Name: LVehicles
+  - Description: Lost Vehicles
+  - Tags:
+    - Lost
+    - Sex_All
+    - Country_All
+  - Items:
+    - Foo
+    - Bar
+
+Pioneer Vehicles:
+  - Name: PVehicles
+  - Description: Pioneer Vehicles
+  - Tags:
+    - Pioneer
+    - Sex_All
+    - Country_All
+  - Items:
+    - Foo
+    - Bar
+
+Norm Food:
+  - Name: NFood
+  - Description: Norm Food
+  - Tags:
+    - Norm
+    - Sex_All
+    - Country_All
+  - Items:
+    - Foo
+    - Bar
+
+Pioneer Food:
+  - Name: PFood
+  - Description: Pioneer Food
+  - Tags:
+    - Pioneer
+    - Sex_All
+    - Country_All
+  - Items:
+    - Foo
+    - Bar
+
+Lost Food:
+  - Name: LFood
+  - Description: Lost Food
+  - Tags:
+    - Lost
+    - Sex_All
+    - Country_All
+  - Items:
+    - Foo
+    - Bar
+
+Norm Clothes:
+  - Name: NClothes
+  - Description: Norm Clothes
+  - Tags:
+    - Norm
+    - Sex_All
+    - Country_All
+  - Items:
+    - Foo
+    - Bar
+
+Lost Clothes:
+  - Name: LClothes
+  - Description: Lost Clothes
+  - Tags:
+    - Lost
+    - Sex_All
+    - Country_All
+  - Items:
+    - Foo
+    - Bar
+
+Pioneer Clothes:
+  - Name: PClothes
+  - Description: Pioneer Clothes
+  - Tags:
+    - Pioneer
+    - Sex_All
+    - Country_All
+  - Items:
+    - Foo
+    - Bar
+
+#* Rumors
+#* Items in...
