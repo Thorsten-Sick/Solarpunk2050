@@ -33,7 +33,7 @@ scale=1,
 angle=0,
 opacity=1,
 firstpage=true,
-contents={\includegraphics[width=\paperwidth,height=\paperheight]{static/title.png}}
+contents={\includegraphics[width=\paperwidth,height=\paperheight]{static/cover_v2_with_title_lowres_2.png}}
 }
 
 % For creating example text
@@ -61,7 +61,8 @@ contents={\includegraphics[width=\paperwidth,height=\paperheight]{static/title.p
 \maketitle
 
 \tableofcontents
-
+\clearpage
+\setcounter{page}{1}
 \input{dedication}
 \input{contributors}
 \input{community}  %% AI-ed
@@ -80,10 +81,7 @@ contents={\includegraphics[width=\paperwidth,height=\paperheight]{static/title.p
 % todo: life
 %humans_and_communities
 \input{world} %% AI-ed
-% \input{economy}
-% \input{pioneers_detailed}
-% \input{norms_detailed}
-% \input{lost_detailed}
+
 \input{building_a_character} %% AI-ed
 \input{philosophies}
 %solarpunk_tech
@@ -91,17 +89,27 @@ contents={\includegraphics[width=\paperwidth,height=\paperheight]{static/title.p
 %norms_tech
 \input{gear} %% AI-ed
 \input{trouble} %% AI-ed
-\input{locations}
 % rules
 % names
+
 \input{stop_reading} %% AI-ed
+\input{world_for_gm}
+\input{locations}
+
+% adventures go here
 \input{../con_adventure_1/adventure_1.tex}  %% AI-ed
 \input{../adventure_project_lifeguard/adventure.tex}
+\input{../adventure_ravensburg/adventure.tex}
+
+% Snippets go here
+\input{story_nuggets.tex}
+
 % \input{../con_adventure_2_norms/adventure.tex}
 % bodensee
 % adventure
 \input{concept}
 \input{licence}
+\input{title_story}
 
 %\input{layout_playground}
 
