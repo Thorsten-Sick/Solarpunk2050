@@ -205,6 +205,24 @@ Build other stuff based on this setting
 * Comics
 * Computer games
 
+Factions
+========
+
+Pioneers
+--------
+
+I added the permission to keep some technologies (up to 8) a secret despite sharing is caring. Because:
+
+* Strengthens individualistic stuff, compared to Norms
+* Is a good plot hook
+
+Norms
+-----
+
+Lost
+----
+
+
 
 Lessons learned
 ===============
