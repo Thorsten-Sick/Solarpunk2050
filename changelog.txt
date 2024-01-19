@@ -1,3 +1,5 @@
+* Adding Blessed Rangers
+
 Release 2
 
 * Added venice
