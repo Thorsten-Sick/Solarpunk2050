@@ -8,12 +8,26 @@
 *.fls
 *.fdb_latexmk
 *.bak
+*.idx
+*.ilg
+*.ind
+
+
+# Spell check
+*.aff
+*.dic
+
 
 # Build folders
 **/_build
 
 # VSCode folders
 .vscode/
+.idea/
+
+# Zipped content
+static/logo/TripleYinYangTray.zip
+
 
 presentations/*/build/*
 

@@ -6,7 +6,7 @@ Die *Solarpunks* leben ihre hyper progressive Technik Utopie während die *Norma
 
 Die Arbeit der Solarpunks ist also noch nicht beendet. Und da sind sie froh darüber.
 
-Lötkolben auspacken. Wir brauchen eine neue autonome Solarfarm für die Erweiterung der Community. Wer sichert diesmal den Perimeter ? Haben wir genügend Drohnen ? 
+Lötkolben auspacken. Wir brauchen eine neue autonome Solarfarm für die Erweiterung der Community. Wer sichert diesmal den Perimeter ? Haben wir genügend Drohnen ?
 
 [Solarpunk 2050 PDF](https://github.com/Thorsten-Sick/Solarpunk2050/releases)
 
@@ -32,11 +32,11 @@ Baue originelle Communities und Städte. Nimm am besten etwas aus deiner Region.
 
 ### Am Setting
 
-Wenn du das ganz dicke Brett bohren willst: Trage am Setting bei. Starte ein Issue, fange dort an, deine Idee zu diskutieren und erstelle danach ein Pull Request mit deinen Text Änderungen 
+Wenn du das ganz dicke Brett bohren willst: Trage am Setting bei. Starte ein Issue, fange dort an, deine Idee zu diskutieren und erstelle danach ein Pull Request mit deinen Text Änderungen
 
 ### Solarpunk international
 
-Wie gestaltet sich die Solarpunk Veränderung in anderen Ländern ? 
+Wie gestaltet sich die Solarpunk Veränderung in anderen Ländern ?
 
 ### Bilder
 
@@ -107,4 +107,11 @@ Nutzen:
 I am using VSCode and the extensions:
 
 * LaTeX Workshop
-* 
+
+
+## Design with Latex
+
+https://media.ccc.de/v/37c3-lightningtalks-58031-for-lazy-designers-the-pagelayout-latex-class
+Links: [GitHub](https://github.com/friedemannbartels/latex-pagelayout), [CTAN](https://www.ctan.org/pkg/pagelayout)
+
+@dotpax@hachyderm.io

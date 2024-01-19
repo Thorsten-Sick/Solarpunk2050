@@ -23,16 +23,16 @@ pdf:
 	cd en/sourcebook && latexmk -pdf -pdflatex="pdflatex -interaction=nonstopmode" sourcebook.tex
 
 	# Adventure 1
-	cd en/con_adventure_1 && latexmk -pdf -pdflatex="pdflatex -interaction=nonstopmode" standalone.tex
-	mv en/con_adventure_1/standalone.pdf en/con_adventure_1/adventure_world_destroying_machine.pdf
+	# cd en/con_adventure_1 && latexmk -pdf -pdflatex="pdflatex -interaction=nonstopmode" standalone.tex
+	# mv en/con_adventure_1/standalone.pdf en/con_adventure_1/adventure_world_destroying_machine.pdf
 
 	# Adventure 2
 	# cd en/con_adventure_2_norms && latexmk -pdf -pdflatex="pdflatex -interaction=nonstopmode" standalone.tex
 	# mv en/con_adventure_2_norms/standalone.pdf en/con_adventure_2_norms/adventure_mystery_club.pdf
 
 	# Adventure project lifeguard
-	cd en/adventure_project_lifeguard && latexmk -pdf -pdflatex="pdflatex -interaction=nonstopmode" standalone.tex
-	mv en/adventure_project_lifeguard/standalone.pdf en/adventure_project_lifeguard/adventure_project_lifeguard.pdf
+	# cd en/adventure_project_lifeguard && latexmk -pdf -pdflatex="pdflatex -interaction=nonstopmode" standalone.tex
+	# mv en/adventure_project_lifeguard/standalone.pdf en/adventure_project_lifeguard/adventure_project_lifeguard.pdf
 
 	cd ../..
 

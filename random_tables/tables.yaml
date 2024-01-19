@@ -6,281 +6,493 @@
 
 
 Lost male names:
-  - Name: LMNames
-  - Description: Lost Names, Male
-  - Tags:
+  Name: LMNames
+  Description: Lost Names, Male
+  Tags:
     - Lost
     - Sex_Male
     - Country_All
-  - Items:
-    - Foo
-    - Bar
-Lost Items:
-  - Name: LItems
-  - Description: Lost Items
-  - Tags:
-    - Lost
-    - Sex_All
+  Items:
+    - Hannibal
+    - D'Artagnan
+    - Louis
+    - Cesar
+    - Einstein
+    - Oppenheimer
+    - Nemo
+    - Fogg
+
+Norm male names:
+  Name: NMNames
+  Description: Norm Names, Male
+  Tags:
+    - Norm
+    - Sex_Male
     - Country_All
-  - Items:
-    - Foo
-    - Bar
-Norm Items:
-  - Name: NItems
-  - Description: Norm Items
-  - Tags:
+  Items:
+    - Ben
+    - Jeff
+    - Jerry
+    - James
+    - Richard
+
+Lost female names:
+  Name: LFNames
+  Description: Lost Names, Female
+  Tags:
+    - Lost
+    - Sex_Female
+    - Country_All
+  Items:
+    - Marie
+    - Cleopatra
+    - Ada
+    - Mary
+
+Norm female names:
+  Name: NFNames
+  Description: Norm Names, Female
+  Tags:
+    - Norm
+    - Sex_Female
+    - Country_All
+  Items:
+    - Lizz
+    - Nancy
+    - Daisy
+
+Pioneer names:
+  Name: PNames
+  Description: Pioneer Names
+  Tags:
     - Norm
     - Sex_All
     - Country_All
-  - Items:
-    - Foo
-    - Bar
+  Items:
+    - Wire
+    - Spark
+    - Acid
+    - Grav(ity)
+    - Flash
+
+Lost Items:
+  Name: LItems
+  Description: Lost Items
+  Tags:
+    - Lost
+    - Sex_All
+    - Country_All
+  Items:
+    - Gun
+    - Fishing rod
+    - Beehive
+    - Hunting knife
+    - An old bottle of beet (not opened yet)
+    - An old sofa (repaired)
+    - An old suitecase
+    - An ammunition box filled with books
+    - A compass
+    - Blueprints of old technology
+    - Traps for hunting
+    - Metal workshop
+    - First aid kit
+    - Edible plants
+    - Seeds
+    - A small, portable museum/exhibition/cabinet of curiosities
+    - A diesel generator
+    - A (mobile) bar
+    - Maps
+    - A Lemmings figurine
+    - Drums
+    - Banjo
+
+
+Norm Items:
+  Name: NItems
+  Description: Norm Items
+  Tags:
+    - Norm
+    - Sex_All
+    - Country_All
+  Items:
+    - Hive controller
+    - E-Scooter
+    - Mobile micro factory / robot
+    - An app template blueprint - not yet published
+    - A rare and unique piece of clothing
+    - A digital map with some extra secret party sites
+    - An automatic suitecase
+    - Potted plants
+    - A code for Hive special features
+    - A prototype template for a hive controller app
+    - A puzzle as a piece of a game in the Hive
+    - A mysterious device
+    - Party costume
+    - A 5kg block of banana, lab grown
+    - A stranded delivery drone
+
 Pioneer Items:
-  - Name: PItems
-  - Description: Pioneer Items
-  - Tags:
+  Name: PItems
+  Description: Pioneer Items
+  Tags:
     - Pioneer
     - Sex_All
     - Country_All
-  - Items:
-    - Foo
-    - Bar
+  Items:
+    - Chemistry lab
+    - Disco ball
+    - 'Failed drunken experiment: Chili+Garlic shower gel'
+    - 'Someones special soldering iron'
+
 Lemmings Items:
-  - Name: LemmingItems
-  - Description: Lemmings Items
-  - Tags:
+  Name: LemmingItems
+  Description: Lemmings Items
+  Tags:
     - Lemming
     - Sex_All
     - Country_All
-  - Items:
-    - Foo
-    - Bar
+  Items:
+    - Gas Kanister
+    - Canned beer
+
 Lost Jobs:
-  - Name: LJobs
-  - Description: Lost Jobs
-  - Tags:
+  Name: LJobs
+  Description: Lost Jobs
+  Tags:
     - Lost
     - Sex_All
     - Country_All
-  - Items:
-    - Foo
-    - Bar
+  Items:
+    - Hunter
+    - Gatherer
+    - Gunsmith
+    - Baker
+    - Car mechanic
+    - Farmer
+    - Beekeeper
+    - Shepard
+    - Preacher
+    - Librarian
+    - Field doctor
+    - A Librarian of Alexandria
+    - Looter
+    - Investigator
+    - Tyrant
+    - Leader
+    - Guard
+    - Craftsperson
+    - Motorcycle Courier
+    - Carrier pigeon courier
+    - Radio operator
+    - Teacher
+    - Musican
+    - Animal trainer
+    - Explorer
+    - Diplomat
+    - Tailor
+    - Bodyguard
+    - Guide
+    - Archeologist
+    - Merchant
+
+
 Norm Jobs:
-  - Name: NJobs
-  - Description: Norm Jobs
-  - Tags:
+  Name: NJobs
+  Description: Norm Jobs
+  Tags:
     - Norm
     - Sex_All
     - Country_All
-  - Items:
-    - Foo
-    - Bar
+  Items:
+    - Sound Engineer
+    - Influencer
+    - Professional punk
+    - Therapist
+    - Doctor for Cyberware replacement therapy
+    - Expert for any obscure topic
+    - Podcast journalist
+    - App template engineer
+    - Investigator, hobby or semi-professional
+    - Movie villain
+    - Athlete
+    - Barista
+    - Author for Hive controller tutorials
+    - Actor
+    - Consultant for Hedonists
+    - Explorer with an own show
+    - Professional tourist
+    - Artist
+    - Diplomat
+    - Fashion designer
+    - Light show designer
+    - Bouncer
+    - Celebrity, D-level
+    - Tourist guide
+    - Model
+    - Stand up comedian
+
 Pioneer Jobs:
-  - Name: PJobs
-  - Description: Pioneer Jobs
-  - Tags:
+  Name: PJobs
+  Description: Pioneer Jobs
+  Tags:
     - Pioneer
     - Sex_All
     - Country_All
-  - Items:
-    - Foo
-    - Bar
+  Items:
+    - Chemistry expert
+    - Chemistry entry level
+    - Health and safety expert
+    - Eco-engineer
+    - Gen-engineer
+    - Experimental cook
+    - Event cook
+    - Mechanic
+    - Firmware hacker
+    - Radio hacker
+    - Robotics engineer
+    - Allrounder
+    - Camp designer
+    - Music DJ
+    - Drug DJ
+    - Video DJ
+
 
 # Show and music
 Norm Media:
-  - Name: NMedia
-  - Description: Norm Media
-  - Tags:
+  Name: NMedia
+  Description: Norm Media
+  Tags:
     - Norm
     - Sex_All
     - Country_All
-  - Items:
-    - Foo
-    - Bar
+  Items:
+    - Three inches of Normal, Music
+    - 2040 Folk music
 
 # Books
 Lost Media:
-  - Name: LMedia
-  - Description: Lost Media (mostly books)
-  - Tags:
+  Name: LMedia
+  Description: Lost Media (mostly books)
+  Tags:
     - Lost
     - Sex_All
     - Country_All
-  - Items:
-    - Foo
-    - Bar
+  Items:
+    - Moby Dick
+    - Das Kapital
 
 # Pioneer Inventions
 Pioneer Inventions:
-  - Name: PInventions
-  - Description: Pioneer Inventions
-  - Tags:
+  Name: PInventions
+  Description: Pioneer Inventions
+  Tags:
     - Pioneer
     - Sex_All
     - Country_All
-  - Items:
-    - Foo
-    - Bar
+  Items:
+    - Laser triggered lightning strikes
+    - Flavour balls, Currywurst flavour
 
 # Norm Places
 Norm Places:
-  - Name: NPlaces
-  - Description: Norm Places
-  - Tags:
+  Name: NPlaces
+  Description: Norm Places
+  Tags:
     - Norm
     - Sex_All
     - Country_All
-  - Items:
+  Items:
     - Ceres restaurant
     - Ceres food production
     - AI central
     - Park
+    - Public transport hub
+    - Wellness center
+    - Leftover Lemmings ruins in a hive territory
+    - A Lemmings museum (not necessarily correct, but good entertainment value)
+    - Robotic workshop
+    - A public pool
+    - A beach in the hive
+    - A mystery cave as entertainment
+
 
 # Lost Places
 Lost Places:
-  - Name: LPlaces
-  - Description: Lost Places
-  - Tags:
+  Name: LPlaces
+  Description: Lost Places
+  Tags:
     - Lost
     - Sex_All
     - Country_All
-  - Items:
-    - Foo
-    - Bar
+  Items:
+    - Ruined supermarket with settlement
+    - Self sustained small settlement, cottage core
+    - Sauna (a hugh barrel on a truck, wood heated)
+    - Sauna (tent or hut, wood heated)
+    - rabbit hutch
+    - Henhouse
+    - Garden in a forrest
+    - A small garden close to a building
+    - A mobile garden on a truck
 
 Pioneer Places:
-  - Name: PPlaces
-  - Description: Pioneer Places
-  - Tags:
+  Name: PPlaces
+  Description: Pioneer Places
+  Tags:
     - Pioneer
     - Sex_All
     - Country_All
-  - Items:
-    - Foo
-    - Bar
+  Items:
+    - Specific experimental site
+    - Party and science settlement
+    - We came to help with science settlement attached to a specific problem or disaster
 
 # Generic events
 Events:
-  - Name: Events
-  - Description: Events
-  - Tags:
+  Name: Events
+  Description: Events
+  Tags:
     - Factions_All
     - Sex_All
     - Country_All
-  - Items:
-    - Foo
-    - Bar
+  Items:
+    - Lost Flea market gathering of several tribes
+    - Norm cinema event, preview of new movie
+    - Pioneer demonstration of a project
+    - An Norm auction of a unique premium product
 
 # Disasters
 Disasters:
-  - Name: Disasters
-  - Description: Disasters
-  - Tags:
+  Name: Disasters
+  Description: Disasters
+  Tags:
     - Factions_All
     - Sex_All
     - Country_All
-  - Items:
-    - Foo
-    - Bar
+  Items:
+    - Flooding
+    - Drought
+    - Dust storm
+    - Hail storm
+    - Rain storm
+    - Insects
+    - Frog swarms
+    - Mysterious illness
 
 Norm Vehicles:
-  - Name: NVehicles
-  - Description: Norm Vehicles
-  - Tags:
+  Name: NVehicles
+  Description: Norm Vehicles
+  Tags:
     - Norm
     - Sex_All
     - Country_All
-  - Items:
-    - Foo
-    - Bar
+  Items:
+    - Bus with kid space and playground
+    - Bus with restaurant
 
 Lost Vehicles:
-  - Name: LVehicles
-  - Description: Lost Vehicles
-  - Tags:
+  Name: LVehicles
+  Description: Lost Vehicles
+  Tags:
     - Lost
     - Sex_All
     - Country_All
-  - Items:
-    - Foo
-    - Bar
+  Items:
+    - Truck with BBQ on truck bed
+    - Old school bus with library
 
 Pioneer Vehicles:
-  - Name: PVehicles
-  - Description: Pioneer Vehicles
-  - Tags:
+  Name: PVehicles
+  Description: Pioneer Vehicles
+  Tags:
     - Pioneer
     - Sex_All
     - Country_All
-  - Items:
-    - Foo
-    - Bar
+  Items:
+    - DIY hovercraft
+    - DIY three wheeled bike
+    # 
 
 Norm Food:
-  - Name: NFood
-  - Description: Norm Food
-  - Tags:
+  Name: NFood
+  Description: Norm Food
+  Tags:
     - Norm
     - Sex_All
     - Country_All
-  - Items:
-    - Foo
-    - Bar
+  Items:
+    - 5 kg of banana in canister
+    - Tiger milk yoghurt
 
 Pioneer Food:
-  - Name: PFood
-  - Description: Pioneer Food
-  - Tags:
+  Name: PFood
+  Description: Pioneer Food
+  Tags:
     - Pioneer
     - Sex_All
     - Country_All
-  - Items:
-    - Foo
-    - Bar
+  Items:
+    - Flavour balls, three stages of terror flavour (mustard, chili pepper, wasabi)
+    - Charlys experimental dish for 20 people
 
 Lost Food:
-  - Name: LFood
-  - Description: Lost Food
-  - Tags:
+  Name: LFood
+  Description: Lost Food
+  Tags:
     - Lost
     - Sex_All
     - Country_All
-  - Items:
-    - Foo
-    - Bar
+  Items:
+    - Grilled prawns
+    - Boar one pot
+    - Camp fire bread
+    - Grilled fish
+    - Camp fire fish soup
 
 Norm Clothes:
-  - Name: NClothes
-  - Description: Norm Clothes
-  - Tags:
+  Name: NClothes
+  Description: Norm Clothes
+  Tags:
     - Norm
     - Sex_All
     - Country_All
-  - Items:
-    - Foo
-    - Bar
+  Items:
+    - Djellaba (if weather is hot)
+    - Winter Coat (for cold weather) with lab grown fur
+    - Sari
+    - Jeans with stickers
+    - Light western dress
+    - Outdoor clothes that are obviously fake and just fashion statement
+    - The clothes a famous movie character wears in a specific film
+    - Keffiyeh, Neon pink with unicorns
 
 Lost Clothes:
-  - Name: LClothes
-  - Description: Lost Clothes
-  - Tags:
+  Name: LClothes
+  Description: Lost Clothes
+  Tags:
     - Lost
     - Sex_All
     - Country_All
-  - Items:
-    - Foo
-    - Bar
+  Items:
+    - Self sewn leather clothes
+    - Real furr clothes
+    - Military garb
+    - Survival garb
+    - Mended clothes
+    - Traditional clothes
 
 Pioneer Clothes:
-  - Name: PClothes
-  - Description: Pioneer Clothes
-  - Tags:
+  Name: PClothes
+  Description: Pioneer Clothes
+  Tags:
     - Pioneer
     - Sex_All
     - Country_All
-  - Items:
-    - Foo
-    - Bar
+  Items:
+    - Glow in the dark T-shirt
+    - Electric wire illuminated
+    - OLED displays in clothes
+    - Clothes with tool holders and lots of pockets
 
 #* Rumors
 #* Items in...
