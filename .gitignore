@@ -17,6 +17,9 @@
 *.aff
 *.dic
 
+# Venv
+venv/
+
 
 # Build folders
 **/_build
