@@ -1,3 +1,8 @@
+
+* Adding Erradication restaurant to story nuggets
+
+Release 2.1 with fixed cover
+
 * Adding Blessed Rangers
 
 Release 2
