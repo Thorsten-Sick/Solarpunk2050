@@ -334,6 +334,7 @@ Lost Places:
     - Garden in a forrest
     - A small garden close to a building
     - A mobile garden on a truck
+    - Seed exchange
 
 Pioneer Places:
   Name: PPlaces
@@ -346,6 +347,9 @@ Pioneer Places:
     - Specific experimental site
     - Party and science settlement
     - We came to help with science settlement attached to a specific problem or disaster
+    - Pneumatic tube message system
+    - Hyperloop hub
+    -
 
 # Generic events
 Events:
@@ -360,6 +364,7 @@ Events:
     - Norm cinema event, preview of new movie
     - Pioneer demonstration of a project
     - An Norm auction of a unique premium product
+    - A rebuilding party in a shattered and ruined town
 
 # Disasters
 Disasters:
@@ -411,7 +416,8 @@ Pioneer Vehicles:
   Items:
     - DIY hovercraft
     - DIY three wheeled bike
-    # 
+    - DIY Jet ski
+    #
 
 Norm Food:
   Name: NFood
@@ -493,6 +499,7 @@ Pioneer Clothes:
     - Electric wire illuminated
     - OLED displays in clothes
     - Clothes with tool holders and lots of pockets
+    - Clothes with an electric van for air conditioning
 
 #* Rumors
 #* Items in...
