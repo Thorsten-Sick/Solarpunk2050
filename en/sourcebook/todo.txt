@@ -138,3 +138,36 @@ Marc: https://fontesk.com/
 https://www.fontspace.com
 
 https://www.fontspace.com/yakin-font-f93241
+--------------
+Spiritualität Überlegung
+
+Spiritualität und Religion haben eine zentrale Rollen in einer Solarpunk Welt. Obwohl die dunkle Seite bedrohend sein kann (apokalyptische Sekten) ist die Helle Seite doch stärker und gibt Menschen den nötigen Halt und Struktur.
+
+
+Ich bin nicht so der Regel Fan. Aber wenn die Spieler aus Spiritualität etwas Spiel-internes ziehen wollen, braucht es die.
+Als Regeln drückt sich das so aus:
+
+1) Man sucht sich eine Religion aus
+2) Man gibt an, wie stark der Glaube ist. Zwischen 0 und 4. Das ist auch der "Lebensbalkens" der Zuversicht in die Stärke des eigenen Glaubens.
+3) Je höher der Wert, desto stärker muss man den Glaubensregeln folgen. Die sind natürlich je Religion unterschiedlich
+4) Bricht man mit den Geboten, verliert man "Den Glauben an die Stärke des eigenen Glaubens". Also die eigene Zuversicht und den Halt. Zuversichts-Lebensbalken fällt auf 0
+5) Für gute Taten und an die Gebote orientiertes Verhalten steigt der Balken.
+
+Was man davon hat:
+1) Für jeden Punkt in der Religion erhält man einen zusätzlichen Stunt
+2) Solange man einen vollen Zuversichts-Balken hat, kann man diese Stunts einsetzen
+3) Die Stunts orientieren sich am Charakter der Religion
+
+Beispiel:
+Animistische Religion: Weil ich einer animistischen Religion folge, kann ich Empathie +2 würfeln, um festzustellen, ob ein natürlicher Ort vergiftet ist oder anderweitig geschädigt
+'Die Laborergebnisse sind da. Der Boden ist Bleivergiftet. Meintest du das mit "Die Geister des Baumes sehen sehr unglücklich aus" ?'
+
+Caritativ: Weil meine Religion Caritas untersützt, kann ich Charisma+2 würfeln, um Menschen um mich herum zur Hilfe in einer Notsituation zu motivieren
+'Und dann hattest du einfach so 10 Leute die ein Küchenzelt aufbauten und die ca 300 Flüchtlinge aus Hamburge versorgten ? Und das hat geklappt und danach hattet ihr auch noch Waffeln ?'
+
+Schriftreligion: Weil ich einer Schriftreligion folge, kann ich komplexe Texte und deren Logik mit Bildung +2 auf mindestens drei Ebenen analysieren
+'Aber das war es nicht. Wenn man den Subtext der dritten Deutungs-Ebene betrachtet und dann noch einbezieht, das der Autor in einem Umfeld lebte, das, ....'
+
+Die Stunts müssen nicht nur nützlich sein, sondern sollten auch einen WOW Effekt liefern, wenn man die mal einsetzen kann.
+
+Was ich vermeiden will, ist Wunder und Magie. Das passt nicht zum Setting und auch nicht zu meinem Verständnis. Gott ist kein Wunderautomat, bei dem man einfach nur auf Knöpfe drückt und das Wunder passiert. Bei Fantasy ist das OK.
