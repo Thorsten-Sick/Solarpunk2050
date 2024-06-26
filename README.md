@@ -115,3 +115,41 @@ https://media.ccc.de/v/37c3-lightningtalks-58031-for-lazy-designers-the-pagelayo
 Links: [GitHub](https://github.com/friedemannbartels/latex-pagelayout), [CTAN](https://www.ctan.org/pkg/pagelayout)
 
 @dotpax@hachyderm.io
+
+
+## Compiling
+
+### LatexMK
+
+Um Latex zu bauen nutzt man das spezielle LatexMk Kommando.
+
+latexmk -f  -pdf -pdflatex="pdflatex -interaction=nonstopmode" sourcebook.tex
+latexmk -c sourcebook.tex
+
+parameters:
+-cd First move into the directory of the source file
+-lualatex (use lualatex)
+-WError: Error bei undefinierten citations or references
+
+example:
+% latexmk ‐pvc ‐ps thesis# run latex enough times to resolve
+                           cross‐references, make a postscript
+                           file, start a previewer.  Then
+                           watch for changes in the source
+                           file thesis.tex and any files it
+                           uses.  After any changes rerun latex
+                           the appropriate number of times and
+                           remake the postscript file.  If latex
+                           encounters an error, latexmk will
+                           keep running, watching for
+                           source file changes.
+
+### PDFLatex
+
+parameters:
+‐halt‐on‐error Exit with an error code when an error is encountered during processing.
+‐interaction mode Sets  the  interaction  mode.   The mode can be either batchmode, nonstopmode, scrollmode, and errorstopmode.  The meaning of these modes is the same as that of the corresponding \commands.
+‐output‐directory directory Write output files in directory instead of the current directory.  Look up input files in directory first, the along the normal search path.
+
+
+### EPub
