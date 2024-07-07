@@ -1,4 +1,15 @@
 
+Release 2.9  Everything alright ?
+
+* Adding Überlingen
+* Adding Scientific underground
+
+Release 2.5   solarpunk-pioneers release
+
+* Added Salem
+* Added AI cover
+* Added solarpunk pioneers as seed for the movement
+* Explained Solarpunk Pioneers
 * Adding Erradication restaurant to story nuggets
 
 Release 2.1 with fixed cover
