@@ -3,7 +3,7 @@
 * A Roanoke caused by AI Amok when the AI is started
 * For Ethics: "Weltethos" (Küng): Research that !
 * Create a eco-radical religion (Shamanistic Amish ?)
-
+* A mapper buying information as a NPC
 * Norm apps will work also in the region of other AIs !
 
 
@@ -163,7 +163,7 @@ Animistische Religion: Weil ich einer animistischen Religion folge, kann ich Emp
 'Die Laborergebnisse sind da. Der Boden ist Bleivergiftet. Meintest du das mit "Die Geister des Baumes sehen sehr unglücklich aus" ?'
 
 Caritativ: Weil meine Religion Caritas untersützt, kann ich Charisma+2 würfeln, um Menschen um mich herum zur Hilfe in einer Notsituation zu motivieren
-'Und dann hattest du einfach so 10 Leute die ein Küchenzelt aufbauten und die ca 300 Flüchtlinge aus Hamburge versorgten ? Und das hat geklappt und danach hattet ihr auch noch Waffeln ?'
+'Und dann hattest du einfach so 10 Leute die ein Küchenzelt aufbauten und die ca 300 Flüchtlinge aus Hamburg versorgten ? Und das hat geklappt und danach hattet ihr auch noch Waffeln ?'
 
 Schriftreligion: Weil ich einer Schriftreligion folge, kann ich komplexe Texte und deren Logik mit Bildung +2 auf mindestens drei Ebenen analysieren
 'Aber das war es nicht. Wenn man den Subtext der dritten Deutungs-Ebene betrachtet und dann noch einbezieht, das der Autor in einem Umfeld lebte, das, ....'

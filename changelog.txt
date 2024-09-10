@@ -3,6 +3,10 @@ Release 2.9  Everything alright ?
 
 * Adding Überlingen
 * Adding Scientific underground
+* Adding trouble/wolf packs
+* Extending Pioneers
+* Making the capitalism campaign description more compact
+
 
 Release 2.5   solarpunk-pioneers release
 
