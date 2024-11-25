@@ -167,3 +167,622 @@ Schriftreligion: Weil ich einer Schriftreligion folge, kann ich komplexe Texte u
 Die Stunts müssen nicht nur nützlich sein, sondern sollten auch einen WOW Effekt liefern, wenn man die mal einsetzen kann.
 
 Was ich vermeiden will, ist Wunder und Magie. Das passt nicht zum Setting und auch nicht zu meinem Verständnis. Gott ist kein Wunderautomat, bei dem man einfach nur auf Knöpfe drückt und das Wunder passiert. Bei Fantasy ist das OK.
+----------
+
+
+Meersburg: Da mehr Touristen als Einwohner in der mittelalterliche anmutenden Wein Stadt am Bodensee Hang sind, formt deren Erwartung die KI dort. Die KI lässt die Einwohner eine Feudale mittelalterliche Gesellschaft simulieren. Mit Tagelöhnern (max 25h Woche), Herrschern und Weinbauern...
+Die Einwohner sind nicht so wirklich glücklich.
+
+Kreuzlingen und Konstanz: Direkt benachbarte Städte. Kreuzlingen ind er Schweiz und Konstanz in Deutschland. Die KIs haben dort gelernt, dass es einfacher ist, die missmutigen Bewohner in die jeweils andere Stadt umzusiedeln. Das erhöht den Glücklichkeits Score ziemlich schnell. Deswegen ist dort ständiger Grenzverkehr und starke Durchlässigkeit. Werbung richtet sich dann direkt an die bestimmten schlecht gestimmten Bevölkerungsgruppen um sie zum umziehen in die Partnerstadt zu bewegen.
+
+Bregenz: Die Österreichische Stadt ist in der Klimakatastrophe abgesoffen. Viele Gebäude sind zur Hälfte überflutet. Die seebühne steht noch. Die EU hat Projekte zur Wiederansiedlung ausgerufen. Und Solarpunks, Verlorene und Konzerne versuchen ihre Projekte dort erfolgreich umzusetzen und zu beweisen, dass es möglich ist, wieder irgend eine Art von Nutzung der Region möglich zu machen.
+
+Lindau: Nachbar von Bregenz. Die Hälfte der Stadt ist auf einer Insel. Und der Schock der Katastrophe hat dafür gesorgt, dass eine Wand rings um die Stadt den Bodensee kontrolliert von der Stadt fernhält. Der Wall steht einige hundert Meter im See, ist 5 Meter über der Wasseroberfläche hoch und besteht aus Aluminiumoxynitrid https://de.wikipedia.org/wiki/Aluminiumoxynitrid . Schleusentore erlauben Schiffsverkehr.
+
+-----------------
+Konzept und Überlegungen
+========================
+
+Einige der Überlegungen sind basierend auf der Solarpunk Philosophie, andere resultieren aber aus dem Grund, dass man schnell und einfach Geschichten mit Konflikten schrieben können muß.
+Das beisst sich.
+Ich versuche hier mal meine Grundsätze aufzulisten. Für mich, und andere, die kreativ mitarbeiten wollen - oder für die eigene Gruppe Abenteuer erfinden.
+
+* Solarpunk ist eine positive Utopie
+* Wichtiges Thema ist auch "Empowerment". Man kann in seiner Umgebung viel bewirken - wenn man will.
+* Leute, die was erschaffen können, sind die Protagonisten
+* Die Gesellschaft der Solarpunks muß möglichst offen/chaotisch und frei sein (Erstens wegen dem "Punk", zweitens wegen der positiven Utopie)
+* Auf der Erde ist jedes Gut limitiert. Außer Solarenergie und Kreativität.
+* Um Abenteuer zu erleben muß es trotz Utopie noch Probleme geben. Darum ist nicht die gesamte Gesellschaft Solarpunks.
+* Fate eignet sich gut um mittels der Aspekte neue Story Elemente zu starten. Kampflastige Systeme eher: Nope
+* Fail des RPG Projekts könnte es sein, wenn die Story Ideen ausgehen, weil die Solarpunk Gesellschaft zu perfekt für Probleme ist
+* Eine Kampagne orientiert sich am besten am Aufbau eine Community und dem Erwerb neuer Gebäude, Technologien und Mitglieder. Dieser werden durch Extras und NSCs dargestellt. Abenteuer sind nötig, um diese zu erwerben. Und unter Erwerben: Man muss sie nicht besitzen. Eine Freundin zu finden, die einem mal den Lasercutter leiht ist schon sehr viel wert.
+* Dieses Setting enthält auch viele Plot hooks, die alle negativ sind. Um die positive Stimmung zu halten sollten nicht alle gleichzeitig eingesetzt werden !
+* Helden soll es nicht geben. Aber Protagonisten
+* Diese finden alles nötige zur Lösung der Probleme vor Ort
+* Insbesondere bauen sie eine Community auf um Probleme zu lösen
+
+Das Solarpunk Manifest
+----------------------
+
+https://www.re-des.org/a-solarpunk-manifesto/
+
+(auch auf Deutsch: https://www.re-des.org/ein-solarpunk-manifest-deutsch/)
+
+Chobani Werber Filmchen
+-----------------------
+
+Einige Werbe Filmchen definieren die Welt ganz schön: https://www.thelineanimation.com/work/chobani
+
+Weltenbau
+---------
+
+Das Gerüst der Welt ist fertig. Und gerade bekam ich den Tip, zum Thema Solarpunk Weltenbau folgende Blog posts zu lesen:
+
+https://alpakawolken.de/category/solarpunk/
+
+Kam etwas spät, hätte mir vieles einfacher gemacht. Ließ sie und lass dich bereichern. Ich tues es jetzt auch.
+
+Verschiebung Action zu Dilemmata
+--------------------------------
+
+Ich selbst bin eher ein Method Actor/Dilemma Liebhaber. Aber die Regeln hier sind mit Action im Spotlight geschrieben.
+Weil es sich besser ließt, weil es Spieler besser abholt. Und sich auch sehr gut (nach einem langen Arbeitstag) spielen lässt.
+
+Trotzdem strotzt die Solarpunk Welt vor Drama. Drei Gruppen mit zumindest nachvollziehbaren Zielen und Mindset, potentiell wechselnde Kooperationen mit diesen. Dunkle Seiten selbst bei den Solarpunks (Meritokratie ist eben nix für Leute ohne Fähigkeiten).
+
+Also lieber Spielleiter: Falls du gerade eine nachdenkliche Stimmung in deiner Gruppe spürst: Nutze das. Denn das Regelwerk ist nicht umsonst Fate und nicht Dungeon Slayer (nix gegen Dungeon Slayer nach einem harten Arbeitstag).
+
+Robin's Laws of Good Game Mastering
+-----------------------------------
+
+Robin teilt die Spieler in 7 Klassen ein. Nicht jedes Spiel System bespasst alle gleich gut. Aber es ist hilfreich, wenn zumindest erste Ideen da sind, was jedem Spieler Typ gefällt.
+
+* Method Actor: Die Verwirrungen zwischen den Fraktionen erlauben interessante Interaktionen mit vielen Grau stufen statt Schwarz/Weiß
+* Storyteller: Es lassen sich mit den Fraktionen komplexe Geschichten erzählen. Es gibt genug Samen für epische Geschichten
+* Power Gamer: Mit dem Ausbau der Community, anheuern neuer Leute, neuer Werkstätten und Technologien kann man dem viel Freude machen
+* Tactician: Kann das Engelsystem bedienen und Aufgaben planen. Entweder mit Zetteln am Tisch oder sogar digital simuliert
+* Butt Kicker: Für den wurden die mutierten Tiere eingebaut. Plagen, die man beseitigen kann
+* Specialist: Bausteine um eine beliebte Klasse und deren Eigenschaften nach zubauen sollten vorhanden sein
+* Casual Gamer: Well...
+
+FAQ
+---
+
+* Hat dieses Spiel eine versteckte Agenda ? Antwort: Nein, versteckt ist die nicht
+
+---------------
+Menschen und Communities
+========================
+
+Beispiele für Menschen und Communities in Solarpunk
+
+Bruno's und Rita's vollmechanisierte grüne Oase
+-----------------------------------------------
+
+Während der Kaffee auf dem Herd kocht zieht Bruno Hebel 3 und 6. Seilzüge und ein ausgeklügeltes Bewässerungssystem lenken Wasser zu den Erdbeeren. Er zieht den Wecker auf. In wenigen Minuten wird er die Bewässerung stoppen.
+
+Bruno und Rita leben auf dem Land. Sie sind eng vermascht mit den Nachbarn und leben vom regen Tauschhandel. Hühnereier gegen Chillies. Kräuter gegen Laufenten - die fressen Schnecken und legen Eier. Bruno hat um das Haus herum einen mechanisierten Garten erschaffen, den Rita erfolgreich bewirtschaftet.
+
+* Konzept: Vollmechanisiertes Haus und Garten
+* Dilemma: Alle Tiere hier sind irgendwie komisch
+* Aspekt: Grüne Wohlfühloase ohne Stress
+
+So gut hier alles Läuft. Mit Tieren haben die beiden es nicht so. Obwohl sie es immer probieren. Der Hund ist etwas doof und nicht zu erziehen aber nicht bösartig. Dafür sind das die beide Laufenten, die eigentlich nur die Schnecken jagen sollen... Bruno und Rita lieben die Tiere und haben hier einen etwas blinden Fleck.
+
+Rita hat dazu jedes Jahr ein neues Projekt. So kamen bisher mindestens zusammen:
+
+* Brot backen
+* Käseherstellung
+* Seifenherstellung
+* Filzen
+* Nähen
+
+Nach einem initialen Begeisterung-Feuer werden diese Projekte fortgeführt, aber ein neues Projekt wird direkt gestartet.
+
+Bruno
+~~~~~
+
+Ist dauernd am basteln. Projekte findet Rita genug für ihn. Er weigert sich nur ausdauernd, Technik mit Transistoren anzufassen. Vor Stahl, Schweißgeräten und Beton hat er aber keinerlei Respekt und setzt sie ein um Pizzaöfen, Lagerschuppen oder Hochbeete zu bauen. Jüngstes Projekt ist ein durch Hebel gesteuertes Bewässerungssystem für den gesamten Garten.
+Transistoren basierte Technologie (Mikrocontroller) misstraut er, dank ausgeklügelten Mechaniken und vielen mechanischen Weckern fällt das aber (fast) nicht auf.
+
+Warum ihm immer Werkzeuge fehlen ist noch nicht geklärt. Er hat sich aber angewöhnt nach 5 Minuten suchen eines zu improvisieren. Später werden die alten Werkzeuge wieder irgendwo gefunden. Könnte mit dem Hund zu tun haben.
+
+Werte:
+
+* Gruppe: Solarpunk
+* Konzept: Ruheloser Bastler
+* Dilemma: Immer wenn ich Werkzeug brauche fehlt es und ich muss erst mal das basteln
+* Aspekt: Früher ging das auch ohne Transistoren
+* Projekt: Whirlpool für den Garten
+
+* Flink: 1
+* Kraftvoll: 1
+* Scharfsinnig: 2
+* Sorgfältig: 3
+* Tollkühn: 2
+* Tückisch: 0
+
+Stunts:
+
+Weil ich Werkzeuge selber herstellen kann kann ich einmal pro Sitzung eines schnell improvisieren
+
+Rita
+~~~~
+
+Findet immer Projekte für sich und Bruno. Sie ist zwar keine Genetikerin, hat aber einen starken grünen Daumen und bringt praktisch jedes Gewächs - sei es noch so exotisch - zum wachsen. Die Nachbarn schätzen ihren Tee, ihre Pflanzen und ihren Rat.
+
+Ihr großes Problem sind zu große Wachstums Erfolge für die sie schnell Abnehmer finden muss. Verrotten soll nichts. Und so stehen plötzlich eine halbe Tonne Zucchini im Hof und müssen weg.
+
+Werte:
+
+* Gruppe: Solarpunk
+* Konzept: Hat zwei grüne Daumen
+* Dilemma: Wuchernder Überschuss
+* Aspekt: 2 Ohren und ein Tee
+* Projekt: Die anspruchsvollen Wasabi Pflanzen zum wachsen bekommen
+
+* Flink: 2
+* Kraftvoll: 1
+* Scharfsinnig: 3
+* Sorgfältig: 2
+* Tollkühn: 1
+* Tückisch: 0
+
+Stunts:
+
+Weil ich zwei grüne Daumen habe kann ich einmal pro Sitzung eine Pflanze retten.
+
+Bruder Anselm
+~~~~~~~~~~~~~
+
+Seelsorge, Ökumenische Gottesdienste, Nahkampf und Infiltration
+
+Der 50 jährige tauchte vor einiger Zeig in der Community auf. Da er ein sehr gutes Gefühl für Menschen und ihre Sorgen hat, wurde er schnell aufgenommen und sorgt sich seither um die geistigen Belange der Community Bewohner. Seine Andachten sind inzwischen auch für externe Gäste geöffnet und er hat das Angebot um Tai Chi (im Garten, nur bei schönem Wetter) und Ikebana erweitert.
+
+Einige wenige in der Community wissen, dass er eine etwas finstere Vergangenheit hat und von der Inquisition gesucht wird. Unter den Eingeweihten wird gemunkelt, dass er beim Team, dass den alten Papst ermordet hat involviert war. Dies könnte auch seine ausgefeilten Nahkampffähigkeiten und Social Engineering Erfahrungen erklären. Obwohl sie nicht genau wissen, was die Geschichte des freundlichen Priesters ist, halten sie zu ihm, wenn wieder seltsame Fremde nach ihm fragen. Die nächtlichen speziellen Trainingsstunden im mit Tüchern gegen Beobachtung verhängten Gemdeindesaal (Nahkampf, Ninjutsu, Social Engineering und Lockpicking) sind in der Community eine Art Geheimtipp.
+
+Nomadenschule
+-------------
+
+Ein Wohnmobil und ein Anhänger voller Experimente (und einem großen Zelt) als reisende Schule. Wird betrieben von Isabella "Frau Ko-olb !" aka Isa
+
+Isa
+~~~
+
+Isa ist eine neugierige Person und erklärt gerne und gut. Sie reist mit ihrem Mobil durch die Lande (auch um selbst neue Gegenden zu sehen) und verweilt eine halbes Jahr an jedem Ort. Dort öffnet sie ihre Schule und bringt allen Interessierten neues bei.
+
+Sie nutzt gerne die Gelegenheiten vor Ort und baut Kontakte auf. Manche Institutionen, die von Norms betrieben werden sind aber nicht immer bereit zu kooperieren. Das stört sie nicht weiter. Sie hat Dietriche. Da war dieses interessante Klärwerk und 15 Schüler. Ging aber alles nochmal gut.
+
+* Würde gerne Isa genannt werden statt "Frau Ko-olb"
+* Kein Schloß hindert sie an ihrem Bildungsauftrag
+* Wissenschaft und Technik ist ihr Metier. MacGyver ist ihr nicht ebenbürtig
+* Alles ist eine Gelegenheit zu lernen und zu lehren. Alles.
+
+
+Werte:
+
+* Gruppe: Nomaden
+* Konzept: Reisende Abenteurerin und Lehrerin
+* Dilemma: Komm, ich zeig's euch, dann versteht ihr schon
+* Aspekt: McGyvern zum eigenen Unglück
+* Sehnsuchtziel: Die Ruinenstädte im Ruhrgebiet
+
+* Flink: 1
+* Kraftvoll: 0
+* Scharfsinnig: 3
+* Sorgfältig: 2
+* Tollkühn: 2
+* Tückisch: 1
+
+Stunts:
+
+Weil ich schon überall viele Schüler hatte kann ich einmal pro Sitzung jemanden fragen, ob er mich wo 'reinlässt wo ich sonst nie Zugang bekommen würde.
+
+
+Hier Gibt's Alles Platz
+-----------------------
+
+Ein Schrottplatz, Wertstoffhof und Schmuggler Paradies. 'Nes nennt den sein Eigen. Dank seiner guten Connections kann er jede Art von Ware besorgen oder los werden. Wenn man elektronische Bauteile (gebraucht) benötigt bekommt man die auch. Um seine Connections aufzubauen, wird auf dem Schrottplatz alle paar Wochen eine große Party gefeiert.
+
+'Nes (Johannes)
+~~~~~~~~~~~~~~~
+Ihm gehört der Schrottplatz. Er kann jederzeit alles besorgen oder loswerden (behauptet man). Darum ist dies der Anlaufpunkt für viele Solarpunks. Die meisten sind auf diesen Platz gestoßen bei einer der berüchtigten Parties.
+Laute Musik, Alkohol, Tanz. Die zu veranstalten ist eine von 'Nes Antriebsfedern.
+
+Werte:
+
+* Gruppe: Solarpunk
+* Konzept: Extrem vernetzter Organisator
+* Dilemma: Bekommt manchmal auch heiße Ware
+* Aspekt: Ich kenne da jemanden, der bekommt So was sicher her
+* Aspekt: Mich kennt jeder - und das ist nicht immer gut
+* Projekt: Eine Lasershow auf einen Zeppelin Projizieren
+
+* Flink: 1
+* Kraftvoll: 1
+* Scharfsinnig: 2
+* Sorgfältig: 0
+* Tollkühn: 3
+* Tückisch: 2
+
+Stunts:
+
+Weil ich viele Leute und ihre Geheimnisse kenne bekomme ich einen Bonus von +2, wenn ich verhandle und dabei tückisch einen Vorteil erschaffe
+
+
+Community "FH Fichten Hain" im Schwarzwald bei Furtwangen
+---------------------------------------------------------
+
+Die Community liegt tief im Schwarzwald bei Feuchtwangen.
+
+Stärke der Community ist Holzverarbeitung. Dieses gibt es rund um die Siedlung reichlich. Zwischen den Wipfeln der Bäume spannt sich ein komplexes Wipfelpfad-Netzwerk. An besonders hohen Bäumen sind verschiedene Windräder angebracht, die den Strom liefern.
+
+Aus dem erstklassigen Holz werden Häuser, Kuckucksuhren für den Export und Kunstgegenstände hergestellt.
+
+Das großflächige Waldgebiet wird von einigen Bewohnern als ihr Revier angesehen und sie nutzen kleine und wendige Elektrofahrzeuge, um es zu patrouilliert. Handel findet mit der Norm-Stadt Feuchtwangen statt. Auf der anderen Seite dieser Stadt befindet sich die Community "Voltron", mit der man im friedlichen Wettstreit liegt.
+
+Gefährlich sind aber die Verlorenen, die in diesem abgelegenen Gebiet gerne Fuß fassen würden.
+
+Adrian "Frodo"
+~~~~~~~~~~~~~~
+
+Hightech Förster mit Exoskelett. Anhänger des Transhumanismus "Mensch und Maschine müssen zusammenwachsen".
+Dass er mit seinem Exoskelett alleine ganze Bäume ernten kann (Kettensägen sind eingebaut) und die am besten gewachsenen Stücke identifizieren (Ultraschall Scanner) beschwert ihm manchmal ein etwas irrationales Selbstverständnis von sich als Maschine.
+
+Herbert "Herbie" Schwarzenbach
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Hunde und Wolfsnarr. Hat damals als fast schon militanter Wolfsschützer bei der Ansiedlung des Wolfes in Deutschland mit geholfen. Diese staatliche Aktion wurde oft von militanten Terroristen und Wolfsfeinden gestört.
+Als Afghanistan Veteran hat er aber genug Rüstzeug um die IEDs und andere Anschläge zu stoppen. Man munkelt aber auch, dass sein hartes Vorgehen für einige Tote sorgte...
+
+Diese Zeit hat ihn aber eher zum Eigenbrötler gemacht. Er lebt am Rande der Community in einem sehr gepflegten Holzhaus und kümmert sich dort um seine Hunde. Wenn er Menschenkontakt selbst bestimmen kann, kommt er aber gerne aus seiner Hütte heraus und hilft aus.
+
+Generell schätzt er seine Tiere und die Natur aber mehr als Menschen. Er wurde in den Jahres desillusioniert.
+
+Niels Bikes
+~~~~~~~~~~~
+
+Niels kümmert sich in der Community FH Schwarzwald um die E-Bikes. Jeder der Community (und manche Freunde) haben jederzeit Zugriff auf E-Mountainbikes, E-Lastenräder und eine Kreuzung aus E-Rad und Unimog. Der TÜV findet bei den geprüften Fahrzeugen auch nie irgendwelche Auffälligkeiten.
+
+Wer aber einen von Niels speziellen RFID Token nutzt um die Räder aufzuschließen schaltet seine spezielle Firmware frei. Keine Limitierung auf 26km/h mehr, smarte aktive Federung wird auf proaktiv/aggressiv umgestellt und die Fahrassistenzsystem werden in den "survival of the fittest" Modus geschaltet. Goldcaps unterstützen den Akku bei Beschleunigungen. Verfolgungsrennen mit dem Lastenrad auf Feldwegen bei weit über 60 km/h sollen vorgekommen sein.
+
+Guten Freunden bietet er auch eine anclipbare Waffenhalterung.
+
+
+Anselm und Hildegard
+~~~~~~~~~~~~~~~~~~~~
+
+Stellen Kuckucksuhren für den weltweiten Export her. Die großen und gut bewirtschafteten Waldstück der FH (Fichten Hain) Schwarzwald sind hier eine wichtige Ressource. Auch nutzen sie ihren vollautomatischen Shop um mittels Robotern diese Uhren herzustellen. Die Energie hierzu gewinnen sie mittels der Holz-Windräder, die am Baumwipfelpfad angebracht sind.
+
+Aus Liebe zu ihrem Metier sind sie aber immer mit mindestens einer Uhr beschäftigt, die sie händisch schnitzen. Nur werden so nie mehr als 10 Uhren pro Jahr fertig. Reparaturen an bestehenden Uhren fressen den Rest ihrer Zeit.
+
+Der große Renner sind aber die Kuckucksuhren Bausätze, die sie an die Normalen verkaufen: "Bau deine eigene Kuckucksuhr. In 5 einfachen Schritten"
+
+Bernd
+~~~~~
+
+Aktuell Anführer der FH. Sein großes Steckenpferd ist das Backen. Insbesondere sein selbst genmodifizierter Sauerteig ist weit jenseits der Community unter Solarpunks bekannt. Doch dieser Sauerteig ist ein Geheimnis, der niemals lebend das Gebiet der Community verlassen darf.
+
+
+----------------
+
+**WICHTIG: Dieses Dokument nicht außerhalb der Solarpunk Community verbreiten !**
+
+Damals im Jahr 2020 - vor 30 Jahren - wurde die technologische Grundlage für unsere Welt gelegt. Alles war sehr roh und unfertig. Aber man kann bereits sehen, wie die Entwicklung zu uns führt.
+
+**Beleuchtung**: Damals gab es keine OLED Folien. OLED Folien kann heute jedes Kind mit der Schere zuschneiden, biegen, aufkleben und verkabeln. Damit kann man die buntesten Licht Kunstwerke schaffen, die man sich vorstellen kann. Strom Verbrauch ist natürlich minimal.
+
+Für Konsumenten sind weniger kreative OLED Leuchten verfügbar. Von der Stange. Da gibt es zwar auch die Möglichkeit in Farbwechselnde Bildschirmfolien zu investieren. Aber die meisten Konsumenten hätten nicht die Fertigkeit, einen ansprechenden Lichtwechsel zu programmieren.
+
+Es gab 2020 nur LED Leuchten (aber auch mit deutlich geringerem Stromverbrauch als die bis dahin existierende Technologie, Metall zum Glühen zu bringen um Licht zu haben). OLED wurden zuerst in Displays von Handys verbaut und wurden erst später als Leuchten Material verfügbar.
+
+**Stromgeneratoren**: Windkraft werke und flexible Solarpaneele sind günstig verfügbar. Heute setzen wir sie auf Häusern, Vordächern, Parkplätze, Gehwegen und an Fahrzeugen ein. Im Jahr 2020 gab es die ersten experimentellen Solar Folien mit einem Wirkungsgrad > 20 %. Ausreichend aber natürlich weit von unserem "Solar Everywhere" entfernt.
+
+Im Jahr 2020 waren die Solarpaneele noch starr und schwer. Kleinerer Wirkungsgrad. Aber wenigstens gab es schon Module für (partielle) Selbstversorgung, Inselversorgung, als Zusatzversorgung auf Campingmodulen und für kleinere Elektronik. Obwohl das alles sehr rückständig scheint, war Solar schon in den 2020ern eine der billigsten Stromquellen (Die verbrannten damals noch fossile Energieträger !)
+
+**Strom speicher**: In den 2020ern wurden Lithium Ionen Akkus genutzt. Zwar wurde das Lithium immer weiter reduziert und später auf billigere Grundstoffe umgestellt. Doch von den heutigen Akkus waren sie weit entfernt. Wenigstens reichte es damals für elektronische Geräte und die ersten Fahrzeuge. Auch tragbare Akku Packs für Camping waren verfügbar. Der Preis war (im Vergleich zu heute) hoch. Die Energie dichte gering. Dadurch waren sie klobig und schwer.
+
+**Robotik**: Programmierbare Roboter arme waren in den 2020ern nicht für jedermann verfügbar. Es gab aber erste einfach zu programmierende für die Industrie. Im privaten Umfeld war Automatisierung also stark auf Geräte beschränkt, die exakt eine Aufgabe übernahmen (Geschirrspüler, Waschmaschine, ...). Diese gibt es zwar heute noch. Aber Aufgaben, die etwas Flexibilität benötigten waren damals im privaten Umfeld gar nicht automatisierbar. Schwer vorzustellen.
+
+**Fahrzeuge**: Damals gab es die ersten Elektrofahrzeuge (überraschenderweise teurer als Fossilienverbrenner !). Drohnen waren nicht fähig, Menschen zu tragen. Elektro Fahrräder gab es - aber nicht vergleichbar zu unseren sportlichen Leichtgewichten aus Karbon. Autonome Fahrzeuge waren damals nur ein Traum. Selbst bei denjenigen die ihn träumten war nicht allen bewusst, wie diese das Leben verändern. Niemand (außer den Verlorenen) will heute noch ein eigenes Auto. Bei Bedarf wählt man sich ein Modell aus der App und hat es ein paar Minuten später vor der Türe stehen. Ob man es danach selbst fährt oder sich fahren lässt ist einem selbst überlassen. Früher musste man das Auto besitzen (mit sehr hohen Kosten verbunden !) und manche hatten sogar mehrere um verschiedene Nutzungsszenarien abzudecken. Heute klickt man sich einfach einen Einsitzer oder einen Lieferwagen. Zahlt nach Zeit und kommt damit um riesige Faktoren billiger weg. Wenn damals etwas unverschuldet kaputt ging, musste man es selbst zahlen ! Die Kosten für ein solches Auto kann man sich heute gar nicht mehr vorstellen.
+
+**Tuning**: Es gibt natürlich einige Solarpunk Communities, die sich über die veralteten gesetzlichen Bestimmungen (Abregeln der E-Bikes bei 26 hm/h) hinwegsetzen und neue Firmware verbauen. Zusammen mit adaptiver Stoßdämpfung (KI erkennt mittels Kamera die Straßenqualität auf den nächsten 10 Metern und passt die elektrischen Muskeln der Stoßdämpfung entsprechend an), Leichtbau und anderen kreativen Dingen darf das natürlich NIEMALS vom TÜV gesehen werden. Falls ihr so etwas in eurer Community baut, haltet bitte einige unmodifizierten Fahrzeuge bereit, um die zu beschäftigen.
+
+**Pflanzenbau**: Permakultur war bekannt. Wurde aber kaum eingesetzt. Der Vorteil der Permakultur (also durch den Anbau mehrere Pflanzen in der biologisch perfekten Kombination, damit sie sich aus Nährstoffsicht und gegen Schädlinge unterstützen) wurde damals nicht wahrgenommen. Dafür gab es große Monokulturen auf dem Land. Über Schäden durch diese gibt es ausreichend Studien. Insbesondere durch den nötigen Dünger und Pestizid Einsatz. Bewirtschaftung fand auch durch große Landmaschinen statt und es wurden keine Drohnen und kleine Roboter eingesetzt um gezielt Unkraut zu finden und mit Elektroschocks zu verbrennen.
+
+In den Städten gab es damals keine Landwirtschaft. Weder gemeinsam angebautes Urban Gardening, noch Kräutergärten am Wegesrand. In Städten gab es nur Zierbäume ohne Früchte. Umnutzung von alten Industrieanlagen waren nicht bekannt. Heute gibt es da natürlich kombinierte Aquakulturen/Hydroponik die direkt in den Städten Salat und Fisch erzeugt. Wenigstens kamen aber bereits in den 2020ern die ersten auf die Idee, Abwärme von Serverfarmen zur Heizung der ersten Prototypen von Aquafarmen zu nutzen.
+
+**Lasercutter/3D Drucker/CNC Maschinen**: Haben es im Jahr 2020 bereits aus den Fabriken zu Hobbyisten geschafft. Oft war der Bauraum sehr begrenzt (kleiner als 1 Kubikmeter !) und nur wenige konnten damit umgehen. Auch die Druckzeit und die Präzision ließ zu wünschen übrig. Heutige Maschinen (die man sich anhand von Anleitungen aus dem Internet aus einfachsten Teilen bauen kann) sind viel präziser und schneller.
+
+**CCS**: Damals dachte man, die Verpressung von CO2 in unterirdische Kavernen würden einen großen Beitrag zur CO2 Reduzierung liefern. Aber einen größeren Anteil hatten die vielen dezentralen Biochar Zentren. Die Technologie, aus organischen Abfällen Kohle herzustellen, die dann als Dünger auf Felder aufgebracht wird - und damit der Atmosphäre entzieht. Die Technologie ist uralt und relativ simpel. Viele Communities nutzen das heute um einen regelmäßigen Finanzmittel Fluß von der EU zu garantieren.
+Eine Alternative ist es, Holz zu verarbeiten und nicht verrotten zu lassen. Für große Holz-Bauten bekommt man pro Kilo CO2 und Jahr die das steht Geld. Die Buchführung ist etwas aufwändig (durch Laser Gravuren oder RFID Chips in den Balken vereinfacht). Es lohnt sich aber aus Holz zu bauen.
+
+**Fleisch**: Farmen produzieren tierisches Fleisch. Dafür werden Tiere gezüchtet und in kleinen Gruppen perfekt artgerecht gehalten. Das Fleisch selbst wird aber in angeschlossenen Fabriken in Laboren gezüchtet. Hierfür werden den Tieren einige Zellen abgenommen und diese in Brut schalen zu Fleischstücken vermehrt. Das ist extrem Wasser und Energieeffizient. CO2 wird praktisch keines emittiert. Die perfekte Einstellung der Brutschalen ist oft Betriebsgeheimnis. Diese bestimmt Zähigkeit, Geschmack, saftigkeit und Fett-durchwuchs des Fleisches. Die Tierhaltung als Roh quelle für die Zellen ist ebenfalls vom Können der Bauern abhängig. Ebenso die schlaue Zucht der Tiere - diese müssen endlich nicht mehr auf "Fleischertrag pro Tier" optimiert werden sondern auf Geschmack und andere tierfreundliche Parameter (Verhalten, ...). Tierhaltung und Fleischproduktion müssen nicht am selben Ort stattfinden. Der Handel mit Röhrchen voller gekühlter Hoch-qualitäts Zellen ist sehr lukrativ. 2020 war das alles noch am Anfang (https://www.golem.de/news/labor-edelfleisch-forscher-praesentieren-wagyu-steak-aus-dem-3d-drucker-2108-159187.html ) . Ein weiterer Job der entstanden ist ist Fleisch Designer. Am Computer werden Fleischstücke (Muskelfasern, Bindegewebe, Fett) je nach Verwendungszweck zusammengestellt und kann danach ausgeliefert werden. Für Zwecke wie Grillen gibt es dadurch äußerst schmackhafte Varianten, die nicht durch die Natur beschränkt werden.
+
+**Milch**: Milch wird ähnlich wie Fleisch in technischen Prozessen produziert. Von speziell gezüchteten Tieren wird genetisches Material entnommen und in einem kleinen Gen-Labor (gibt es für wenig Geld) in Hefe Zellen integriert. Die Zucht der Hefe Zellen ist jedem Kind bekannt. Und mit etwas Zucker, Energie und Wärme kann man in Stahltanks diese vermehren und schon nach einigen Stunden die ersten Milch abschöpfen, filtern und trinken. Sauberer und reiner als direkt von Tieren. Standardmäßig setzen Landwirt auf nicht-exotische Milch. Von Kühen, Schafen, Ziegen. Natürlich gibt es auch genügend Bauern, die die Herausforderung gerne annehmen, andere Milch zu produzieren. Und wieder einmal hat die Hefezelle als eine der ersten Nahrungsmittel Verarbeitungs-Technologien ihren Dienst erwiesen (man denke hier an Bier und Brot).
+
+**Erste Hilfe**: Wenn es lokal vom Staat nicht organisiert ist, sind Rettungstrupps von Freiwilligen geführt. Die EU zahlt dann pro Rettungseinsatz. Das Wissen und die Rettungs Ausbildung sind einfach verfügbar. Technik und Fahrzeuge sind schon seit den 2020ern als freier Entwurf aus dem Netz zu laden. Cadus hat hier damals den Startpunkt gesetzt: https://www.cadus.org/de/
+
+**Presse**: Blogs, Podcasts und Video haben oft klassische Presse ersetzt. Auch Wikis für Faktensammlungen sind verbreitet. Interessanter ist hier natürlich die Wissensgewinnung. Es gibt viele Freiwillige die Open Data APIs frei-hacken und damit jedem statistische Auswertungen erlaube. Bereits 2020 gab es die ersten Schritte (https://bund.dev/ und https://fragdenstaat.de/). Niemand hätte gedacht, dass die Nutzung und die Datenbasis sich so stark verbreitern würde, wie es dann passiert ist. Trotzdem wehren sich vor allem noch Konzerne. Doch man findet auch dort Wege...
+
+**Bildung**: Im Jahr 2020 war Frontalunterricht, wie ihn bei uns die Norms genießen weit verbreitet. Projekt orientierter Unterricht war im Entstehen aber nicht weit etabliert. Im Zuge der Seuchen der 20er wurde vermehrt zum Frontalunterricht und der Online Variante Video-Konferenz 1:n gewechselt. Damals gab es aber bereits in weniger etablierten Bereichen von Bürgern organisierte Bildung. Dies war hauptsächlich im technischen Bereich. https://media.ccc.de und  https://www.ccc.de/schule
+
+**Datenverbindung**: Im Jahr 2020 war es im allgemeinen nicht üblich, Glasfaser Kabel zu verlegen. Über die Kupferkabel waren weit weniger als die 1 GBit/s schaffbar, die heute Mindeststandard sind. Funknetzwerke hatten eine sehr schlechte Abdeckung und waren (wie heute) von Großkonzernen zur Verfügung gestellt. Aber damals gab es bereits Anfänge der Solarpunk Projekte, die uns heute unabhängig von den Konzernen Netzwerkzugang sichern. Freifunk war die Keimzelle: https://freifunk.net/ . Sie bauten damals nur Funk WLANs auf. Damals dachte niemand, dass sie wild Glasfaser legen würden oder Satelliten betreiben. In 30 Jahren ist viel passiert. (Siehe auch: https://notfunk-bodensee.de/)
+
+**Insekten**: Insekten sind eine großartige Proteinquelle mit der schon im Jahr 2020 vorsichtig experimentiert wurde. Was damals noch als abenteuerliches Spezialessen im Supermarkt verkauft wurde ist heute in drei Formen zu erhalten:
+* Als Tier futter für Schweine und Fische.
+* Als "getarnte" Proteinquelle in hochverarbeiteten Lebensmitteln für Norms ("Protein Pudding mit tierischen Proteinen", "Kraft Riegel"). Dass darin Insekten sind, weiß eigentlich jeder, steht auch im Kleingedruckten, aber man redet unter Norms weniger darüber. Lecker sind die Dinger allemal. Kein Wunder. Da steht auch Food-Forschung der ganz großen Unternehmen dahinter
+* Als Spezialität. Wird besonders von Solarpunks geschätzt, die keine Berührungsängste haben. Süßkartoffeln mit scharfen Heuschrecken machten einen Koch der Nomaden berühmt. Es lohnt sich, herauszufinden, wo dieser gerade unterwegs ist.
+Die Zucht der Insekten kann durch Konzerne in Lagerhallen großen Komplexen erfolgen. Oft aber auch direkt durch Solarpunks in umrüstbaren Containern. "Hat heute mal wer Lust, ein paar hundert Kilo Heuschrecken zu züchten ?". Problematisch ist das alles nicht. Nur leider sind die Zuchtanlagen häufig Ziele von Angriffen von Verlorenen oder Fundamentalisten, die denken die Idee "Eine biblische Heuschreckenplage über der Stadt" ist doch ein tolles und vor allem originelles Symbol.
+
+**Guerilla Gardening**: In den frühen 2020ern war Guerilla Gardening eher eine ökologische Protestform (die zugegebenermaßen an manchen Stellen willkommene Biotope geschaffen hat). Die ökologische Revolution hat den Protest aber normalisiert. Dafür gibt es hochgradig vernetzte Künstler, die mit Säh-Drohnen, Sprüh Moos und Infiltrations-Techniken Kunstwerke schaffen, die erst nach Wochen sichtbar werden um dann eventuell nach Monaten zu verblühen. Die letzte Aktion, als im vermeintlichen Hochsicherheits Bereich der "Chem-Corp" plötzlich ein Rosengarten in Schriftzug-Form "Ceterum censeo Chem-Corpinem esse delendam" hat sogar zu sehr peinlichen Untersuchungen geführt, die das Ende von Chem-Corp bedeuten könnten. Wir werden sehen.
+
+**Urban Mining**: Urban Miner sind ein besonderer Schlag von Menschen. Sie suchen entweder in Trümmern von Klimaereignissen zerstörter Städte oder in alten Müllhalden nach wertvollen Rohstoffen. Erste Ideen dazu gab es bereit im Jahr 2020. Sogar von einer Regierungsstelle ( https://www.umweltbundesamt.de/themen/abfall-ressourcen/abfallwirtschaft/urban-mining#strategie-zur-kreislaufwirtschaft- ) . Doch erst mit der aufbrechenden Goldgräberstimmung entstehen neue Geschäftsfelder und genau wie damals eine sekundäre Wertschöpfung darum herum. "...und dann haben Bobs Roboter einen Flötz alter Nokia Handys gefunden. Einfach abzubauen. Viel Gold und andere Metalle enthalten. Er ist dann gleich persönlich 'runter. Hat da händisch ein paar abgeräumt und ist auf den wirklichen Schatz gestoßen....gib mir mal noch ein Bier aus, meines ist alle"
+
+**Seed Stores**: Ähnlich öffentlicher Bücherschränke, in denen Bücher getauscht werden können gibt es inzwischen auch Schränke zum Austausch von Samen. Jeder kann welche in kleinen beschrifteten Tüten einstellen und dafür eine andere mitnehmen. Im Jahr 2020 gab es zumindest vereinzelt die Bücher Schränke. Erste Seed Stores kamen auf, um gegen das Copyright auf Pflanzensamen zu protestieren.
+
+**Eat the invaders**: Um invasiven Arten Herr zu werden wird heutzutage gezielt Jagd auf sie gemacht. Die Beute wird entweder haltbar gemacht oder direkt verkauft. Dies war im Jahr 2020 noch nicht so gebräuchlich. Dinge wie Food-Tourismus, Jagd events und Experimentalköche waren damals noch nicht einmal angedacht
+
+**Rechenkraft**: Schon im Jahr 2020 gab es billige und einfach programmierbare Mikrocontroller. Die konnten Elektronik Steuern, Sensoren auslesen, per WLAN Netzwerk funken oder per Bluetooth mit nahen Geräten Kontakt aufnehmen. Gar nicht so anders als die heutigen Standard Controller. Auch damals waren die Kinderleicht programmierbar. Die heutigen Controller erfüllen denselben Zweck. Haben aber gleich einen Solar Laderegler integriert und andere wichtige Dinge. Bastler damals haben die übrigens auch schon Schuhkartonweise bestellt (und die heutige Standard-Einkaufs menge dieser Controller von 1592 Stück kommt gerade von der damaligen Größe der Schuhkartons und der Mikrocontroller, wissen die Wenigsten !).
+
+**Mehr Rechenkraft**: Wer damals mehr Rechenkraft für Basteleien brauchte (und Energie sparen wollte - die damaligen Batterien haben nicht so viel Kapazität gehabt) konnte für schmales Geld einen vollwertigen Bastel PC wie den "Raspberry PI" kaufen. Heutige billig PCs in der Preisklasse schaffen natürlich Bildverarbeitung und Erkennung mittels KI deutlich besser und ermöglichen so schnell zusammengefriemelte Technologie Wunderwerke innerhalb von Stunden. Die Urahnen der heutigen Bastel PCs habe aber damals selbst die Hersteller überrascht. Die PIs waren ein Grundstein der Solarpunk Technologie wende, weil breit einsetzbar.
+
+**Exoskelette**: Dank Carbon Rahmen, Servos, Akkus und einfach verfügbarer Rechenleistung sind Exoskelette für schwere Arbeit alltäglich. im Forstbetrieb gibt es z.B. das "Vollernter Exoskelett", mit dem man dank Greifklauen an Händen und Füßen und Kettensägen einen ganzen Baum zerlegen kann. Ultraschall Sensoren können derweil Baumabschnitte auf Holzqualität scannen. Auf 10 cm fokussierte Laser können dann die Holzstücke je nach Qualität mit QR Codes markieren. Ein solches Skelett kann einen ganzen Baum aus dem Wald ziehen.
+
+**Engelsystem**: Viele Communities nutzen heute ein Engelsystem. Kennt man ja. Anstehende Aufgaben werden mit Tags versehen und jeder Eingeloggte kann sich nach Befähigung online in eine Schicht seiner Wahl eintragen. Punkte werden gutgeschrieben. Wenige wissen, dass das früher in den 2020ern mal ein Event Management System war. https://engelsystem.de/ Also falls euch langweilig ist und ihr wie immer mal nach einer interessanten Schicht sucht (oder beim Gemüse schneiden entspannen): Das Engelsystem war früher nicht permanent am laufen, sondern nur bei speziellen Ereignissen.
+
+**Schwänze**: Furries waren auch im Jahr 2020 ein Begriff. Manche witzelten bereits, dass sie das Internet erfunden haben. Heute sind sie ein deutlich häufigerer Bestandteil unserer Gesellschaft. Und deren Kostüme ("Fursuits") haben einen starken Beitrag zu unserer Technologie geliefert. Umschnallbare, autonome Balanceschwänze sind so ein Ding. Selbst ohne Fellüberzug schnallen sich das viele um, da sie bei akrobatischen Aktionen sehr von diesen Balance Schwänzen profitieren. Der Akku reicht locker einen halben Tag im Volleinsatz.
+
+**Lichtbringer**: Ein E-Bike Anhänger, ca. 2 Bierkästen groß mit auf 5 Meter ausfahrbarem Teleskop Mast. Daran angebracht sind Power LEDs, die einen weiten Umkreis hell erleuchten können. Das Ding ist dank Akkus autark und hat zusätzlich 10 Handlampen. Bei nächtlichen Einsätzen und unterirdischen Katastrophen ist der Lichtbringer unersetzlich. Es heißt einige Communities haben das Standard Modell stark modifiziert.
+
+**De-Extinction**: Verschiedene Initiativen wurden in den frühen 2000ern gestartet, um Arten das Überleben zu sichern oder gar eine Rückzüchtung zu ermöglichen. Die damaligen Initiativen wie https://genbaenkle.de/ sind heutzutage aber nicht mehr denkbar, da sie keinerlei der nötigen Militanz besitzen, die es heute braucht um unter allen Umständen Arten zu bergen und zu schützen.
+
+%% TODO: Riesige Epaper Folien
+
+-------------
+
+Cyberware
+---------
+
+Cyberware ist reguliert. Das hat historische Gründe. Insbesondere die Intervention der inzwischen zersplitterten Christlichen Partei. Cyberware ist nur erlaubt zum Ausgleich einer Behinderung und darf damit auch die körperlichen Möglichkeiten nicht über das menschliche Maß hinaus erweitern. Zusätzlich darf keine Cyberware fest implantiert werden, sondern nur ein "dummer Connector" = Socket, an den dann die Cyberware danach angeschlossen wird (oder eingesetzt, oder...). Sie kann somit jederzeit getauscht oder entfernt werden.
+
+Diese bornierte Herangehensweise hat aber einige Vorteile für die abenteuerlichen Solarpunks.
+
+- Das Zertifikat für eine Behinderung bekommt man schnell, wenn man die richtigen Leute kennt.
+- Cyberware lässt sich leicht mittels Firmware hacks oder kleinen Operationen modifizieren
+- Das leichte Austauschen der Cyberware durch die implantierten Sockets sorgt für viele selbst-modifizierungs Abenteuer
+
+Man sollte sich nur nicht erwischen lassen.
+
+Regeln:
+- Jede Cyberware bietet Vorteile. Aber auch genau so viele Glitches - Hardware von der Stange modifiziert wird. Als Solarpunk kann man beständig daran herum basteln. Aber man verändert immer nur die Vorteile/Glitches ohne wirklich Probleme endgültig zu beheben.
+
+Beispiel: Ben hat seine Augen-Cyberware gehackt. Er hat die morgendliche Werbeeinblendung entfernt und 100xZoom hinzugefügt. Der Glitch ist, dass er zu zufälligen Zeiten den Wetterbericht eingeblendet bekommt. Von Nebraska. Wenn Jasmin die Augen einsetzt hat sie keinen Wetterbericht, aber ein schwarzes Feld dort wo der Wetterbericht bei Ben auftaucht. Evtl. Wechselwirkung mit dem Insulin Implantat, dass er gehackt hat, um verschiedene Drogen je nach Stimmung frei zusetzen. So eines hat Jasmin nämlich nicht. Sie experimentieren aber weiter. Aber der Zoom ist cool.
+
+Zitat: "Kannst du mir mal deine Hand leihen ?"
+
+Wildnis
+-------
+
+Zwischen den Jahren 2020 und 2050 wurden viele Gebiete Deutschlands zu Wildnis erklärt. Doch hier gibt es viele Varianten und Kombinationen davon:
+
+Zugänglichkeit
+~~~~~~~~~~~~~~
+
+* Kommerzieller Natur Erlebnis Park mit Fahrgeschäften
+* Wanderpfade mit Rangern. Nationalpark Charakter
+* Teil-bewirtschaftet (Holz, Heilkräuter)
+* Betreten nur mit Einladung und Führer
+* Kein Betreten für Unbefugte, vom Aussterben bedrohte Pflanzen und Tiere
+* Kein Betreten. Lebensgefahr
+
+Typen
+~~~~~
+
+* Renaturierung zur CO2 Speicherung
+* Renaturierung zur Erhaltung der Biodiversität (bedrohte Tiere und Pflanzen)
+* Neuansiedlung ehemals heimischer Tiere und Pflanzen
+* Experimentelle Ansiedlung von Tieren und Pflanzen ( Bisons, ...). Oft als Experiment wie die jeweils mit Klimawandel klar kommen
+* Überschwemmungsfläche
+* Katastrophengebiet. Aufgegeben. Lebensgefahr (Grund für Lebensgefahr ist nicht ausgewiesen)
+
+Ein häufiger Grund für das Ausrufen eines Schutzgebiets war nach 2020 in Überflutungsbereichen. Wurde eine Stadt mehrfach durch Katastrophen überflutet und hatte eine schlechte Prognose, war es einfacher, Risiko Materialien zu entfernen (Heizöl Tanks !), die Leute umzusiedeln und die Natur den Bereich übernehmen zu lassen. Ein weiterer Grund könnte innereuropäische Klimamigration sein, bei der die Bewohner langsam einen Bereich verlassen um in sichereren Städten zu siedeln. Manchmal können nicht alle Bewohner des neu entstehenden Wildnis Bereichs diesen verlassen. Oft weil ihnen das Geld für einen Umzug fehlt. Damit entstehen verwilderte Gebiete mit hoher Chance auf Klimakatastrophen (Erdrutsche, Überflutungen, ...) und Einwohnern, die vor einem Jahrzehnt den Kontakt zur Zivilisation abgebrochen haben.
+
+Wakanda
+-------
+
+In Entwicklungs-Ländern (gerade Afrika) traten die Folgen der Klima Katastrophe ca 10 Jahre früher ein. Doch einige glücklichen Umstände haben für eine äußerst positive Entwicklung gesorgt:
+
+* Es gab eine bereits existierend Do It Yourself und Repair Mentalität da dort keine Wegwerfgesellschaft herrschte
+* Andere Länder haben Afrika mit Technologie unterstützt. Aber dabei gleich auf Leap-Frogging geachtet: Kohlekraft wurde übersprungen - man hat gleich auf dezentrale Solarenergie gesetzt. Dasselbe mit Funk-Internet statt Netzwerkkabeln
+* Die Bevölkerung war jünger und Technologie-offener
+
+Auf diese Grundlagen basierend haben die Länder sich schneller als nur durch die 10 Jahre Vorsprung entwickelt. Viele Solarpunk Konzepte wurde dort entwickelt und perfektioniert. In Europa sind reisende Solarpunks "Aus Wakanda" (wie man sagt) sehr gerne in den Communities gesehen. Sie bringen mit sich ein ausgezeichnetes Verständnis des Technologie-Einsatzes unter den neuen Umständen. Oft aber auch Musik, Kultur und Essens-Rezepte.
+
+Als Wakanda wird oft nicht nur Afrika sondern auch Länder mit ähnlicher Entwicklung bezeichnet: Indien, Süd Amerika, ...
+----------------
+
+Abenteuer
+=========
+
+90er Theme Park
+---------------
+
+Einige der Verlorenen bauen einen 90er Theme Park um die tolle Vergangenheit nach zu erleben:
+
+* Im Auto Karten statt Navi verwenden (mit dem üblichen Gezänk um die richtige Route)
+* Video Verleih statt digital Ausleihe
+* Staus
+* Diesel
+
+, ... alles was damals "gut" war. Er braucht Hilfe beim Aufbau/testen. Evtl. findet man auch in einer längst verlassenen Geisterstadt (wegen Flut ö.ä.) noch eine alte Original Videothek, die man umziehen kann.
+
+
+Containern
+----------
+
+Eine gerade veraltete Furby Serie hat einen sehr praktischen Chip intus, den man umflashen kann. Mit denen kann man dann Sonnenfolger für Solarzellen bauen. Also braucht man die Furbies, die gerade in einem Container hinter der Fabrik liegen.
+Kann eine Art Shadowrun zum Mülleimer werden. Planung, Ablenkung, Security. Im Mülleimer sind dann die erhofften Furbies, die wegen einer neuen Version entsorgt wurden. Und sofort anfangen fröhlich miteinander zu reden. Außerdem: Ein weggeworfener PC, auf dessen Platte interessantes ist.
+
+Krimi Dinner
+------------
+
+Einige Norms gönnen sich Urlaub und kommen (von einer Agentur organisiert) bei einem Solar Punk agrotouristik unter. Was die Solarpunk Spieler Charaktere ( denen das Agrotouristik gehört)nicht wissen: Die neugierigen Gäste spielen ein "Real Life Krimi Dinner" bei denen einer von denen der Mörder ist und die anderen töten soll. Während die Spieler also die Norms bespassen und durch das Solarpunk-leben führen, sterben nacheinander diese Gäste. Andere verhalten sich seltsam und paranoid (sie wissen ja, dass sie gejagt werden) oder versuchen den Mörder zu finden.
+
+Beschwerden bei offiziellen Stellen werden versanden ( alle Mitspieler haben ja einen Vertrag unterschrieben und es sind erwachsene Leute).
+
+Also muss man selber anpacken. Den Mörder finden, Gäste beschützen oder einfach so irgendwie durchkommen.
+
+Wenn der Mörder gestellt wird, wird er sich nicht wehren sondern auf die Spielregeln verweisen. Es gibt eine Belohnung.
+
+Change my KI
+------------
+
+Letztens bei den Solarpunks:
+
+"Ich fand Soy's Idee ja richtig cool den Norms auch einen Parcours Kinderspielplatz in die Stadt zu bauen. Wenn man die Kinder von denen so beobachtet: Die fallen ja im Stehen um. Ihr wisst ja, ich habe die Stadt gefragt, die Antwort war aber ein Desaster. Ich lese mal vor: 'Vielen Dank für Ihr Angebot, wir nehmen es gerne an und freuen uns schon. Bitte füllen sie folgende Formular aus, dann können wir fortfahren'. Formulare ! Das geht gar nicht !"
+
+
+"Aber wir könnten das in einer Nacht-Aktion machen. Ich denke mit den richtigen Leuten, einer Ablenkung und dann wenn die KI gerade ihre Modelle neu berechnet können wir denen heimlich einen Spielplatz hinstellen. Bagger haben wir genug."
+
+
+"Gute Idee, vor allem wenn die KI bei der nächsten Glücks-Faktoren Berechnung dann den Survival-Spielplatz und den Effekt auf die Happiness der Norms einbezieht, könnte es dann in ein paar Monaten dafür sorgen, dass diese Spielplätzen zum Standard Repertoire der KI werden. Wir bauen einen Spielplatz und bekommen hunderte"
+
+
+So beginnt ein Abenteuer, dass noch Monate Nachwirkungen haben wird...
+
+
+Sauerteig
+---------
+
+Ein kleines Abenteuer um die Welt kennen zu lernen.
+
+Es gibt eine weitere Solarpunk Community, mit der die eigene Community praktisch keine Verbindung hat. Die sind "definitiv Solarpunks, aber echt komisch". Evtl. setzen die zu viel Technik ein, oder zu wenig. Oder deren sozialen Code ist zu geschlossen/zu offen. Halt genau das Gegenteil der eigenen Gruppe.
+
+Aber es sind Solarpunk. Und auch sie haben einen eigenen, geheimen Sauerteig, mit dem sie geniales Brot backen. Wie die eigene Gruppe - nur eben mit anderem Aroma. Ein Bote der anderen Community kommt mit einem Lastenrad frischer Sauerteig Broten. Man probiert gegenseitig die Brote (die eigenen und die fremden) in einer kleinen Zeremonie. Beide sind Geschmacksrichtungen sind verschieden. Aber jeweils sehr schmackhaft. Eines passt für herzhaften Belag, eines für süßes. Ein neuer Pakt zwischen den Communities soll besiegelt werden. Durch Austausch der geheimen Sauerteig Kulturen. Im Nirgendwo. In der Mitte. Evtl. in der nächsten Norm Stadt.
+
+Das kann man jetzt schön aufziehen als:
+
+* Roadmovie
+* Kalter Krieg Gefangenen Austausch
+* Seltsames Abenteuer in eine andere Welt (der Community der anderen Solarpunks)
+* High Noon Shootout ( eine Verlorenen Gruppe beobachtet den gut bewachten Wagen Treck und kommt zu dem klaren Schluss, hier werden große Kostbarkeiten transportiert)
+
+Das Abenteuer wurde gespielt und hat sich als nettes Kennenlernen der Absurditäten der Solarpunk und Norm Gesellschaften entwickelt. Mit ein paar Angriffen der Verlorenen (die Schätze erwartet haben bei einem so geheimen und abgesicherten Treffen). Auch die nähere Umgebung und die nächste Stadt konnten so eingeführt werden.
+
+
+Glücksmission
+-------------
+
+Ein befreundeter Norm aus einer Fabrik, die Bolzen für die Raumfahrt herstellt fragt um Hilfe. Irgendwie hat er bei der Arbeit ein komisches Gefühl - ein Bolzen den er prüfte denkt er die letzten Monate schon ein paar mal gesehen zu haben, obwohl der doch einen Raumflug gemacht hat.
+
+Die Spieler können sich als Norms verkleiden und für kurze Zeit ein Norm leben führen und in der Fabrik arbeiten. Dort nachforschen.
+
+Hintergrund:
+
+* Es finden regelmäßig Raketenstarts statt. Die Teile dafür werden aber vollautomatisch hergestellt und es braucht keine menschliche Kontrolle oder Fabriken. Diese Fabrik ist eine Fassade
+* Nach der Endkontrolle werden die premium Bolzen aufwändig in Schock-sicheren Behältern verpackt und zum Raketen Gelände geschickt für die Montage. In Wahrheit werden aber alle Bolzen (gute wie Schlechte) wieder in den großen Topf geworfen und werden bei der nächsten Inspektions-Runde wieder geprüft. Davon weiss natürlich niemand der dort arbeitenden.
+
+Wirkliche Aufgabe der Fabrik:
+
+* Selbstwirksamkeit für die Arbeiter simulieren
+* Teilhabe durch Raketen-Start-Feiern "Wenn mal wieder Teile von uns ins All fliegen"
+* Aufstiegsmöglichkeiten: Erstkontrolle (anschauen), Zweitkontrolle (Vermessen der Bolzen). Endkontrolle (Röntgen der Bolzen) erlaubt einen Aufstiegs Pfad
+
+
+Dilemma:
+
+* Macht man es öffentlich ( pro Wahrheit) oder lässt man den Norms ihre schönen Illusionen. Red Pill vs Blue Pill. Sollte es öffentlich erden, wird es zu einem lokalen Skandal erklärt werden und die Chefs der Fabrik entlassen.
+* Für Solarpunks wird es etwas unverständlich sein, dass es simulierte Projekte gibt. Man kann doch immer was basteln.
+
+Goldgräber
+----------
+
+Goldgräberstimmung: In einem Schutzgebiet um eine ehemalige Stadt liegt eine Müllhalde. Dort sind besonders viele Elektronik Produkte ("ein Flöz voller Nokia Handy !"). Diese können geborgen werden. Gemahlen. Und mittels Hochspannung verdampft. Übrig bleiben Kohlenstoff. Und die verdampften Edelmetalle, die man abscheidet. Gold.
+
+Neben den direkten Goldgräber sind natürlich auch andere hier ansässig. Salons, horizontales Gewerbe, Pfandleiher, Sheriff, ....
+
+Es entsteht dort in einer rechtlichen Grauzone eine fast schon klassische Goldgräberstadt. Mit den klassischen Persönlichkeiten und Problemen.
+
+So was zieht immer Solarpunks an. Es gilt anzupacken. Oder Probleme zu lösen. Oder einen verschuldeten alten Freund da raus zu holen "Ich habe den Verdampfer gemietet. Ausgerechnet, dass ich nur 100 Nokia Handys pro Tag brauche, um den abzuzahlen. Aber mein Claim grenzt an den von Bernd. Und ich höre ihn Seine Tunnels graben. Er ist sicher auf meiner Seite der Grenze !".
+
+Supraleitung
+------------
+
+"Ok, letzter Punkt für heute. Unser Bike-Zauberer Niels hat ein neues Verbesserungsprojekt für die Räder vor. Braucht dafür aber flüssigen Stickstoff. Wer hat also eine Idee, wo man den her bekommt ?"
+
+Job der Spieler ist es also einen Tanklaster flüssigen Stickstoff aufzutreiben. Oder eine regelmäßige Bezugsquelle. Je nach aufgebauten Connections, Spielstil oder Umgebung könnte das Abenteuer also anders laufen:
+
+* Shadowrun mäßig
+* Heist style
+* "Ich kann euch Stickstoff liefern, wenn ihr eines meiner Probleme löst: "
+* Ressourcen in die Hand nehmen und kaufen....
+
+Flüssiger Stickstoff ist unglaublich kalt (ca. -200°C) und doof zu transportieren. Der taut bei normalen Temperaturen langsam in seinem Thermosbehälter auf und wird diesen sprengen, wenn kein Überdruckventil existiert.
+https://de.wikipedia.org/wiki/Fl%C3%BCssigstickstoff
+
+Belohnung: Niels kann danach die Räder mit supraleitenden Spulen und Leitungen verbessern. Der Fahrer kann aus einem kleinen Stickstoff Tank Kühlung zuschießen und als Stunt +2 auf Geschwindigkeit erhalten. Der Tank enthält 3 Ladungen. Außen am Tank bilden sich Eiskristalle. Und hin und wieder entlässt das Überdruckventil am Rad zischend Dampfwolken. Sieht sehr cool aus. Besonders mit gezielt angebrachter LED Beleuchtung.
+
+Anonymous
+---------
+
+Die digitale Organisation Anonymous macht Aktionen gegen böse Menschen und braucht physische Hilfe. In dem Fall geht es darum eine korrupte Firma zu Fall zu bringen. Doch damit Anonymous (wer auch immer das ist) anonym bleiben kann, brauchen sie Leute für die physische Welt. Doch die Aktion, für die die Spieler angeworben werden ist nicht so hasenrein wie ursprünglich angekündigt und die Charakter sitzen in der Patsche. Welcher der Fraktionen können sie vertrauen ?
+
+Dungeon Crawl
+-------------
+
+Die Verlorenen dringen in eine alte Anlage in einer Sperrzone ein um dort sagenhafte Schätze aus der Vergangenheit zu finden. Was dort liegt soll eigentlich sicher vor menschlichem Zugriff sein, da es zu gefährlich und unberechenbar ist.
+Die Charaktere sind entweder so rechtzeitig, dass sie die Verteidigung aufbauen können oder knapp hinter den Verlorenen an der Anlage, damit ein Wettrennen entsteht.
+In dieser Sperrzone und der Anlage wird das praktisch zu einem Dungeon Crawl.
+
+Ganz unbekannt sollte das gefundene Objekt den Gebildeten nicht sein, denn es ist ja ca. 30 Jahre alt. Den Solarpunks könnte die Gefahr sehr bewusst sein, den Verlorenen Evtl. gar nicht. Oder es ist ihnen egal.
+
+Versunkener Autohändler
+-----------------------
+
+In der Nähe der Community ist damals ein Autohändler über spült worden. Verlorene haben den nach Karten-Studium unter einem Hügel gefunden und angefangen mit einem Bagger freizulegen .Die Firma, der der vor 30 Jahre gehört hat meldet aber auch Besitzansprüche an ... und die dort lebenden Solarpunks wahrscheinlich auch - ist ja ihr Gebiet.
+
+Für die Verlorenen sind die Autos an sich wertvoll. Man könnte die alten Diesel renovieren. Die Solarpunks und die Firma interessieren sich für die Rohstoffe, um sich Rohstoffpunkte gut schreiben zu lassen.
+
+Es wird also zu einem Streit zwischen den Fraktionen und Evtl. Kampf kommen.
+
+* Gewinnen die Verlorenen, werden sie die rostigen Autos bergen und irgendwie wieder flott machen. Helfen die Spieler denen, erhalten die Möglichkeit, einmal die Verlorenen zur Hilfe zu rufen. So ein Einsatzkommando der Verlorenen
+* Gewinnt die Firma, wird sie die Rohstoffe verwerten und Umweltschäden lokal anrichten. Die helfenden Charaktere erhalten aber Geld
+* Gewinnen die Solarpunks (Charaktere), können sie darauf eine Rohstoff Mine errichten. Die Community bekommt Rohstoffe, bis die Mine erschöpft ist.
+
+Sammelsurium
+------------
+
+* Mit den Nomaden durch die Pampa, etwas abholen
+* Desaster Recovery: Zoo geflutet. Tiere jagen
+* Desaster Recovery: Man versucht an einem Unglücks Ort zu helfen. Gleichzeitig kommen Verlorene um zu Plündern
+* Wettrennen um Patente: Ein Prototyp muss gebaut werden bevor ein Patent von einem Konzern angemeldet wird. Der spielt nicht fair
+* Deal mit dem Feind: Man benötigt etwas von einem Verlorenen (Hilfe, alte Technik wieder zum laufen zu bekommen)
+* Romeo und Julio zwischen zwei Fraktionen
+* Ein Monster Fass Bier als Bezahlung für einen alten Gefallen ausliefern
+* Jährlicher freundschaftlicher Wettkampf zwischen zwei Communities. Ziel wäre etwas produktives zu Gestalten. Wie der eigenen Stadt in möglichst kurzer Zeit einen Fußballplatz zu bauen und eine Mannschaft aus Straßen Kindern zu trainieren, damit die gegeneinander antreten können. Hinterher gibt es ein gemeinsames Fest.
+* Als Kampagne: Eine Community aufbauen
+* Einen illegalen Cyberware tuning Service aufmachen
+* Spezielle Tiere finden/entführen für die Zucht. Daraus wird Labor Fleisch und Milch hergestellt....Wale geben Milch....
+* Ein Priester braucht Unterschlupf. Die Inquisition verfolgt ihn wohl. Doch warum ?
+* Ein Judge braucht Unterstützung. Eigentlich ist sie sehr erfahren im schlichten. Aber hier sind gewalttätige Elemente beteiligt....
+* Eine externe Gruppe, die eindeutig im Unrecht ist, erkennt das Urteil eines Judges nicht an
+* Terror Anschlag auf Solarzellen Gigafactory (verhindern, aufklären, ...)
+* Mutanten Jagd: Eine Gruppe Mutanten hat eine benachbarte Community überfallen und sich dort festgesetzt. Die Bewohner sind vermutlich tot
+* Eine Firma will ein Auto-Typ aus Recycling Material fertigen. Ein paar Tausend Fahrzeuge. Jetzt muss man ein großes Lager aus historischem Material gefunden werden um es zu recyceln. Das können bestimmte Güter eines Typs sein (500 Trabis, weil sie aus dem richtigen Plastik für das Handschuh fach gefertigt sind, ...)
+* Für eine befreundete Gruppe Verlorener "Echte Tiere zum grillen" aus einem Naturschutz Gebiet stehlen
+* In einem Naturschutz Gebiet (in dem eine aufgegebene Stadt ist) soll es "Schätze" geben. Evtl. ein nicht geleerter Bank Tresor. Oder etwas im Lager des Museums, das vor 20 Jahren dort vergessen wurde. Inzwischen ist natürlich die Natur zurück.
+* Um eine natürliche Balance in einem Naturschutz Gebiet wieder herzustellen sind Wölfe auszuwildern. Gefällt aber nicht allen.
+* Der Bruder eines der Charaktere ist nicht bei den Solarpunks, sondern bei einer anderen Gruppe (Normale, Verlorene). Solange es nicht um Politik geht, versteht man sich aber prima. Das kann neue Abenteuer im Dienst dieser Gruppe eröffnen.
+* Mentor der Verlorenen: Ein Verlorener will den "Alten Weg" lehren. Wie es damals war, die guten Sachen. Diesel Autos reparieren, Tiere ausnehmen. Nicht fein, aber vielleicht akzeptabel. Nur kommen viele seiner Schüler auf Abwege und nähern sich der dunklen Seite. Er braucht Hilfe
+* Organisieren eines Hilfs Paket Air drops in eine Katastrophen Zone. Zeit ist zentral ! Am besten mit kompletter Projekt Planung am Spieltisch.
+* Die Community der Spieler will eine Bier Manufaktur bauen und benötigt ein Gebäude. Glücklicherweise gibt es eines, in dem ein Konzern haust, der eh' Dreck am Stecken hat. Die Abenteurer bringen den Konzern zu Fall, das Gebäude wird von der lokalen Stadt versteigert. Die Gruppe kann dann den Vorschlag mit dem Öko Bier machen (mit den coolen Bio-engineerten Hefen, die sie haben). Als Beweis ihrer Fähigkeiten müssen sie Samples vorlegen. Gewinnen sie das dann auch, haben sie ein Jahr Zeit, das Gebäude zu entkernen, Maschinen und Leute anzuschaffen und das Business zu bauen.
+* Da die KI bei den Normalen alles aufgreift, was Lebensqualität steigert (selbst aber nicht kreativ ist !) ist es ein erfolgreicher Hack, direkt vor der Evaluierungsphase der KI in einer Nacht-und-Nebel Aktion in die Stadt zu integrieren. Die Leute sehen es, freuen sich daran. Die KI evaluiert. Und rollt es danach breit flächig aus. Timing und perfekte Umsetzung ist hier essentiell. Sollte man das Timing versauen, wird die KI Veranlassen, das störende Objekt zu entfernen, bevor die Evaluierung stattfindet, denn nach dem alten KI Modell ist es ja ein Störfaktor.
+* Dank Sabotage (Umstellung der Optimierungs Ziele) wird eine KI in einer Stadt immer bösartiger. Die Umgebung dort praktisch feindlich.
+* Schwarzmarkt für Ressource Punkte (entweder Gründen, hoch nehmen, ...). Man könnte RPs tauschen durch das Verschieben von RP intensiven Gütern....
+* Die 5 Ressource Punkte Blockchains widersprechen sich. Ist das ein Angriff ? Oder einfach wieder mal ein technisches Problem ?
+* Auf der Fahrt durch Europa mit dem Nachtzug (und einer Krimi Dinner Party) wird jemand ermordet. Die Norms halten das für SFX. Können sich nicht vorstellen, dass man einen Toten herumliegen lässt ("Das wäre doch unhygienisch", "habe schon bessere Effekte gesehen"). der Veranstalter will keine Aufstände und bis zur Ankunft sollen die Leute glauben, alles läuft nach Skript. Darum soll der Mörder-Schauspieler so tun, als wäre er für den echten Mord verantwortlich, ....
+* Die verwaiste Community Roanoke muss wieder besiedelt werden. Niemand weiss, wohin die alten Siedler verschwanden.
+* Eine erfolgreiche Solarpunk Community ist der Stolz der Stadt. Die KI hat beschlossen, dass die Lebensqualität steigen würde, wenn die Community wirklich Bestandteil der Stadt wird. Dass die Norms niemals davor profitieren würden, kann der Algorithmus aber nicht vorhersehen. Und so beginnen die Assimilierungsbemühungen.
+* Ein reicher Mäzen versucht es mittels Gentechnik, De-Extinction einer ausgestorbenen Spezies hinzubekommen. Es muss nicht Jurassic Park sein. Lustiger wäre wohl eine Art, die in den frühen 2000ern noch lebt.
+* Eine Community wechselt auf die Dunkle Seite: Ökofaschismus (https://twitter.com/kaenkazui/status/1493274546908110850)
