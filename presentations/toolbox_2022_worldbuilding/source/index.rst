@@ -52,6 +52,21 @@ A world with different issues
 
 I played cool RPG settings with only 2-3 major storys that can be played....this is not enough !
 
+Seeds for stories
+-----------------
+
+Seeds are tech podacsts. I exagerate the introduced technology, maybe assign it to a Faction. The bad parts go into the obstacle section. The good parts are made awesome and become goals for the players
+
+Society is larger than tech
+---------------------------
+
+In SF and especially the *punk SF society is much mor important than tech. And in TTRPGs society topics are simpler to play with.
+
+Fate ans Solarpunk
+------------------
+
+I picked a story centered TTRPG (Fate) and no tactical or crunchy. Because I want to focus on humand interaction.
+
 RPG levels
 ==========
 
