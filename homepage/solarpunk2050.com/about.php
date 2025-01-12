@@ -20,8 +20,9 @@
     <div class="container">
     <h1>About us</h1>
 
-    Contact: <a href="mailto:info@solarpunk2050.com">E-Mail</a> <p>
-    <a href="https://dice.camp/@solarpunk2050">Mastodon</a> <p>
+    Contact: <p>
+    <i class="bi bi-envelope" role="img"></i>  <a href="mailto:info@solarpunk2050.com">E-Mail</a> <br>
+    <i class="bi bi-mastodon" role="img"></i>  <a href="https://dice.camp/@solarpunk2050">Mastodon</a> <br>
 
     <h2>Collaborators and contributors</h2>
 
@@ -32,12 +33,13 @@
     No cookies are used in this page.
 
     <h2>Impressum</h2>
-
-    Thorsten Sick
-    Gustav-Werner str 11
-    88213 Ravensburg
-    Germany
-    E-Mail: info@solarpunk2050.com
+    <small>
+    Thorsten Sick<br>
+    Gustav-Werner str 11<br>
+    88213 Ravensburg<br>
+    Germany<br>
+    E-Mail: info@solarpunk2050.com<br>
+    </small>
 
     </div>
 

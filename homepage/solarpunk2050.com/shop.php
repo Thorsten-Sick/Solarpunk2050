@@ -19,28 +19,28 @@
 
     <div class="container">
 
-    <h1>Beginner</h1>
-    Find about 5 silly/creative/friendly/awesome people, some sweets, 6-sided dice (Fate dice are better). Pen and paper and get ready. Your free starter set is:
+    It is simple to get started and play Solarpunk 2050.
 
-    The quickstarter containing characters, the essential world description and your first adventure that starts with a rule tutorial:
+    <h1>Beginner - Free</h1>
+    Find about 5 silly/creative/friendly/awesome people, some sweets, 4 6-sided dice (Fate dice are better). Pen and paper and get ready. Your free starter set is:<br>
 
-    <h2>The world destroying machine</h2>
+    The quickstarter containing characters, the essential world description and your first adventure that starts with a rule tutorial:<br>
 
     <a href="https://www.drivethrurpg.com/de/product/483769/solarpunk-2050-quickstart-the-world-destroying-machine?affiliate_id=490747">Free Quickstarter Solarpunk 2050</a><p>
 
-    You will also need the SDR cheat sheet for Fate:
+    You will also need the SDR cheat sheet for Fate:<br>
 
-    <h2>Fate Condensed</h2>
+    <a href="https://fate-srd.com/fate-condensed">This cheat sheet is a good staring point</a><br>
 
-    <a href="https://fate-srd.com/fate-condensed">This cheat sheet is a good staring point</a>
+    This will get you at about 4 hours of fun.
 
     <h1>Your large Solarpunk 2050 campaign</h1>
 
-    Starts with the fhe full setting book with a tutorial style campaign guiding you and your players into the hopeful world of Solarpunk 2050. The campaign is set in the interesting area of Southern Germany with lots of diverse locations inspiring even more adventures than the ones contained in this book.
+    Starts with the fhe full setting book with a tutorial style campaign guiding you and your players into the hopeful world of Solarpunk 2050. The campaign is set in the interesting area of Southern Germany with lots of diverse locations inspiring even more adventures than the ones contained in this book.<br>
 
     <a href="https://www.drivethrurpg.com/product/443881/Solarpunk-2050?affiliate_id=490747">Sourcebook: Solarpunk 2050</a><p>
 
-    It is also time to get the full FATE condensed rules with more ideas how FATE rules can add dynamics and spice into your game.
+    It is also time to get the full FATE condensed rules with more ideas how FATE rules can add dynamics and spice into your game.<br>
 
     <a href="https://www.drivethrurpg.com/de/product/302571/fate-condensed?affiliate_id=490747"> You can get the full FATE condensed book here as well</a>
 

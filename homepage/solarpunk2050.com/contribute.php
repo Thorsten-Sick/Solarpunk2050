@@ -20,7 +20,7 @@
     <div class="container">
     <h1>Contribute</h1>
 
-    This game is an Open Source project. Join the development. Some ideas how to do that:
+    This game is an Open Source project. Join the development.
     <ul>
         <li><a href="https://github.com/Thorsten-Sick/Solarpunk2050/issues">Report issues</a> </li>
         <li>Create your own adventures and publish them either through the official channel or on your own</li>
