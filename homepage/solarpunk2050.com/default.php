@@ -18,21 +18,21 @@
 
 
     <div class="container">
-    <h1>Welcome to Solarpunk 2050 - a FATE setting</h1>
+    <h1>Welcome to Solarpunk 2050 - a FATE TTRPG setting</h1>
 
     <h2>Solarpunk is hope.</h2>
 
-    Solarpunk 2050 is a TTRPG setting for Fate.<p>
-
-    After several catastrophes, the remaining humans have managed to bootstrap a new civilisation. More precisely: Three new philosophies for a good and sustainable life. But the transformation is not yet complete. The protagonists will face many challenges to finish what humanity has started. Their greatest advantage: They are diverse.<p>
+    You and your friends are fighting in the Solarpunk revolution. Turning cities, regions and communities into futuristic visions. Fighting the disasters caused by the Lemmings. The good news is you are a diverse group of people with different skills. The bad news is: You visions for a better future are also very diverse.
 
     <ul>
-    <li>The Lost are guardians of the past and experts in survival.</li>
-    <li>The Norms lead perfect cooperation in modern AI-controlled hives</li>
-    <li>And the Pioneers are pushing humanity forward with their bold application of science.</li>
+    <li>If you are a survival expert, explorer of the Lemmings ruins, a fighter or a scholar of old wisdom you are following the Lost philosophy and Bushcraft is your unique skill.</li>
+    <li>If you are constantly pressing for progress, party and new experiences, you are a scientist, engineer, tinkerer or something similar - you follow the Pioneer philosophy and you unique skill is Prototyping.</li>
+    <li>As a Norm you live in a fully automated city with post-scarcity. Thanks to a Hive controller you are connected to the Hive and everyone else in the city. Constantly. It is like magic. And your unique skill is controlling this hive.</li>
     </ul>
 
-    This Solarpunk setting will help you immerse yourself in this new world.<p>
+    But the Solarpunk transformation is not yet complete. You and your friends will face many challenges to finish what humanity has started. Imagine your own utopia. And build it.<p>
+
+    Solarpunk 2050 is a TTRPG setting for Fate.<p>
 
     </div>
 
