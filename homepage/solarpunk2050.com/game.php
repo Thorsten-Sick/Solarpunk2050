@@ -6,6 +6,7 @@
     <title>Solarpunk 2050</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link rel="stylesheet" href="static/styles.css">
+    <link rel="icon" type="image/x-icon" href="/images/favicon.png">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
   </head>
@@ -21,17 +22,12 @@
 
     <h1>Solarpunk 2050</h1>
 
-    In the year 2050 people found several ways to find a perfect balance between society, technology and nature. And everything promises to be so much better than ever before.
+    This game is fast paced, a bit silly and a bit wise. It will drag you and your players through a campaign of Solarpunk rebuild. Uncovering the dark secret behind the myth of the  "Eat the rich festivals" ( where no rich person has been eaten).
+    As this campaign starts with two sandboxed tutorial missions to introduce the world you can start playing without reading the whole book. Those missions contain ready-to-play characters.
 
-    2050 is the core year of the Solarpunk revolution. And with three philosophies to pick from it is not certain which utopia will be built. The gamer characters will be from all those philosophies and will have to find their own mix while saving the day.
-
-    <ul>
-    <li> The Pioneers are mad scientists building very temporary prototypes. Party and progress is their element</li>
-    <li> The Norms have automated Hive cities where technology feels like magic. Thanks to their Hive controller they are always connected - as long as they have Wifi</li>
-    <li> The Lost abandoned all technology that contains microcontrollers. They know the past, how to survive the rough nature and protect their treasure: books</li>
-    </ul>
-
-    The game is fast paced, a bit silly and a bit wise.
+    <h2>Getting started</h2>
+    Start this campaign with the first tutorial adventure "The world destroying machine" for <a href="shop.php#free">free</a>
+.
 
     <h1>Rules</h1>
 
