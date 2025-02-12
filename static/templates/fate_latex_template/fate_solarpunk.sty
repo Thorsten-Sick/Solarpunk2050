@@ -27,6 +27,9 @@
 % tcolorbox can use breaklable to split boxes https://www.ctan.org/pkg/tcolorbox
 \tcbuselibrary{breakable}
 
+% Remove indent for paragrapha
+% \setlength\parindent{0pt}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Turn off paragraph vertical justification
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -464,7 +467,7 @@
 % Lists for various NPC parts
 \newlist{npcList}{itemize}{1}
 \setlist[npcList] {
-  itemindent=5pt,  % 10 was to much
+  itemindent=0pt,  % 10 was to much
   leftmargin=0pt,
   label=
 }
