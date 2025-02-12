@@ -1,5 +1,11 @@
 
-Release 2.9  Everything alright ?
+
+* Removing DE leftovers
+* project cleanup
+* Update for .gitignore
+* Starting homepages
+
+Release 2.9  Everything alright ?  Sep 10 2024
 
 * Adding Überlingen
 * Adding Scientific underground

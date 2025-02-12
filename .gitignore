@@ -23,6 +23,8 @@ venv/
 
 # Build folders
 **/_build
+old_venv/**
+*synctex.gz
 
 # VSCode folders
 .vscode/
@@ -37,3 +39,39 @@ presentations/*/build/*
 removeme/*
 
 sourcebook.synctex.gz
+
+# backup files
+*.orig
+en/old.wip
+
+# Build artifacts
+en/sourcebook/*.pdf
+en/sourcebook/*.tmp
+en/sourcebook/*.xref
+en/con_adventure_1/*.pdf
+en/adventure_friedrichshafen/*.pdf
+en/sourcebook/*.4tc
+en/sourcebook/*.4ct
+en/sourcebook/*.idv
+en/sourcebook/*.lg
+en/adventure_project_lifeguard/*.pdf
+en/con_adventure_2_norms/*.pdf
+# Homepage
+homepage/solarpunk2050.com/original_default.php
+
+# Local stuff
+local_data_do_not_git/**
+en/sourcebook/static/christinas_logos.jpg
+cards/latex_symbols.pdf
+cards/pgfmanual.pdf
+cards/sp_experiment.pdf
+cards/sp_experiment.synctex.gz
+static/logo/*
+en/sourcebook/static/yakin-font.zip
+
+# Old stuff
+en/adventure_1_lisbon_express/abenteuer.rst
+en/sourcebook/test.epub
+
+# Cards experiment - still off
+cards/*
