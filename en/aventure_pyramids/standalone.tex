@@ -1,0 +1,61 @@
+% This file can be used to compile the adventure into a stand alone PDF without the sourcebook
+\documentclass{book}
+
+
+\usepackage{../../static/templates/fate_latex_template/fate_solarpunk}
+\usepackage{montserrat}
+\usepackage{ebgaramond}
+\usepackage{hyperref}
+
+%%%%%% Fixing overful hboxes
+%% https://tex.stackexchange.com/questions/35/what-does-overfull-hbox-mean-why-is-there-a-black-mark-at-the-end-of-a-line
+\usepackage{hyphenat}
+%% \hyp{} can mark where words can break
+%% Make it simpler:
+%% https://tex.stackexchange.com/questions/488008/how-to-create-an-alternative-to-shortcut-or-hyp
+\usepackage[english]{babel}
+
+\useshorthands{~}
+\defineshorthand{~-}{\hyp{}}
+%% ~- can mark this break now
+
+
+
+%... other code
+
+% \section{Hello World}
+% \label{sec:hello}
+
+
+
+% For creating example text
+% \usepackage{lipsum}
+
+\title{Fate Solarpunk 2050 - Adventure "Pyramid"}
+\author{Thorsten Sick}
+
+\pagenumbering{arabic}
+\begin{document}
+
+
+%% Hyphenation database:
+\hyphenation{meal-worm Mc-Gyver fa-mous be-cause}
+%%%%%
+
+\chapter{Introduction}
+
+Solarpunk is a utopian science fiction genre. \textbf{Solarpunk 2050} is the setting in which this goal has almost been achieved. The protagonists, called Pioneers, live in ecological, technologically advanced and socially progressive communities. Close to the big cities, where the so-called Norms go about their daily lives - pampered by their AI.
+
+This adventure is part of the Solarpunk 2050 setting, but contains everything you need to get started. It is based on Fate Condensed.
+
+\section{Use cases}
+
+This adventure is a con adventure. It can be played with new players and will take about 4 hours. The setting starts in the wide world but the characters will spend most of the time in a confined space. But it also perfectly fits into the mysteries of the first campaign in the core rulebook. If one of your players is missing and you still want to play, hand out these first pre-generated characters and play it. It will add a new facet to the events in the campaign.
+
+\section{Test players}
+
+Thanks you, test players at the CCC camp 2023 and new years eve 2023-2024. Your input made it into the final version.
+
+\input{adventure.tex}
+
+\end{document}
