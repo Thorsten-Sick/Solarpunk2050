@@ -69,9 +69,24 @@ cards/sp_experiment.synctex.gz
 static/logo/*
 en/sourcebook/static/yakin-font.zip
 
+# The ugly cover
+en/sourcebook/static/cover_v2_with_title.svg
+en/sourcebook/static/cover_v2_with_title_lowres.png
+en/sourcebook/static/cover_v2_with_title_lowres.xcf
+en/sourcebook/static/cover_v2_with_title_lowres_2.png
+en/sourcebook/static/cover_v2_with_title_lowres_2.xcf
+en/sourcebook/static/title_v2.png
+en/sourcebook/static/cover_v2_with_title.png
+
+# Profile picture
+en/sourcebook/static/profillbild.png
+en/sourcebook/static/profillbild.xcf
+
 # Old stuff
 en/adventure_1_lisbon_express/abenteuer.rst
 en/sourcebook/test.epub
 
-# Cards experiment - still off
+# Cards experiment - still off. Maybe move that to an own project
 cards/*
+the_story_engine/guide_to_card_creation.txt
+the_story_engine/solarpunk_2050_ideas.txt
