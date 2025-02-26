@@ -15,6 +15,19 @@
 %% https://tex.stackexchange.com/questions/488008/how-to-create-an-alternative-to-shortcut-or-hyp
 \usepackage[english]{babel}
 
+
+% Create title and background image
+% https://tex.stackexchange.com/questions/136900/insert-a-full-page-image
+% https://www.ctan.org/pkg/background
+\usepackage[pages=some]{background}
+\backgroundsetup{
+scale=1,
+angle=0,
+opacity=1,
+firstpage=true,
+contents={\includegraphics[width=\paperwidth,height=\paperheight]{../sourcebook/static/the_berlin_pyramid.png}}
+}
+
 \useshorthands{~}
 \defineshorthand{~-}{\hyp{}}
 %% ~- can mark this break now
@@ -31,12 +44,17 @@
 % For creating example text
 % \usepackage{lipsum}
 
-\title{Fate Solarpunk 2050 - Adventure "Pyramid"}
+\title{Fate Solarpunk 2050 - Adventure "The Berlin Pyramid"}
 \author{Thorsten Sick}
 
 \pagenumbering{arabic}
 \begin{document}
-
+%
+% Book front page
+%
+\mbox{}
+\thispagestyle{empty}
+\BgThispage
 
 %% Hyphenation database:
 \hyphenation{meal-worm Mc-Gyver fa-mous be-cause}
@@ -57,5 +75,7 @@ This adventure is a con adventure. It can be played with new players and will ta
 Thanks you, test players at the CCC camp 2023 and new years eve 2023-2024. Your input made it into the final version.
 
 \input{adventure.tex}
+
+\input{../con_adventure_1/small_world.tex}
 
 \end{document}
