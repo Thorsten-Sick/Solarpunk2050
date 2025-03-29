@@ -1,6 +1,26 @@
 body {
+    /* Background color */
+    background-color: lightgreen;
+    opacity: 0.9;
+
+    /* Background image */
+    /*background-image: url("../images/favicon.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-attachment: fixed;*/
+
+    .vertical-center {
+      min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+      min-height: 100vh; /* These two lines are counted as one :-)       */
+
+      display: flex;
+      align-items: center;
+    }
+
+
     font: 1rem/1.5 var(--bs-font-sans-serif);
-      }
+
       a {
       color: var(--bs-blue);
       }
+}

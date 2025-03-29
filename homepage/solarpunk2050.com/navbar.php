@@ -12,7 +12,7 @@
 
   <li class="nav-item">
     <a class="nav-link active" href="./shop.php" aria-current="page"> <i class="bi bi-bag" role="img"></i>
-    <span class="menu-text">Shop</span></a>
+    <span class="menu-text">Products</span></a>
   </li>
 
   <li class="nav-item">

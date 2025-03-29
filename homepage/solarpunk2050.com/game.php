@@ -17,7 +17,7 @@
     include "navbar.php"
     ?>
 
-
+<div class="jumbotron vertical-center">
     <div class="container">
 
     <h1>Solarpunk 2050</h1>
@@ -34,6 +34,6 @@
     It is build on the FATE system (FATE condensed). Which puts a focus on character aspects and supports you playing a complex personality with some difficulties - someone who rocks when it is time to push all the hard earned FATE markers to the table center together with your team.
 
     </div>
-
+</div>
   </body>
 </html>

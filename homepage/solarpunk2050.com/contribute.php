@@ -17,7 +17,7 @@
     include "navbar.php"
     ?>
 
-
+<div class="jumbotron vertical-center">
     <div class="container">
     <h1>Contribute</h1>
 
@@ -52,6 +52,6 @@
 
 
     </div>
-
+</div>
   </body>
 </html>

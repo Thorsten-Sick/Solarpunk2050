@@ -17,11 +17,11 @@
     include "navbar.php"
     ?>
 
-
+<div class="jumbotron vertical-center">
     <div class="container">
-    <h1>Welcome to Solarpunk 2050 - a FATE TTRPG setting</h1>
+    <center><h1>Solarpunk 2050 - build an awesome future</h1></center>
 
-    <h2>Solarpunk is hope.</h2>
+    <center><h2>a FATE TTRPG setting</h2></center>
 
     You and your friends are fighting in the Solarpunk revolution. Turning cities, regions and communities into futuristic visions. Fighting the disasters caused by the Lemmings. The good news is you are a diverse group of people with different skills. The bad news is: You visions for a better future are also very diverse.
 
@@ -39,6 +39,6 @@
 
 
     </div>
-
+</div>
   </body>
 </html>
