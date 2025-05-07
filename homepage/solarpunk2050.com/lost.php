@@ -17,15 +17,63 @@
     include "navbar.php"
     ?>
 
+    <?php
+    $appearance = Array("Traditional clothes", "Workshop clothes", "Hunting gear", "Full beard", "Long, unwashed hair", "Callus on the hands");
+    $name = Array("Caesar", "Elisabeth", "George", "Friedrich the small", "Albert", "Marie");
+    $job = Array("Librarian and Priest", "Hunter", "Field cook", "Cook", "Woodworker", "Smith", "Car repair man", "Guard", "Expedition member", "First responder", "Farmer", "Goat herder");
+    $event = Array("Evening ritual: Story time", "Classical theatre", "Jam session", "Open Pot");
+    $location = Array("A camp in the woods", "An old restaurant, renovated", "Ruins and explorers", "A tent", "A caravan trek", "The high secure library-bus");
+    $food = Array("Deer", "Deer, wild potatoes and mushroom sauce", "Goose, in clay coat", "Vegetable-inna-pot", "German Gumbo", "Goat cheese with fresh bread and herbs");
+    ?>
+
 <div class="jumbotron vertical-center">
     <div class="container">
     <h1>Lost</h1>
 
+    Lost are survival specialists, historians, librarians, low tech cottage core and family
+
     <h2>Appearance</h2>
+
+    Their appearance is traditional/practical:
+
+    <blockquote class="randomly_generated">
+      <?php echo ($appearance[array_rand($appearance, 1)]); ?>
+    </blockquote>
+
     <h2>Names</h2>
+    Names are very often historical names:
+
+    <blockquote class="randomly_generated">
+      <?php echo ($name[array_rand($name, 1)]); ?>
+    </blockquote>
+
+    <h2>Jobs</h2>
+    Jobs are more often tasks they do in their community:
+
+    <blockquote class="randomly_generated">
+      <?php echo ($job[array_rand($job, 1)]); ?>
+    </blockquote>
+
     <h2>Events</h2>
+    Events you could encounter in a Lost camp:
+
+    <blockquote class="randomly_generated">
+      <?php echo ($event[array_rand($event, 1)]); ?>
+    </blockquote>
+
     <h2>Locations</h2>
+    Typical Locations in a Lost settlement/camp:
+
+    <blockquote class="randomly_generated">
+      <?php echo ($location[array_rand($location, 1)]); ?>
+    </blockquote>
+
     <h2>Food</h2>
+    Typical Lost Food:
+
+    <blockquote class="randomly_generated">
+      <?php echo ($food[array_rand($food, 1)]); ?>
+    </blockquote>
 
 
     </div>

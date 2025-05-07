@@ -17,15 +17,71 @@
     include "navbar.php"
     ?>
 
+    <?php
+    $appearance = Array("Hive controller integrated in glasses", "Hive controller attached to ear as jewellery", "Sari, green, lab silk", "A Neon-west", "Oiled hair", "Victorian outfit");
+    $name = Array("Tscharlien", "Hügo", "Niels", "Gus");
+    $job = Array("Barrista", "Dog sitter", "Trainer", "Chef", "Festival manager", "Gardener - japanese gardens", "Doctor");
+    $hobby = Array("Broadsword fighter", "Knitting", "watercolour painting", "Model planes");
+    $event = Array("Open air festival", "Ceres - cooking recipe brainstorming", "Street music party", "Meet your stars");
+    $location = Array("Ceres", "Hive core", "Boat dock", "Deer garden", "Bus stop", "Next free vending machine", "Street musician corner");
+    $food = Array("Hydroponic salad", "Slices of lab grown Banana", "Tiger milk (lab grown)", "Tiger milk yoghurt with strawberries (both lab grown)");
+    ?>
+
 <div class="jumbotron vertical-center">
     <div class="container">
-    <h1>Norm</h1>
+    <h1>Norms</h1>
+
+    Norms live in Hive cities in a well connected post scarcity community.
 
     <h2>Appearance</h2>
+
+    Their appearance is modern and fashion oriented:
+
+    <blockquote class="randomly_generated">
+      <?php echo ($appearance[array_rand($appearance, 1)]); ?>
+    </blockquote>
+
     <h2>Names</h2>
+    Names are from TV shows or trendy. Most of the Norms are illiterate so spelling errors sneak in:
+
+    <blockquote class="randomly_generated">
+      <?php echo ($name[array_rand($name, 1)]); ?>
+    </blockquote>
+
+    <h2>Jobs</h2>
+    Jobs are for entertainment. These fully automated do not need many people working. But there are lots of opportunities to work for fun:
+
+    <blockquote class="randomly_generated">
+      <?php echo ($job[array_rand($job, 1)]); ?>
+    </blockquote>
+
+    <h2>Hobbies</h2>
+    In addition to jobs people have hobbies and learn unusual skills:
+
+    <blockquote class="randomly_generated">
+      <?php echo ($hobby[array_rand($hobby, 1)]); ?>
+    </blockquote>
+
     <h2>Events</h2>
+    Events you could encounter in a Norm Hive:
+
+    <blockquote class="randomly_generated">
+      <?php echo ($event[array_rand($event, 1)]); ?>
+    </blockquote>
+
     <h2>Locations</h2>
+    Typical Locations in a Norm Hive:
+
+    <blockquote class="randomly_generated">
+      <?php echo ($location[array_rand($location, 1)]); ?>
+    </blockquote>
+
     <h2>Food</h2>
+    Typical Norm Food served in a fully automated Ceres:
+
+    <blockquote class="randomly_generated">
+      <?php echo ($food[array_rand($food, 1)]); ?>
+    </blockquote>
 
 
     </div>

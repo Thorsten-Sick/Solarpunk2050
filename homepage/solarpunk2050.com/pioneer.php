@@ -17,6 +17,16 @@
     include "navbar.php"
     ?>
 
+    <?php
+    $appearance = Array("Glowing, green hair.", "Night vision contact lenses (experimental)", "Nerd tattoos", "OLED clothes");
+    $name = Array("Shakes", "Melt", "Screws", "Wire", "Tongs", "Iron", "Oxidize", "Spice", "Splice");
+    $job = Array("Modular Individual Vehicle Engineer", "Chemicals - non toxic", "Safety instructor", "DJ", "Food hacker", "Hab specialist", "Food artist");
+    $event = Array("Party & Science Slam combination", "Battle robots !", "Safety drill party.");
+    $location = Array("Chemical Lab", "Cocktail bar", "Scrap yard", "Capsule hotel sleeping area", "Gene edited tree hab", "Party stage", "Tattoo Parlour");
+    $food = Array("Extra hot 'almost chili'", "Flavour Balls (Vanilla)", "Flavour Balls - Chicken/Mango", "Flavour Balls - Coconut", "Flavour Balls - Pizza", "Flavour Balls - Pizza Hawaii");
+
+    ?>
+
 <div class="jumbotron vertical-center">
     <div class="container">
     <h1>Pioneer</h1>
@@ -24,10 +34,46 @@
     The hyper progressive Pioneers are always tinkering with their newest project.
 
     <h2>Appearance</h2>
+
+    Their appearance is experimental:
+
+    <blockquote class="randomly_generated">
+      <?php echo ($appearance[array_rand($appearance, 1)]); ?>
+    </blockquote>
+
     <h2>Names</h2>
+    Nick names picked after events, their favourite tech, ...:
+    <blockquote class="randomly_generated">
+      <?php echo ($name[array_rand($name, 1)]); ?>
+    </blockquote>
+
+    <h2>Jobs</h2>
+    Jobs are more like their current project or field of expertise:
+
+    <blockquote class="randomly_generated">
+      <?php echo ($job[array_rand($job, 1)]); ?>
+    </blockquote>
+
     <h2>Events</h2>
+    Events you could encounter in a Pioneer "lab":
+
+    <blockquote class="randomly_generated">
+      <?php echo ($event[array_rand($event, 1)]); ?>
+    </blockquote>
+
     <h2>Locations</h2>
+    Typical Locations in a Pioneer settlement/lab:
+
+    <blockquote class="randomly_generated">
+      <?php echo ($location[array_rand($location, 1)]); ?>
+    </blockquote>
+
     <h2>Food</h2>
+    Typical Pioneer Food:
+
+    <blockquote class="randomly_generated">
+      <?php echo ($food[array_rand($food, 1)]); ?>
+    </blockquote>
 
 
     </div>
