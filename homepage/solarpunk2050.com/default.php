@@ -63,33 +63,33 @@
     If you are a survival expert, explorer of the Lemmings ruins, a fighter or a scholar of old wisdom you are following the <b>Lost</b> philosophy and <b>Bushcraft</b> is your unique skill.<p>
     <center><img src="images/lost_repairing_generator.webp" width="500" ></center>
     Typical Lost:
-    <blockquote>
+    <blockquote class="randomly_generated">
       <?php echo ($lost_personalities[array_rand($lost_personalities, 1)]); ?>
     </blockquote>
     Quote:
-    <blockquote>
+    <blockquote class="randomly_generated">
       <?php echo ($lost_quotes[array_rand($lost_quotes, 1)]); ?>
     </blockquote>
     <h3>Pioneer</h3>
     If you are constantly pressing for progress, party and new experiences, you are a scientist, engineer, tinkerer or something similar - you follow the <b>Pioneer</b> philosophy and your unique skill is <b>Prototyping</b>.<p>
     <center><img src="images/pioneer_bioscientist.webp" width="500"></center>
     Typical Pioneer:
-    <blockquote>
+    <blockquote class="randomly_generated">
       <?php echo ($pioneer_personalities[array_rand($pioneer_personalities, 1)]); ?>
     </blockquote>
     Quote:
-    <blockquote>
+    <blockquote class="randomly_generated">
       <?php echo ($pioneer_quotes[array_rand($pioneer_quotes, 1)]); ?>
     </blockquote>
     <h3>Norm</h3>
     As a <b>Norm</b> you live in a fully automated city with post-scarcity. Thanks to a Hive controller you are connected to the Hive and everyone else in the city. Constantly. It is like magic. And your unique skill is <b>Hive control</b>.<p>
     <center><img src="images/norm_drone_delivery.png" width="500" ><p></center>
     Typical Norm:
-    <blockquote>
+    <blockquote class="randomly_generated">
       <?php echo ($norm_personalities[array_rand($norm_personalities, 1)]); ?>
     </blockquote>
     Quote:
-    <blockquote>
+    <blockquote class="randomly_generated">
       <?php echo ($norm_quotes[array_rand($norm_quotes, 1)]); ?>
     </blockquote>
 
