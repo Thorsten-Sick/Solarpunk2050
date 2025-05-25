@@ -43,7 +43,7 @@
 
     This is the guide for you and your players into the hopeful world of Solarpunk 2050. The contained campaign is set in the interesting area of Southern Germany with lots of diverse locations inspiring even more adventures than the ones contained in this book.<br>
 
-    <center><a href="https://www.drivethrurpg.com/product/443881/Solarpunk-2050?affiliate_id=490747"><img src="images/AI_own_title.png" width="250"><p><b>Sourcebook: Solarpunk 2050</b></a><p></center>
+    <center><a href="https://www.drivethrurpg.com/product/443881/Solarpunk-2050?affiliate_id=490747"><img src="images/Solarpunk-Main_small.png" width="250"><p><b>Sourcebook: Solarpunk 2050</b></a><p></center>
 
     It is also time to get the full FATE condensed rules with more ideas how FATE rules can add dynamics and spice into your game.<br>
 
@@ -59,7 +59,7 @@
 
     Is a 4 hour adventure with pre-created characters. You can slide it into your normal game schedule if some players are missing. Use it as a convention adventure or as a game 0 to test Solarpunk 2050 with your group. It is pay-what-you want. So uhm...it is free.
 
-    <center><a href="https://www.drivethrurpg.com/de/product/513652/solarpunk-2050-the-berlin-pyramid?affiliate_id=490747"><img src="images/the_berlin_pyramid.png" width="250"><p><b>The Berlin Pyramid</b></a><p></center>
+    <center><a href="https://www.drivethrurpg.com/de/product/513652/solarpunk-2050-the-berlin-pyramid?affiliate_id=490747"><img src="images/Solarpunk-Pyramid_small.png" width="250"><p><b>The Berlin Pyramid</b></a><p></center>
 
     </div>
 </div>
