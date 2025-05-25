@@ -1,5 +1,8 @@
 
 
+
+* Adding transparency lotion to gears
+
 * Removing DE leftovers
 * project cleanup
 * Update for .gitignore
