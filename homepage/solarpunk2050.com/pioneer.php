@@ -32,7 +32,8 @@
 
 <div class="jumbotron vertical-center">
     <div class="container">
-    <h1>Pioneer</h1>
+    <center><img src="images/Pioneer_header.png" width="400"></center>
+    <p><p><p>
 
     The hyper progressive Pioneers are always tinkering with their newest project.
 
