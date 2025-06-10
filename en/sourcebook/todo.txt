@@ -754,22 +754,12 @@ Es wird also zu einem Streit zwischen den Fraktionen und Evtl. Kampf kommen.
 Sammelsurium
 ------------
 
-* Mit den Nomaden durch die Pampa, etwas abholen
-* Desaster Recovery: Zoo geflutet. Tiere jagen
 * Desaster Recovery: Man versucht an einem Unglücks Ort zu helfen. Gleichzeitig kommen Verlorene um zu Plündern
-* Wettrennen um Patente: Ein Prototyp muss gebaut werden bevor ein Patent von einem Konzern angemeldet wird. Der spielt nicht fair
-* Deal mit dem Feind: Man benötigt etwas von einem Verlorenen (Hilfe, alte Technik wieder zum laufen zu bekommen)
-* Romeo und Julio zwischen zwei Fraktionen
-* Ein Monster Fass Bier als Bezahlung für einen alten Gefallen ausliefern
 * Jährlicher freundschaftlicher Wettkampf zwischen zwei Communities. Ziel wäre etwas produktives zu Gestalten. Wie der eigenen Stadt in möglichst kurzer Zeit einen Fußballplatz zu bauen und eine Mannschaft aus Straßen Kindern zu trainieren, damit die gegeneinander antreten können. Hinterher gibt es ein gemeinsames Fest.
 * Als Kampagne: Eine Community aufbauen
-* Einen illegalen Cyberware tuning Service aufmachen
-* Spezielle Tiere finden/entführen für die Zucht. Daraus wird Labor Fleisch und Milch hergestellt....Wale geben Milch....
 * Ein Priester braucht Unterschlupf. Die Inquisition verfolgt ihn wohl. Doch warum ?
 * Ein Judge braucht Unterstützung. Eigentlich ist sie sehr erfahren im schlichten. Aber hier sind gewalttätige Elemente beteiligt....
 * Eine externe Gruppe, die eindeutig im Unrecht ist, erkennt das Urteil eines Judges nicht an
-* Terror Anschlag auf Solarzellen Gigafactory (verhindern, aufklären, ...)
-* Mutanten Jagd: Eine Gruppe Mutanten hat eine benachbarte Community überfallen und sich dort festgesetzt. Die Bewohner sind vermutlich tot
 * Eine Firma will ein Auto-Typ aus Recycling Material fertigen. Ein paar Tausend Fahrzeuge. Jetzt muss man ein großes Lager aus historischem Material gefunden werden um es zu recyceln. Das können bestimmte Güter eines Typs sein (500 Trabis, weil sie aus dem richtigen Plastik für das Handschuh fach gefertigt sind, ...)
 * Für eine befreundete Gruppe Verlorener "Echte Tiere zum grillen" aus einem Naturschutz Gebiet stehlen
 * In einem Naturschutz Gebiet (in dem eine aufgegebene Stadt ist) soll es "Schätze" geben. Evtl. ein nicht geleerter Bank Tresor. Oder etwas im Lager des Museums, das vor 20 Jahren dort vergessen wurde. Inzwischen ist natürlich die Natur zurück.
@@ -779,11 +769,9 @@ Sammelsurium
 * Organisieren eines Hilfs Paket Air drops in eine Katastrophen Zone. Zeit ist zentral ! Am besten mit kompletter Projekt Planung am Spieltisch.
 * Die Community der Spieler will eine Bier Manufaktur bauen und benötigt ein Gebäude. Glücklicherweise gibt es eines, in dem ein Konzern haust, der eh' Dreck am Stecken hat. Die Abenteurer bringen den Konzern zu Fall, das Gebäude wird von der lokalen Stadt versteigert. Die Gruppe kann dann den Vorschlag mit dem Öko Bier machen (mit den coolen Bio-engineerten Hefen, die sie haben). Als Beweis ihrer Fähigkeiten müssen sie Samples vorlegen. Gewinnen sie das dann auch, haben sie ein Jahr Zeit, das Gebäude zu entkernen, Maschinen und Leute anzuschaffen und das Business zu bauen.
 * Da die KI bei den Normalen alles aufgreift, was Lebensqualität steigert (selbst aber nicht kreativ ist !) ist es ein erfolgreicher Hack, direkt vor der Evaluierungsphase der KI in einer Nacht-und-Nebel Aktion in die Stadt zu integrieren. Die Leute sehen es, freuen sich daran. Die KI evaluiert. Und rollt es danach breit flächig aus. Timing und perfekte Umsetzung ist hier essentiell. Sollte man das Timing versauen, wird die KI Veranlassen, das störende Objekt zu entfernen, bevor die Evaluierung stattfindet, denn nach dem alten KI Modell ist es ja ein Störfaktor.
-* Dank Sabotage (Umstellung der Optimierungs Ziele) wird eine KI in einer Stadt immer bösartiger. Die Umgebung dort praktisch feindlich.
 * Schwarzmarkt für Ressource Punkte (entweder Gründen, hoch nehmen, ...). Man könnte RPs tauschen durch das Verschieben von RP intensiven Gütern....
 * Die 5 Ressource Punkte Blockchains widersprechen sich. Ist das ein Angriff ? Oder einfach wieder mal ein technisches Problem ?
 * Auf der Fahrt durch Europa mit dem Nachtzug (und einer Krimi Dinner Party) wird jemand ermordet. Die Norms halten das für SFX. Können sich nicht vorstellen, dass man einen Toten herumliegen lässt ("Das wäre doch unhygienisch", "habe schon bessere Effekte gesehen"). der Veranstalter will keine Aufstände und bis zur Ankunft sollen die Leute glauben, alles läuft nach Skript. Darum soll der Mörder-Schauspieler so tun, als wäre er für den echten Mord verantwortlich, ....
-* Die verwaiste Community Roanoke muss wieder besiedelt werden. Niemand weiss, wohin die alten Siedler verschwanden.
 * Eine erfolgreiche Solarpunk Community ist der Stolz der Stadt. Die KI hat beschlossen, dass die Lebensqualität steigen würde, wenn die Community wirklich Bestandteil der Stadt wird. Dass die Norms niemals davor profitieren würden, kann der Algorithmus aber nicht vorhersehen. Und so beginnen die Assimilierungsbemühungen.
-* Ein reicher Mäzen versucht es mittels Gentechnik, De-Extinction einer ausgestorbenen Spezies hinzubekommen. Es muss nicht Jurassic Park sein. Lustiger wäre wohl eine Art, die in den frühen 2000ern noch lebt.
 * Eine Community wechselt auf die Dunkle Seite: Ökofaschismus (https://twitter.com/kaenkazui/status/1493274546908110850)
+* Für UN/Transhumans: Increasing surface albedo in the mid latitudes with mirrored barges. (Idee aus Mastodon). Eine ganze flotte See Nomaden, die aus Flößen ein Band um den Äquator bauen

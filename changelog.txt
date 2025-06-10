@@ -1,5 +1,10 @@
 
+* More random events in homepage
+* Removing Discord, adding link to Mastodon and homepage
 
+Release without number
+
+* Adding Mullana's cover
 
 * Adding transparency lotion to gears
 
