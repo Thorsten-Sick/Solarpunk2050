@@ -54,6 +54,8 @@ Ich bin künstlerisch absolut unbegabt und alle hier gelisteten Vorschläge sind
 
 Speziell wären auch direkt für die Spiele nutzbare Bilder hilfreich. Speziell wenn die in Online Portalen (Token für Roll20 u.ä.) nutzbar sind. Die kommen dann zu den Abenteuern oder in eine eigene ZIP Datei als Zusatz.
 
+Mullana ist zum Projekt dazu gestoßen. Sie mal großartig und hat Solarpunk verinnerlicht
+
 ### Soundtracks
 
 Welche Soundtracks unterstützen am ehesten das Lebensgefühl der Fraktionen ?
@@ -87,6 +89,7 @@ Zu beantworten:
 
 Powered by Fate logo von hier herunter geladen und integriert. Lizenz erlaubt das: https://faterpg.de/fate-lizenz/
 
+
 ## Schreib tips
 
 Vermeiden:
@@ -107,6 +110,10 @@ Nutzen:
 I am using VSCode and the extensions:
 
 * LaTeX Workshop
+
+## Icons
+
+https://pictogrammers.com/library/mdi
 
 
 ## Design with Latex
