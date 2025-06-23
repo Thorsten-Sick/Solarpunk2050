@@ -92,7 +92,7 @@
     <div class="container">
       <div class="row align-items-start">
         <div class="col">
-    <a href="https://www.drivethrurpg.com/product/443881/Solarpunk-2050?affiliate_id=490747" target="_blank"><img src="images/Solarpunk-Pyramid_small.png" width="250" class="rounded float-start"><p></a><p>
+    <a href="https://www.drivethrurpg.com/product/443881/Solarpunk-2050?affiliate_id=490747" target="_blank"><img src="images/Solarpunk-Main_small.png" width="250" class="rounded float-start"><p></a><p>
 
     </div>
         <div class="col">
