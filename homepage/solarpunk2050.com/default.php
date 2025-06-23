@@ -59,10 +59,14 @@
     <p>
     <center><h2>a FATE TTRPG setting</h2></center>
 
+    <div class="container pt-5">
     You and your friends are fighting in the Solarpunk revolution. Turning cities, regions and communities into futuristic visions. Fighting the disasters caused by the Lemmings. The good news is you are a diverse group of people with different skills. The bad news is: You visions for a better future are also very diverse.
 
     But the Solarpunk transformation is not yet complete. You and your friends will face many challenges to finish what humanity has started. Imagine your own utopia. And build it - your way as: <p>
+    </div>
 
+
+    <div class="container pt-5">
     <center><img src="images/Lost_header.png" width="400"></center>
     If you are a survival expert, explorer of the Lemmings ruins, a fighter or a scholar of old wisdom you are following the <b>Lost</b> philosophy and <b>Bushcraft</b> is your unique skill.<p>
     <center><img src="images/lost_repairing_generator.webp" width="500" ></center>
@@ -74,6 +78,10 @@
     <blockquote class="randomly_generated">
       <?php echo ($lost_quotes[array_rand($lost_quotes, 1)]); ?>
     </blockquote>
+    </div>
+
+
+    <div class="container pt-5">
     <center><img src="images/Pioneer_header.png" width="400"></center>
     If you are constantly pressing for progress, party and new experiences, you are a scientist, engineer, tinkerer or something similar - you follow the <b>Pioneer</b> philosophy and your unique skill is <b>Prototyping</b>.<p>
     <center><img src="images/pioneer_bioscientist.webp" width="500"></center>
@@ -85,6 +93,10 @@
     <blockquote class="randomly_generated">
       <?php echo ($pioneer_quotes[array_rand($pioneer_quotes, 1)]); ?>
     </blockquote>
+    </div>
+
+
+    <div class="container pt-5">
     <center><img src="images/Norms_header.png" width="400"></center>
     As a <b>Norm</b> you live in a fully automated city with post-scarcity. Thanks to a Hive controller you are connected to the Hive and everyone else in the city. Constantly. It is like magic. And your unique skill is <b>Hive control</b>.<p>
     <center><img src="images/norm_drone_delivery.png" width="500" ><p></center>
@@ -96,7 +108,7 @@
     <blockquote class="randomly_generated">
       <?php echo ($norm_quotes[array_rand($norm_quotes, 1)]); ?>
     </blockquote>
-
+</div>
 
     </div>
 </div>

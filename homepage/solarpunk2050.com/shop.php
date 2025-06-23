@@ -22,44 +22,110 @@
 
 
 <div class="jumbotron vertical-center">
+    <div class="container pt-5">
+
+
+
+    It is simple to get started playing Solarpunk 2050. Find about 5 silly/creative/friendly/awesome people, some sweets, 4 6-sided dice (special Fate dice are better). Pen and paper and get ready.
+    Download one of those adventure sets.
+
+    <div class="container pt-5">
+    <a href="https://www.drivethrurpg.com/de/product/483769/solarpunk-2050-quickstart-the-world-destroying-machine?affiliate_id=490747" target="_blank"><h1 id="free"><i class="bi bi-gift"></i> Free: The world destroying machine</h1></a>
+
+
     <div class="container">
+      <div class="row align-items-start">
+        <div class="col">
+        <a href="https://www.drivethrurpg.com/de/product/483769/solarpunk-2050-quickstart-the-world-destroying-machine?affiliate_id=490747" target="_blank"><img src="images/Quickstart_world_destroying_machine.png" width="250" class="rounded float-start"></a>
+        </div>
+        <div class="col">
+          The protagonists have the opportunity to find one of the world destroying machines the Lemmings built. And extract as many resources as needed for the next upgrade of their settlement. A brewery.
+          This adventure is an atypical "rats in the cellar" adventure and especially the mix of the player characters will ensure chaos and fun.
+          <p>
+          <ul>
+          <li> A quickstarter/con adventure</li>
+          <li> Starts with a rule tutorial</lI>
+          <li> Approx. 4 hours of fun</li>
+          <li> Contains 6 ready-to-play pioneer characters</li>
+          <li> Can be played with these simple <a href="https://fate-srd.com/fate-condensed">FATE condensed rules</a></li>
+        </ul>
+        </div>
+      </div>
+    </div>
+</div>
 
-    It is simple to get started and play Solarpunk 2050.
 
-    <h1 id="free">Beginner - Free</h1>
-    Find about 5 silly/creative/friendly/awesome people, some sweets, 4 6-sided dice (special Fate dice are better). Pen and paper and get ready. Your free starter set is:<br>
 
-    The quickstarter containing characters, the essential world description and your first adventure that starts with a rule tutorial:<br>
+  <div class="container pt-5">
+  <a href="https://www.drivethrurpg.com/de/product/513652/solarpunk-2050-the-berlin-pyramid?affiliate_id=490747" target="_blank"><h1><i class="bi bi-gift"></i> Free: The Berlin pyramid</h1></a>
 
-    <center><a href="https://www.drivethrurpg.com/de/product/483769/solarpunk-2050-quickstart-the-world-destroying-machine?affiliate_id=490747"><img src="images/Quickstart_world_destroying_machine.png" width="250"><p><b>Free Quickstarter Solarpunk 2050</b></a><p></center>
 
-    You will also need the SDR cheat sheet for Fate:<br>
+    <div class="container">
+      <div class="row align-items-start">
+        <div class="col">
+    <a href="https://www.drivethrurpg.com/de/product/513652/solarpunk-2050-the-berlin-pyramid?affiliate_id=490747" target="_blank"><img src="images/Solarpunk-Pyramid_small.png" width="250" class="rounded float-start"><p></a><p>
 
-    <a href="https://fate-srd.com/fate-condensed">This cheat sheet is a good staring point</a><br>
+</div>
+        <div class="col">
+          Why is there a pyramid close to Berlin ? Who built it and why ?
 
-    This will get you and your friends about 4 hours of fun.
+          The UN is sending a mixed group of protagonists to investigate a ancient egyptian pyramid and its secrets. With the mission to rescue the starving ancient egyptian population settled there.
+          Will the three factions agree on a way forward ?
+          <p>
+          <ul>
+          <li> A quickstarter/con adventure</li>
+          <li> Approx. 4 hours of fun</li>
+          <li> Contains 6 ready-to-play characters from all factions</li>
+          <li> Can be played with these simple <a href="https://fate-srd.com/fate-condensed">FATE condensed rules</a></li>
+        </ul>
+        </div>
+      </div>
+    </div>
+</div>
 
-    <h1>Your large Solarpunk 2050 campaign</h1>
 
-    This is the guide for you and your players into the hopeful world of Solarpunk 2050. The contained campaign is set in the interesting area of Southern Germany with lots of diverse locations inspiring even more adventures than the ones contained in this book.<br>
 
-    <center><a href="https://www.drivethrurpg.com/product/443881/Solarpunk-2050?affiliate_id=490747"><img src="images/Solarpunk-Main_small.png" width="250"><p><b>Sourcebook: Solarpunk 2050</b></a><p></center>
+<div class="container pt-5">
+<a href="https://www.drivethrurpg.com/product/443881/Solarpunk-2050?affiliate_id=490747"><h1><i class="bi bi-cash-coin"></i> Solarpunk 2050 core book and campaign</h1></a>
 
-    It is also time to get the full FATE condensed rules with more ideas how FATE rules can add dynamics and spice into your game.<br>
 
-    <a href="https://www.drivethrurpg.com/de/product/302571/fate-condensed?affiliate_id=490747"> You can get the full FATE condensed book here as well</a>
+    <div class="container">
+      <div class="row align-items-start">
+        <div class="col">
+    <a href="https://www.drivethrurpg.com/product/443881/Solarpunk-2050?affiliate_id=490747" target="_blank"><img src="images/Solarpunk-Pyramid_small.png" width="250" class="rounded float-start"><p></a><p>
 
-    The campaign is in a tutorial style and you will be able to create a mixed group of Lost, Pioneers and Norms leading you through the mysteries of the vanished Billionaires and the cult of the invisible hand.
+    </div>
+        <div class="col">
 
-    <h1>Add ons</h1>
+          <p>
+          <ul>
+          <li> Four new adventures lead the protagonists and the players into the Solarpunk world - tutorial style</li>
+          <li> Enough background and ideas to continue with your own adventures afterwards</li>
+          <li> A rich world with enough space for more adventures</li>
+          <li> Create your own characters from all three factions</li>
+          <li> World and faction background will help you and the players to be creative</li>
+          <li> Can be played with these simple <a href="https://fate-srd.com/fate-condensed">FATE condensed rules (SRD)</a></li>
+          <li> I suggest to get the full FATE condensed rules now: <a href="https://www.drivethrurpg.com/de/product/302571/fate-condensed?affiliate_id=490747"> FATE condensed (full)</a></li>
+        </ul>
+        </div>
+      </div>
+    </div>
+</div>
 
-    The starter campaign is not the end of your adventures in this world.
 
-    <h2>The Berlin pyramid</h2>
 
-    Is a 4 hour adventure with pre-created characters. You can slide it into your normal game schedule if some players are missing. Use it as a convention adventure or as a game 0 to test Solarpunk 2050 with your group. It is pay-what-you want. So uhm...it is free.
+<div class="container pt-5">
+<a href="https://www.supergeek.de/de/designer/solarpunk-2050" target="_blank"> <h1><i class="bi bi-balloon"></i> Merch shop</h1></a>
+    <a href="https://www.supergeek.de/de/designer/solarpunk-2050" target="_blank">Get your Solarpunk 2050 merch</a><p>
+      Hoodies, shirts and more.
+</div>
 
-    <center><a href="https://www.drivethrurpg.com/de/product/513652/solarpunk-2050-the-berlin-pyramid?affiliate_id=490747"><img src="images/Solarpunk-Pyramid_small.png" width="250"><p><b>The Berlin Pyramid</b></a><p></center>
+
+
+
+
+
+
 
     </div>
 </div>
