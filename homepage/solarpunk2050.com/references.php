@@ -22,14 +22,32 @@
     <div class="container">
     <h1>References</h1>
 
+    <div class="container pt-5">
+    <h2>Tests, reviews and articles</h2>
+    <ul>
+    <li><a href="https://scilogs.spektrum.de/natur-des-glaubens/solarpunk-ist-mehr-als-utopie-schon-heute-gegen-reaktanz-und-arroganz-leben/">Michael Blume: Solarpunk ist mehr als Utopie schon heute gegen Reaktanz und Arroganz leben</a></li>
+    </ul>
+    </div>
+
+    <div class="container pt-5">
     <h2>Real world projects</h2>
 
-    Most important: The Solarpunk 2050 world is based on realistic technology assumptions and experience with different groups of proto-Solarpunks. It is possible to to build this utopia in reality. And some are doing that:
+    The Solarpunk 2050 world is based on realistic technology assumptions and experience with different groups of proto-Solarpunks. It is possible to to build this utopia in reality. And some are doing that:
 
     <ul>
-        <li><a href="https://www.solarpunk-pioneers.org/">Solarpunk Pioneer Fund</a></li>
-        <li><a href ="https://wiki.hackerspaces.org/List_of_Hacker_Spaces">Or visit your closest hackerspace for some Pioneer experience</a></li>
+        <li><a href="https://www.solarpunk-pioneers.org/" target="_blank">Solarpunk Pioneer Fund</a></li>
+        <li><a href ="https://wiki.hackerspaces.org/List_of_Hacker_Spaces" target="_blank">Or visit your closest hackerspace for some Pioneer experience</a></li>
     </ul>
+    </div>
+
+    <div class="container pt-5">
+    <h2>Databases and lists</h2>
+
+    <ul>
+      <li><a href ="https://faterpg.de/solarpunk-2050/" target="_blank">FateRPG.de</a></li>
+      <li><a href ="https://rpggeek.com/rpgsetting/111723/solarpunk-2050" target="_blank">RPGG</a></li>
+    </ul>
+    </div>
 
     </div>
     </div>

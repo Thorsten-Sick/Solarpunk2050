@@ -36,7 +36,7 @@
     <div class="container">
       <div class="row align-items-start">
         <div class="col">
-        <a href="https://www.drivethrurpg.com/de/product/483769/solarpunk-2050-quickstart-the-world-destroying-machine?affiliate_id=490747" target="_blank"><img src="images/Quickstart_world_destroying_machine.png" width="250" class="rounded float-start"></a>
+        <a href="https://www.drivethrurpg.com/de/product/483769/solarpunk-2050-quickstart-the-world-destroying-machine?affiliate_id=490747" target="_blank"><img src="images/Solarpunk-Machine_small.png" width="250" class="rounded float-start"></a>
         </div>
         <div class="col">
           The protagonists have the opportunity to find one of the world destroying machines the Lemmings built. And extract as many resources as needed for the next upgrade of their settlement. A brewery.
@@ -115,9 +115,21 @@
 
 
 <div class="container pt-5">
-<a href="https://www.supergeek.de/de/designer/solarpunk-2050" target="_blank"> <h1><i class="bi bi-balloon"></i> Merch shop</h1></a>
-    <a href="https://www.supergeek.de/de/designer/solarpunk-2050" target="_blank">Get your Solarpunk 2050 merch</a><p>
-      Hoodies, shirts and more.
+  <a href="https://www.supergeek.de/de/designer/solarpunk-2050"><h1><i class="bi bi-baloon"></i> Merch shop</h1></a>
+
+<div class="container">
+      <div class="row align-items-start">
+        <div class="col">
+    <a href="https://www.supergeek.de/de/designer/solarpunk-2050" target="_blank"><img src="images/Tasse_freigestellt.png" width="250" class="rounded float-start"><p></a><p>
+
+    </div>
+        <div class="col">
+
+          <p>
+          Hoodies, shirts and more
+        </div>
+      </div>
+</div>
 </div>
 
 
