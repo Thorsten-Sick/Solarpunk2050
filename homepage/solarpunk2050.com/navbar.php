@@ -14,6 +14,8 @@
             <li><a class="dropdown-item" href="./lost.php">Lost</a></li>
             <li><a class="dropdown-item" href="./norm.php">Norm</a></li>
             <li><a class="dropdown-item" href="./pioneer.php">Pioneer</a></li>
+            <li><a class="dropdown-item" href="./map.php">Map</a></li>
+
             <li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="./story_generator.php">Story Generator</a></li>
             <li><hr class="dropdown-divider"></li>
