@@ -32,7 +32,7 @@
 
 <div class="jumbotron vertical-center">
     <div class="container">
-    <center><img src="images/Norms_header.png" width="400"></center>
+    <center><img src="images/Norms_header.png" width="400" alt="Header: Norms"></center>
     <p><p><p>
 
     Norms live in Hive cities in a well connected post scarcity community.

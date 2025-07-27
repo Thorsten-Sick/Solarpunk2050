@@ -36,7 +36,7 @@
     <div class="container">
       <div class="row align-items-start">
         <div class="col">
-        <a href="https://www.drivethrurpg.com/de/product/483769/solarpunk-2050-quickstart-the-world-destroying-machine?affiliate_id=490747" target="_blank"><img src="images/Solarpunk-Machine_small.png" width="250" class="rounded float-start"></a>
+        <a href="https://www.drivethrurpg.com/de/product/483769/solarpunk-2050-quickstart-the-world-destroying-machine?affiliate_id=490747" target="_blank"><img src="images/Solarpunk-Machine_small.png" width="250" class="rounded float-start"  alt="The cover of the Solarpunk 2050 Quickstarter"></a>
         </div>
         <div class="col">
           The protagonists have the opportunity to find one of the world destroying machines the Lemmings built. And extract as many resources as needed for the next upgrade of their settlement. A brewery.
@@ -63,7 +63,7 @@
     <div class="container">
       <div class="row align-items-start">
         <div class="col">
-    <a href="https://www.drivethrurpg.com/de/product/513652/solarpunk-2050-the-berlin-pyramid?affiliate_id=490747" target="_blank"><img src="images/Solarpunk-Pyramid_small.png" width="250" class="rounded float-start"><p></a><p>
+    <a href="https://www.drivethrurpg.com/de/product/513652/solarpunk-2050-the-berlin-pyramid?affiliate_id=490747" target="_blank"><img src="images/Solarpunk-Pyramid_small.png" width="250" class="rounded float-start"  alt="The cover of the Solarpunk 2050 Con Adventure"><p></a><p>
 
 </div>
         <div class="col">
@@ -92,7 +92,7 @@
     <div class="container">
       <div class="row align-items-start">
         <div class="col">
-    <a href="https://www.drivethrurpg.com/product/443881/Solarpunk-2050?affiliate_id=490747" target="_blank"><img src="images/Solarpunk-Main_small.png" width="250" class="rounded float-start"><p></a><p>
+    <a href="https://www.drivethrurpg.com/product/443881/Solarpunk-2050?affiliate_id=490747" target="_blank"><img src="images/Solarpunk-Main_small.png" width="250" class="rounded float-start"  alt="The cover of the Solarpunk 2050 Core Source book"><p></a><p>
 
     </div>
         <div class="col">
@@ -120,7 +120,7 @@
 <div class="container">
       <div class="row align-items-start">
         <div class="col">
-    <a href="https://www.supergeek.de/de/designer/solarpunk-2050" target="_blank"><img src="images/Tasse_freigestellt.png" width="250" class="rounded float-start"><p></a><p>
+    <a href="https://www.supergeek.de/de/designer/solarpunk-2050" target="_blank"><img src="images/Tasse_freigestellt.png" width="250" class="rounded float-start"  alt="The picture of a mug with the Solarpunk 2050 Logo"><p></a><p>
 
     </div>
         <div class="col">

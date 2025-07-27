@@ -31,7 +31,7 @@
 
 <div class="jumbotron vertical-center">
     <div class="container">
-    <center><img src="images/Lost_header.png" width="400"></center>
+    <center><img src="images/Lost_header.png" width="400" alt="Header: Lost"></center>
     <p><p><p>
 
     Lost are survival specialists, historians, librarians, low tech cottage core and family
