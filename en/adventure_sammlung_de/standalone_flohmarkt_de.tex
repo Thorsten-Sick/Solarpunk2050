@@ -1,0 +1,65 @@
+% This file can be used to compile the adventure into a stand alone PDF without the sourcebook
+\documentclass{book}
+
+
+\usepackage{../../static/templates/fate_latex_template/fate_solarpunk}
+\usepackage{montserrat}
+\usepackage{ebgaramond}
+\usepackage{hyperref}
+
+%%%%%% Fixing overful hboxes
+%% https://tex.stackexchange.com/questions/35/what-does-overfull-hbox-mean-why-is-there-a-black-mark-at-the-end-of-a-line
+\usepackage{hyphenat}
+%% \hyp{} can mark where words can break
+%% Make it simpler:
+%% https://tex.stackexchange.com/questions/488008/how-to-create-an-alternative-to-shortcut-or-hyp
+\usepackage[german]{babel}
+
+\useshorthands{~}
+\defineshorthand{~-}{\hyp{}}
+%% ~- can mark this break now
+
+
+
+%... other code
+
+% \section{Hello World}
+% \label{sec:hello}
+
+
+
+% For creating example text
+% \usepackage{lipsum}
+
+\title{Fate Solarpunk 2050 - Der Lost_Flohmarkt}
+\author{Thorsten Sick}
+
+\pagenumbering{arabic}
+\begin{document}
+
+
+%% Hyphenation database:
+\hyphenation{meal-worm Mc-Gyver fa-mous be-cause}
+%%%%%
+
+\chapter{Einleitung}
+
+Solarpunk ist ein utopisches Science Fiction Genre. \textbf{Solarpunk 2050} ist ein Setting in dem das Ziel fast erreicht ist. Aber noch ist die Revolution im Gange. Drei Gruppen haben ebenbürtige und großartige Visionen für eine bessere Zukunft. Doch die unterscheiden sich.
+
+Die Lost Vision umfasst ein naturnahes Leben basierend auf der Weisheit der Vorfahren. Sie scheuen Technologien, die Mikrokontroller enthalten. Sind aber firm im Gebrauch aller anderer Technologien.
+
+Die Pioneer Vision ist entgegengesetzt. Die Individualisten finden sich zusammen um ständig an neuen Tehcnologien und am Fortschritt zu experimentieren - großartige Durchbrüche werden aber teils teuer erkauft. Eins ständige Party der Wissenschaft und der neuen Erkenntnisse.
+
+Die Norm Gesellschaft basiert auf älteren Erkenntnissen der Pioneers. In der durch die Hive AI koordinierten Gesellschaft ist alles hochautomatisiert und vernetzt. Norms sind niemals alleine sondern sind ständig per Hive Controller mit allen in der Gemeinde und der AI verbunden. Grunsätzliches ist kostenlos, da es aus erneuerbaren Materialien und vollautomatisch hergestellt wird. Darum können sich Norms auf die Schaffung neuer Kultur und Arbeit-als-Hobby fokussieren.
+
+In diesem Abenteuer Baustein geht es um einen Lost Flohmarkt und einige zehntrale damit verbundenen Menschen. Denn auf diesen Flohmärkten treffen sich Losts aus verschiedenen Gruppen. Friedlich. Es gib Austausch, Handel (Tausch Handel), Handwerker und Kultur. Und das eine oder andere Abenteuer kann hier beginnen.
+
+
+
+\input{lost_flohmarkt_de.tex}
+
+\input{small_world_de.tex}
+
+\input{to_the_full_game_de.tex}
+
+\end{document}

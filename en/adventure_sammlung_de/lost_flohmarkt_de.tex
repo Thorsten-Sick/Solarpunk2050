@@ -1,0 +1,76 @@
+% This file can be used to compile the adventure into a stand alone PDF without the sourcebook
+\documentclass{book}
+
+
+\usepackage{../../static/templates/fate_latex_template/fate_solarpunk}
+\usepackage{montserrat}
+\usepackage{ebgaramond}
+\usepackage{hyperref}
+
+%%%%%% Fixing overful hboxes
+%% https://tex.stackexchange.com/questions/35/what-does-overfull-hbox-mean-why-is-there-a-black-mark-at-the-end-of-a-line
+\usepackage{hyphenat}
+%% \hyp{} can mark where words can break
+%% Make it simpler:
+%% https://tex.stackexchange.com/questions/488008/how-to-create-an-alternative-to-shortcut-or-hyp
+\usepackage[english]{babel}
+
+% Create title and background image
+% https://tex.stackexchange.com/questions/136900/insert-a-full-page-image
+% https://www.ctan.org/pkg/background
+\usepackage[pages=some]{background}
+\backgroundsetup{
+scale=1,
+angle=0,
+opacity=1,
+firstpage=true,
+contents={\includegraphics[width=\paperwidth,height=\paperheight]{../sourcebook/static/Solarpunk-Machine.png}}
+}
+
+\useshorthands{~}
+\defineshorthand{~-}{\hyp{}}
+%% ~- can mark this break now
+
+
+
+%... other code
+
+% \section{Hello World}
+% \label{sec:hello}
+
+
+
+% For creating example text
+% \usepackage{lipsum}
+
+\title{Fate Solarpunk 2050 - Adventure "The world destroying machine"}
+\author{Thorsten Sick}
+
+\pagenumbering{arabic}
+\begin{document}
+
+%
+% Book front page
+%
+\mbox{}
+\thispagestyle{empty}
+\BgThispage
+
+
+%% Hyphenation database:
+\hyphenation{meal-worm Mc-Gyver fa-mous be-cause}
+%%%%%
+
+\chapter{Introduction}
+
+Solarpunk is a utopian science fiction genre. \textbf{Solarpunk 2050} is the setting in which this goal has almost been achieved. The protagonists, called Pioneers, live in ecological, technologically advanced and socially progressive communities. Close to the big cities, where the so-called Norms go about their daily lives - pampered by their AI.
+
+This adventure is part of the Solarpunk 2050 setting, but contains everything you need to get started - except the rules which are \href{https://fate-srd.com/fate-condensed}{Fate Condensed} and free.
+
+\input{adventure_1.tex}
+
+\input{small_world.tex}
+
+\input{to_the_full_game.tex}
+
+\end{document}
