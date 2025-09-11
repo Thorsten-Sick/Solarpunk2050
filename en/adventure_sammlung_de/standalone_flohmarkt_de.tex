@@ -15,9 +15,18 @@
 %% https://tex.stackexchange.com/questions/488008/how-to-create-an-alternative-to-shortcut-or-hyp
 \usepackage[german]{babel}
 
+\usepackage[pages=some]{background}
+\backgroundsetup{
+scale=1,
+angle=0,
+opacity=1,
+firstpage=true,
+contents={\includegraphics[width=\paperwidth,height=\paperheight]{../sourcebook/static/Solarpunk-Machine.png}}
+}
+
 \useshorthands{~}
 \defineshorthand{~-}{\hyp{}}
-%% ~- can mark this break now
+
 
 
 
@@ -31,16 +40,24 @@
 % For creating example text
 % \usepackage{lipsum}
 
-\title{Fate Solarpunk 2050 - Der Lost_Flohmarkt}
+\title{Fate Solarpunk 2050 - Der Lost Flohmarkt}
 \author{Thorsten Sick}
 
 \pagenumbering{arabic}
 \begin{document}
 
+%
+% Book front page
+%
+\mbox{}
+\thispagestyle{empty}
+\BgThispage
 
-%% Hyphenation database:
+
+
+% Hyphenation database:
 \hyphenation{meal-worm Mc-Gyver fa-mous be-cause}
-%%%%%
+%
 
 \chapter{Einleitung}
 

@@ -1,70 +1,7 @@
-% This file can be used to compile the adventure into a stand alone PDF without the sourcebook
-\documentclass{book}
-
-
-\usepackage{../../static/templates/fate_latex_template/fate_solarpunk}
-\usepackage{montserrat}
-\usepackage{ebgaramond}
-\usepackage{hyperref}
-
-%%%%%% Fixing overful hboxes
-%% https://tex.stackexchange.com/questions/35/what-does-overfull-hbox-mean-why-is-there-a-black-mark-at-the-end-of-a-line
-\usepackage{hyphenat}
-%% \hyp{} can mark where words can break
-%% Make it simpler:
-%% https://tex.stackexchange.com/questions/488008/how-to-create-an-alternative-to-shortcut-or-hyp
-\usepackage[german]{babel}
-
-% Create title and background image
-% https://tex.stackexchange.com/questions/136900/insert-a-full-page-image
-% https://www.ctan.org/pkg/background
-\usepackage[pages=some]{background}
-\backgroundsetup{
-scale=1,
-angle=0,
-opacity=1,
-firstpage=true,
-contents={\includegraphics[width=\paperwidth,height=\paperheight]{../sourcebook/static/Solarpunk-Machine.png}}
-}
-
-\useshorthands{~}
-\defineshorthand{~-}{\hyp{}}
-%% ~- can mark this break now
-
-
-
-%... other code
-
-% \section{Hello World}
-% \label{sec:hello}
-
-
-
-% For creating example text
-% \usepackage{lipsum}
-
-\title{Fate Solarpunk 2050 - NSC Kollektion: Der Flohmarkt}
-\author{Thorsten Sick}
-
-\pagenumbering{arabic}
-\begin{document}
-
-%
-% Book front page
-%
-\mbox{}
-\thispagestyle{empty}
-\BgThispage
-
-
-%% Hyphenation database:
-\hyphenation{meal-worm Mc-Gyver fa-mous be-cause}
-%%%%%
-
-%% Ziele: Story hooks
-%% Mehr Drama als eine Telenovella
-%% Man muss zig Abenteuer aus der Konstellation ziehen können
-%% Die Meisten Charaktere sind ü 60 und haben viel erlebt. Das aufzählen.
+% Ziele: Story hooks
+% Mehr Drama als eine Telenovella
+% Man muss zig Abenteuer aus der Konstellation ziehen können
+% Die Meisten Charaktere sind ü 60 und haben viel erlebt. Das aufzählen.
 
 \chapter{Der Lost Flohmarkt}
 
@@ -85,14 +22,14 @@ Nachte beleuchtet von Fackeln und verteilten Lagerfeuern. Gespräche, Gesang und
 
 Ca 2 Wochen lange lebt der Ort mit 500 Leuten vor Ort (wobei dauernd an und Abreisen stattfinden).
 
-Wie immer sind in den Abenteuern viele "Grüne Inseln der Ruhe" einzubauen. Wo nach irgendwelchen Beinahekatastrophen einfach alles schön ist. Das stärkt das Solarpunk Feeling im Spiel. Der Flohmarkt kann sehr viele schöne Facetten für die SC bieten.
+Wie immer sind in den Abenteuern viele 'Grüne Inseln der Ruhe' einzubauen. Wo nach irgendwelchen Beinahekatastrophen einfach alles schön ist. Das stärkt das Solarpunk Feeling im Spiel. Der Flohmarkt kann sehr viele schöne Facetten für die SC bieten.
 
 Großartige Dinge, die passieren können:
 
 \begin{enumerate}
     \item Jacob will sein geheimes Badewannen-Gin Rezept nicht mit ins Grab nehmen. Den ersten drei Personen, die ihm besondere Spirituosen bringen wird er es beibringen.
     \item Nachts gibt es eine spontante Feuer Jonglage show
-    \item Jemand macht ein Quiz "Die 1980er Jahre". zu gewinnen gibt es eine Flasche von Jabobs Badewannen-Gin
+    \item Jemand macht ein Quiz 'Die 1980er Jahre'. zu gewinnen gibt es eine Flasche von Jabobs Badewannen-Gin
     \item Zwei Personen haben sich verlobt. Um das zu feiern kommt eine ganze Sau auf den Grill - das duftet den ganzen Tag über den Flohmarkt. Norms und Pioneers könnten verwirrt reagieren.
     \item Ein Wettstreit. Zwei Gruppen wollen sich bei Shakespear Darbietungen überbieten. Doch noch fehlen einige passende Personen bei der Besetzung
     \item Erwachsene und Kinder ab 14 können beider Spontant aufgebauten Schießanlage mit Halbautomatischen Waffen üben. Norms sind sicher irritiert.
@@ -115,8 +52,8 @@ Mögliche Ereignisse beim Aufbau:
 \item Eine Gruppe kommt zu früh (Warum ?)
 \item Das Feld auf dem der Flohmarkt stattfinden soll ist nach Starkregen ein See. Mit Brennesseln und Gestrüpp. Der muss zuerst mit schwerem Gerät trocken gelegt werden.
 \item Beim Aufbau wird eine verschüttete Lemming Ruine gefunden. Die Jones-es wollen diese durchsuchen. Das kann zu einem Dungeon Crawl führen.
-\item
-\item
+\item TODO
+\item TODO
 \end{enumerate}
 
 \chapter{Die Personen}
@@ -125,10 +62,69 @@ Mögliche Ereignisse beim Aufbau:
 
 Chef Logistikerin, Heavy machines und Truckerin: Wendy früher Wilhelm. Ihre Ehe hat sich vor der Katastrophe zerrüttet. Sie wusste auch nicht warum. Hat erst spät festgestellt, dass sie Trans ist. Hat ein Foto aus der Alten Zeit hinter der Sonnenblende. er zusammen mit Doris. Auch mit dem Truck durch Europa unterwegs. Dass Wendy mal Wilhelm war, wissen die Lost nicht.
 
-\section{Norm Dokumentatorin Doris}
-Sie ist auf Abenteuer Trip (ohne Sanitäre Einrichtung und ohne Kunstfleisch/Drohnen/Vernetzung): War früher mit Wilhelm verheiratet. Trägt immer noch den Ring in ihrer Tasche, weiss nicht, dass es Wendy ist. Kommen sie wieder zusammen ?
+\newpage
+\begin{npcBox}[title=Wendy]
 
-\section{Pioneer Tochter "Flash"}
+    \begin{aspects}
+    \item \aspect[High Concept]{Ichi}
+    \item \aspect[Trouble]{Ni}
+    \item \aspect[Relationship]{San}
+    \item \aspect[Aspect]{Shi}
+    \end{aspects}
+
+    \begin{skills}
+    \item \nskill{Academics (Engineering)}{0}
+    \item \nskill{Athletics}{0}
+    \item \nskill{Burglary}{0}
+    \item \nskill{Contacts}{0}
+    \item \nskill{Crafts}{0}
+    \item \nskill{Deceive}{0}
+    \item \nskill{Drive}{0}
+    \item \nskill{Empathy}{0}
+    \item \nskill{Fight}{0}
+    \item \nskill{Investigate}{0}
+    \item \nskill{Lore}{0}
+    \item \nskill{Notice}{0}
+    \item \nskill{Physique}{0}
+    \item \nskill{Provoke}{0}
+    \item \nskill{Rapport}{0}
+    \item \nskill{Resources}{0}
+    \item \nskill{Shoot}{0}
+    \item \nskill{Stealth}{0}
+    \item \nskill{Will}{0}
+    \end{skills}
+
+    \begin{stunts}
+    \item \stunt{Foo}{Bar}
+    \end{stunts}
+
+    \begin{stressSection}
+    \stressLine{\stress{1}\stress{1}\stress{1}\stress{1}\stress{1}\stress{1}}{\stress{1}\stress{1}\stress{1}\stress{1}}
+    \end{stressSection}
+    \begin{tabularx}{\textwidth}{ XX }
+    \end{tabularx}
+
+    \begin{consequences}
+    \item \consequence{2}
+    \item \consequence{4}
+    \item \consequence{6}
+    \end{consequences}
+
+    \begin{npcDescription}
+    description
+    \end{npcDescription}
+
+
+    \begin{equipment}
+    \item lala
+    \end{equipment}
+\end{npcBox}
+\newpage
+
+\section{Norm Dokumentatorin Doris}
+Sie ist auf Abenteuer Trip (ohne Sanitäre Einrichtung und ohne Kunstfleisch, Drohnen oder Vernetzung): War früher mit Wilhelm verheiratet. Trägt immer noch den Ring in ihrer Tasche, weiss nicht, dass es Wendy ist. Kommen sie wieder zusammen ?
+
+\section{Pioneer Tochter 'Flash'}
 Die Tochter von Doris und Wilhelm. Auch so 35 Jahre alt. Aber sehr aktiv und unstet. Ist mit ihrer Mutter leicht zerstritten (wegen ihr kein Kontakt zum Vater, und sie ist eine langweilige Norm). Weiss aber, dass der Vater Wendy heisst und bei den Lost ist, Hat keine Ahnung, wie sie sich vorstellen soll. Für sie ist eine originelle Geschlechts identität absolut üblich in ihrem Umfeld.
 
 \section{Tier Experte: Jonas Ohnesorg}
@@ -148,12 +144,12 @@ Mögliche Ereignisse mit Tieren:
 
 
 \section{Küche und Militärtaktik}
-"Zwischen dem Führen einer Küche und einer Schlacht Organisation gibt es kaum Unterschiede". Führen kleiner Einheiten. Zur Lager Verteidigung oder beim Kochen für einen Flohmarkt. https://de.wikipedia.org/wiki/K%C3%BCchenbrigade
+'Zwischen dem Führen einer Küche und einer Schlacht Organisation gibt es kaum Unterschiede'. Führen kleiner Einheiten. Zur Lager Verteidigung oder beim Kochen für einen Flohmarkt. https://de.wikipedia.org/wiki/K%C3%BCchenbrigade
 Feldküche und Feld Taktik.
 
 Name: Gustav Müller
 Ordnung, Disziplin und die Saucen sind zentral !
-Lieblings-doofer Spruch: "Kein Mampf, kein Kampf"
+Lieblings-doofer Spruch: 'Kein Mampf, kein Kampf'
 
 \begin{enumerate}
 \item Auf einem LKW ist ein Kräutergarten angelegt. Der steht aber nicht bei den Küchenzelten - weil den jemand vergessen hat. Der muss jetzt irgendwie durch den halb aufgebauten Flohmarkt gefahren werden.
@@ -217,6 +213,3 @@ Bieten Reperaturen, benötigen aber Rohstoffe.
 * Ausgrabungs-Team, die immer was zu verkaufen haben
 * Hunderte Lost aus andere Gruppen, die kochen, reparieren, verkaufen, kaufen, vorlesen, musizieren, suchen und einen Jahrmarkt betreiben mit aller Art von Buden
 
-
-
-\end{document}
