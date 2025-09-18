@@ -1,0 +1,95 @@
+% This file can be used to compile the adventure into a stand alone PDF without the sourcebook
+\documentclass{book}
+
+
+\usepackage{../../static/templates/fate_latex_template/fate_solarpunk_de}
+\usepackage{montserrat}
+\usepackage{ebgaramond}
+\usepackage{hyperref}
+
+%%%%%% Fixing overful hboxes
+%% https://tex.stackexchange.com/questions/35/what-does-overfull-hbox-mean-why-is-there-a-black-mark-at-the-end-of-a-line
+\usepackage{hyphenat}
+%% \hyp{} can mark where words can break
+%% Make it simpler:
+%% https://tex.stackexchange.com/questions/488008/how-to-create-an-alternative-to-shortcut-or-hyp
+\usepackage[german]{babel}
+
+\usepackage[pages=some]{background}
+\backgroundsetup{
+scale=1,
+angle=0,
+opacity=1,
+firstpage=true,
+contents={\includegraphics[width=\paperwidth,height=\paperheight]{../sourcebook/static/Solarpunk-Lost-Flohmarkt-de.png}}
+}
+
+\useshorthands{~}
+\defineshorthand{~-}{\hyp{}}
+
+
+
+
+%... other code
+
+% \section{Hello World}
+% \label{sec:hello}
+
+
+
+% For creating example text
+% \usepackage{lipsum}
+
+\title{Fate Solarpunk 2050 - The Lost flea market}
+\author{Thorsten Sick}
+
+\pagenumbering{arabic}
+\begin{document}
+
+%
+% Book front page
+%
+\mbox{}
+\thispagestyle{empty}
+\BgThispage
+
+\newpage
+\begin{center}
+\textbf{Text and idea}
+\newline
+Thorsten Sick
+\newline
+\textbf{Visuals}
+\newline
+Mullana ( https://mullana.de/ )
+\newline
+\textbf{Test players}
+\newline
+Michael, Ingrid, Susanne Peschl
+\newline
+\end{center}
+\newpage
+
+% Hyphenation database:
+\hyphenation{meal-worm Mc-Gyver fa-mous be-cause}
+%
+
+\chapter{Introduction}
+
+Solarpunk is a utopian science fiction genre. \textbf{Solarpunk 2050} is the setting in which this goal has almost been achieved. But the Solarpunk revolution is still ongoing. The vision the Lost embrace is a simple life close to nature. Based on the wisdom of the ancestors. The avoid technology which contains microcontrollers. But are capable to handle and repair older machines.
+
+The Pioneers have a different vision. Those individualists constantly tinker with the newest technology and produce progress. Their breakthroughs are paid by accidents. Science and cconstant parties are where new inventions happen.
+
+The third group is the Norms. Their society inhabits automated cities. They are constantly connected through their hive controller with each other and the hive mind of their city. Having a post scarcity society they do not have to care about food, shelter or transport and can focus on art and jobs-as-a-hobby.
+
+This PDf is an adventure brick describing some NPCs, their environment and potential plot hooks. It can be stitched into any adventure and one element is tuned to produce telenovella level of drama.
+
+This setting is written for the \href{https://fate-srd.com/fate-condensed}{Fate Condensed} rules, but it should be simple to adapt it to other rules as well.
+
+\input{lost_flohmarkt_en.tex}
+
+\input{small_world_en.tex}
+
+\input{to_the_full_game_en.tex}
+
+\end{document}
