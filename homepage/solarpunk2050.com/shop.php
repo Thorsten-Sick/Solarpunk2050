@@ -84,6 +84,56 @@
 </div>
 
 
+  <div class="container pt-5">
+  <a href="https://thorsi.itch.io/solarpunk-2050-a-lost-flea-market" target="_blank"><h1><i class="bi bi-gift"></i> Free: A Lost flea market</h1></a>
+
+
+    <div class="container">
+      <div class="row align-items-start">
+        <div class="col">
+    <a href="https://thorsi.itch.io/solarpunk-2050-a-lost-flea-market" target="_blank"><img src="images/Solarpunk-Lost-Flohmarkt-en_small.png" width="250" class="rounded float-start"  alt="The cover of the Solarpunk 2050 Con Adventure"><p></a><p>
+
+</div>
+        <div class="col">
+          A NPC collection. The Lost have the tradition to run flea markets - which are very different from the ones you are used to. And it requires special people to run them.
+          Get this as a stand alone extension yor your campaign, play it separately or slide it in between two adventures.
+          <p>
+          <ul>
+          <li> NPC collection</li>
+          <li> A unique location</li>
+          <li> Plenty of story hooks</li>
+        </ul>
+
+        <a href="https://thorsi.itch.io/solarpunk-2050-ein-lost-flohmarkt">German version</a>
+        </div>
+      </div>
+    </div>
+</div>
+
+
+
+  <div class="container pt-5">
+  <a href="https://linide.itch.io/das-tor-zum-schwarzwald-ein-solarpunk-2050-abenteuer" target="_blank"><h1><i class="bi bi-gift"></i> Free: Abenteuer "Das Tor zum Schwarzwald"</h1></a>
+
+
+    <div class="container">
+      <div class="row align-items-start">
+        <div class="col">
+    <a href="https://linide.itch.io/das-tor-zum-schwarzwald-ein-solarpunk-2050-abenteuer" target="_blank"><img src="images/generic.png" width="250" class="rounded float-start"  alt="The cover of the Solarpunk 2050 Con Adventure"><p></a><p>
+
+</div>
+        <div class="col">
+        Pforzheim is a Eco city being born. But the recycling system still needs adjustment. And this causes a long list of problems...
+
+        <p>
+        This adventure is in German
+        </div>
+      </div>
+    </div>
+</div>
+
+
+
 
 <div class="container pt-5">
 <a href="https://www.drivethrurpg.com/product/443881/Solarpunk-2050?affiliate_id=490747"><h1><i class="bi bi-cash-coin"></i> Solarpunk 2050 core book and campaign</h1></a>
