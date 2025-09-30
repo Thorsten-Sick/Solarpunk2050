@@ -111,6 +111,14 @@
       </div>
     </div>
 </div>
+<p>
+  <p>
+This is the convenient commercial way. But there are two other ways to get Solarpunk 2050:
+<p>
+  <p>
+<b>The social way:</b> The PDFs are not watermarked. The Solarpunk 2050 is Open Source. Make friends, form a Solarpunk gang, and ask them for the PDFs or just give them yours. Make sure you share the most recent version !
+<p>
+<b>The tech way:</b> This project is hosted on <a href="https://github.com/Thorsten-Sick/Solarpunk2050">Github</a>. If you know your way around LaTeX, Linux and compiling: Go there and build your own. And while you are here: Open Issues or Pull Requests.
 
 
 
