@@ -15,7 +15,7 @@ def compile(texdir, texfile):
 
 
 if __name__ == "__main__":
+    # compile("en/adventure_sammlung_de", "standalone_flohmarkt_en.tex")
     # compile("en/adventure_sammlung_de", "standalone_flohmarkt_de.tex")
-    compile("en/adventure_sammlung_de", "standalone_flohmarkt_en.tex")
 
-    compile("en/adventure_sammlung_de", "standalone_flohmarkt_de.tex")
+    compile("en/sourcebook", "sourcebook.tex")
