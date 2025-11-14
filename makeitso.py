@@ -3,19 +3,59 @@
 
 import os
 import subprocess
+import argparse
 
+def compile(texdir, texfile, largs):
+    """Compile the book."""
 
-def compile(texdir, texfile):
+    if largs.strict:
+        interaction = ""
+    else:
+        interaction = "--interaction=nonstopmode"
+
     pdffilename = os.path.splitext(texfile)[0] + ".pdf"
-    command = f"pdflatex --interaction=nonstopmode {texfile}"
+    command = f"pdflatex {interaction} {texfile}"
     for _ in range(0,4):
         subprocess.run(command, cwd=texdir, shell=True, check=False, capture_output=False)
     # if os.path.isfile(pdffilename):
-    #     shutil.copy2()
+        #     shutil.copy2()
+
+def func_compile(largs):
+    """Dispatch the compile calls."""
+
+    if largs.sourcebook or largs.all:
+        texdir = "en/sourcebook"
+        texfile = "sourcebook.tex"
+        compile(texdir, texfile, largs)
+
+    if largs.flohmarkt or largs.all:
+        texdir = "en/sourcebook"
+        texfile = "sourcebook.tex"
+        compile(texdir, texfile, largs)
+
+def create_parser():
+    """ Creates the parser for the command line arguments"""
+    lparser = argparse.ArgumentParser("Compile and manage Solarpunk book creation")
+    subparsers = lparser.add_subparsers(help="sub-commands")
+
+    lparser.set_defaults(func=None)
+    lparser.add_argument('--verbose', '-v', action='count', default=0, help="Verbosity level")
+
+    # Sub parser for compilation
+    parser_run = subparsers.add_parser("compile", help="Compile solarpunk books")
+    parser_run.set_defaults(func=func_compile)
+    parser_run.add_argument("-s", "--sourcebook", action="store_true", help="compile the sourcebook")
+    parser_run.add_argument("-a", "--all", action="store_true", help="compile all books")
+    parser_run.add_argument("-f", "--flohmarkt", action="store_true", help="compile the flohmarkt")
+    parser_run.add_argument("--strict", action="store_true", help="compile strict, do not ignore warnings")
+
+
+    return lparser
 
 
 if __name__ == "__main__":
-    # compile("en/adventure_sammlung_de", "standalone_flohmarkt_en.tex")
-    # compile("en/adventure_sammlung_de", "standalone_flohmarkt_de.tex")
 
-    compile("en/sourcebook", "sourcebook.tex")
+    parser = create_parser()
+    # argcomplete.autocomplete(parser)
+    arguments = parser.parse_args()
+    arguments.func(arguments)
