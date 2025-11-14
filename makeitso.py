@@ -2,10 +2,13 @@
 """Build the documents."""
 
 import os
+import shutil
 import subprocess
 import argparse
 
-def compile(texdir, texfile, largs):
+destdir = "downloads"
+
+def compile(texdir, texfile, destname, largs):
     """Compile the book."""
 
     if largs.strict:
@@ -17,8 +20,10 @@ def compile(texdir, texfile, largs):
     command = f"pdflatex {interaction} {texfile}"
     for _ in range(0,4):
         subprocess.run(command, cwd=texdir, shell=True, check=False, capture_output=False)
-    # if os.path.isfile(pdffilename):
-        #     shutil.copy2()
+    srcname = os.path.join(texdir, pdffilename)
+    dstname = os.path.join(destdir, destname)
+    if os.path.isfile(srcname):
+        shutil.copy2(srcname, dstname)
     print(f"Done {texdir}  {texfile}")
 
 def func_compile(largs):
@@ -27,27 +32,32 @@ def func_compile(largs):
     if largs.sourcebook or largs.all:
         texdir = "en/sourcebook"
         texfile = "sourcebook.tex"
-        compile(texdir, texfile, largs)
+        destname = "Solarpunk2050.pdf"
+        compile(texdir, texfile, destname, largs)
 
     if largs.flohmarkt or largs.all:
         texdir = "en/adventure_sammlung_de"
         texfile = "standalone_flohmarkt_de.tex"
-        compile(texdir, texfile, largs)
+        destname = "Flohmarkt.pdf"
+        compile(texdir, texfile, destname, largs)
 
     if largs.fleamarket or largs.all:
         texdir = "en/adventure_sammlung_de"
         texfile = "standalone_flohmarkt_en.tex"
-        compile(texdir, texfile, largs)
+        destname = "Fleamarket.pdf"
+        compile(texdir, texfile, destname, largs)
 
     if largs.world_destroying_machine or largs.all:
         texdir = "en/con_adventure_1"
         texfile = "standalone.tex"
-        compile(texdir, texfile, largs)
+        destname = "adventure_world_destroying_machine.pdf"
+        compile(texdir, texfile, destname, largs)
 
     if largs.pyramid or largs.all:
         texdir = "en/adventure_pyramids"
         texfile = "standalone.tex"
-        compile(texdir, texfile, largs)
+        destname = "adventure_berlin_pyramids.pdf"
+        compile(texdir, texfile, destname, largs)
 
 
 def create_parser():
