@@ -1,4 +1,5 @@
-
+* Fixing .tex for Flohmarkt (en)
+* Fixing .tex for Flohmarkt (de)
 * Adding to all documents: \usepackage[T1]{fontenc}
 * Starting Makefile
 * Creating Lost Flea market (released)
