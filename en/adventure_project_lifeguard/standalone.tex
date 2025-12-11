@@ -1,12 +1,15 @@
 % This file can be used to compile the adventure into a stand alone PDF without the sourcebook
 \documentclass{book}
 
+% Encode fonts, fixing Umlaut copy and paste problems and more
+\usepackage[T1]{fontenc}
+
 \usepackage{../../static/templates/fate_latex_template/fate_solarpunk}
 \usepackage{montserrat}
 \usepackage{ebgaramond}
 \usepackage{hyperref}
 
-%%%%%% Fixing overful hboxes 
+%%%%%% Fixing overful hboxes
 %% https://tex.stackexchange.com/questions/35/what-does-overfull-hbox-mean-why-is-there-a-black-mark-at-the-end-of-a-line
 \usepackage{hyphenat}
 %% \hyp{} can mark where words can break
