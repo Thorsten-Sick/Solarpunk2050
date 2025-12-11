@@ -1,4 +1,7 @@
 
+* Adding to all documents: \usepackage[T1]{fontenc}
+* Starting Makefile
+* Creating Lost Flea market (released)
 * More random events in homepage
 * Removing Discord, adding link to Mastodon and homepage
 
