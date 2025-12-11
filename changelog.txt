@@ -1,3 +1,5 @@
+* World pyramids compiles flawless
+* World destroying machine compiles flawless
 * Fixing .tex for Flohmarkt (en)
 * Fixing .tex for Flohmarkt (de)
 * Adding to all documents: \usepackage[T1]{fontenc}
