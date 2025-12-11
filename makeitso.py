@@ -11,10 +11,10 @@ destdir = "downloads"
 def compile(texdir, texfile, destname, largs):
     """Compile the book."""
 
-    if largs.strict:
-        interaction = ""
-    else:
+    if largs.lazy:
         interaction = "--interaction=nonstopmode"
+    else:
+        interaction = ""
 
     pdffilename = os.path.splitext(texfile)[0] + ".pdf"
     command = f"pdflatex {interaction} {texfile}"
@@ -77,7 +77,7 @@ def create_parser():
     parser_run.add_argument("-F", "--fleamarket", action="store_true", help="compile the fleamarket (EN)")
     parser_run.add_argument("-w", "--world_destroying_machine", action="store_true", help="compile the world destroying machine")
     parser_run.add_argument("-p", "--pyramid", action="store_true", help="compile the berlin pyramid")
-    parser_run.add_argument("--strict", action="store_true", help="compile strict, do not ignore warnings")
+    parser_run.add_argument("--lazy", action="store_true", help="compile lazy, ignore LaTeX warnings")
 
     return lparser
 
@@ -88,3 +88,13 @@ if __name__ == "__main__":
     # argcomplete.autocomplete(parser)
     arguments = parser.parse_args()
     arguments.func(arguments)
+
+# TODO:
+
+# Lisbon express
+# Friedrichshafen
+# project lifeguard
+# adventure sammlung DE
+# con adventure 1 - standalone
+# con adventure 2 - standalone
+# sourcebook
