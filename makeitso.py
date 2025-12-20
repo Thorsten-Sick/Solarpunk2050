@@ -29,37 +29,37 @@ def compile(texdir, texfile, destname, largs):
 def func_compile(largs):
     """Dispatch the compile calls."""
 
-    if largs.sourcebook or largs.all:
+    if largs.sourcebook or largs.all:  # sniff test ok
         texdir = "en/sourcebook"
         texfile = "sourcebook.tex"
         destname = "Solarpunk_2050_sourcebook.pdf"
         compile(texdir, texfile, destname, largs)
 
-    if largs.flohmarkt or largs.all:
+    if largs.flohmarkt or largs.all:  # sniff test ok
         texdir = "en/adventure_sammlung_de"
         texfile = "standalone_flohmarkt_de.tex"
         destname = "Solarpunk2050_Lost_Flohmarkt.pdf"
         compile(texdir, texfile, destname, largs)
 
-    if largs.fleamarket or largs.all:
+    if largs.fleamarket or largs.all:  # sniff test ok
         texdir = "en/adventure_sammlung_de"
         texfile = "standalone_flohmarkt_en.tex"
         destname = "Solarpunk2050_Lost_flea_market.pdf"
         compile(texdir, texfile, destname, largs)
 
-    if largs.world_destroying_machine or largs.all:
+    if largs.world_destroying_machine or largs.all:  # !!! sniff test: missing cover
         texdir = "en/con_adventure_1"
         texfile = "standalone.tex"
         destname = "quickstart_world_destroying_machine.pdf"
         compile(texdir, texfile, destname, largs)
 
-    if largs.pyramid or largs.all:
+    if largs.pyramid or largs.all:  # sniff test: ok
         texdir = "en/adventure_pyramids"
         texfile = "standalone.tex"
         destname = "solarpunk_2050_the_berlin_pyramid.pdf"
         compile(texdir, texfile, destname, largs)
 
-    if largs.lifeguard or largs.all:
+    if largs.lifeguard or largs.all:  # sniff test: Can not be published standalone yet !
         texdir = "en/adventure_project_lifeguard"
         texfile = "standalone.tex"
         destname = "adventure_project_lifeguard.pdf"
