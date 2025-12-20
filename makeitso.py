@@ -91,10 +91,9 @@ if __name__ == "__main__":
 
 # TODO:
 
-# Lisbon express
-# Friedrichshafen
 # project lifeguard
-# adventure sammlung DE
-# con adventure 1 - standalone
-# con adventure 2 - standalone
-# sourcebook
+
+# Lisbon express - not written yet
+# Friedrichshafen - not written yet
+# adventure sammlung DE - not written yet
+# con adventure 2 - standalone - not written yet
