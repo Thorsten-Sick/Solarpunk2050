@@ -17,6 +17,19 @@
 %% https://tex.stackexchange.com/questions/488008/how-to-create-an-alternative-to-shortcut-or-hyp
 \usepackage[english]{babel}
 
+
+% Create title and background image
+% https://tex.stackexchange.com/questions/136900/insert-a-full-page-image
+% https://www.ctan.org/pkg/background
+\usepackage[pages=some]{background}
+\backgroundsetup{
+scale=1,
+angle=0,
+opacity=1,
+firstpage=true,
+contents={\includegraphics[width=\paperwidth,height=\paperheight]{../sourcebook/static/Solarpunk-Machine.png}}
+}
+
 \useshorthands{~}
 \defineshorthand{~-}{\hyp{}}
 %% ~- can mark this break now
@@ -38,6 +51,13 @@
 
 \pagenumbering{arabic}
 \begin{document}
+
+%
+% Book front page
+%
+\mbox{}
+\thispagestyle{empty}
+\BgThispage
 
 
 %% Hyphenation database:
