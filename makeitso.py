@@ -32,31 +32,37 @@ def func_compile(largs):
     if largs.sourcebook or largs.all:
         texdir = "en/sourcebook"
         texfile = "sourcebook.tex"
-        destname = "Solarpunk2050.pdf"
+        destname = "Solarpunk_2050_sourcebook.pdf"
         compile(texdir, texfile, destname, largs)
 
     if largs.flohmarkt or largs.all:
         texdir = "en/adventure_sammlung_de"
         texfile = "standalone_flohmarkt_de.tex"
-        destname = "Flohmarkt.pdf"
+        destname = "Solarpunk2050_Lost_Flohmarkt.pdf"
         compile(texdir, texfile, destname, largs)
 
     if largs.fleamarket or largs.all:
         texdir = "en/adventure_sammlung_de"
         texfile = "standalone_flohmarkt_en.tex"
-        destname = "Fleamarket.pdf"
+        destname = "Solarpunk2050_Lost_flea_market.pdf"
         compile(texdir, texfile, destname, largs)
 
     if largs.world_destroying_machine or largs.all:
         texdir = "en/con_adventure_1"
         texfile = "standalone.tex"
-        destname = "adventure_world_destroying_machine.pdf"
+        destname = "quickstart_world_destroying_machine.pdf"
         compile(texdir, texfile, destname, largs)
 
     if largs.pyramid or largs.all:
         texdir = "en/adventure_pyramids"
         texfile = "standalone.tex"
-        destname = "adventure_berlin_pyramids.pdf"
+        destname = "solarpunk_2050_the_berlin_pyramid.pdf"
+        compile(texdir, texfile, destname, largs)
+
+    if largs.lifeguard or largs.all:
+        texdir = "en/adventure_project_lifeguard"
+        texfile = "standalone.tex"
+        destname = "adventure_project_lifeguard.pdf"
         compile(texdir, texfile, destname, largs)
 
 
@@ -77,6 +83,7 @@ def create_parser():
     parser_run.add_argument("-F", "--fleamarket", action="store_true", help="compile the fleamarket (EN)")
     parser_run.add_argument("-w", "--world_destroying_machine", action="store_true", help="compile the world destroying machine")
     parser_run.add_argument("-p", "--pyramid", action="store_true", help="compile the berlin pyramid")
+    parser_run.add_argument("-l", "--lifeguard", action="store_true", help="compile the project lifeguard")
     parser_run.add_argument("--lazy", action="store_true", help="compile lazy, ignore LaTeX warnings")
 
     return lparser

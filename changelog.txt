@@ -1,6 +1,7 @@
-* Sourcebook compiles flawless
-* Pyramids compiles flawless
-* World destroying machine compiles flawless
+* Project lifeguard compiles: flawless
+* Sourcebook compiles: flawless
+* Pyramids compiles: flawless
+* World destroying machine compiles: flawless
 * Fixing .tex for Flohmarkt (en)
 * Fixing .tex for Flohmarkt (de)
 * Adding to all documents: \usepackage[T1]{fontenc}
