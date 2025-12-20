@@ -7,7 +7,36 @@
 \usepackage{montserrat}
 \usepackage{ebgaramond}
 \usepackage{hyperref}
-\usepackage{ltablex}
+
+% Modifies the tabularx environment to combine the features of the tabularx package (auto-sized columns in a fixed width table) with those of the longtable package (multi-page tables).
+% Has issues with stress box code
+% \usepackage{ltablex}
+
+
+%%%%%% Fixing overful hboxes
+%% https://tex.stackexchange.com/questions/35/what-does-overfull-hbox-mean-why-is-there-a-black-mark-at-the-end-of-a-line
+\usepackage{hyphenat}
+%% \hyp{} can mark where words can break
+%% Make it simpler:
+%% https://tex.stackexchange.com/questions/488008/how-to-create-an-alternative-to-shortcut-or-hyp
+\usepackage[english]{babel}
+
+
+% Create title and background image
+% https://tex.stackexchange.com/questions/136900/insert-a-full-page-image
+% https://www.ctan.org/pkg/background
+ \usepackage[pages=some]{background}
+ \backgroundsetup{
+ scale=1,
+ angle=0,
+ opacity=1,
+ firstpage=true,
+ contents={\includegraphics[width=\paperwidth,height=\paperheight]{static/Solarpunk-Main.png}}
+ }
+
+\useshorthands{~}
+\defineshorthand{~-}{\hyp{}}
+%% ~- can mark this break now
 
 % https://www.ctan.org/pkg/hyperref
 \hypersetup{pdfinfo={
@@ -28,17 +57,7 @@
     \vskip0.5em}%
 }
 
-% Create title and background image
-% https://tex.stackexchange.com/questions/136900/insert-a-full-page-image
-% https://www.ctan.org/pkg/background
- \usepackage[pages=some]{background}
- \backgroundsetup{
- scale=1,
- angle=0,
- opacity=1,
- firstpage=true,
- contents={\includegraphics[width=\paperwidth,height=\paperheight]{static/Solarpunk-Main.png}}
- }
+
 
 %% \includegraphics[width=\paperwidth,height=\paperheight]{static/AI_own_title.png}
 
@@ -105,13 +124,13 @@
 
 % adventures go here
 \input{../con_adventure_1/adventure_1.tex}
-% \input{../adventure_project_lifeguard/adventure.tex}  %% reactivate
-% \input{../adventure_ravensburg/adventure.tex} %% reactivate
-% \input{../adventure_salem/adventure.tex}  %% reactivate
-% \input{../adventure_ueberlingen/adventure.tex}  %% reactivate
+\input{../adventure_project_lifeguard/adventure.tex}  %% reactivate
+\input{../adventure_ravensburg/adventure.tex} %% reactivate
+\input{../adventure_salem/adventure.tex}  %% reactivate
+\input{../adventure_ueberlingen/adventure.tex}  %% reactivate
 
 % Snippets go here
-% \input{story_nuggets.tex}  %% reactivate
+\input{story_nuggets.tex}  %% reactivate
 
 % \input{../con_adventure_2_norms/adventure.tex}
 % bodensee
