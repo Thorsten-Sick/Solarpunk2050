@@ -26,8 +26,12 @@
     <h2>Tests, reviews and articles</h2>
     <ul>
     <li><a href="https://scilogs.spektrum.de/natur-des-glaubens/solarpunk-ist-mehr-als-utopie-schon-heute-gegen-reaktanz-und-arroganz-leben/">Michael Blume: Solarpunk ist mehr als Utopie schon heute gegen Reaktanz und Arroganz leben</a></li>
+    <li><a href="https://www.ivfsf.de/rueckblick-auf-solarpunk-zukunft-aus-hoffnung-technik-und-gemeinschaft/">Me, presenting at ivfsf.de - do not skip Alex Koch ! His part is great. German</a></li>
+    <li><a href="https://www.youtube.com/watch?v=rTkzcci3FZg">Me, presenting at ivfsf.de - direct youtube link as fallback. German</a></li>
+    <li><a href="https://lagedernation.org/podcast/ldn447-trump-ueberrascht-mit-ukraine-prognose-was-soll-die-anerkennung-palaestinas-euer-umgang-mit-der-weltlage-neue-strategie-der-bahn-dirk-flege-allianz-pro-schiene-kimmel-is-back-wirtschaf/">Solarpunk 2050 getting a spotlight in the news podcast "Lage der Nation". From 43:12</a></li>
     </ul>
     </div>
+
 
     <div class="container pt-5">
     <h2>Real world projects</h2>
@@ -53,3 +57,5 @@
     </div>
   </body>
 </html>
+
+https://www.ivfsf.de/rueckblick-auf-solarpunk-zukunft-aus-hoffnung-technik-und-gemeinschaft/
