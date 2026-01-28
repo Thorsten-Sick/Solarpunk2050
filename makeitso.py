@@ -53,6 +53,12 @@ def func_compile(largs):
         destname = "quickstart_world_destroying_machine.pdf"
         compile(texdir, texfile, destname, largs)
 
+    if largs.weltvernichtungsmaschine or largs.all:  # works
+        texdir = "en/con_adventure_1"
+        texfile = "standalone_de.tex"
+        destname = "quickstart_solarpunk_2050_die_weltvernichtungsmaschine.pdf"
+        compile(texdir, texfile, destname, largs)
+
     if largs.pyramid or largs.all:  # works
         texdir = "en/adventure_pyramids"
         texfile = "standalone.tex"
@@ -79,9 +85,10 @@ def create_parser():
     parser_run.set_defaults(func=func_compile)
     parser_run.add_argument("-s", "--sourcebook", action="store_true", help="compile the sourcebook")
     parser_run.add_argument("-a", "--all", action="store_true", help="compile all books")
-    parser_run.add_argument("-f", "--flohmarkt", action="store_true", help="compile the flohmarkt (DE)")
-    parser_run.add_argument("-F", "--fleamarket", action="store_true", help="compile the fleamarket (EN)")
+    parser_run.add_argument("-F", "--flohmarkt", action="store_true", help="compile the flohmarkt (DE)")
+    parser_run.add_argument("-f", "--fleamarket", action="store_true", help="compile the fleamarket (EN)")
     parser_run.add_argument("-w", "--world_destroying_machine", action="store_true", help="compile the world destroying machine")
+    parser_run.add_argument("-W", "--weltvernichtungsmaschine", action="store_true", help="compile die weltvernichtungsmaschine")
     parser_run.add_argument("-p", "--pyramid", action="store_true", help="compile the berlin pyramid")
     parser_run.add_argument("-l", "--lifeguard", action="store_true", help="compile the project lifeguard")
     parser_run.add_argument("--lazy", action="store_true", help="compile lazy, ignore LaTeX warnings")

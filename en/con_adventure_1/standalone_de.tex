@@ -1,0 +1,78 @@
+% This file can be used to compile the adventure into a stand alone PDF without the sourcebook
+\documentclass{book}
+
+% Encode fonts, fixing Umlaut copy and paste problems and more
+\usepackage[T1]{fontenc}
+
+\usepackage{../../static/templates/fate_latex_template/fate_solarpunk_de}
+\usepackage{montserrat}
+\usepackage{ebgaramond}
+\usepackage{hyperref}
+
+%%%%%% Fixing overful hboxes
+%% https://tex.stackexchange.com/questions/35/what-does-overfull-hbox-mean-why-is-there-a-black-mark-at-the-end-of-a-line
+\usepackage{hyphenat}
+%% \hyp{} can mark where words can break
+%% Make it simpler:
+%% https://tex.stackexchange.com/questions/488008/how-to-create-an-alternative-to-shortcut-or-hyp
+\usepackage[english]{babel}
+
+
+% Create title and background image
+% https://tex.stackexchange.com/questions/136900/insert-a-full-page-image
+% https://www.ctan.org/pkg/background
+\usepackage[pages=some]{background}
+\backgroundsetup{
+scale=1,
+angle=0,
+opacity=1,
+firstpage=true,
+contents={\includegraphics[width=\paperwidth,height=\paperheight]{../sourcebook/static/Solarpunk-Machine.png}}
+}
+
+\useshorthands{~}
+\defineshorthand{~-}{\hyp{}}
+%% ~- can mark this break now
+
+
+
+%... other code
+
+% \section{Hello World}
+% \label{sec:hello}
+
+
+
+% For creating example text
+% \usepackage{lipsum}
+
+\title{Fate Solarpunk 2050 - Quickstart Abenteuer "Die Weltvernichtungsmaschine"}
+\author{Thorsten Sick}
+
+\pagenumbering{arabic}
+\begin{document}
+
+%
+% Book front page
+%
+\mbox{}
+\thispagestyle{empty}
+\BgThispage
+
+
+%% Hyphenation database:
+\hyphenation{meal-worm Mc-Gyver fa-mous be-cause}
+%%%%%
+
+\chapter{Einleitung}
+
+Solarpunk ist ein utopisches Science Fiction Genre. Und \textbf{Solarpunk 2050} ist das FATE setting, in dem das utopische Ziel fast erreicht ist. Man muss nur noch die Revolution erfolgreich abschließen. Die Protagonisten - hier "Pioneers" genannt - leben in ökologischen, technologisch fortgeschrittenen und sozial progressiven Gemeinschaften. Naheb den großen Städten, in denen die Norms ihr tägliches Leben leben - gut umsorgt von ihrer KI.
+
+Dieses Quickstart zum Solarpunk 2050 setting enthält alles, um loszuspielen - bis auf die Fate Condensed Regeln, die man hier finden kann: https://fate-srd.com/fate-condensed
+
+Das Abenteuer ist Regel-leicht und man kann es recht einfach auf andere Systeme portieren. Wenn man das tut, ist es aber wichtig, Anreize zu setzen, dass alle Charaktere ihre Aspekte auch ausspielen. Denn diese sind mit dem Abenteuer verwoben.
+
+
+\input{adventure_1.tex}
+
+\end{document}
