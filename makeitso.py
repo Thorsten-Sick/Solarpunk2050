@@ -103,7 +103,8 @@ if __name__ == "__main__":
     arguments = parser.parse_args()
     arguments.func(arguments)
 
-# TODO:
+# TODO: detex und aspell. Smart aufgerufen
+# TODO aspell --lang=de_DE  -p ../../aspell/deutsch_personal.wordlist check out.txt
 
 # project lifeguard
 
