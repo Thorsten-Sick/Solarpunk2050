@@ -33,10 +33,11 @@
 
     No cookies are used in this page.
 
-    <h2>Images</h2>
-    As this project is just getting started the images are Midjourney AI generated. They will be replaced by real art with soul soon. This is the way.
+    <h2 id="art">Images, Art and Slop</h2>
 
-    If you get your Solarpunk 2050 through Drive Thru RPG you will receive an update as soon as they are ready.
+    I am happy that <a href="https://mullana.de/">Mullana</a> contributes art in her spare time.
+
+    As this project is just getting started three images on this homepage are Midjourney AI generated slop. This buys Mullana some time. They will be replaced by real art with soul soon. This is the way.
 
     <h2>Impressum</h2>
     <small>
