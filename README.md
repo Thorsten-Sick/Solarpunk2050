@@ -160,3 +160,9 @@ parameters:
 
 
 ### EPub
+
+### Vale
+
+A markup-aware linter for prose built with speed and extensibility in mind.
+
+https://github.com/errata-ai/vale
