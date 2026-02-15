@@ -69,7 +69,7 @@
     <div class="container pt-5">
     <center><img src="images/Lost_header.png" width="400" alt="Header: Lost"></center>
     If you are a survival expert, explorer of the Lemmings ruins, a fighter or a scholar of old wisdom you are following the <b>Lost</b> philosophy and <b>Bushcraft</b> is your unique skill.<p>
-    <center><img src="images/lost_repairing_generator.webp" width="500" alt="A old Lost man repairs an old generator."></center>
+    <center><a href="about.php#art"><img src="images/lost_repairing_generator.webp" width="500" alt="A old Lost man repairs an old generator."></a></center>
     Typical Lost:
     <blockquote class="randomly_generated">
       <?php echo ($lost_personalities[array_rand($lost_personalities, 1)]); ?>
@@ -84,7 +84,7 @@
     <div class="container pt-5">
     <center><img src="images/Pioneer_header.png" width="400" alt="Header: Pioneer"></center>
     If you are constantly pressing for progress, party and new experiences, you are a scientist, engineer, tinkerer or something similar - you follow the <b>Pioneer</b> philosophy and your unique skill is <b>Prototyping</b>.<p>
-    <center><img src="images/pioneer_bioscientist.webp" width="500" alt="A Pioneer in a lab coat. Working in a rooftop garden doing scientific experiments."></center>
+    <center><a href="about.php#art"><img src="images/pioneer_bioscientist.webp" width="500" alt="A Pioneer in a lab coat. Working in a rooftop garden doing scientific experiments."></a></center>
     Typical Pioneer:
     <blockquote class="randomly_generated">
       <?php echo ($pioneer_personalities[array_rand($pioneer_personalities, 1)]); ?>
@@ -99,7 +99,7 @@
     <div class="container pt-5">
     <center><img src="images/Norms_header.png" width="400" alt="Header: Norms"></center>
     As a <b>Norm</b> you live in a fully automated city with post-scarcity. Thanks to a Hive controller you are connected to the Hive and everyone else in the city. Constantly. It is like magic. And your unique skill is <b>Hive control</b>.<p>
-    <center><img src="images/norm_drone_delivery.png" width="500" alt="A modern city, a delivery drone is flying between large buildings"><p></center>
+    <center><a href="about.php#art"><img src="images/norm_drone_delivery.png" width="500" alt="A modern city, a delivery drone is flying between large buildings"></a><p></center>
     Typical Norm:
     <blockquote class="randomly_generated">
       <?php echo ($norm_personalities[array_rand($norm_personalities, 1)]); ?>
