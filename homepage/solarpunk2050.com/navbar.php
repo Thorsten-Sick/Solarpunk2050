@@ -3,7 +3,6 @@
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
     <a class="navbar-brand" href="default.php">Solarpunk 2050</a>
-    <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
 
   <li class="nav-item dropdown">
@@ -44,7 +43,6 @@
   </li>
 
 </ul>
-          </div> <!-- /navcollapse -->
     </div>
   </div>
 </nav>
