@@ -29,6 +29,7 @@
     <li><a href="https://www.ivfsf.de/rueckblick-auf-solarpunk-zukunft-aus-hoffnung-technik-und-gemeinschaft/">Me, presenting at ivfsf.de - do not skip Alex Koch ! His part is great. German</a></li>
     <li><a href="https://www.youtube.com/watch?v=rTkzcci3FZg">Me, presenting at ivfsf.de - direct youtube link as fallback. German</a></li>
     <li><a href="https://lagedernation.org/podcast/ldn447-trump-ueberrascht-mit-ukraine-prognose-was-soll-die-anerkennung-palaestinas-euer-umgang-mit-der-weltlage-neue-strategie-der-bahn-dirk-flege-allianz-pro-schiene-kimmel-is-back-wirtschaf/">Solarpunk 2050 getting a spotlight in the news podcast "Lage der Nation". From 43:12</a></li>
+    <li><a href="https://www.teilzeithelden.de/2025/10/28/solarpunk-2050-fuer-eine-bessere-welt-ersteindruck/"> Teilzeithelden, ein Ersteindruck</a></li>
     </ul>
     </div>
 
