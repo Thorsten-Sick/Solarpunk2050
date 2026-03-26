@@ -15,7 +15,13 @@
 %% \hyp{} can mark where words can break
 %% Make it simpler:
 %% https://tex.stackexchange.com/questions/488008/how-to-create-an-alternative-to-shortcut-or-hyp
-\usepackage[english]{babel}
+\usepackage[ngerman]{babel}
+
+\usepackage[utf8x]{inputenc}
+
+%% For quotes
+%% usage \enquote{Text with quotes}.
+\usepackage[german=quotes]{csquotes}
 
 
 % Create title and background image
@@ -63,7 +69,7 @@ contents={\includegraphics[width=\paperwidth,height=\paperheight]{../sourcebook/
 \input{contributors.tex}
 
 %% Hyphenation database:
-\hyphenation{meal-worm Mc-Gyver fa-mous be-cause}
+\hyphenation{meal-worm Mc-Gyver fa-mous be-cause Haupt-grün-de Mis-sio-nen Hy-per-ak-ti-ven Hy-per-krea-ti-ven}
 %%%%%
 
 \chapter{Einleitung}
