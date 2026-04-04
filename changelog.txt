@@ -1,3 +1,8 @@
+
+* Rework for religions -> needs review
+* Adding rules for pioneer feature creep  -> needs review
+* Creating German Weltvernichtungsmaschine for GRT 2026
+
 * Project lifeguard compiles: flawless
 * Sourcebook compiles: flawless
 * Pyramids compiles: flawless
