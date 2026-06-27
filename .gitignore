@@ -56,6 +56,22 @@ en/sourcebook/*.idv
 en/sourcebook/*.lg
 en/adventure_project_lifeguard/*.pdf
 en/con_adventure_2_norms/*.pdf
+en/adventure_1_lisbon_express/*.pdf
+en/adventure_pyramids/*.pdf
+en/adventure_sammlung/*.pdf
+
+de/sourcebook/*.pdf
+de/sourcebook/*.tmp
+de/sourcebook/*.xref
+de/con_adventure_1/*.pdf
+de/adventure_friedrichshafen/*.pdf
+de/adventure_sammlung_de/*.pdf
+de/sourcebook/*.4tc
+de/sourcebook/*.4ct
+de/sourcebook/*.idv
+de/sourcebook/*.lg
+de/adventure_project_lifeguard/*.pdf
+de/con_adventure_2_norms/*.pdf
 # Homepage
 homepage/solarpunk2050.com/original_default.php
 
