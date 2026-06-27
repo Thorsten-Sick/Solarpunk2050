@@ -1,6 +1,6 @@
 # Adventure
 
-Not yet in repo, by 
+Not yet in repo, by Alina Dekinger https://linide.itch.io/das-tor-zum-schwarzwald-ein-solarpunk-2050-abenteuer
 
 # Maps
 
