@@ -8,3 +8,13 @@ https://github.com/Thorsten-Sick/Solarpunk2050/issues/7
 by Laenan https://github.com/laenan8466
 License: CC0
 Files: w/ and w/o hive area + original file
+
+# Preview
+
+## Pforzheim without hive range
+
+![Pforzheim without hive](pforzheim_without_hive.png)
+
+## Pforzheim with hive range
+
+![Pforzheim with hive](pforzheim_with_hive.png)
